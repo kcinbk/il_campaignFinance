@@ -1,0 +1,33 @@
+name: requests
+
+permissions:
+  contents: write
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 6 * * *' 
+jobs:
+  daily:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out this repo with full history
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: 0 
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.10'
+    - name: Install all necessary packages
+      run: pip install os glob time pathlib requests
+    - name: Pull data at 6 am every day
+      run: jupyter nbconvert --to notebook --execute "pipeline.ipynb" --stdout
+    - name: Commit and push any changes
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git pull origin main --rebase  # Pull the latest changes
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Latest data: ${timestamp}" || exit 0
+        git push origin main
