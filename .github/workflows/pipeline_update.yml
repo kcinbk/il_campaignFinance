@@ -23,7 +23,7 @@ jobs:
     - name: Install all necessary packages
       run: pip install jupyter pandas requests
     - name: Pull data at 6 am every day
-      run: jupyter nbconvert --to notebook --execute "codes/pipeline.ipynb" --stdout
+      run: jupyter nbconvert --to notebook --execute "codes/pipeline.ipynb" --stdout --output pipeline-executed.ipynb
     - name: Commit and push any changes
       run: |-
         git config user.name "Automated"
