@@ -19,7 +19,7 @@ jobs:
       with:
         python-version: '3.10'
     - name: Install all necessary packages
-      run: pip os glob time pathlib requests
+      run: pip install os glob time pathlib requests
     - name: Pull data at 6 am every day
       run: jupyter nbconvert --to notebook --execute "pipeline.ipynb" --stdout
     - name: Commit and push any changes
