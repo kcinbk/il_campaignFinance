@@ -25,10 +25,14 @@ jobs:
     - name: Pull data at 6 am every day
       run: jupyter nbconvert --to notebook --execute "codes/pipeline.ipynb" --stdout --output pipeline-executed.ipynb
     - name: Commit and push any changes
-      run: |-
+      run: |
         git config user.name "Automated"
         git config user.email "actions@users.noreply.github.com"
-        git pull origin main --rebase  # Pull the latest changes
+    
+        git stash --include-untracked
+        git pull origin main --rebase
+        git stash pop
+    
         git add -A
         timestamp=$(date -u)
         git commit -m "Latest data: ${timestamp}" || exit 0
