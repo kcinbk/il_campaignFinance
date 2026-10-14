@@ -714,8 +714,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 36248	Alix	Christopher	301 E George Huff Dr		Urbana	IL	61801     	Chair	217/337-6744        	False
 47495	Alix	Christopher	301 E George Huff Dr		Urbana	IL	61801     	Treasurer	217/337-6744        	False
 10377	Aljinovic	Michele A	1440 North Lake Shore Drive	Apt 6-a	Chicago	IL	60610     	Treasurer	(312)943-7863       	False
-99885	Alkodah	Abdallah J.	Redaction Requested					Chair		True
 99886	Alkodah	Abdallah J.	Redaction Requested					Treasurer		True
+99885	Alkodah	Abdallah J.	Redaction Requested					Chair		True
 29836	Allaman	Audrey J	1548 Florence Ave		Galesburg	Il	61401     	Treasurer	309-342-8665        	False
 23979	Allan	Arthur	400 E. Chicago		Elgin	IL	60120     	Treasurer	708-605-0108        	False
 19743	Allan	Arthur	400 E. Chicago		Elgin	IL	60120     	Chair	708-605-0108        	False
@@ -10765,6 +10765,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 20522	Chron	Anita	5350 W. Montrose, Apt 3		Chicago	IL	60641     	Treasurer	                    	False
 91286	Chrones	Constance H.	1400 Patriot Blvd.	P.O. Box 264	Glenview	IL	60026     	Treasurer	872.216.1752        	False
 6928	Chronopolous	Bessie	423 Gayle Avenue		Dekalb	IL	60115     	Chair	                    	False
+100573	Chronopoulos	Michael F.	7726 Adams Street		Forest Park	IL	60130     	Chair	708.655.3352        	False
 100058	Chrostowski	Jennifer	1540 Winaki Trl		Algonquin	IL	60102     	Co-Treasurer	                    	False
 31177	Chrouser	Dr Kelly	1278 River Dr		Des Plaines	IL	60018     	Chair	(847) 845-5335      	False
 13835	Chrysogelos	Angelo	536 S Harvard Ave		Addison	IL	60101     	Chair	235-8190/834-4141   	False
@@ -13889,6 +13890,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 19069	Dale	Alan T	Rr 2	Box 110	Walnut	IL	61376     	Chair	815/445-6433        	False
 724	Dale	Evan	Rt. 1, Box 159		Macedonia	IL	62860     	Chair	                    	False
 26136	Dale	Karen	1346 Jackson		River Forest	IL	60305     	Co-Chair	708/366-0582        	False
+100575	Dale	Nicholas Weston	410 Hilltop Road		Champaign	IL	61822     	Chair	217.549.7905        	False
+100576	Dale	Nicholas Weston	410 Hilltop Road		Champaign	IL	61822     	Treasurer	217.549.7905        	False
 46526	Dale	Robert	c/o Dillarad & King	705 S Lyman	Oak Park	IL	60304     	Chair	312.278.3354        	False
 53904	Daleiden	Dianne	7724 West Columbia Ave		Chicago	IL	60631     	Chair	773.334.3777        	False
 83245	Daleiden	Dianne	7724 West Columbia Ave		Chicago	IL	60631     	Treasurer	773.334.3777        	False
@@ -15750,7 +15753,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 16388	Dillon	Debbie	103 W Monroe St		Anna	IL	62906     	Treasurer	                    	False
 8518	Dillon	Deborah	1064 Oakwood Court		Schaumburg	IL	60193-3708	Chair	(708)894-1584       	False
 8519	Dillon	Deborah	1064 Oakwood Court		Schaumburg	IL	60193-3708	Treasurer	(708)894-1584       	False
-21308	Dillon	James	2613 Belle Vista Ct		W Peoria	IL	61604     	Chair	309/676-5394        	False
+21308	Dillon	James	229 N. Kickapoo Terrace		Peoria	IL	61604     	Chair	309/676-5394        	False
 31819	Dillon	Kendra L	240 Washington Street		Glenview	IL	60025     	Chair	847/657-9030        	False
 31820	Dillon	Kendra L	240 Washington Street		Glenview	IL	60025     	Treasurer	847/657-9030        	False
 43234	Dillon	Mark	TCF National Bank	800 Burr Ridge Pky	Burr Ridge	IL	60527     	Chair	630.986.7048        	False
@@ -28603,7 +28606,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 32083	Hoffa	James	25 Louisiana Ave Nw		Washington	DC	20001     	Chair	202/624-6905        	False
 11964	Hoffeditz	Shirley	11780 E 810th Ave		Newton	IL	62448     	Chair	618/783-2706        	False
 29368	Hoffeditz	Shirley	11780 E 810th Ave		Newton	IL	62448     	Treasurer	618/783-2706        	False
-76898	Hoffenberg	Elyse	1030 S. Stone Ave		La Grange	IL	60525     	Chair	                    	False
+76898	Hoffenberg	Elyse	1030 S. Stone Ave		La Grange	IL	60525     	Chair	708.550.3670        	False
 15230	Hoffenberg	Helen	1684 Longvalley Dr.		Northbrook	IL	60062     	Chair	                    	False
 76899	Hoffenberg	Jeffery	1030 S. Stone Ave		La Grange	IL	60525     	Treasurer	                    	False
 2832	Hoffenkamp	Judith C.	201 N Chruch Rd		Bensenville	IL	60106     	Chair	                    	False
@@ -32180,8 +32183,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 18997	Jones	John E	17 Cour Montreal		Palos Hills	IL	60465     	Treasurer	(708)974-3413       	False
 35838	Jones	John K	4400 College Blvd, Ste 300		Overland Park	KS	66211     	Chair	913/339-4673        	False
 35839	Jones	John K	4400 College Blvd, Ste 300		Overland Park	KS	66211     	Treasurer	913/339-4673        	False
-53061	Jones	John O	1422 SW 16th Terrace		Cape Coral	FL	33991-3278	Treasurer	618.231.3560        	False
-12170	Jones	John O	1422 SW 16th Terrace		Cape Coral	FL	33991-3278	Chair	618.231.3560        	False
+12170	Jones	John O	29806 Morningmist Drive		Wesley Chapel	FL	33543-6746	Chair	618.231.3560        	False
+53061	Jones	John O	29806 Morningmist Drive		Wesley Chapel	FL	33543-6746	Treasurer	618.231.3560        	False
 28431	Jones	John S	2210 Lamb Rd		Woodstock	IL	60098     	Treasurer	815/338-8176        	False
 28430	Jones	John S	2210 Lamb Rd		Woodstock	IL	60098     	Chair	815/338-8176        	False
 27601	Jones	Jolene	5479 Lindale Dr		Decatur	IL	62522     	Treasurer	963-2380            	False
@@ -34632,6 +34635,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 45052	Kline	Scott	PO Box 503		West Dundee	IL	60118     	Chair	                    	False
 22091	Kline	Toni	5527 S 36th		Quincy	IL	62301     	Chair	                    	False
 9836	Kline	Toni	R.R. 9, Box 380n		Quincy	IL	62301     	Treasurer	217/223-6300, X370  	False
+100571	Kling	Rebecca	1420 W. Carmen Ave., Apt. 2		Chicago	IL	60640     	Chair	                    	False
 61923	Kling	Richard	565 W Adams, Ste 600		Chicago	IL	60661     	Chair	                    	False
 67853	Kling	Steve	10N916 Highland Trail		Hampshire	IL	60140     	Chair	847-698-8256        	False
 43506	Kling	Steve	10N916 Highland Tr		Hampshire	IL	60140     	Treasurer	847-698-8256        	False
@@ -35204,8 +35208,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 50012	Koritz	Karle	PO Box 651		Clinton	IL	61727     	Chair	                    	False
 50013	Koritz	Karle	PO Box 651		Clinton	IL	61727     	Treasurer	                    	False
 24327	Korman	Janet	5N121 Pine Ct		West Chicago	IL	60185     	Chair	630/837-3615        	False
-84873	Korman	Michael J.	2506 W. Lake Ave.		Glenview	IL	60026     	Chair	847.800.4782        	False
-84874	Korman	Michael J.	2506 W. Lake Ave.		Glenview	IL	60026     	Treasurer	847.800.4782        	False
+84873	Korman	Michael J.	2720 Dundee Rd, PMB 140		Northbrook	IL	60062     	Chair	847.800.4782        	False
+84874	Korman	Michael J.	2720 Dundee Rd, PMB 140		Northbrook	IL	60062     	Treasurer	847.800.4782        	False
 21779	Korn	John	301 N William		Mt Prospect	IL	60056     	Chair	847/392-0282        	False
 40869	Korn	Linda	301 N William		Mt. Prospect	IL	60056     	Treasurer	847-392-0283        	False
 61992	Korobey	Joyce	5 Rolling Ridge Rd		Millstadt	IL	62260     	Chair	618.593.5312        	False
@@ -36579,6 +36583,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 48625	Langhoff	Steven C	475 Greenbrier Ln		Forsyth	IL	62535     	Treasurer	217.622.9218        	False
 80013	Langhorst	Duane	2252 Kaskaskia Rd.		Fults	IL	62244     	Chair	618.458.7787        	False
 82429	Langhorst	Duane	2252 Kaskaskia Rd.		Fults	IL	62244     	Treasurer	618.458.7787        	False
+100569	Langlais	Tracy Griffin	1624 N. Dale		Arlington Heights	IL	60004     	Chair	                    	False
+100570	Langlais	Tracy Griffin	1624 N. Dale		Arlington Heights	IL	60004     	Treasurer	                    	False
 18655	Langley	Jerry	18 W Noyes		Arlington Heights	IL	60005     	Treasurer	(708)364-1961       	False
 22640	Langley	Joan	Rr 3 Box 854		Vandalia	IL	62471     	Treasurer	618/283-0193        	False
 18654	Langley	Joann	18 W Noyes		Arlington Heights	IL	60005     	Chair	(708)364-1961       	False
@@ -42557,6 +42563,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 14815	McKay	Steven	823 College Ave.		Winthrop Harbor	IL	60096     	Chair		False
 21734	McKechan	Linda	89 Shirlwin Dr		Granite City	IL	62040     	Treasurer	618/797-0313        	False
 44672	McKee	Awri	PO Box 1825		Matteson	IL	60443     	Chair	312-209-2974        	False
+100568	McKee	Chris	3813 N. Queen Anne Rd		Woodstock	IL	60098     	Chair	                    	False
 17483	McKee	J Brenton	3742 N Rt 1 & 17		Momence	IL	60954     	Treasurer		False
 34704	McKee	James	4939 S Saint Lawrence		Chicago	IL	60615-2411	Chair	(773) 624-6211      	False
 36594	McKee	Lori	RR 1		Versailles	IL	62378     	Secretary		False
@@ -61294,6 +61301,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 19783	Smith	Edward M.	RR 1 Box 205		Cache	IL	62914     	Treasurer	618-776-5892        	False
 76388	Smith	Elmer	Redaction Requested					Chair		True
 97883	Smith	Emily	235 S. Main St.		Roseville	IL	61473     	Chair	309.509.3192        	False
+100572	Smith	Eric.	5009 N. Sheridan Rd/. #903		Chicago	IL	60640     	Treasurer	740.297.0088        	False
 50209	Smith	Erik	1840 N Bissell St	Apt 2	Chicago	IL	60614     	Treasurer	740.297.0088        	False
 27524	Smith	Ernest R	303 S Grant St		Litchfield	IL	62056     	Chair	217/324-6436        	False
 32698	Smith	Ervin	1627 Winnetka Ave		Decatur	IL	62526     	Treasurer	217/877-6904        	False
@@ -68270,7 +68278,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 20003	Volini	Michael	1417 W. Norwood		Chicago	IL	60660     	Chair	(773)761-6139       	False
 53505	Volker	Justin	7764 White Oak Rd		Clinton	IL	61727     	Treasurer	217.433.9272        	False
 39609	Volker	Richard H	304 Elm Pl		Princeton	IL	61356     	Treasurer	815-875-1330        	False
-69574	Volkers	Dan	1102 McConnell Rd.	PO Box 1530	Woodstock	IL	60098     	Treasurer	815.338.1520        	False
+69574	Volkers	Dan	20502 Delks Dr		Marengo	IL	60152     	Treasurer	815.338.1520        	False
 92081	Volkert	Penny	751 Clancy Dr.		Dalzell	IL	61320     	Chair	815.503.3117        	False
 5410	Volkert	Samuel J.	118 Douglas		Rock City	IL	61070     	Chair	                    	False
 16493	Volkert	Samuel J.	118 Douglas		Rock City	IL	61070     	Treasurer	                    	False
@@ -73222,6 +73230,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 69573	Ziller	Dan	12904 Ernesti Rd		Huntley	IL	60142     	Chair	815.790.1264        	False
 85663	Zilm	Brian	327 S East St		Carlinville	IL	62626     	Chair	217.825.7042        	False
 83226	Zima	Paul	8124 Valley View Dr		Tinley Park	IL	60477     	Treasurer	                    	False
+100574	Zima-Wojnicki	Patrycja E	1227 E. Washington St.		Des Plaines	IL	60016     	Treasurer	847.208.6212        	False
 18661	Zimanek	James	4375 Huntington Blvd.		Hoffman Estates	IL	          	Treasurer	                    	False
 89195	Zimberoff	Jordan	PO Box 630		Geneva	IL	60134     	Chair	                    	False
 33866	Zimich	Craig	1416 N 32nd Ave		Melrose Park	IL	60160     	Treasurer	(708) 338-3814      	False
