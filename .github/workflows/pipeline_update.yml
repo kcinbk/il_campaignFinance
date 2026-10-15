@@ -7,7 +7,7 @@ permissions:
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 11 * * *'
+    - cron: '14 6 * * *'
 jobs:
   daily:
     runs-on: ubuntu-latest
