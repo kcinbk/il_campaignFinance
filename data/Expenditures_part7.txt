@@ -392706,8 +392706,8 @@
 4330364	37387	880976	0	Scale to Win		2023-03-02 00:00:00	2404.2	3481.08	13742 Harper St		Santa Ana	CA	92703     	8B	Text			False	False	False		False
 4330365	37387	880976	0	Boulevard		2023-03-02 00:00:00	366.91	366.91	2645 W North Ave		Chicago	IL	60647     	8B	Food			False	False	False		False
 4330366	37387	880976	0	Cebollero	Sonia	2023-03-10 00:00:00	1490	1490	5740 n Major Ave		Chicago	IL	60646     	8B	Field Work			False	False	False		False
-4330367	6828	880977	0	Citizens for Amy Elik		2022-05-09 00:00:00	250	250	PO Box 205		Alton	IL	62002     	6B	Contribution			False	False	False		False
-4330368	6828	880977	0	Democrats for the Illinois House		2022-04-26 00:00:00	500	500	10055 W. Roosevelt Rd.	Suite A	Westchester	IL	60154     	8B	Donation			False	False	False		False
+4330367	6828	880977	0	Citizens for Amy Elik		2022-05-09 00:00:00	250	250	PO Box 205		Alton	IL	62002     	6B	Contribution			False	False	True		False
+4330368	6828	880977	0	Democrats for the Illinois House		2022-04-26 00:00:00	500	500	10055 W. Roosevelt Rd.	Suite A	Westchester	IL	60154     	8B	Donation			False	False	True		False
 4330369	38733	880978	0	Futura		2023-02-24 00:00:00	432.44	432.44	PO Box 2223		Danville	IL	61834     	8B	Campaign supplies - Nail Files			False	False	False		False
 4330370	38733	880978	0	Rossi Studios		2023-01-26 00:00:00	500	500	1629 Oak St.		Danville	IL	61832     	8B	Photography			False	False	False		False
 4330371	38733	880978	0	Vermilion County Conservation Foundation		2023-01-23 00:00:00	275	275	20301 900 North Rd		Westville	IL	61883     	8B	Sponsorship			False	False	False		False
@@ -395642,13 +395642,13 @@
 4333300	295	881887	0	Worldpay		2023-02-09 00:00:00	101.83	153.71				  	          	8B	Bank charges			False	False	False		False
 4333301	34045	881898	0	Colchester Fire Department		2023-02-18 00:00:00	200	200	210 Market St.		Colchester	IL	62326     	8B	Donation			False	False	False		False
 4333302	34045	881898	0	West Prairie FFA		2023-03-17 00:00:00	250	250	18575 E 800th St,		Sciota	IL	61475     	8B	Donation			False	False	False		False
-4333303	6828	881900	0	Citizens for Hammond		2022-07-01 00:00:00	1000	1000	331 N. Lafayette Street	PO Box 170	Macomb	IL	61455     	8B	Donation			False	False	False		False
-4333306	6828	881900	0	Friends of Robyn Gabel		2022-08-16 00:00:00	1000	1000	PO Box 6453		Evanston	IL	60204-6453	8B	Ticket purchase			False	False	False		False
-4333307	6828	881900	0	Elect Dan McConchie		2022-09-26 00:00:00	1000	1000	PO Box 243		Lake Zurich	IL	60047     	8B	Ticket Purchase			False	False	False		False
-4333308	6828	881900	0	Friends of Don Harmon for State Senate		2022-09-30 00:00:00	1000	1000	6941 A  W. North Avenue		Oak Park	IL	60302     	8B	Ticket Purchase			False	False	False		False
-4333309	6828	881900	0	Senate Democratic Caucus		2022-08-16 00:00:00	500	500	PO Box 5537		Springfield	IL	62705-5537	8B	Ticket purchase			False	False	False		False
-4333305	6828	881900	0	The People for Emanuel "Chris" Welch		2022-09-21 00:00:00	500	500	Redaction Requested					8B	Ticket Purchase			False	False	False		True
-4333304	6828	881900	0	Friends for Feigenholtz		2022-09-01 00:00:00	300	300	Redaction Requested					8B	Donation			False	False	False	USA	True
+4333303	6828	881900	0	Citizens for Hammond		2022-07-01 00:00:00	1000	1000	331 N. Lafayette Street	PO Box 170	Macomb	IL	61455     	8B	Donation			False	False	True		False
+4333306	6828	881900	0	Friends of Robyn Gabel		2022-08-16 00:00:00	1000	1000	PO Box 6453		Evanston	IL	60204-6453	8B	Ticket purchase			False	False	True		False
+4333307	6828	881900	0	Elect Dan McConchie		2022-09-26 00:00:00	1000	1000	PO Box 243		Lake Zurich	IL	60047     	8B	Ticket Purchase			False	False	True		False
+4333308	6828	881900	0	Friends of Don Harmon for State Senate		2022-09-30 00:00:00	1000	1000	6941 A  W. North Avenue		Oak Park	IL	60302     	8B	Ticket Purchase			False	False	True		False
+4333309	6828	881900	0	Senate Democratic Caucus		2022-08-16 00:00:00	500	500	PO Box 5537		Springfield	IL	62705-5537	8B	Ticket purchase			False	False	True		False
+4333305	6828	881900	0	The People for Emanuel "Chris" Welch		2022-09-21 00:00:00	500	500	Redaction Requested					8B	Ticket Purchase			False	False	True		True
+4333304	6828	881900	0	Friends for Feigenholtz		2022-09-01 00:00:00	300	300	Redaction Requested					8B	Donation			False	False	True	USA	True
 4333310	12235	881903	0	Chicago Bears		2023-03-21 00:00:00	6114	6114	P.O. Box 776179		Chicago	IL	60677     	8B	Tickets			False	False	False		False
 4333311	12235	881903	0	Kevron Printing		2023-02-09 00:00:00	1257.68	1257.68	9831 78th Street	Suite F	Hickory Hills	IL	60457     	8B	Printing			False	False	False		False
 4333312	39144	881904	0	Michael Jaquez Creative Casa LLC		2023-02-19 00:00:00	1300	1300	2014 Farmington Lakes Dr		Oswego	IL	60542     	8B	Video			False	False	False		False
@@ -396742,14 +396742,14 @@
 4334400	19846	882123	0	United for Student Excellence		2023-03-29 00:00:00	750	750	12916 Wild Prairie Close		Belvidere	IL	61008     	6B	Contribution			False	False	False		False
 4334401	19846	882123	0	Elect Dennis H. Considine Mayor		2023-03-29 00:00:00	750	750	1311 Eustace Dr.		Dixon	IL	61021     	6B	Contribution			False	False	False		False
 4334402	19846	882123	0	Citizens for Kimberly Haley		2023-03-29 00:00:00	200	200	5834 Hillsbrough Rd.		Rockford	IL	61109     	6B	Contribution			False	False	False		False
-4334403	6828	882125	0	Friends of Kelly M Burke		2022-12-13 00:00:00	250	250	9543 S Central Park Ave		Evergreen Park	IL	60805     	8B	Donation			False	False	False		False
-4334404	6828	882125	0	Friends of Ryan Spain		2022-12-13 00:00:00	250	250	PO Box 1575		Peoria	IL	61655-1575	8B	Donation			False	False	False		False
-4334405	6828	882125	0	Friends for Jennifer		2022-11-22 00:00:00	1000	1000	PO Box 3042		Glenview	IL	60025-6000	8B	Donation			False	False	False		False
-4334407	6828	882125	0	McCombie for Illinois		2022-12-13 00:00:00	1000	1000	PO Box 71		Savanna	IL	61074     	8B	Donation			False	False	False		False
-4334408	6828	882125	0	Friends of Lakesia Collins		2022-12-13 00:00:00	250	250	1501 N Clybourn	Unit D	Chicago	IL	60610-1041	8B	Donation			False	False	False		False
-4334409	6828	882125	0	Ram Villavalam for Senate		2022-12-13 00:00:00	500	500	PO Box 598085		Chicago	IL	60659-1717	8B	Donation			False	False	False		False
-4334410	6828	882125	0	Friends to Elect Terra Costa Howard		2022-12-13 00:00:00	250	250	PO Box 3085		Glen Ellyn	IL	60138-3085	8B	Donation			False	False	False		False
-4334406	6828	882125	0	Friends of John Curran		2022-12-13 00:00:00	1000	1000	Redaction Requested					8B	Donation			False	False	False		True
+4334403	6828	882125	0	Friends of Kelly M Burke		2022-12-13 00:00:00	250	250	9543 S Central Park Ave		Evergreen Park	IL	60805     	8B	Donation			False	False	True		False
+4334404	6828	882125	0	Friends of Ryan Spain		2022-12-13 00:00:00	250	250	PO Box 1575		Peoria	IL	61655-1575	8B	Donation			False	False	True		False
+4334405	6828	882125	0	Friends for Jennifer		2022-11-22 00:00:00	1000	1000	PO Box 3042		Glenview	IL	60025-6000	8B	Donation			False	False	True		False
+4334407	6828	882125	0	McCombie for Illinois		2022-12-13 00:00:00	1000	1000	PO Box 71		Savanna	IL	61074     	8B	Donation			False	False	True		False
+4334408	6828	882125	0	Friends of Lakesia Collins		2022-12-13 00:00:00	250	250	1501 N Clybourn	Unit D	Chicago	IL	60610-1041	8B	Donation			False	False	True		False
+4334409	6828	882125	0	Ram Villavalam for Senate		2022-12-13 00:00:00	500	500	PO Box 598085		Chicago	IL	60659-1717	8B	Donation			False	False	True		False
+4334410	6828	882125	0	Friends to Elect Terra Costa Howard		2022-12-13 00:00:00	250	250	PO Box 3085		Glen Ellyn	IL	60138-3085	8B	Donation			False	False	True		False
+4334406	6828	882125	0	Friends of John Curran		2022-12-13 00:00:00	1000	1000	Redaction Requested					8B	Donation			False	False	True		True
 4334411	37026	882126	0	Harris for JJC Trustee		2023-02-27 00:00:00	80	280	424 Buell Avenue		Joliet	IL	60435     	6B	Contribution			False	False	False		False
 4334412	37026	882126	0	Harris for JJC Trustee		2023-02-20 00:00:00	200	280	424 Buell Avenue		Joliet	IL	60435     	6B	Contribution			False	False	False		False
 4334413	1215	882129	0	Illinois Secretary of State		2023-01-18 00:00:00	300.5	300.5	111 E. Monroe St.		Springfield	IL	62756     	8B	Lobbyist Registration			False	False	False		False
@@ -399585,8 +399585,8 @@
 4337243	23247	882621	0	Democratic Party of Wisconsin Segregated Fund		2023-02-09 00:00:00	12000	12000	PO Box 1686		Madison	WI	53701     	8B	Contribution			False	False	False		False
 4337244	23247	882621	0	Friends of Chuy Garcia		2023-02-17 00:00:00	600000	600000	PO Box 32201		Chicago	IL	60632     	8B	Contribution			False	False	False		False
 4337245	23247	882621	0	A Better Wisconsin Together PAC		2023-03-10 00:00:00	300000	300000	6516 Monona Drive	Box 244	Monona	WI	53716     	8B	Contribution			False	False	False		False
-4337247	6828	882622	0	Friends for LaPointe		2023-03-05 00:00:00	1000	1000	PO Box 30161		Chicago	IL	60630     	8B	Donation			False	False	False		False
-4337246	6828	882622	0	Friends of John Curran		2023-03-17 00:00:00	1000	1000	Redaction Requested					8B	Donation			False	False	False		True
+4337247	6828	882622	0	Friends for LaPointe		2023-03-05 00:00:00	1000	1000	PO Box 30161		Chicago	IL	60630     	8B	Donation			False	False	True		False
+4337246	6828	882622	0	Friends of John Curran		2023-03-17 00:00:00	1000	1000	Redaction Requested					8B	Donation			False	False	True		True
 4337248	25466	882626	0	Strategic Partners for Good, LLC		2023-03-11 00:00:00	2600	2600	2639A S Michigan		Chicago	IL	60616     	8B	Consulting			False	False	False		False
 4337249	25466	882626	0	Paperless Post		2023-01-04 00:00:00	805	805	115 Broadway	18th Floor	New York	IL	10006     	8B	Holiday cards			False	False	False		False
 4337250	25466	882626	0	Chicago (IL) Chapter of the Links, IncPO		2023-02-04 00:00:00	500	500	PO Box 6334		Chicago	IL	60680     	8B	Ad book			False	False	False		False
@@ -451486,17 +451486,17 @@
 4389180	16797	890253	0	Friends of Win Stoller		2023-06-14 00:00:00	500	500	8415 N. Allen Road		Peoria	IL	61615     	6B	Contribution			False	False	False		False
 4389181	36795	890254	0	KNI Communications		2023-06-28 00:00:00	5000	5000	4802 N Broadway	Suite 200	Chicago	IL	60640     	8B	Campaign Work			False	False	False		False
 4389182	1530	890255	0	Illinois Board of Elections		2023-06-06 00:00:00	1500.5	1500.5	2329 S MacArthur Blvd		Springfield	IL	62704     	6B	Fine			False	False	False		False
-4389183	6828	890256	0	Citizens for Hammond		2023-06-13 00:00:00	250	250	331 N. Lafayette Street	PO Box 170	Macomb	IL	61455     	8B	Donation			False	False	False		False
-4389185	6828	890256	0	Friends of Ryan Spain		2023-06-13 00:00:00	100	200	PO Box 1575		Peoria	IL	61655-1575	8B	Donation			False	False	False		False
-4389186	6828	890256	0	Friends of Ryan Spain		2023-04-14 00:00:00	100	200	PO Box 1575		Peoria	IL	61655-1575	8B	Donation			False	False	False		False
-4389187	6828	890256	0	Friends of Don Harmon		2023-05-30 00:00:00	1000	1000	6939 W. North Ave		Oak Park	IL	60302-1024	8B	Donation			False	False	False		False
-4389188	6828	890256	0	Committee for Dee		2023-05-01 00:00:00	1000	1250	PO Box 1571		Bolingbrook	IL	60440     	8B	Donation			False	False	False		False
-4389189	6828	890256	0	Committee for Dee		2023-06-13 00:00:00	250	1250	PO Box 1571		Bolingbrook	IL	60440     	8B	Donation			False	False	False		False
-4389190	6828	890256	0	Friends of Thomas Bennett		2023-05-01 00:00:00	1000	1000	PO Box 505		Gibson City	IL	60936-0505	8B	Donation			False	False	False		False
-4389191	6828	890256	0	Citizens for Karina Villa		2023-05-01 00:00:00	1000	1250	PO Box 568		West Chicago	IL	60186     	8B	Donation			False	False	False		False
-4389192	6828	890256	0	Citizens for Karina Villa		2023-06-13 00:00:00	250	1250	PO Box 568		West Chicago	IL	60186     	8B	Donation			False	False	False		False
-4389193	6828	890256	0	Friends of LaPointe		2023-06-13 00:00:00	250	250	PO Box 30161		Chicago	IL	60630-0105	8B	Donation			False	False	False		False
-4389184	6828	890256	0	The People for Emanuel "Chris" Welch		2023-05-02 00:00:00	400	400	Redaction Requested					8B	Donation			False	False	False		True
+4389183	6828	890256	0	Citizens for Hammond		2023-06-13 00:00:00	250	250	331 N. Lafayette Street	PO Box 170	Macomb	IL	61455     	8B	Donation			False	False	True		False
+4389185	6828	890256	0	Friends of Ryan Spain		2023-06-13 00:00:00	100	200	PO Box 1575		Peoria	IL	61655-1575	8B	Donation			False	False	True		False
+4389186	6828	890256	0	Friends of Ryan Spain		2023-04-14 00:00:00	100	200	PO Box 1575		Peoria	IL	61655-1575	8B	Donation			False	False	True		False
+4389187	6828	890256	0	Friends of Don Harmon		2023-05-30 00:00:00	1000	1000	6939 W. North Ave		Oak Park	IL	60302-1024	8B	Donation			False	False	True		False
+4389188	6828	890256	0	Committee for Dee		2023-05-01 00:00:00	1000	1250	PO Box 1571		Bolingbrook	IL	60440     	8B	Donation			False	False	True		False
+4389189	6828	890256	0	Committee for Dee		2023-06-13 00:00:00	250	1250	PO Box 1571		Bolingbrook	IL	60440     	8B	Donation			False	False	True		False
+4389190	6828	890256	0	Friends of Thomas Bennett		2023-05-01 00:00:00	1000	1000	PO Box 505		Gibson City	IL	60936-0505	8B	Donation			False	False	True		False
+4389191	6828	890256	0	Citizens for Karina Villa		2023-05-01 00:00:00	1000	1250	PO Box 568		West Chicago	IL	60186     	8B	Donation			False	False	True		False
+4389192	6828	890256	0	Citizens for Karina Villa		2023-06-13 00:00:00	250	1250	PO Box 568		West Chicago	IL	60186     	8B	Donation			False	False	True		False
+4389193	6828	890256	0	Friends of LaPointe		2023-06-13 00:00:00	250	250	PO Box 30161		Chicago	IL	60630-0105	8B	Donation			False	False	True		False
+4389184	6828	890256	0	The People for Emanuel "Chris" Welch		2023-05-02 00:00:00	400	400	Redaction Requested					8B	Donation			False	False	True		True
 4389194	35984	890260	0	USPS		2023-05-26 00:00:00	176	176	1511 East Empire Street		Bloomington	IL	61701     	8B	Post office box			False	False	False		False
 4389195	5251	890262	0	Edwards County Sports Boosters		2023-06-23 00:00:00	225	225	361 West Main		Albion	IL	62806     	8B	Ad book			False	False	False		False
 4389196	39417	890265	0	Landmarx		2023-05-10 00:00:00	230.33	1266.95	3902 Payson Road		Quincy	IL	62305     	8B	Promotional items			False	False	False		False
@@ -510711,58 +510711,58 @@
 4448405	23575	900648	0	Rotramel	April	2023-08-31 00:00:00	200	200	1053 E 1000 N Rd.		Melvin	IL	60952     	8B	Cammpaign Work			False	False	False		False
 4448406	23575	900648	0	Fairchild	Gabe	2023-08-31 00:00:00	200	200	428 W 8th Street		Gibson City	IL	60936     	8B	Campaign Work			False	False	False		False
 4448407	37169	900652	0	Meyers for McHenry County		2023-09-01 00:00:00	437.58	437.58	8312 Hillside Rd		Crystal Lake	IL	60012     	6B	Contribution			False	False	True		False
-4448408	6828	900653	0	Friends of Robyn Gabel		2023-08-01 00:00:00	1000	1000	PO Box 6453		Evanston	IL	60204-6453	8B	Donation			False	False	False		False
-4448409	6828	900653	0	Friends for Jennifer		2023-08-01 00:00:00	1250	1250	PO Box 3042		Glenview	IL	60025-6000	8B	Donation			False	False	False		False
-4448411	6828	900653	0	McCombie for Illinois		2023-09-26 00:00:00	1000	1000	PO Box 71		Savanna	IL	61074     	8B	Donation			False	False	False		False
-4448412	6828	900653	0	Friends of Lakesia Collins		2023-08-15 00:00:00	250	250	1501 N Clybourn	Unit D	Chicago	IL	60610-1041	8B	Donation			False	False	False		False
-4448413	6828	900653	0	Friends of Don Harmon		2023-08-01 00:00:00	500	500	6939 W. North Ave		Oak Park	IL	60302-1024	8B	Donation			False	False	False		False
-4448414	6828	900653	0	Friends of Bill Cunningham		2023-08-01 00:00:00	300	1300	10402 S Western Ave		Chicago	IL	60643     	8B	Donation			False	False	False		False
-4448415	6828	900653	0	Friends of Bill Cunningham		2023-09-26 00:00:00	1000	1300	10402 S Western Ave		Chicago	IL	60643     	8B	Donation			False	False	False		False
-4448416	6828	900653	0	Friends of Elgie Sims		2023-07-25 00:00:00	1000	1000	8142A S Prairie Park Place		Chicago	IL	60619-4800	8B	Donation			False	False	False		False
-4448417	6828	900653	0	PayPal		2023-07-02 00:00:00	3.38	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	False		False
-4448418	6828	900653	0	PayPal		2023-07-12 00:00:00	1.69	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	False		False
-4448419	6828	900653	0	PayPal		2023-07-13 00:00:00	1.94	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	False		False
-4448420	6828	900653	0	PayPal		2023-07-16 00:00:00	1.94	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	False		False
-4448421	6828	900653	0	PayPal		2023-07-18 00:00:00	3.38	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	False		False
-4448422	6828	900653	0	PayPal		2023-07-19 00:00:00	2.22	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	False		False
-4448423	6828	900653	0	PayPal		2023-07-26 00:00:00	15.38	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	False		False
-4448424	6828	900653	0	PayPal		2023-07-26 00:00:00	15.38	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	False		False
-4448425	6828	900653	0	PayPal		2023-07-28 00:00:00	4.83	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	False		False
-4448426	6828	900653	0	PayPal		2023-07-28 00:00:00	4.83	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	False		False
-4448427	6828	900653	0	PayPal		2023-07-28 00:00:00	14.94	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	False		False
-4448428	6828	900653	0	PayPal		2023-08-02 00:00:00	3.38	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	False		False
-4448429	6828	900653	0	PayPal		2023-08-02 00:00:00	4.83	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	False		False
-4448430	6828	900653	0	PayPal		2023-08-03 00:00:00	2.99	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	False		False
-4448431	6828	900653	0	PayPal		2023-08-04 00:00:00	4.83	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	False		False
-4448432	6828	900653	0	PayPal		2023-08-13 00:00:00	1.94	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	False		False
-4448433	6828	900653	0	PayPal		2023-08-16 00:00:00	1.94	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	False		False
-4448434	6828	900653	0	PayPal		2023-08-16 00:00:00	4.97	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	False		False
-4448435	6828	900653	0	PayPal		2023-08-17 00:00:00	4.83	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	False		False
-4448436	6828	900653	0	PayPal		2023-08-19 00:00:00	2.22	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	False		False
-4448437	6828	900653	0	PayPal		2023-08-20 00:00:00	4.97	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	False		False
-4448438	6828	900653	0	PayPal		2023-08-22 00:00:00	15.38	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	False		False
-4448439	6828	900653	0	PayPal		2023-08-22 00:00:00	9.16	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	False		False
-4448440	6828	900653	0	PayPal		2023-09-01 00:00:00	4.1	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	False		False
-4448441	6828	900653	0	PayPal		2023-09-02 00:00:00	3.38	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	False		False
-4448442	6828	900653	0	PayPal		2023-09-07 00:00:00	1.69	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	False		False
-4448443	6828	900653	0	PayPal		2023-09-07 00:00:00	4.97	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	False		False
-4448444	6828	900653	0	PayPal		2023-09-08 00:00:00	2.99	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	False		False
-4448445	6828	900653	0	PayPal		2023-09-08 00:00:00	4.97	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	False		False
-4448446	6828	900653	0	PayPal		2023-09-08 00:00:00	4.97	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	False		False
-4448447	6828	900653	0	PayPal		2023-09-09 00:00:00	4.83	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	False		False
-4448448	6828	900653	0	PayPal		2023-09-11 00:00:00	1.21	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	False		False
-4448449	6828	900653	0	PayPal		2023-09-11 00:00:00	1.79	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	False		False
-4448450	6828	900653	0	PayPal		2023-09-12 00:00:00	14.94	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	False		False
-4448451	6828	900653	0	PayPal		2023-09-13 00:00:00	1.94	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	False		False
-4448452	6828	900653	0	PayPal		2023-09-16 00:00:00	1.94	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	False		False
-4448453	6828	900653	0	PayPal		2023-09-19 00:00:00	2.22	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	False		False
-4448454	6828	900653	0	PayPal		2023-07-31 00:00:00	4.1	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	False		False
-4448455	6828	900653	0	PayPal		2023-08-07 00:00:00	1.69	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	False		False
-4448456	6828	900653	0	Friends of Michelle Mussman		2023-08-29 00:00:00	1000	1000	217 Tudor Ln		Schaumburg	IL	60193     	8B	Donation			False	False	False		False
-4448457	6828	900653	0	Intuit Inc		2023-07-31 00:00:00	170	340	2800 E. Commerce Center Place		Tucson	AZ	85706     	8B	Accounting fees			False	False	False		False
-4448458	6828	900653	0	Intuit Inc		2023-08-31 00:00:00	85	340	2800 E. Commerce Center Place		Tucson	AZ	85706     	8B	Accounting fees			False	False	False		False
-4448459	6828	900653	0	Intuit Inc		2023-09-18 00:00:00	85	340	2800 E. Commerce Center Place		Tucson	AZ	85706     	8B	Accounting fees			False	False	False		False
-4448410	6828	900653	0	Friends of John Curran		2023-09-26 00:00:00	1000	1000	Redaction Requested					8B	Donation			False	False	False		True
+4448408	6828	900653	0	Friends of Robyn Gabel		2023-08-01 00:00:00	1000	1000	PO Box 6453		Evanston	IL	60204-6453	8B	Donation			False	False	True		False
+4448409	6828	900653	0	Friends for Jennifer		2023-08-01 00:00:00	1250	1250	PO Box 3042		Glenview	IL	60025-6000	8B	Donation			False	False	True		False
+4448411	6828	900653	0	McCombie for Illinois		2023-09-26 00:00:00	1000	1000	PO Box 71		Savanna	IL	61074     	8B	Donation			False	False	True		False
+4448412	6828	900653	0	Friends of Lakesia Collins		2023-08-15 00:00:00	250	250	1501 N Clybourn	Unit D	Chicago	IL	60610-1041	8B	Donation			False	False	True		False
+4448413	6828	900653	0	Friends of Don Harmon		2023-08-01 00:00:00	500	500	6939 W. North Ave		Oak Park	IL	60302-1024	8B	Donation			False	False	True		False
+4448414	6828	900653	0	Friends of Bill Cunningham		2023-08-01 00:00:00	300	1300	10402 S Western Ave		Chicago	IL	60643     	8B	Donation			False	False	True		False
+4448415	6828	900653	0	Friends of Bill Cunningham		2023-09-26 00:00:00	1000	1300	10402 S Western Ave		Chicago	IL	60643     	8B	Donation			False	False	True		False
+4448416	6828	900653	0	Friends of Elgie Sims		2023-07-25 00:00:00	1000	1000	8142A S Prairie Park Place		Chicago	IL	60619-4800	8B	Donation			False	False	True		False
+4448417	6828	900653	0	PayPal		2023-07-02 00:00:00	3.38	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	True		False
+4448418	6828	900653	0	PayPal		2023-07-12 00:00:00	1.69	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	True		False
+4448419	6828	900653	0	PayPal		2023-07-13 00:00:00	1.94	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	True		False
+4448420	6828	900653	0	PayPal		2023-07-16 00:00:00	1.94	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	True		False
+4448421	6828	900653	0	PayPal		2023-07-18 00:00:00	3.38	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	True		False
+4448422	6828	900653	0	PayPal		2023-07-19 00:00:00	2.22	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	True		False
+4448423	6828	900653	0	PayPal		2023-07-26 00:00:00	15.38	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	True		False
+4448424	6828	900653	0	PayPal		2023-07-26 00:00:00	15.38	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	True		False
+4448425	6828	900653	0	PayPal		2023-07-28 00:00:00	4.83	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	True		False
+4448426	6828	900653	0	PayPal		2023-07-28 00:00:00	4.83	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	True		False
+4448427	6828	900653	0	PayPal		2023-07-28 00:00:00	14.94	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	True		False
+4448428	6828	900653	0	PayPal		2023-08-02 00:00:00	3.38	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	True		False
+4448429	6828	900653	0	PayPal		2023-08-02 00:00:00	4.83	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	True		False
+4448430	6828	900653	0	PayPal		2023-08-03 00:00:00	2.99	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	True		False
+4448431	6828	900653	0	PayPal		2023-08-04 00:00:00	4.83	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	True		False
+4448432	6828	900653	0	PayPal		2023-08-13 00:00:00	1.94	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	True		False
+4448433	6828	900653	0	PayPal		2023-08-16 00:00:00	1.94	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	True		False
+4448434	6828	900653	0	PayPal		2023-08-16 00:00:00	4.97	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	True		False
+4448435	6828	900653	0	PayPal		2023-08-17 00:00:00	4.83	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	True		False
+4448436	6828	900653	0	PayPal		2023-08-19 00:00:00	2.22	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	True		False
+4448437	6828	900653	0	PayPal		2023-08-20 00:00:00	4.97	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	True		False
+4448438	6828	900653	0	PayPal		2023-08-22 00:00:00	15.38	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	True		False
+4448439	6828	900653	0	PayPal		2023-08-22 00:00:00	9.16	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	True		False
+4448440	6828	900653	0	PayPal		2023-09-01 00:00:00	4.1	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	True		False
+4448441	6828	900653	0	PayPal		2023-09-02 00:00:00	3.38	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	True		False
+4448442	6828	900653	0	PayPal		2023-09-07 00:00:00	1.69	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	True		False
+4448443	6828	900653	0	PayPal		2023-09-07 00:00:00	4.97	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	True		False
+4448444	6828	900653	0	PayPal		2023-09-08 00:00:00	2.99	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	True		False
+4448445	6828	900653	0	PayPal		2023-09-08 00:00:00	4.97	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	True		False
+4448446	6828	900653	0	PayPal		2023-09-08 00:00:00	4.97	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	True		False
+4448447	6828	900653	0	PayPal		2023-09-09 00:00:00	4.83	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	True		False
+4448448	6828	900653	0	PayPal		2023-09-11 00:00:00	1.21	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	True		False
+4448449	6828	900653	0	PayPal		2023-09-11 00:00:00	1.79	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	True		False
+4448450	6828	900653	0	PayPal		2023-09-12 00:00:00	14.94	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	True		False
+4448451	6828	900653	0	PayPal		2023-09-13 00:00:00	1.94	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	True		False
+4448452	6828	900653	0	PayPal		2023-09-16 00:00:00	1.94	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	True		False
+4448453	6828	900653	0	PayPal		2023-09-19 00:00:00	2.22	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	True		False
+4448454	6828	900653	0	PayPal		2023-07-31 00:00:00	4.1	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	True		False
+4448455	6828	900653	0	PayPal		2023-08-07 00:00:00	1.69	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	True		False
+4448456	6828	900653	0	Friends of Michelle Mussman		2023-08-29 00:00:00	1000	1000	217 Tudor Ln		Schaumburg	IL	60193     	8B	Donation			False	False	True		False
+4448457	6828	900653	0	Intuit Inc		2023-07-31 00:00:00	170	340	2800 E. Commerce Center Place		Tucson	AZ	85706     	8B	Accounting fees			False	False	True		False
+4448458	6828	900653	0	Intuit Inc		2023-08-31 00:00:00	85	340	2800 E. Commerce Center Place		Tucson	AZ	85706     	8B	Accounting fees			False	False	True		False
+4448459	6828	900653	0	Intuit Inc		2023-09-18 00:00:00	85	340	2800 E. Commerce Center Place		Tucson	AZ	85706     	8B	Accounting fees			False	False	True		False
+4448410	6828	900653	0	Friends of John Curran		2023-09-26 00:00:00	1000	1000	Redaction Requested					8B	Donation			False	False	True		True
 4448460	34210	900654	0	A Taste of Bev Catering		2023-08-04 00:00:00	242.02	242.02	111 N VAN BUREN St		Marion	IL	62959     	8B	Catering			False	False	False		False
 4448461	34210	900654	0	Canopy by Hilton Chicago Central Loop		2023-07-28 00:00:00	3181.32	4093.08	226 W Jackson Blvd		Chicago	IL	60606-6959	8B	Lodging			False	False	False		False
 4448462	34210	900654	0	Canopy by Hilton Chicago Central Loop		2023-07-28 00:00:00	911.76	4093.08	226 W Jackson Blvd		Chicago	IL	60606-6959	8B	Lodging			False	False	False		False
@@ -549352,11 +549352,11 @@
 4488039	121	909113	0	Costco		2023-10-02 00:00:00	976.48	1107.67	16261 Boulevard Pl		Plainfield	IL	60586     	8B	Office equipment			False	False	False		False
 4488040	121	909113	0	Costco		2023-10-14 00:00:00	131.19	1107.67	16261 Boulevard Pl		Plainfield	IL	60586     	8B	Draw down food			False	False	False		False
 4488041	121	909113	0	Post Master LaSalle		2023-10-10 00:00:00	248	248	2950 Chartres St		LaSalle	IL	61301     	8B	Stamps			False	False	False		False
-4488042	6828	909114	0	Intuit Inc		2023-12-14 00:00:00	90	260	2800 E. Commerce Center Place		Tucson	AZ	85706     	8B	Accounting fees			False	False	False		False
-4488043	6828	909114	0	Intuit Inc		2023-11-18 00:00:00	85	260	2800 E. Commerce Center Place		Tucson	AZ	85706     	8B	Accounting fees			False	False	False		False
-4488044	6828	909114	0	Intuit Inc		2023-10-14 00:00:00	85	260	2800 E. Commerce Center Place		Tucson	AZ	85706     	8B	Accounting fees			False	False	False		False
-4488046	6828	909114	0	Friends of LaPointe		2023-11-28 00:00:00	500	500	PO Box 30161		Chicago	IL	60630-0105	8B	Donation			False	False	False		False
-4488045	6828	909114	0	Citizens for Feigenholtz		2023-11-28 00:00:00	1000	1000	Redaction Requested					8B	Donation			False	False	False		True
+4488042	6828	909114	0	Intuit Inc		2023-12-14 00:00:00	90	260	2800 E. Commerce Center Place		Tucson	AZ	85706     	8B	Accounting fees			False	False	True		False
+4488043	6828	909114	0	Intuit Inc		2023-11-18 00:00:00	85	260	2800 E. Commerce Center Place		Tucson	AZ	85706     	8B	Accounting fees			False	False	True		False
+4488044	6828	909114	0	Intuit Inc		2023-10-14 00:00:00	85	260	2800 E. Commerce Center Place		Tucson	AZ	85706     	8B	Accounting fees			False	False	True		False
+4488046	6828	909114	0	Friends of LaPointe		2023-11-28 00:00:00	500	500	PO Box 30161		Chicago	IL	60630-0105	8B	Donation			False	False	True		False
+4488045	6828	909114	0	Citizens for Feigenholtz		2023-11-28 00:00:00	1000	1000	Redaction Requested					8B	Donation			False	False	True		True
 4488047	12467	909115	0	Alan Powell Campaign		2023-12-20 00:00:00	1000	1000	3059 Ridge Road		Hartwell	GA	30643     	6B	2024 Primary			False	False	False		False
 4488048	12467	909115	0	Ballard for Nebraska		2023-12-07 00:00:00	750	750	6801 NW 2ND STREET		LINCOLN	NE	68521     	6B	2024 Primary			False	False	False		False
 4488049	12467	909115	0	Ben Watson for Senate Inc.		2023-12-20 00:00:00	1000	1000	100 Riverview Drive		Savannah	GA	31404     	6B	2024 Primary			False	False	False		False
@@ -591611,10 +591611,10 @@
 4530298	995	917460	0	McCurdy	Patty	2024-03-16 00:00:00	1800	1875	13190 State Route		Bradford	IL	61421     	8B	Food			False	False	False		False
 4530299	995	917460	0	McCurdy	Patty	2024-03-16 00:00:00	75	1875	13190 State Route		Bradford	IL	61421     	8B	Food			False	False	False		False
 4530300	995	917460	0	Ozburn	Dennis	2024-03-23 00:00:00	285	285	249 South Peoria		Bradford	IL	61421     	8B	Food			False	False	False		False
-4530301	6828	917467	0	Intuit Inc		2024-01-05 00:00:00	90	270	2800 E. Commerce Center Place		Tucson	AZ	85706     	8B	Accounting fees			False	False	False		False
-4530302	6828	917467	0	Intuit Inc		2024-02-05 00:00:00	90	270	2800 E. Commerce Center Place		Tucson	AZ	85706     	8B	Accounting fees			False	False	False		False
-4530303	6828	917467	0	Intuit Inc		2024-03-05 00:00:00	90	270	2800 E. Commerce Center Place		Tucson	AZ	85706     	8B	Accounting fees			False	False	False		False
-4530304	6828	917467	0	State Board of Elections		2024-02-27 00:00:00	700	700	2329 S. MacArthur Blvd		Springfield	IL	62704     	8B	Civil penalties			False	False	False		False
+4530301	6828	917467	0	Intuit Inc		2024-01-05 00:00:00	90	270	2800 E. Commerce Center Place		Tucson	AZ	85706     	8B	Accounting fees			False	False	True		False
+4530302	6828	917467	0	Intuit Inc		2024-02-05 00:00:00	90	270	2800 E. Commerce Center Place		Tucson	AZ	85706     	8B	Accounting fees			False	False	True		False
+4530303	6828	917467	0	Intuit Inc		2024-03-05 00:00:00	90	270	2800 E. Commerce Center Place		Tucson	AZ	85706     	8B	Accounting fees			False	False	True		False
+4530304	6828	917467	0	State Board of Elections		2024-02-27 00:00:00	700	700	2329 S. MacArthur Blvd		Springfield	IL	62704     	8B	Civil penalties			False	False	True		False
 4530305	4290	917471	0	U S Postal Service		2024-01-24 00:00:00	500	500	P O Box 0566		Carol Stream	IL	60132     	8B	Postage			False	False	False		False
 4530306	4290	917471	0	Dunkin Donuts		2024-03-29 00:00:00	242.96	242.96	2995 Mannheim Rd		Des Plaines	IL	60018     	8B	Election day donuts			False	False	False		False
 4530307	4290	917471	0	Maranto	Vince	2024-03-13 00:00:00	500	500	841 Roaring Brook Lane		Algonquin	IL	60102     	8B	Dinner Dance Entertainment			False	False	False		False
@@ -630496,9 +630496,9 @@
 4569399	1043	925012	0	ADPAC		2024-06-14 00:00:00	7200	8900	1111 14th  Street, N.W.	#1100	Washington	DC	20005     	6B	Contribution			False	False	False		False
 4569400	1043	925012	0	ADPAC - Educational Fund		2024-06-14 00:00:00	2950	3700	1111 14th Street, N.W.	#1100	Washington	DC	20005     	6B	Contribution			False	False	False		False
 4569401	1043	925012	0	Barnes	Bradley	2024-04-23 00:00:00	400	400	315 Susan Dr Ste 1		Normal	IL	61761     	8B	Per diem			False	False	False		False
-4569402	6828	925014	0	Intuit Inc		2024-04-05 00:00:00	90	270	2800 E. Commerce Center Place		Tucson	AZ	85706     	8B	Accounting fees			False	False	False		False
-4569403	6828	925014	0	Intuit Inc		2024-05-05 00:00:00	90	270	2800 E. Commerce Center Place		Tucson	AZ	85706     	8B	Accounting fees			False	False	False		False
-4569404	6828	925014	0	Intuit Inc		2024-06-05 00:00:00	90	270	2800 E. Commerce Center Place		Tucson	AZ	85706     	8B	Accounting fees			False	False	False		False
+4569402	6828	925014	0	Intuit Inc		2024-04-05 00:00:00	90	270	2800 E. Commerce Center Place		Tucson	AZ	85706     	8B	Accounting fees			False	False	True		False
+4569403	6828	925014	0	Intuit Inc		2024-05-05 00:00:00	90	270	2800 E. Commerce Center Place		Tucson	AZ	85706     	8B	Accounting fees			False	False	True		False
+4569404	6828	925014	0	Intuit Inc		2024-06-05 00:00:00	90	270	2800 E. Commerce Center Place		Tucson	AZ	85706     	8B	Accounting fees			False	False	True		False
 4569405	12766	925018	0	Cemeno's		2024-05-09 00:00:00	1192.38	1192.38	1630 Essington Road		Joliet	IL	60435     	8B	Fund raising - food			False	False	True		False
 4569406	12766	925018	0	African American Business Assoc of Will County		2024-06-15 00:00:00	250	250	116 N Chicago Street		Joliet	IL	60432     	8B	Sponsorship			False	False	True		False
 4569407	25613	925024	0	Google		2024-04-02 00:00:00	19.27	187.65	1600 Amphitheatre Pkwy		Mountain View	CA	94043     	8B	Web Hosting			False	False	False		False
@@ -645278,4 +645278,4 @@
 4584181	10	926756	0	The Home Depot		2024-06-11 00:00:00	7.6	353.43	7200 South Cicero Avenue		Bedford Park	IL	60638     	8B	Supplies			False	False	False	United States of America	False
 4584182	10	926756	0	Amber Mechanical		2024-06-11 00:00:00	460	460	11950 South Central		Alsip	IL	60803     	8B	Maintenance			False	False	False		False
 4584183	10	926756	0	Amazon.Com, Incorporated		2024-06-11 00:00:00	1018.67	1289.53	P.O. Box 81226		Seattle	WA	98108     	8B	Supplies			False	False	False		False
-4584184	10	926756	0	
+4584184	10	926756	0	City Clerk of Chicago		2024-06-11 00:00:00	235.71	394.83	5672 South Archer Avenue		Chicago	IL	

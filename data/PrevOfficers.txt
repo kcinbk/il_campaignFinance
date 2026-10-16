@@ -14021,6 +14021,7 @@ ID	CommitteeID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	ResignD
 7664	10887	Mukai	William	209 S Lasalle	4th Floor	Chicago	IL	60604     	Treasurer	2000-04-26 12:02:47	False
 3975	10888	Dunn	James S	212 S Second		Springfield	IL	62701     	Chair	1995-04-25 00:00:00	False
 11121	10892	Seabeck	John	25w Magnolia Ave		West Peoria	IL	61604     	Chair	2005-01-28 14:47:05	False
+43287	10892	Kennedy	Sharon	606 N Iris Ct		West Peoria	IL	61604     	Chair	2026-10-13 10:37:40.653000000	False
 6423	10893	Cataldo	Bud	1600 Golf Road		Rolling Meadows	IL	60008     	Chair	1998-07-23 00:00:00	False
 5842	10893	Speziale	Michael A	1845 E Rand Road	Po Ox 936	Prospect Hieghts	IL	60070     	Treasurer	1998-01-16 00:00:00	False
 4330	10893	Ferraro	Anthony B.	218 N. Jefferson St.	Suite 300	Chicago	IL	60661     	Treasurer	1996-01-04 00:00:00	False
@@ -22783,6 +22784,7 @@ ID	CommitteeID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	ResignD
 36990	32569	Stafford	Ingrid	1939 Sherman Ave. #4E		Evanston	IL	60201     	Chair	2023-02-01 13:51:39.180000000	False
 36991	32569	Stafford	William	1939 Sherman Ave. #4E		Evanston	IL	60201     	Treasurer	2023-02-01 13:51:43.207000000	False
 32334	32576	Cook	Dennis.	82 S. LaGrange Rd.	Suite 204	LaGrange	IL	60525     	Treasurer	2019-01-15 09:12:41.430000000	False
+43288	32596	Ziller	Dan	12904 Ernesti Rd		Huntley	IL	60142     	Chair	2026-10-13 10:47:11.537000000	False
 35640	32605	Williams Jr.	Roy	2649 E. Lawrence Ave		Springfield	IL	62703     	Treasurer	2022-08-24 08:13:28.123000000	False
 42327	32605	Jones-Anderson	Claire	710 N 5th St., #4		Springfield	IL	62702     	Treasurer	2025-04-15 15:40:44.257000000	False
 30485	32607	Bodach	Bob	716 Westshore Dr.		Shorewood	IL	60404     	Treasurer	2017-12-13 14:51:28.147000000	False
@@ -23787,6 +23789,7 @@ ID	CommitteeID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	ResignD
 38850	36545	Wold	Sherry	2800 Via Rosso St. #96		Springfield	IL	62703     	Treasurer	2024-07-05 09:04:38.813000000	False
 42089	36548	Henry	Tamberlin	PO Box 579		South Holland	IL	60473     	Treasurer	2024-12-04 10:18:27.540000000	False
 42202	36554	Nazaire	Dr.Regine E.	3968 S. Ellis St.		Chicago	IL	60653     	Treasurer	2025-01-29 15:47:50.507000000	False
+43289	36567	Thornton	Patricia	647 North 40th Street		East Saint Louis	IL	62205     	Treasurer	2026-10-14 08:58:25.653000000	False
 38980	36571	Warshaw	Anne	4124 Grove St.		Skokie	IL	60076     	Treasurer	2024-09-23 08:40:00.557000000	False
 35421	36576	Durflinger	Kyle	820 S Kendall Street		Lakewood	CO	80226     	Treasurer	2022-05-31 15:06:12.477000000	False
 42185	36579	Nichols	Greg	25200 Round Barn Rd		Plainfield	IL	60585     	Chair	2025-01-23 08:39:51.283000000	False
