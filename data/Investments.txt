@@ -23535,7 +23535,7 @@ ID	CommitteeID	FiledDocID	Description	PurchaseDate	PurchaseShares	PurchasePrice	
 35715	4384	996809	addl funding on existing cd	2006-11-10 00:00:00	0	13792.5	29822.04	0		Bridgeview Bank		7940 S. Harlem Ave		Bridgeview	IL	60455     	False	
 35716	4384	996809	Investment purchase	2012-04-05 00:00:00	0	70000	85749.25	0		Bridgeview Bank		7940 S. Harlem Ave		Bridgeview	IL	60455     	False	
 35717	4384	996809	Cert of Deposit add ons	2023-03-16 00:00:00	0	58805.56	58805.56	0		Old National Bank		PO Box 718		Evansville	IN	47705     	False	
-35718	1029	996812	Contribution Processing Fee	2025-11-05 00:00:00	0	118.05	118.05	0		Act Blue		P.O. Box 382110		Cambridge	MA	02238     	False	
+35718	1029	996812	Contribution Processing Fee	2025-11-05 00:00:00	0	118.05	118.05	0		Act Blue		P.O. Box 382110		Cambridge	MA	02238     	True	
 35719	14204	996813	Postage	2020-10-14 00:00:00	0	1127.5	1127.5	0		Postmaster		15N 4th		Chatsworth	IL	60921     	False	
 35720	5100	996877	7 day CD	2016-03-31 00:00:00	0	0.01	509.45	0		First State Bank of Monticello		201 W Main  Box 260		Monticello	IL	61856     	False	
 35721	1028	996904	Private Duck Hunt	2025-09-08 00:00:00	0	0	900	0		Beardstown Savings Bank		301 State Street	PO Box 380	Beardstown	IL	62618     	False	
@@ -23895,7 +23895,7 @@ ID	CommitteeID	FiledDocID	Description	PurchaseDate	PurchaseShares	PurchasePrice	
 36075	25450	1005737	Loan made	2022-12-29 00:00:00	0	10000	10000	0		Niles Township Democrats United		5340 Main Street		Skokie	IL	60077     	True	
 36076	1132	1005887	Certificate of Deposit investment	2024-01-05 00:00:00	0	10000	10989.39	0		Clocktower Community Bank		3050 Wabash Avenue		Springfield	IL	62704     	False	
 36077	31664	1005909	Investment purchase - Certificate of Deposit	2023-03-17 00:00:00	0	25740.22	28134	0		Old Second National Bank		37 S. River Street		Aurora	IL	60506     	False	
-36078	1029	1005910	Contribution Processing Fee	2025-11-05 00:00:00	0	118.05	118.05	0		Act Blue		P.O. Box 382110		Cambridge	MA	02238     	False	
+36078	1029	1005910	Contribution Processing Fee	2025-11-05 00:00:00	0	118.05	118.05	0		Act Blue		P.O. Box 382110		Cambridge	MA	02238     	True	
 36079	25095	1005962	Transfer to short term CD	2023-07-25 00:00:00	0	250000	270533.37	0		BMO Harris Bank		12534 S Harlem Ave		Palos Heights	IL	60419     	False	
 36080	36326	1005996	Loan made	2021-05-13 00:00:00	0	297.97	297.97	0		Walsh	Robert A.	2134 Clinton Street		Rockford	IL	61103     	False	
 36081	36326	1005996	Loan made	2021-05-17 00:00:00	0	110.86	110.86	0		Walsh	Robert A.	2134 Clinton Street		Rockford	IL	61103     	False	
@@ -23958,8 +23958,8 @@ ID	CommitteeID	FiledDocID	Description	PurchaseDate	PurchaseShares	PurchasePrice	
 36138	16711	1006595	Stock purchase - Verizon	2019-10-11 00:00:00	0	17228.69	15932.57	0		Edward Jones		201 Progress Parkway		St. Louis	MO	63043     	True	
 36139	23150	1006617	Investment purchase	2023-07-06 00:00:00	0	711758.18	912040.05	0		Busey Bank		2101 N Veterans Pkwy		Bloomington	IL	61704     	False	
 36140	1207	1006659	Signs	2020-06-22 00:00:00	0	400	400	0		Christian County Republican Central Committee		PO Box 265		Taylorville	IL	62568     	True	
-36141	35096	1006676	Investment purchase	2025-09-27 00:00:00	0	10000	10000	0		Byline Bank		4701 N Clark St		Chicago	IL	60640     	False	
-36142	35096	1006676	Investment purchase	2026-03-02 00:00:00	0	5000	5000	0		Byline Bank		4701 N Clark St		Chicago	IL	60640     	False	
+36141	35096	1006676	Investment purchase	2025-09-27 00:00:00	0	10000	10000	0		Byline Bank		4701 N Clark St		Chicago	IL	60640     	True	
+36142	35096	1006676	Investment purchase	2026-03-02 00:00:00	0	5000	5000	0		Byline Bank		4701 N Clark St		Chicago	IL	60640     	True	
 36143	34894	1006714	Certicate of Deposit	2025-07-22 00:00:00	0	200000	200000	0		Wintrust Bank		6336 N. Milwaukee Ave.		Chicago	IL	60646     	True	
 36144	34894	1006714	Investment   CD	2025-12-01 00:00:00	0	133000	133000	0		Wintrust Bank		6336 N. Milwaukee Ave.		Chicago	IL	60646     	True	
 36145	290	1006736	174.997 SHARES AT $126.83/SHARE	1998-07-01 00:00:00	0	19755.63	49291.726	0		VANGUARD 500 INDEX		P.O. BOX 7800		PHILADELPHIA	PA	19101     	False	
@@ -24152,7 +24152,7 @@ ID	CommitteeID	FiledDocID	Description	PurchaseDate	PurchaseShares	PurchasePrice	
 36332	35707	1012893	Loan made	2021-03-31 00:00:00	0	1424.41	1103.02	0		Legislative District 52 Office of Representative Martin McLaughlin		28662 W. Northwest Hwy.		Lake Barrington	IL	60010     	False	
 36333	35707	1012893	Loan made	2024-01-11 00:00:00	0	133.14	133.14	0		Legislative District 52 Office of Representative Martin McLaughlin		28662 W. Northwest Hwy.		Lake Barrington	IL	60010     	False	
 36334	70	1012920	Mutual Fund Investment	2015-09-30 00:00:00	0	1200000	1148496	0		Gofen & Glossberg LLC		455 City Front Plaza		Chicago	IL	60611     	False	
-36335	1029	1012994	Contribution Processing Fee	2025-11-05 00:00:00	0	118.05	118.05	0		Act Blue		P.O. Box 382110		Cambridge	MA	02238     	False	
+36335	1029	1012994	Contribution Processing Fee	2025-11-05 00:00:00	0	118.05	118.05	0		Act Blue		P.O. Box 382110		Cambridge	MA	02238     	True	
 36336	36326	1013042	Loan made	2021-05-13 00:00:00	0	297.97	297.97	0		Walsh	Robert A.	2134 Clinton Street		Rockford	IL	61103     	False	
 36337	36326	1013042	Loan made	2021-05-17 00:00:00	0	110.86	110.86	0		Walsh	Robert A.	2134 Clinton Street		Rockford	IL	61103     	False	
 36338	36326	1013042	Loan made	2021-10-22 00:00:00	0	82.4	82.4	0		Walsh	Robert A.	2134 Clinton Street		Rockford	IL	61103     	False	
@@ -24282,8 +24282,8 @@ ID	CommitteeID	FiledDocID	Description	PurchaseDate	PurchaseShares	PurchasePrice	
 36462	4240	1014045	Alliance Bernstein Intermediate Diversified Municipal Fund	2010-03-31 00:00:00	0	749380.67	700091.09	0		Wilmington Advisors		12041 Georgia Ave.		Wheaton	MD	20902     	False	
 36463	20531	1014062	Loan made	2022-05-23 00:00:00	0	725	725	0		Lawson	Thomas	1315 Sandypoint		Rockford	IL	61103     	False	
 36464	39547	1014083	Investment purchase- 6-11 mo CD	2024-04-16 00:00:00	0	17912.27	3139.53	0		Sauk Valley Bank		300 Walton Dr		Dixon	IL	61021     	False	
-36465	35096	1014093	Investment purchase	2025-09-27 00:00:00	0	10000	10000	0		Byline Bank		4701 N Clark St		Chicago	IL	60640     	False	
-36466	35096	1014093	Investment purchase	2026-03-02 00:00:00	0	5000	5000	0		Byline Bank		4701 N Clark St		Chicago	IL	60640     	False	
+36465	35096	1014093	Investment purchase	2025-09-27 00:00:00	0	10000	10000	0		Byline Bank		4701 N Clark St		Chicago	IL	60640     	True	
+36466	35096	1014093	Investment purchase	2026-03-02 00:00:00	0	5000	5000	0		Byline Bank		4701 N Clark St		Chicago	IL	60640     	True	
 36467	15478	1014118	Fund raising - entertainment	2013-10-20 00:00:00	0	50	50	0		Brauer	Rich	1128 E Stratton Office Building		Springfield	IL	62706     	False	
 36468	15478	1014118	Investment purchase	2013-12-19 00:00:00	0	119.99	119.99	0		Abes Carmel Corn					IL	          	False	
 36469	15478	1014118	Fund raising - entertainment	2013-11-13 00:00:00	0	40	40	0		Brauer	Rich	1128 E Stratton Office Building		Springfield	IL	62706     	False	
@@ -24508,14 +24508,14 @@ ID	CommitteeID	FiledDocID	Description	PurchaseDate	PurchaseShares	PurchasePrice	
 36688	13872	1015823	Parking	2015-05-18 00:00:00	0	7	7	0		Standard Parking		2836 N Clark S		Chicago	IL	60657     	False	
 36689	13872	1015824	Parking	2015-05-18 00:00:00	0	7	7	0		Standard Parking		2836 N Clark S		Chicago	IL	60657     	False	
 36690	16428	1015934	Donation	2019-06-10 00:00:00	0	1500	1500	0		Citizens for Sean Morrison		35 Romiga		Palos park	IL	60464     	False	
-36691	37243	1015943	Loan Made	2025-10-03 00:00:00	0	1106.41	206.26	0		Caparelli-Ruff	Lisa	15048 W OCONNELL DR		HOMER GLEN	IL	60491-9783	False	
+36691	37243	1015943	Loan Made	2025-10-03 00:00:00	0	1106.41	206.26	0		Caparelli-Ruff	Lisa	15048 W OCONNELL DR		HOMER GLEN	IL	60491-9783	True	
 36692	22919	1015969	Investment purchase	2013-12-16 00:00:00	0	100000	773046.1	0		Beverly Bank & Trust Company NA		10258 S Western Ave		Chicago	IL	60643     	False	
 36693	22919	1015969	Loan made	2023-03-02 00:00:00	0	15000	15000	0		19th Ward Democratic Organization		10402 S Western		Chicago	IL	60643     	False	
 36694	22919	1015969	Loan made	2023-03-29 00:00:00	0	15000	15000	0		19th Ward Democratic Organization		10402 S Western		Chicago	IL	60643     	False	
 36695	23871	1016004	Investment purchase	2019-01-22 00:00:00	0	50006	818.61	0		CEFCU		3301 N Woodford		Decatur	IL	62526     	False	
 36696	23871	1016004	Investment purchase	2020-01-23 00:00:00	0	51077.02	53968.22	0		CEFCU		3301 N Woodford		Decatur	IL	62526     	False	
-36697	22589	1016008	Certificate of Deposit	2019-02-13 00:00:00	0	30000	36485.02	0		US Bank		4321 Joliet Avenue		Lyons	IL	60534     	False	
-36698	22589	1016008	Loan made	2025-07-21 00:00:00	0	245000	235180.45	0		Getty	Christopher	7710 W. Ogden Avenue		Lyons	IL	60534     	False	
+36697	22589	1016008	Certificate of Deposit	2019-02-13 00:00:00	0	30000	36485.02	0		US Bank		4321 Joliet Avenue		Lyons	IL	60534     	True	
+36698	22589	1016008	Loan made	2025-07-21 00:00:00	0	245000	235180.45	0		Getty	Christopher	7710 W. Ogden Avenue		Lyons	IL	60534     	True	
 36699	34448	1016011	Loan made	2023-09-01 00:00:00	0	5000	5000	0		Citizens To Elect Anthony Beale		34 East 112th Place	lower level	Chicago	IL	60628     	False	
 36700	24663	1016025	Loan made	2023-12-28 00:00:00	0	19770.25	19770.25	0		Chicago Community Alliance		2622 W Jackson Blvd		Chicago	IL	60612     	False	
 36701	17003	1016081	Contractual	2020-12-23 00:00:00	0	235	235	0		Davis	Roland	5603 South Ada St		Chicago	IL	60636-1409	False	
@@ -24571,8 +24571,8 @@ ID	CommitteeID	FiledDocID	Description	PurchaseDate	PurchaseShares	PurchasePrice	
 36751	34374	1016278	Loan made	2025-07-07 00:00:00	0	200	200	0		Rainey	Ariel	9200 S Dauphine Ave		Chicago	IL	60619     	False	
 36752	34087	1016283	Loan made	2022-07-22 00:00:00	0	10000	10000	0		EMF		815 W. 63rd St.	4th Floor	Chicago	IL	60621     	False	
 36753	34087	1016283	Loan made	2024-04-09 00:00:00	0	5000	4000	0		Bradford	Brandon	6917 S. Carpenter		Chicago	IL	60621     	False	
-36754	17290	1016294	Loan made	2022-06-10 00:00:00	0	10000	10000	0		Cardenas for Cook		3757 S Campbell Ave		Chicago	IL	60632     	False	
-36755	21361	1016296	Fund raising - hall rental and food	2025-09-18 00:00:00	0	1372.88	1372.88	0		Williams Inn Pizza		2210 S Michigan		Chicago	IL	60616     	False	
+36754	17290	1016294	Loan made	2022-06-10 00:00:00	0	10000	10000	0		Cardenas for Cook		3757 S Campbell Ave		Chicago	IL	60632     	True	
+36755	21361	1016296	Fund raising - hall rental and food	2025-09-18 00:00:00	0	1372.88	1372.88	0		Williams Inn Pizza		2210 S Michigan		Chicago	IL	60616     	True	
 36756	24514	1016356	Promotional items	2017-01-07 00:00:00	0	25	25	0		Newmans Gun Club		Valier Lake Rd		Sesser	IL	62884     	False	
 36757	10893	1016368	Staff salaries	2011-10-27 00:00:00	0	250	250	0		Corvo	Roxanne	934 Wenonah		Oak Park	IL	60304     	False	
 36758	10893	1016368	Staff salaries	2016-10-12 00:00:00	0	250	250	0		Corvo	Robyn	943 WENONAH		OAK PARK	IL	60304     	False	
@@ -24617,8 +24617,8 @@ ID	CommitteeID	FiledDocID	Description	PurchaseDate	PurchaseShares	PurchasePrice	
 36797	18561	1022068	Investment purchase	2026-07-27 00:00:00	0	2000	2000	0		US Bank		9339 Waukegan Rd		Morton Grove	IL	60053     	False	
 36798	35090	1022128	Loan made	2022-09-16 00:00:00	0	1500	1500	0		Homer Forward		1000 S. Hamilton St	Ste A	Lockport	IL	60441     	False	
 36799	30618	1022223	Investment purchase	2023-05-18 00:00:00	0	7172.5	7172.5	0		Money Metals		P.O. Box 2599		Eagle	ID	83616     	False	
-36800	35096	1022337	Investment purchase	2025-09-27 00:00:00	0	10000	10000	0		Byline Bank		4701 N Clark St		Chicago	IL	60640     	False	
-36801	35096	1022337	Investment purchase	2026-03-02 00:00:00	0	5000	5000	0		Byline Bank		4701 N Clark St		Chicago	IL	60640     	False	
+36800	35096	1022337	Investment purchase	2025-09-27 00:00:00	0	10000	10000	0		Byline Bank		4701 N Clark St		Chicago	IL	60640     	True	
+36801	35096	1022337	Investment purchase	2026-03-02 00:00:00	0	5000	5000	0		Byline Bank		4701 N Clark St		Chicago	IL	60640     	True	
 36802	37101	1022340	Loan made	2022-08-18 00:00:00	0	100	100	0		Englebrecht	Andrew	16441 Newcastle Way		Lockport	IL	60441     	False	
 36803	37101	1022340	Printing	2022-10-10 00:00:00	0	0	86.54	0		Advance offset Press		710 E Ogden Ave	Suite 340	Naperville	IL	60563     	False	
 36804	23685	1022599	Loan made	2024-02-07 00:00:00	0	2143	2143	0		HOMER TOWNSHIP REPUBLICAN ORGANIZATION		14234 S BELL RD		HOMER GLEN	IL	60431     	False	
@@ -24658,7 +24658,7 @@ ID	CommitteeID	FiledDocID	Description	PurchaseDate	PurchaseShares	PurchasePrice	
 36838	32127	1023487	Bank charges	2023-02-14 00:00:00	0	9	9	0		US Bank		801 N Wells		Chicago	IL	60610     	False	
 36839	39922	1023536	Investment purchase	2025-02-27 00:00:00	0	5000	5328.35	0		Busey Bank		100 W University Ave		Champaign	IL	61820     	False	
 36840	35758	1023600	Messaging Services	2022-06-10 00:00:00	0	800	800	0		Prompt.IO		14419 Greenwood Ave N	Ste. A-373	Seattle	WA	98133     	False	
-36841	1029	1023656	Contribution Processing Fee	2025-11-05 00:00:00	0	118.05	118.05	0		Act Blue		P.O. Box 382110		Cambridge	MA	02238     	False	
+36841	1029	1023656	Contribution Processing Fee	2025-11-05 00:00:00	0	118.05	118.05	0		Act Blue		P.O. Box 382110		Cambridge	MA	02238     	True	
 36842	18004	1023730	Bank charges	2021-08-01 00:00:00	0	29.95	29.95	0		Bank of America		250 W 83rd Street		Chicago	IL	60620     	False	
 36843	211	1023751	Raffle prizes	2022-03-16 00:00:00	0	25	25	0		Childs	Thomas	2683 NE Beaman		Mountian Home	ID	83547     	False	
 36844	126	1023773	Mutual Fund	2007-12-31 00:00:00	0	10174.55	3777.95	0		Am Cent Invest - Ultra		PO Box 419385		Kansas City	MO	64141     	False	
@@ -24821,3 +24821,139 @@ ID	CommitteeID	FiledDocID	Description	PurchaseDate	PurchaseShares	PurchasePrice	
 37001	34448	1025975	Loan made	2023-09-01 00:00:00	0	5000	5000	0		Citizens To Elect Anthony Beale		34 East 112th Place	lower level	Chicago	IL	60628     	False	
 37002	36448	1026018	Loan made	2025-05-23 00:00:00	0	1500	1500	0		Casillas	Vince	2302 Mayfield		Joliet	IL	60435     	False	
 37003	20731	1026070	Bank charges	2026-06-30 00:00:00	0	15	15	0		Busey Bank		2801 Black Rd		Joliet	IL	60435     	False	
+37004	36292	1026110	Fund raising	2021-03-31 00:00:00	0	3.96	3.96	0		Act Blue		P.O. Box 44146		Somerville	MA	02144     	False	
+37005	32198	1026157	CHKN TOKEN 1 share = $0.000935703494927 initial purchase 8.87 million shares	2024-11-30 00:00:00	0	8299.69	20.49	0		CHKN TOKEN		262 Market Square Ct Ste D		Lake Forest	IL	60045     	False	
+37006	31665	1026177	Food	2023-04-13 00:00:00	0	66.69	66.69	0		Costco		1430 S. Ashland Ave.		Chicago	IL	60608     	False	
+37007	22344	1026186	Investment purchase	2016-01-08 00:00:00	0	25000	20509.38	0		IAA Credit Union		808 IAA Drive	PO Box 2901	Bloomington	IL	60702     	False	
+37008	22344	1026186	Investment purchase, Country Trust and Bank	2022-01-25 00:00:00	0	36000	122392.31	0		Country Trust Bank		1705 Towanda Ave		Bloomington	IL	61701     	False	
+37009	13732	1026393	Investment purchase	2010-10-18 00:00:00	0	20000	20000	0		PARK FEDERAL SAVINGS BANK		1823 W. 47TH ST.		CHICAGO	IL	60609     	False	
+37010	13732	1026393	CD Investment	2024-05-31 00:00:00	0	500000	504372.42	0		Lakeside Bank		PO Box 5899		Chicago	IL	60680     	False	
+37011	1028	1026440	Private Duck Hunt	2025-09-08 00:00:00	0	0	900	0		Beardstown Savings Bank		301 State Street	PO Box 380	Beardstown	IL	62618     	False	
+37012	39469	1026441	CD	2024-11-29 00:00:00	0	300000	313741.09	0		BMO Harris		P.O. BOX 94033		Palatine	IL	60094     	False	
+37013	39469	1026441	CD	2026-02-25 00:00:00	0	502039.64	502039.64	0		BMO Harris		P.O. BOX 94033		Palatine	IL	60094     	False	
+37014	10893	1026448	Staff salaries	2011-10-27 00:00:00	0	250	250	0		Corvo	Roxanne	934 Wenonah		Oak Park	IL	60304     	False	
+37015	10893	1026448	Staff salaries	2016-10-12 00:00:00	0	250	250	0		Corvo	Robyn	943 WENONAH		OAK PARK	IL	60304     	False	
+37016	35104	1026471	Bank charges	2022-06-17 00:00:00	0	22.05	22.05	0		Wheaton Bank & Trust		100 N Wheaton Ave		Wheaton	IL	60187     	False	
+37017	124	1026522	Purchase of Investment	2020-11-01 00:00:00	0	127418.83	25147.39	0		Northern Trust Bank		50 S La Salle St		Chicago	IL	60603     	False	
+37018	124	1026522	Investment purchase	2014-04-14 00:00:00	0	100000	0	114062.28	2026-07-07 00:00:00	Belmont Bank		8250 W Belmont Ave		Chicago	IL	60634     	False	
+37019	22260	1026534	Investment purchase	2023-12-04 00:00:00	0	150000	163025.33	0		Byline Bank (Cert of Deposits)		820 Church St		Evanston	IL	60201     	False	
+37020	22260	1026534	Investment purchase	2023-12-04 00:00:00	0	355927.67	332789.01	0		Byline Bank (Money Market)		820 Church St		Evanston	IL	60201     	False	
+37021	8081	1026553	CD Purchase	2023-10-24 00:00:00	0	150000	0	225736.21	2026-07-02 00:00:00	First Community Credit Union		6079 E. Riverside Blvd.		Rockford	IL	61114     	False	
+37022	8081	1026553	CD Purchase	2024-03-27 00:00:00	0	50000	55353.01	0		First Community Credit Union		6079 E. Riverside Blvd.		Rockford	IL	61114     	False	
+37023	8081	1026553	CD Purchase	2024-05-20 00:00:00	0	50000	54979.86	0		First Community Credit Union		6079 E. Riverside Blvd.		Rockford	IL	61114     	False	
+37024	8081	1026553	CD Purchase	2024-12-13 00:00:00	0	25000	0	26372.94	2026-07-02 00:00:00	First Community Credit Union		6079 E. Riverside Blvd.		Rockford	IL	61114     	False	
+37025	22919	1026638	Investment purchase	2013-12-16 00:00:00	0	100000	773338.41	0		Beverly Bank & Trust Company NA		10258 S Western Ave		Chicago	IL	60643     	False	
+37026	22919	1026638	Loan made	2023-03-02 00:00:00	0	15000	15000	0		19th Ward Democratic Organization		10402 S Western		Chicago	IL	60643     	False	
+37027	22919	1026638	Loan made	2023-03-29 00:00:00	0	15000	15000	0		19th Ward Democratic Organization		10402 S Western		Chicago	IL	60643     	False	
+37028	24033	1026669	Loan made	2021-10-15 00:00:00	0	13599.7	13599.7	0		Harris	Napoleon	14633 Givines Ct		Harvey, IL	IL	60426     	False	United States
+37029	24033	1026669	Loan made	2022-03-01 00:00:00	0	13000	13000	0		Harris	Napoleon	14633 Givines Ct		Harvey, IL	IL	60426     	False	United States
+37030	24033	1026669	Loan made	2022-08-22 00:00:00	0	100	100	0		Democrats of Thornton Township		P.O. Box 429		Flossmoor	IL	60422     	False	
+37031	24033	1026669	Loan made	2025-07-01 00:00:00	0	50000	50000	0		Friends of Timnetra Burruss		P.O. box 15034		Chicago	IL	60615     	False	
+37032	38658	1026670	Investment purchase	2023-06-01 00:00:00	0	10000	10000	0		UBS AG		677 Washington Blvd		Samford	CT	06901     	False	
+37033	38658	1026670	Loan made	2025-03-28 00:00:00	0	4000	4000	0		Citizens for Lawrence Jackson		661 W. 138th Street		Riverdale	IL	60827     	False	
+37034	1334	1026789	Loan made	2021-08-19 00:00:00	0	9000	9000	0		Jones for State Representative		289 Paxton Ave		Calumet City	IL	60409     	False	
+37035	1334	1026789	Loan made	2022-01-31 00:00:00	0	6000	6000	0		St. Clair County Township Democrats		PO Box 23738		Belleville	IL	62223     	False	
+37036	1334	1026789	CD purchase	2024-02-06 00:00:00	0	500000	518578.29	0		Commerce Bank		5701 W. Main		Belleville	IL	62223     	False	
+37037	1334	1026789	Cd purchase	2025-02-07 00:00:00	0	250000	265471.2	0		DuQuoin State Bank		15 E. Main St.		DuQuoin	IL	62832     	False	
+37038	1334	1026789	CD  purchase	2024-02-06 00:00:00	0	500000	539373.74	0		Commerce Bank		5701 W. Main		Belleville	IL	62223     	False	
+37039	1334	1026789	Sponsorship	2023-09-09 00:00:00	0	250	250	0		JFK Dinner		PO Box 1019		Edwardsville	IL	62025     	False	
+37040	40284	1026806	Loan made	2025-07-14 00:00:00	0	1000	1000	0		Hernandez	Roberto	455 W. Diversy		Addison	IL	60101     	False	
+37041	40284	1026808	Loan made	2025-07-14 00:00:00	0	1000	1000	0		Hernandez	Roberto	455 W. Diversy		Addison	IL	60101     	False	
+37042	22433	1026809	Endorsement in Monthly Newsletter	2022-06-10 00:00:00	0	0	26	0		Cook CFB Pac		6438 Joliet Rd.		Countryside	IL	60525     	False	
+37043	23871	1026836	Investment purchase	2019-01-22 00:00:00	0	50006	818.61	0		CEFCU		3301 N Woodford		Decatur	IL	62526     	False	
+37044	23871	1026836	Investment purchase	2020-01-23 00:00:00	0	51077.02	53968.22	0		CEFCU		3301 N Woodford		Decatur	IL	62526     	False	
+37045	23344	1026904	Investment purchase	2026-09-22 00:00:00	0	1249874.8	1249874.8	0		Union Bank		312 Central Ave. SE		Minneapolis	ME	55414     	False	
+37046	24324	1026918	Loan made	2022-05-26 00:00:00	0	40000	30000	0		Friends of Raymond A. Lopez		2650 W 51st Street	(Rear)	Chicago	IL	60632     	False	
+37047	19830	1026973	Loan Made	2025-12-30 00:00:00	0	103.87	103.87	0		Sposato	Nicholas	4608 N Forest VIew		Chicago	IL	60656     	False	
+37048	19830	1026973	Loan Made	2026-01-15 00:00:00	0	20000	20000	0		Friends of Anthony Napolitano		7144 N Harlem		Chicago	IL	60631     	False	
+37049	13872	1026980	Parking	2015-05-18 00:00:00	0	7	7	0		Standard Parking		2836 N Clark S		Chicago	IL	60657     	False	
+37050	25450	1026992	Loan made	2022-06-23 00:00:00	0	10000	10000	0		Niles Township Democrats United		5340 Main Street		Skokie	IL	60077     	False	
+37051	25450	1026992	Loan made	2022-08-20 00:00:00	0	5000	5000	0		Niles Township Democrats United		5340 Main Street		Skokie	IL	60077     	False	
+37052	25450	1026992	Loan made	2022-12-29 00:00:00	0	10000	10000	0		Niles Township Democrats United		5340 Main Street		Skokie	IL	60077     	False	
+37053	38916	1027063	Loan made	2023-05-15 00:00:00	0	24.93	24.93	0		Friends to Elect Lamont Robinson		5050 S. Indiana		Chicago	IL	60615     	False	
+37054	38916	1027063	Loan made	2023-05-22 00:00:00	0	30.6	30.6	0		Friends to Elect Lamont Robinson		5050 S. Indiana		Chicago	IL	60615     	False	
+37055	38916	1027063	Loan made	2023-05-22 00:00:00	0	238.25	238.25	0		Friends to Elect Lamont Robinson		5050 S. Indiana		Chicago	IL	60615     	False	
+37056	38916	1027063	Loan made	2023-06-09 00:00:00	0	31.11	31.11	0		Friends to Elect Lamont Robinson		5050 S. Indiana		Chicago	IL	60615     	False	
+37057	38916	1027063	Loan made	2023-06-09 00:00:00	0	365	365	0		Friends to Elect Lamont Robinson		5050 S. Indiana		Chicago	IL	60615     	False	
+37058	38916	1027063	Loan made	2023-06-10 00:00:00	0	136.76	136.76	0		Friends to Elect Lamont Robinson		5050 S. Indiana		Chicago	IL	60615     	False	
+37059	38916	1027063	Loan made	2023-06-12 00:00:00	0	25.95	25.95	0		Friends to Elect Lamont Robinson		5050 S. Indiana		Chicago	IL	60615     	False	
+37060	38916	1027063	Loan made	2023-06-12 00:00:00	0	26.85	26.85	0		Friends to Elect Lamont Robinson		5050 S. Indiana		Chicago	IL	60615     	False	
+37061	38916	1027063	Loan made	2023-06-12 00:00:00	0	28.14	28.14	0		Friends to Elect Lamont Robinson		5050 S. Indiana		Chicago	IL	60615     	False	
+37062	38916	1027063	Loan made	2023-06-12 00:00:00	0	1	1	0		Friends to Elect Lamont Robinson		5050 S. Indiana		Chicago	IL	60615     	False	
+37063	38916	1027063	Loan made	2023-06-12 00:00:00	0	1	1	0		Friends to Elect Lamont Robinson		5050 S. Indiana		Chicago	IL	60615     	False	
+37064	38916	1027063	Loan made	2023-06-12 00:00:00	0	15.9	15.9	0		Friends to Elect Lamont Robinson		5050 S. Indiana		Chicago	IL	60615     	False	
+37065	38916	1027063	Loan made	2023-06-12 00:00:00	0	13.92	13.92	0		Friends to Elect Lamont Robinson		5050 S. Indiana		Chicago	IL	60615     	False	
+37066	38916	1027063	Loan made	2023-06-13 00:00:00	0	6.42	6.42	0		Friends to Elect Lamont Robinson		5050 S. Indiana		Chicago	IL	60615     	False	
+37067	38916	1027063	Loan made	2023-06-13 00:00:00	0	12.86	12.86	0		Friends to Elect Lamont Robinson		5050 S. Indiana		Chicago	IL	60615     	False	
+37068	38916	1027063	Loan made	2023-06-13 00:00:00	0	49.83	49.83	0		Friends to Elect Lamont Robinson		5050 S. Indiana		Chicago	IL	60615     	False	
+37069	38916	1027063	Loan made	2023-06-20 00:00:00	0	104	104	0		Friends to Elect Lamont Robinson		5050 S. Indiana		Chicago	IL	60615     	False	
+37070	38916	1027063	Loan made	2023-06-22 00:00:00	0	23.48	23.48	0		Friends to Elect Lamont Robinson		5050 S. Indiana		Chicago	IL	60615     	False	
+37071	38916	1027063	Loan made	2023-06-23 00:00:00	0	15.99	15.99	0		Friends to Elect Lamont Robinson		5050 S. Indiana		Chicago	IL	60615     	False	
+37072	4987	1027079	Office equipment	2018-08-15 00:00:00	0	75.74	75.74	0		Best Buy		4400 E. New York St.		Aurora	IL	60450     	False	
+37073	4987	1027079	Savings account transfer	2025-08-25 00:00:00	0	8000	1224.82	0		Naperville Bank & Trust		555 Fort Hill Drive		Naperville	IL	60540     	False	
+37074	4987	1027079	Savings Account Deposit	2023-10-02 00:00:00	0	10000	5576.5	0		Naperville Bank & Trust		555 Fort Hill Drive		Naperville	IL	60540     	False	
+37075	4987	1027079	Savings Account	2026-05-20 00:00:00	0	5000	5149.14	0		Naperville Bank & Trust		555 Fort Hill Drive		Naperville	IL	60540     	False	
+37076	4987	1027079	Savings Account	2026-08-31 00:00:00	0	1800	1800	0		Naperville Bank & Trust		555 Fort Hill Drive		Naperville	IL	60540     	False	
+37077	25653	1027087	Parking	2025-06-18 00:00:00	0	21	21	0		iParkIT		200 N LaSalle		Chicago	IL	60601     	False	
+37078	290	1027094	174.997 SHARES AT $126.83/SHARE	1998-07-01 00:00:00	0	19755.63	49291.726	0		VANGUARD 500 INDEX		P.O. BOX 7800		PHILADELPHIA	PA	19101     	False	
+37079	290	1027094	1255.475 SHARES AT $9.83/SHARE	1998-07-01 00:00:00	0	12722.3	15274.997	0		VANGUARD INTER-TERM BOND		P.O. BOX 7800		PHILADELPHIA	PA	19101     	False	
+37080	1330	1027104	Mutual Fund Investment Account	2006-11-24 00:00:00	0	354149.31	366834	0		Chase Investment Svcs		300 S Riverside Plz	Fl 1	Chicago	IL	60606-6626	False	
+37081	34262	1027106	Computer - maintenance	2023-07-07 00:00:00	0	6	6	0		Microsoft  E mail cost		Oakbrook Center		Oakbrook	IL	60523     	False	
+37082	14556	1027201	Loan made	2022-09-29 00:00:00	0	20000	4568.49	0		PULLMAN COMMUNITY CENTER		10355 S WOODLAWN		CHGO	IL	60628     	False	
+37083	14556	1027201	Loan made	2025-10-15 00:00:00	0	4000	4000	0		Friends of Tracy Murray		34 East 112th Place		Chicago	IL	60628     	False	
+37084	39831	1027216	Loan Made	2026-07-15 00:00:00	0	2950	2950	0		Hargrove	Anthony	2665 W Warren		Chicago	IL	60612     	False	
+37085	35146	1027223	Donation	2024-11-20 00:00:00	0	450	450	0		Lizet	Katy Lizet	17628 Golfview		Homewood	IL	60430     	False	
+37086	35146	1027223	Meals	2026-05-05 00:00:00	0	34.23	34.23	0		Uber		1455 Market St		San Franscisco	CA	94103     	False	
+37087	21361	1027241	Fund raising - hall rental and food	2025-09-18 00:00:00	0	1372.88	1372.88	0		Williams Inn Pizza		2210 S Michigan		Chicago	IL	60616     	False	
+37088	21361	1027243	Fund raising - hall rental and food	2025-09-18 00:00:00	0	1372.88	1372.88	0		Williams Inn Pizza		2210 S Michigan		Chicago	IL	60616     	False	
+37089	34616	1027248	Staff bonus	2023-05-30 00:00:00	0	2500	2500	0		Galindo	Jose	3908 W 68th Pl		Chicago	IL	60629     	False	
+37090	35096	1027259	Investment purchase	2025-09-27 00:00:00	0	10000	10000	0		Byline Bank		4701 N Clark St		Chicago	IL	60640     	False	
+37091	35096	1027259	Investment purchase	2026-03-02 00:00:00	0	5000	5000	0		Byline Bank		4701 N Clark St		Chicago	IL	60640     	False	
+37092	35096	1027262	Investment purchase	2025-09-27 00:00:00	0	10000	10000	0		Byline Bank		4701 N Clark St		Chicago	IL	60640     	False	
+37093	35096	1027262	Investment purchase	2026-03-02 00:00:00	0	5000	5000	0		Byline Bank		4701 N Clark St		Chicago	IL	60640     	False	
+37094	279	1027266	7 month CD for purpose of creating a scholarship dedicated to Libby Chumley	2023-07-25 00:00:00	0	1000.82	-21.75	0		Taylorville Community Credit Union		422 West Main Cross		Taylorville	IL	62569     	False	
+37095	14305	1027281	Supplies	2026-09-01 00:00:00	0	13.22	13.22	0		AMAZON.COM		410 Terry Ave., North		Seattle	WA	98109     	False	
+37096	1205	1027291	Merrill Lynch Initial Payment	2022-12-13 00:00:00	0	5000	66807.32	0		The Maurer Group		110 North Wacker Drive 17th Fl		Chicago	IL	60606     	False	
+37097	37243	1027305	Loan Made	2025-10-03 00:00:00	0	1106.41	206.26	0		Caparelli-Ruff	Lisa	15048 W OCONNELL DR		HOMER GLEN	IL	60491-9783	False	
+37098	25937	1027322	Loan made	2022-02-22 00:00:00	0	5000	5000	0		Committee to Elect Chris Taliaferro		5730 W. Midway Park		Chicago	IL	60644     	False	
+37099	25937	1027322	Loan made	2022-05-13 00:00:00	0	5000	913.74	0		Committee to Elect Chris Taliaferro		5730 W. Midway Park		Chicago	IL	60644     	False	
+37100	25937	1027322	Loan made	2024-01-16 00:00:00	0	1000	1000	0		Perez	Gilberto	833 N. Keystone Ave		Chicago	IL	60651     	False	
+37101	37243	1027344	Loan Made	2025-10-03 00:00:00	0	1106.41	206.26	0		Caparelli-Ruff	Lisa	15048 W OCONNELL DR		HOMER GLEN	IL	60491-9783	False	
+37102	37243	1027344	Loan Made	2026-09-02 00:00:00	0	119.9	119.9	0		Caparelli-Ruff	Lisa	15048 W OCONNELL DR		HOMER GLEN	IL	60491-9783	False	
+37103	35096	1027354	Investment purchase	2025-09-27 00:00:00	0	10000	10000	0		Byline Bank		4701 N Clark St		Chicago	IL	60640     	False	
+37104	35096	1027354	Investment purchase	2026-03-02 00:00:00	0	5000	5000	0		Byline Bank		4701 N Clark St		Chicago	IL	60640     	False	
+37105	23112	1027364	Loan made	2023-12-18 00:00:00	0	2500	2500	0		Chicago Community Alliance		2622 W Jackson		Chicago	IL	60612     	False	
+37106	23112	1027364	Investment	2026-02-13 00:00:00	0	8500	8500	0		One World Products - OWPC		6605 Grand Montecito Pkwy		Las Vegas	NV	89149     	False	
+37107	23112	1027364	Loan Made	2026-01-12 00:00:00	0	25000	25000	0		28th Ward Democratic Organization		2602 W 16th Street, Suite 101		Chicago	IL	60608     	False	
+37108	23112	1027364	Loan Made	2026-04-28 00:00:00	0	5000	5000	0		28th Ward Democratic Organization		2602 W 16th Street, Suite 101		Chicago	IL	60608     	False	
+37109	23112	1027364	Loan Made	2026-06-02 00:00:00	0	16000	16000	0		28th Ward Democratic Organization		2602 W 16th Street, Suite 101		Chicago	IL	60608     	False	
+37110	23112	1027364	Loan Made	2026-05-26 00:00:00	0	4000	4000	0		28th Ward Democratic Organization		2602 W 16th Street, Suite 101		Chicago	IL	60608     	False	
+37111	23112	1027364	Loan Made	2026-04-16 00:00:00	0	120000	120000	0		4418 W Madison St LLC		4123 W Madison St		Chicago	IL	60624     	False	
+37112	23112	1027364	Investment purchase	2026-06-15 00:00:00	0	5075.6	5075.6	0		One World Products - OWPC		6605 Grand Montecito Pkwy		Las Vegas	NV	89149     	False	
+37113	23112	1027364	Investment purchase - -COHR260702C390	2026-07-01 00:00:00	0	650.66	0	1099.3	2026-07-02 00:00:00	Fidelity		1 N LaSalle, Suite 100		Chicago	IL	60602     	False	
+37114	23112	1027364	Investment purchase - COHR	2026-06-25 00:00:00	0	38976	0	39972	2026-08-13 00:00:00	Fidelity		1 N LaSalle, Suite 100		Chicago	IL	60602     	False	
+37115	23112	1027364	Loan Made	2026-08-17 00:00:00	0	25000	25000	0		28th Ward Democratic Organization		2602 W 16th Street, Suite 101		Chicago	IL	60608     	False	
+37116	23112	1027364	Loan Made	2026-08-01 00:00:00	0	25000	25000	0		28th Ward Democratic Organization		2602 W 16th Street, Suite 101		Chicago	IL	60608     	False	
+37117	23112	1027364	Loan Made	2026-09-01 00:00:00	0	20000	20000	0		28th Ward Democratic Organization		2602 W 16th Street, Suite 101		Chicago	IL	60608     	False	
+37118	23112	1027364	Loan Made	2026-09-15 00:00:00	0	15000	15000	0		28th Ward Democratic Organization		2602 W 16th Street, Suite 101		Chicago	IL	60608     	False	
+37119	23112	1027364	Loan Made	2026-09-30 00:00:00	0	33500	33500	0		28th Ward Democratic Organization		2602 W 16th Street, Suite 101		Chicago	IL	60608     	False	
+37120	23112	1027364	Investment purchase - COHR	2026-08-11 00:00:00	0	255916	3000	0		Fidelity		1 N LaSalle, Suite 100		Chicago	IL	60602     	False	
+37121	23112	1027364	Loan Made	2026-07-02 00:00:00	0	6158.3	6158.3	0		Austin	Eliz	205 N Keystone		Chicago	IL	60624     	False	
+37122	22589	1027368	Certificate of Deposit	2019-02-13 00:00:00	0	30000	36485.02	0		US Bank		4321 Joliet Avenue		Lyons	IL	60534     	False	
+37123	22589	1027368	Loan made	2025-07-21 00:00:00	0	245000	235180.45	0		Getty	Christopher	7710 W. Ogden Avenue		Lyons	IL	60534     	False	
+37124	22589	1027371	Certificate of Deposit	2019-02-13 00:00:00	0	30000	36485.02	0		US Bank		4321 Joliet Avenue		Lyons	IL	60534     	False	
+37125	22589	1027371	Loan made	2025-07-21 00:00:00	0	245000	233591.68	0		Getty	Christopher	7710 W. Ogden Avenue		Lyons	IL	60534     	False	
+37126	35669	1027400	Investment purchase	2025-07-11 00:00:00	0	10000	0	10434.66	2026-08-11 00:00:00	NuMark Credit Union		951 E Lincoln Hwy		New Lenox	IL	60451     	False	
+37127	4384	1027409	purch cd	2005-10-12 00:00:00	0	40000	49583.92	0		Bridgeview Bank		7940 S. Harlem Ave		Bridgeview	IL	60455     	False	
+37128	4384	1027409	addl funding on existing cd	2006-11-10 00:00:00	0	13792.5	31897.49	0		Bridgeview Bank		7940 S. Harlem Ave		Bridgeview	IL	60455     	False	
+37129	4384	1027409	Investment purchase	2012-04-05 00:00:00	0	70000	87400.64	0		Bridgeview Bank		7940 S. Harlem Ave		Bridgeview	IL	60455     	False	
+37130	4384	1027409	Cert of Deposit add ons	2023-03-16 00:00:00	0	58805.56	58805.56	0		Old National Bank		PO Box 718		Evansville	IN	47705     	False	
+37131	34374	1027414	Loan made	2025-07-07 00:00:00	0	200	200	0		Rainey	Ariel	9200 S Dauphine Ave		Chicago	IL	60619     	False	
+37132	34374	1027414	Loan Made	2026-09-11 00:00:00	0	50000	50000	0		EMF		815 W 63rd Street	4th Floor	Chicago	IL	60621     	False	
+37133	34087	1027421	Loan made	2022-07-22 00:00:00	0	10000	10000	0		EMF		815 W. 63rd St.	4th Floor	Chicago	IL	60621     	False	
+37134	34087	1027421	Loan made	2024-04-09 00:00:00	0	5000	4000	0		Bradford	Brandon	6917 S. Carpenter		Chicago	IL	60621     	False	
+37135	17290	1027428	Loan made	2022-06-10 00:00:00	0	10000	10000	0		Cardenas for Cook		3757 S Campbell Ave		Chicago	IL	60632     	False	
+37136	17290	1027429	Loan made	2022-06-10 00:00:00	0	10000	10000	0		Cardenas for Cook		3757 S Campbell Ave		Chicago	IL	60632     	False	
+37137	24663	1027431	Loan made	2023-12-28 00:00:00	0	19770.25	19770.25	0		Chicago Community Alliance		2622 W Jackson Blvd		Chicago	IL	60612     	False	
+37138	41125	1027434	Loan Made	2026-05-11 00:00:00	0	1870.36	1870.36	0		Gonzales	Peter	2540 W Diversey Ave #402		Chicago	IL	60647     	False	
+37139	41125	1027434	Loan Made	2026-05-29 00:00:00	0	30	30	0		Verizon					IL	          	False	

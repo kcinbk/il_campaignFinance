@@ -440238,29 +440238,29 @@ Chicago	IL	60607     	2A							  	          	False		False
 6376115	6336	967956		Continentatl Electrical Construction Company		2025-02-28 00:00:00	601.12	1047.64	0			815 Commerce Drive	Suite 100	Oak Brook	IL	60523     	4A	Investment Donation						  	          	False		False
 6376116	6336	967956		Jamerson and Bauwens Electrical Contractors, Inc.		2025-03-31 00:00:00	171	171	0			3055 MacArthur Blvd.		Northbrook	IL	60062     	4A	Investment Donation						  	          	False		False
 6376117	6336	967956		Continentatl Electrical Construction Company		2025-03-31 00:00:00	446.52	1047.64	0			815 Commerce Drive	Suite 100	Oak Brook	IL	60523     	4A	Investment Donation						  	          	False		False
-6376118	5091	967959		Janes	Dan	2025-03-22 00:00:00	800	800	0	Retired	RETIRED	3044 N Meridian Rd		Stillman Valley	IL	61084     	1A							  	          	True		False
-6376119	5091	967959		Janes	Patrick	2025-03-22 00:00:00	200	200	0			7435 Heritage Close		Stillman Valley	IL	61084     	1A							  	          	True		False
-6376120	5091	967959		Kennay	Dorris	2025-03-22 00:00:00	300	300	0			8991 Prairie Rd		Ashton	IL	61006     	1A							  	          	True		False
-6376121	5091	967959		Cook	Laura	2025-03-22 00:00:00	400	400	0			2555 S Water Town Rd		Oregon	IL	61061     	1A							  	          	True		False
-6376122	5091	967959		Colbert	Susan	2025-03-22 00:00:00	200	200	0			6680 S. Anterier Rd.		Dixon	IL	61021     	1A							  	          	True		False
-6376123	5091	967959		Dickson	John	2025-03-22 00:00:00	500	500	0			601 S. Third St.		Oregon	IL	61061     	1A							  	          	True		False
-6376124	5091	967959		O'Brien	Tiffany	2025-03-22 00:00:00	200	200	0			4974 S Valley LN		Chana	IL	61015     	1A							  	          	True		False
-6376125	5091	967959		Wilhelmsen	George	2025-03-22 00:00:00	200	850	0			10436 Deercreek Ct.		Rochelle	IL	61068     	1A							  	          	True		False
-6376126	5091	967959		Hansen	Karl	2025-03-22 00:00:00	300	300	0			1021 4th Ave		Rochelle	IL	61068     	1A							  	          	True		False
-6376127	5091	967959		Wilhelmsen	George	2025-03-22 00:00:00	200	850	0			10436 Deercreek Ct.		Rochelle	IL	61068     	1A							  	          	True		False
-6376128	5091	967959		Suits	Tom	2025-03-22 00:00:00	400	400	0			10731 Pines Rd.		Polo	IL	61064     	1A							  	          	True		False
-6376129	5091	967959		LaRose	Mark	2025-03-22 00:00:00	500	500	0			1915 N Neva		Chicago	IL	60707     	1A							  	          	True		False
-6376130	5091	967959		Hansen	Dhana	2025-03-22 00:00:00	300	300	0			1021 4th ave		Rochelle	IL	61068     	1A							  	          	True		False
-6376131	5091	967959		Gallant	Jim	2025-03-22 00:00:00	200	200	0						IL	          	1A							  	          	True		False
-6376132	5091	967959		VanVickle	Brian	2025-03-22 00:00:00	200	200	0			4824 S. Richard Rd		Rochelle	IL	61068     	1A							  	          	True		False
-6376133	5091	967959		Peska	Sara	2025-03-22 00:00:00	200	200	0			3007 Countryside Ln		Freeport	IL	61032     	1A							  	          	True		False
-6376134	5091	967959		Brooks	Thomas	2025-03-22 00:00:00	200	200	0			407 3rd Ave		Forreston	IL	61030     	1A							  	          	True		False
-6376135	5091	967959		Guist	Hollie	2025-03-24 00:00:00	200	200	0			502 W. Center St		Mount Morris	IL	61054     	1A							  	          	True		False
-6376136	5091	967959		The Citizen Farmers		2025-01-06 00:00:00	833.33	2499.99	0			P.O. Box 261		Lake Bluff	IL	60044     	1A							  	          	True		False
-6376137	5091	967959		The Citizen Farmers		2025-02-06 00:00:00	833.33	2499.99	0			P.O. Box 261		Lake Bluff	IL	60044     	1A							  	          	True		False
-6376138	5091	967959		The Citizen Farmers		2025-03-06 00:00:00	833.33	2499.99	0			P.O. Box 261		Lake Bluff	IL	60044     	1A							  	          	True		False
-6376139	5091	967959		Wilhelmsen	George	2025-03-12 00:00:00	100	850	0			10436 Deercreek Ct.		Rochelle	IL	61068     	1A							  	          	True		False
-6376140	5091	967959		Wilhelmsen	George	2025-03-20 00:00:00	350	850	0			10436 Deercreek Ct.		Rochelle	IL	61068     	1A							  	          	True		False
+6376118	5091	967959		Janes	Dan	2025-03-22 00:00:00	800	800	0	Retired	RETIRED	3044 N Meridian Rd		Stillman Valley	IL	61084     	1A							  	          	False		False
+6376119	5091	967959		Janes	Patrick	2025-03-22 00:00:00	200	200	0			7435 Heritage Close		Stillman Valley	IL	61084     	1A							  	          	False		False
+6376120	5091	967959		Kennay	Dorris	2025-03-22 00:00:00	300	300	0			8991 Prairie Rd		Ashton	IL	61006     	1A							  	          	False		False
+6376121	5091	967959		Cook	Laura	2025-03-22 00:00:00	400	400	0			2555 S Water Town Rd		Oregon	IL	61061     	1A							  	          	False		False
+6376122	5091	967959		Colbert	Susan	2025-03-22 00:00:00	200	200	0			6680 S. Anterier Rd.		Dixon	IL	61021     	1A							  	          	False		False
+6376123	5091	967959		Dickson	John	2025-03-22 00:00:00	500	500	0			601 S. Third St.		Oregon	IL	61061     	1A							  	          	False		False
+6376124	5091	967959		O'Brien	Tiffany	2025-03-22 00:00:00	200	200	0			4974 S Valley LN		Chana	IL	61015     	1A							  	          	False		False
+6376125	5091	967959		Wilhelmsen	George	2025-03-22 00:00:00	200	850	0			10436 Deercreek Ct.		Rochelle	IL	61068     	1A							  	          	False		False
+6376126	5091	967959		Hansen	Karl	2025-03-22 00:00:00	300	300	0			1021 4th Ave		Rochelle	IL	61068     	1A							  	          	False		False
+6376127	5091	967959		Wilhelmsen	George	2025-03-22 00:00:00	200	850	0			10436 Deercreek Ct.		Rochelle	IL	61068     	1A							  	          	False		False
+6376128	5091	967959		Suits	Tom	2025-03-22 00:00:00	400	400	0			10731 Pines Rd.		Polo	IL	61064     	1A							  	          	False		False
+6376129	5091	967959		LaRose	Mark	2025-03-22 00:00:00	500	500	0			1915 N Neva		Chicago	IL	60707     	1A							  	          	False		False
+6376130	5091	967959		Hansen	Dhana	2025-03-22 00:00:00	300	300	0			1021 4th ave		Rochelle	IL	61068     	1A							  	          	False		False
+6376131	5091	967959		Gallant	Jim	2025-03-22 00:00:00	200	200	0						IL	          	1A							  	          	False		False
+6376132	5091	967959		VanVickle	Brian	2025-03-22 00:00:00	200	200	0			4824 S. Richard Rd		Rochelle	IL	61068     	1A							  	          	False		False
+6376133	5091	967959		Peska	Sara	2025-03-22 00:00:00	200	200	0			3007 Countryside Ln		Freeport	IL	61032     	1A							  	          	False		False
+6376134	5091	967959		Brooks	Thomas	2025-03-22 00:00:00	200	200	0			407 3rd Ave		Forreston	IL	61030     	1A							  	          	False		False
+6376135	5091	967959		Guist	Hollie	2025-03-24 00:00:00	200	200	0			502 W. Center St		Mount Morris	IL	61054     	1A							  	          	False		False
+6376136	5091	967959		The Citizen Farmers		2025-01-06 00:00:00	833.33	2499.99	0			P.O. Box 261		Lake Bluff	IL	60044     	1A							  	          	False		False
+6376137	5091	967959		The Citizen Farmers		2025-02-06 00:00:00	833.33	2499.99	0			P.O. Box 261		Lake Bluff	IL	60044     	1A							  	          	False		False
+6376138	5091	967959		The Citizen Farmers		2025-03-06 00:00:00	833.33	2499.99	0			P.O. Box 261		Lake Bluff	IL	60044     	1A							  	          	False		False
+6376139	5091	967959		Wilhelmsen	George	2025-03-12 00:00:00	100	850	0			10436 Deercreek Ct.		Rochelle	IL	61068     	1A							  	          	False		False
+6376140	5091	967959		Wilhelmsen	George	2025-03-20 00:00:00	350	850	0			10436 Deercreek Ct.		Rochelle	IL	61068     	1A							  	          	False		False
 6376141	464	967961		Oakwood Memorial Park		2025-02-10 00:00:00	500	500	0			2405 Champlain St.		Ottawa	IL	61350     	2A							  	          	False		False
 6376142	1203	967963		TVOne		2025-01-27 00:00:00	500	500	0			1010 Wayne Avenue	10th Floor	Silver Springs	MD	20910     	2A							  	          	False		False
 6376143	1203	967963		Bank of Springfield		2025-01-31 00:00:00	899.68	2604.85	0			PO Box 19301		Springfield	IL	62794-9301	4A	Interest/Dividends received						  	          	False		False
@@ -533441,52 +533441,52 @@ Chicago	IL	60607     	2A							  	          	False		False
 6469321	11372	986338		IBEW Local 197		2025-08-31 00:00:00	1803.54	8172.53	0			2407 Beich Road Suite A		Bloomington	IL	61704     	4A	Working Dues						  	          	False		False
 6469322	11372	986338		IBEW Local 197		2025-09-12 00:00:00	1381.81	8172.53	0			2407 Beich Road Suite A		Bloomington	IL	61704     	4A	Working Dues						  	          	False		False
 6469323	11372	986338		IBEW Local 197		2025-09-26 00:00:00	2382.58	8172.53	0			2407 Beich Road Suite A		Bloomington	IL	61704     	4A	Working Dues						  	          	False		False
-6469324	5091	986340		Schwendau	Karen	2025-07-02 00:00:00	170	170	0			6887 N Alpine Dr		BYRON	IL	61010     	1A							  	          	True		False
-6469325	5091	986340		The Citizen Farmers		2025-07-07 00:00:00	833.33	2499.99	0			P.O. Box 261		Lake Bluff	IL	60044     	1A							  	          	True		False
-6469326	5091	986340		Simmons	Hunter	2025-07-17 00:00:00	85	170	0			450 Hickory lane		Davis Junction	IL	61020     	1A							  	          	True		False
-6469327	5091	986340		Hofmann	Paul	2025-07-22 00:00:00	170	270	0			6053 SWEET GRASS DR		Harlem	IL	61073     	1A							  	          	True		False
-6469328	5091	986340		Wilhelmsen	George	2025-07-28 00:00:00	370	695	0			10436 Deercreek Ct.		Rochelle	IL	61068     	1A							  	          	True		False
-6469329	5091	986340		Dickson	John	2025-07-29 00:00:00	170	170	0			601 S. Third St.		Oregon	IL	61061     	1A							  	          	True		False
-6469330	5091	986340		Brooks	Darlene	2025-07-30 00:00:00	850	850	0			15975 W Springdale Rd.		Forreston	IL	61030     	1A							  	          	True		False
-6469331	5091	986340		Chesney for Illinois		2025-07-30 00:00:00	500	500	0			PO Box 633		Freeport	IL	61032-0633	2A							  	          	True		False
-6469332	5091	986340		Kennay	Dorris	2025-07-30 00:00:00	340	340	0			8991 Prairie Rd		Ashton	IL	61006     	1A							  	          	True		False
-6469333	5091	986340		Peska	Sara	2025-07-30 00:00:00	370	370	0			3007 Countryside Ln		Freeport	IL	61032     	1A							  	          	True		False
-6469334	5091	986340		Goodwin	Patricia	2025-07-30 00:00:00	170	255	0			1176 Clifton Ter,		ROCHELLE,	IL	61068     	1A							  	          	True		False
-6469335	5091	986340		The Citizen Farmers		2025-08-05 00:00:00	833.33	2499.99	0			P.O. Box 261		Lake Bluff	IL	60044     	1A							  	          	True		False
-6469336	5091	986340		McCombie for Illinois		2025-08-08 00:00:00	500	500	0			318 N. 4TH STREET		SAVANNA	IL	61074     	2A							  	          	True		False
-6469337	5091	986340		Colbert	Kevin	2025-08-08 00:00:00	500	900	0	Retired	Retired	6680 S. Anterier Rd		Dixon	IL	61021     	1A							  	          	True		False
-6469338	5091	986340		Schoon	Randy	2025-08-08 00:00:00	485	485	0			601 W Oregon St		Polo	IL	61064     	1A							  	          	True		False
-6469339	5091	986340		VanVickle	Brian	2025-08-08 00:00:00	170	170	0			4824 S. Richard Rd		Rochelle	IL	61068     	1A							  	          	True		False
-6469340	5091	986340		Mudge	Aaron	2025-08-08 00:00:00	170	340	0			407 N 5th		Oregon	IL	61061     	1A							  	          	True		False
-6469341	5091	986340		Beeh	Katie	2025-08-08 00:00:00	170	170	0			1202 S Blackhawk Rd		Oregon	IL	61061     	1A							  	          	True		False
-6469342	5091	986340		McCloy	William	2025-08-19 00:00:00	370	470	0			212 N Clay Street		Hinsdale	IL	60521     	1A							  	          	True		False
-6469343	5091	986340		Chelsie	Leffelman	2025-08-20 00:00:00	170	170	0			2271 N 3850 East Rd		Bellflower	IL	61724     	1A							  	          	True		False
-6469344	5091	986340		Mudge	Aaron	2025-08-21 00:00:00	170	340	0			407 N 5th		Oregon	IL	61061     	1A							  	          	True		False
-6469345	5091	986340		Drew	Christen	2025-08-21 00:00:00	250	250	0			10741 Moses Manor Dr		Benton	IL	62812     	1A							  	          	True		False
-6469346	5091	986340		Schrimpsher	Gary	2025-08-22 00:00:00	170	170	0			1268 S Daysville Rd		OREGON	IL	61061     	1A							  	          	True		False
-6469347	5091	986340		Ororke	Dominic	2025-08-22 00:00:00	170	170	0			4197 S Prairie Rd		Oregon	IL	61061     	1A							  	          	True		False
-6469348	5091	986340		Hofmann	Paul	2025-08-22 00:00:00	100	270	0			6053 SWEET GRASS DR		Harlem	IL	61073     	1A							  	          	True		False
-6469349	5091	986340		Warner	Greg	2025-08-23 00:00:00	340	340	0			741 N Harmony Rd		MOUNT MORRIS	IL	61054     	1A							  	          	True		False
-6469350	5091	986340		Guist	Hollie	2025-08-25 00:00:00	170	170	0			502 W. Center St		Mount Morris	IL	61054     	1A							  	          	True		False
-6469351	5091	986340		Citizens for Bradley J. Fritts		2025-08-25 00:00:00	500	500	0			Redaction Requested					2A							  	          	True		True
-6469352	5091	986340		Kennay	Kaleb	2025-08-25 00:00:00	225	260	0			5890 S Centerview Dr,		ROCHELLE	IL	61068     	1A							  	          	True		False
-6469353	5091	986340		Kennay	Kaleb	2025-08-25 00:00:00	35	260	0			5890 S Centerview Dr,		ROCHELLE	IL	61068     	1A							  	          	True		False
-6469354	5091	986340		LaHood for Congress		2025-08-26 00:00:00	2500	2500	0			Pob 10735		Peoria	IL	61612     	2A							  	          	True		False
-6469355	5091	986340		Wilhelmsen	George	2025-08-26 00:00:00	325	695	0			10436 Deercreek Ct.		Rochelle	IL	61068     	1A							  	          	True		False
-6469356	5091	986340		Lee County Republican Central Committee		2025-08-26 00:00:00	170	170	0			PO Box 223		Dixon	IL	61021     	2A							  	          	True		False
-6469357	5091	986340		Hansen	Karl	2025-08-26 00:00:00	710	710	0			1021 4th Ave		Rochelle	IL	61068     	1A							  	          	True		False
-6469358	5091	986340		Martin	Chris	2025-08-26 00:00:00	170	170	0			512 North 4th St		Oregon	IL	61061     	1A							  	          	True		False
-6469359	5091	986340		Koolidge	Michael	2025-08-26 00:00:00	175	345	0			1033 N 3rd St		Rochelle	IL	61068     	1A							  	          	True		False
-6469360	5091	986340		Randall	Stephanie	2025-08-29 00:00:00	500	500	0			128 Kingswood Ct.		Naperville	IL	60565     	1A							  	          	True		False
-6469361	5091	986340		The Citizen Farmers		2025-09-05 00:00:00	833.33	2499.99	0			P.O. Box 261		Lake Bluff	IL	60044     	1A							  	          	True		False
-6469362	5091	986340		Goodwin	Patricia	2025-09-10 00:00:00	85	255	0			1176 Clifton Ter,		ROCHELLE,	IL	61068     	1A							  	          	True		False
-6469363	5091	986340		Glen	Jeff	2025-09-10 00:00:00	170	170	0			9521 E. Marquand Dr.		Rochelle	IL	61068     	1A							  	          	True		False
-6469364	5091	986340		Koolidge	Michael	2025-09-10 00:00:00	170	345	0			1033 N 3rd St		Rochelle	IL	61068     	1A							  	          	True		False
-6469365	5091	986340		Janes	Dan	2025-09-10 00:00:00	200	200	0			3044 N Meridian Rd		Stillman Valley	IL	61084     	1A							  	          	True		False
-6469366	5091	986340		McCloy	William	2025-09-10 00:00:00	100	470	0			212 N Clay Street		Hinsdale	IL	60521     	1A							  	          	True		False
-6469367	5091	986340		Simmons	Hunter	2025-09-10 00:00:00	85	170	0			450 Hickory lane		Davis Junction	IL	61020     	1A							  	          	True		False
-6469368	5091	986340		Don Tracy for Illinois		2025-09-11 00:00:00	1000	1000	0			PO Box 135		Springfield	IL	62705     	2A							  	          	True		False
-6469369	5091	986340		Colbert	Kevin	2025-09-29 00:00:00	400	900	0	Retired	Retired	6680 S. Anterier Rd		Dixon	IL	61021     	1A							  	          	True		False
+6469324	5091	986340		Schwendau	Karen	2025-07-02 00:00:00	170	170	0			6887 N Alpine Dr		BYRON	IL	61010     	1A							  	          	False		False
+6469325	5091	986340		The Citizen Farmers		2025-07-07 00:00:00	833.33	2499.99	0			P.O. Box 261		Lake Bluff	IL	60044     	1A							  	          	False		False
+6469326	5091	986340		Simmons	Hunter	2025-07-17 00:00:00	85	170	0			450 Hickory lane		Davis Junction	IL	61020     	1A							  	          	False		False
+6469327	5091	986340		Hofmann	Paul	2025-07-22 00:00:00	170	270	0			6053 SWEET GRASS DR		Harlem	IL	61073     	1A							  	          	False		False
+6469328	5091	986340		Wilhelmsen	George	2025-07-28 00:00:00	370	695	0			10436 Deercreek Ct.		Rochelle	IL	61068     	1A							  	          	False		False
+6469329	5091	986340		Dickson	John	2025-07-29 00:00:00	170	170	0			601 S. Third St.		Oregon	IL	61061     	1A							  	          	False		False
+6469330	5091	986340		Brooks	Darlene	2025-07-30 00:00:00	850	850	0			15975 W Springdale Rd.		Forreston	IL	61030     	1A							  	          	False		False
+6469331	5091	986340		Chesney for Illinois		2025-07-30 00:00:00	500	500	0			PO Box 633		Freeport	IL	61032-0633	2A							  	          	False		False
+6469332	5091	986340		Kennay	Dorris	2025-07-30 00:00:00	340	340	0			8991 Prairie Rd		Ashton	IL	61006     	1A							  	          	False		False
+6469333	5091	986340		Peska	Sara	2025-07-30 00:00:00	370	370	0			3007 Countryside Ln		Freeport	IL	61032     	1A							  	          	False		False
+6469334	5091	986340		Goodwin	Patricia	2025-07-30 00:00:00	170	255	0			1176 Clifton Ter,		ROCHELLE,	IL	61068     	1A							  	          	False		False
+6469335	5091	986340		The Citizen Farmers		2025-08-05 00:00:00	833.33	2499.99	0			P.O. Box 261		Lake Bluff	IL	60044     	1A							  	          	False		False
+6469336	5091	986340		McCombie for Illinois		2025-08-08 00:00:00	500	500	0			318 N. 4TH STREET		SAVANNA	IL	61074     	2A							  	          	False		False
+6469337	5091	986340		Colbert	Kevin	2025-08-08 00:00:00	500	900	0	Retired	Retired	6680 S. Anterier Rd		Dixon	IL	61021     	1A							  	          	False		False
+6469338	5091	986340		Schoon	Randy	2025-08-08 00:00:00	485	485	0			601 W Oregon St		Polo	IL	61064     	1A							  	          	False		False
+6469339	5091	986340		VanVickle	Brian	2025-08-08 00:00:00	170	170	0			4824 S. Richard Rd		Rochelle	IL	61068     	1A							  	          	False		False
+6469340	5091	986340		Mudge	Aaron	2025-08-08 00:00:00	170	340	0			407 N 5th		Oregon	IL	61061     	1A							  	          	False		False
+6469341	5091	986340		Beeh	Katie	2025-08-08 00:00:00	170	170	0			1202 S Blackhawk Rd		Oregon	IL	61061     	1A							  	          	False		False
+6469342	5091	986340		McCloy	William	2025-08-19 00:00:00	370	470	0			212 N Clay Street		Hinsdale	IL	60521     	1A							  	          	False		False
+6469343	5091	986340		Chelsie	Leffelman	2025-08-20 00:00:00	170	170	0			2271 N 3850 East Rd		Bellflower	IL	61724     	1A							  	          	False		False
+6469344	5091	986340		Mudge	Aaron	2025-08-21 00:00:00	170	340	0			407 N 5th		Oregon	IL	61061     	1A							  	          	False		False
+6469345	5091	986340		Drew	Christen	2025-08-21 00:00:00	250	250	0			10741 Moses Manor Dr		Benton	IL	62812     	1A							  	          	False		False
+6469346	5091	986340		Schrimpsher	Gary	2025-08-22 00:00:00	170	170	0			1268 S Daysville Rd		OREGON	IL	61061     	1A							  	          	False		False
+6469347	5091	986340		Ororke	Dominic	2025-08-22 00:00:00	170	170	0			4197 S Prairie Rd		Oregon	IL	61061     	1A							  	          	False		False
+6469348	5091	986340		Hofmann	Paul	2025-08-22 00:00:00	100	270	0			6053 SWEET GRASS DR		Harlem	IL	61073     	1A							  	          	False		False
+6469349	5091	986340		Warner	Greg	2025-08-23 00:00:00	340	340	0			741 N Harmony Rd		MOUNT MORRIS	IL	61054     	1A							  	          	False		False
+6469350	5091	986340		Guist	Hollie	2025-08-25 00:00:00	170	170	0			502 W. Center St		Mount Morris	IL	61054     	1A							  	          	False		False
+6469351	5091	986340		Citizens for Bradley J. Fritts		2025-08-25 00:00:00	500	500	0			Redaction Requested					2A							  	          	False		True
+6469352	5091	986340		Kennay	Kaleb	2025-08-25 00:00:00	225	260	0			5890 S Centerview Dr,		ROCHELLE	IL	61068     	1A							  	          	False		False
+6469353	5091	986340		Kennay	Kaleb	2025-08-25 00:00:00	35	260	0			5890 S Centerview Dr,		ROCHELLE	IL	61068     	1A							  	          	False		False
+6469354	5091	986340		LaHood for Congress		2025-08-26 00:00:00	2500	2500	0			Pob 10735		Peoria	IL	61612     	2A							  	          	False		False
+6469355	5091	986340		Wilhelmsen	George	2025-08-26 00:00:00	325	695	0			10436 Deercreek Ct.		Rochelle	IL	61068     	1A							  	          	False		False
+6469356	5091	986340		Lee County Republican Central Committee		2025-08-26 00:00:00	170	170	0			PO Box 223		Dixon	IL	61021     	2A							  	          	False		False
+6469357	5091	986340		Hansen	Karl	2025-08-26 00:00:00	710	710	0			1021 4th Ave		Rochelle	IL	61068     	1A							  	          	False		False
+6469358	5091	986340		Martin	Chris	2025-08-26 00:00:00	170	170	0			512 North 4th St		Oregon	IL	61061     	1A							  	          	False		False
+6469359	5091	986340		Koolidge	Michael	2025-08-26 00:00:00	175	345	0			1033 N 3rd St		Rochelle	IL	61068     	1A							  	          	False		False
+6469360	5091	986340		Randall	Stephanie	2025-08-29 00:00:00	500	500	0			128 Kingswood Ct.		Naperville	IL	60565     	1A							  	          	False		False
+6469361	5091	986340		The Citizen Farmers		2025-09-05 00:00:00	833.33	2499.99	0			P.O. Box 261		Lake Bluff	IL	60044     	1A							  	          	False		False
+6469362	5091	986340		Goodwin	Patricia	2025-09-10 00:00:00	85	255	0			1176 Clifton Ter,		ROCHELLE,	IL	61068     	1A							  	          	False		False
+6469363	5091	986340		Glen	Jeff	2025-09-10 00:00:00	170	170	0			9521 E. Marquand Dr.		Rochelle	IL	61068     	1A							  	          	False		False
+6469364	5091	986340		Koolidge	Michael	2025-09-10 00:00:00	170	345	0			1033 N 3rd St		Rochelle	IL	61068     	1A							  	          	False		False
+6469365	5091	986340		Janes	Dan	2025-09-10 00:00:00	200	200	0			3044 N Meridian Rd		Stillman Valley	IL	61084     	1A							  	          	False		False
+6469366	5091	986340		McCloy	William	2025-09-10 00:00:00	100	470	0			212 N Clay Street		Hinsdale	IL	60521     	1A							  	          	False		False
+6469367	5091	986340		Simmons	Hunter	2025-09-10 00:00:00	85	170	0			450 Hickory lane		Davis Junction	IL	61020     	1A							  	          	False		False
+6469368	5091	986340		Don Tracy for Illinois		2025-09-11 00:00:00	1000	1000	0			PO Box 135		Springfield	IL	62705     	2A							  	          	False		False
+6469369	5091	986340		Colbert	Kevin	2025-09-29 00:00:00	400	900	0	Retired	Retired	6680 S. Anterier Rd		Dixon	IL	61021     	1A							  	          	False		False
 6469370	25018	986342		Moore	Jo	2025-10-01 00:00:00	2581.45	0	0	Retired	Retired	260 E Chestnut St	Apt 3707	Chicago	IL	60611     	1A							  	          	True		False
 6469371	25018	986342		Alberding	Ellen	2025-10-03 00:00:00	5162.7	0	0	Manager	Joyce Foundation	1550 N State Pkwy, Apt 601		Chicago	IL	60610     	1A							  	          	True		False
 6469372	40699	986344	986344-1	Ochalla	Kevin	2025-08-28 00:00:00	3000	0	3000	lawyer	Cook County Public Defenders	1735 N NEW ENGLAND		CHICAGO	IL	60707     	3A		Ochalla	Kevin	1735 N NEW ENGLAND		CHICAGO	IL	60707     	True		False
@@ -625989,4 +625989,4 @@ Chicago	IL	60607     	2A							  	          	False		False
 6561869	22589	1000646		Main St. Lemont LLC		2026-02-20 00:00:00	1000	0	0			16W020 79th Street		Burr Ridge	IL	60527     	1A							  	          	True		False
 6561870	22589	1000646		Pulido	Jesse	2026-02-20 00:00:00	1500	0	0	President	Pulido Trucking, Inc.	7015 W. 85th Street		Burbank	IL	60459     	1A							  	          	True		False
 6561871	22589	1000646		Vequity		2026-02-20 00:00:00	5000	0	0			226 N. Morgan Street		Chicago	IL	60607     	1A							  	          	True		False
-6561872	39499	1000647		Associated Fire Fighters of IL PAC Fund		2026-02-20 00:00:00	2500	0	0			927 S Second		Springfield	IL	62704    
+6561872	39499	1000647		Associated Fire Fighters of IL PAC Fund		

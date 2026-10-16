@@ -676561,7 +676561,7 @@ ID	CommitteeID	FiledDocType	DocName	Amend	Comment	Pages	ElectionType	ElectionYea
 716042	26223	  	Quarterly	False		4	  	    	2018-07-01 00:00:00	2018-09-30 00:00:00	S	2018-10-15 11:57:05	I	IDIS3	WENTWORTH II	DAVID L										False		False
 716043	23386	  	Quarterly	False		3	  	    	2018-07-01 00:00:00	2018-09-30 00:00:00	S	2018-10-15 11:57:35	I	IDIS3	Gitchoff	Cathi	Webb	B. Dean	161 N. Shamrock St.		East Alton	IL	62024			False		False
 716044	34849	  	A-1	False		2	  	    	2018-10-01 00:00:00	2018-12-31 00:00:00	S	2018-10-15 12:02:56	I	IDIS3	Bellcoff	Norma	Bellcoff	Norma	21 West Pickett's Crossing		Edwardsville	IL	62025			True		False
-716045	34707	  	Quarterly	False		5	  	    	2018-07-25 00:00:00	2018-09-30 00:00:00	S	2018-10-15 12:04:57	I	IDIS3	Gray	Rozlyn										False		False
+716045	34707	  	Quarterly	False		5	  	    	2018-07-25 00:00:00	2018-09-30 00:00:00	S	2018-10-15 12:04:57	I	IDIS3	Gray	Rozlyn										True		False
 716046	34543	  	A-1	False		1	  	    	2018-10-01 00:00:00	2018-12-31 00:00:00	S	2018-10-15 12:05:58	I	IDIS3	Moake	Cody										True		False
 716047	246	  	Quarterly	False		3	  	    	2018-07-01 00:00:00	2018-09-30 00:00:00	S	2018-10-15 12:07:15	I	IDIS3	Winn	Randy										False		False
 716048	6239	  	Quarterly	False		59	  	    	2018-07-01 00:00:00	2018-09-30 00:00:00	S	2018-10-15 12:08:47	I	IDIS3	Kasper	Michael J.	Wurth	Emily	111 W Washington St.	Suite 1202	Chicago	IL	60602			False		False
@@ -687128,7 +687128,7 @@ ID	CommitteeID	FiledDocType	DocName	Amend	Comment	Pages	ElectionType	ElectionYea
 726641	32794	  	Quarterly	False		1	  	    	2018-10-01 00:00:00	2018-12-31 00:00:00	S	2019-01-15 12:09:20	I	IDIS3	Kennedy	Charles										False		False
 726642	24226	  	Quarterly	False		1	  	    	2018-10-01 00:00:00	2018-12-31 00:00:00	S	2019-01-15 12:11:09	I	IDIS3	Meyer	Jeffrey										False		False
 726643	13066	  	Quarterly	False		3	  	    	2018-10-01 00:00:00	2018-12-31 00:00:00	S	2019-01-15 12:11:53	I	IDIS3	Tarka	Gerald										False		False
-726644	34707	  	Quarterly	False		3	  	    	2018-10-01 00:00:00	2018-12-31 00:00:00	S	2019-01-15 12:13:42	I	IDIS3	Gray	Rozlyn										False		False
+726644	34707	  	Quarterly	False		3	  	    	2018-10-01 00:00:00	2018-12-31 00:00:00	S	2019-01-15 12:13:42	I	IDIS3	Gray	Rozlyn										True		False
 726645	424	  	A-1	False		1	  	    	2018-10-01 00:00:00	2018-12-31 00:00:00	S	2019-01-15 12:16:08	I	IDIS3	Hanneken	Lonnie								Hanneken	Lonnie	True		False
 726646	34729	  	A-1	False		2	  	    	2019-01-01 00:00:00	2019-03-31 00:00:00	S	2019-01-15 12:17:54	I	IDIS3	Fox	Shayle										True		False
 726647	17626	  	Quarterly	False		3	  	    	2018-10-01 00:00:00	2018-12-31 00:00:00	S	2019-01-15 12:18:40	I	IDIS3	Bradley	John	Lowery	Christopher	416 E Webster		Benton	IL	62812			False		False
@@ -704741,10 +704741,10 @@ ID	CommitteeID	FiledDocType	DocName	Amend	Comment	Pages	ElectionType	ElectionYea
 744283	32097	  	Quarterly	False		1	  	    	2019-04-01 00:00:00	2019-06-30 00:00:00	S	2019-07-15 17:09:32	I	IDIS3	Hempen	Brenda										False		False
 744284	23792	  	Final	False		1	  	    	2019-07-01 00:00:00	2019-07-15 00:00:00	S	2019-07-15 17:10:21	I	IDIS3	Sandack	Ron										False		False
 744285	20209	  	Quarterly	False		2	  	    	2019-04-01 00:00:00	2019-06-30 00:00:00	S	2019-07-15 17:11:12	I	IDIS3	Carlson	William	Carlson	William	10821 Ashford Ave.		Frankfort	IL	60423			False		False
-744286	34707	  	Quarterly	True		7	  	    	2019-01-01 00:00:00	2019-03-31 00:00:00	S	2019-07-15 17:12:55	I	IDIS3	Gray	Rozlyn	Maloney	Angie	4606 N. Damen #1		Chicago	IL	60625			False	Accidental deletion of expenditure/replacement of similar expenditure for newer date	False
+744286	34707	  	Quarterly	True		7	  	    	2019-01-01 00:00:00	2019-03-31 00:00:00	S	2019-07-15 17:12:55	I	IDIS3	Gray	Rozlyn	Maloney	Angie	4606 N. Damen #1		Chicago	IL	60625			True	Accidental deletion of expenditure/replacement of similar expenditure for newer date	False
 744287	32882	  	Quarterly	False		2	  	    	2019-04-01 00:00:00	2019-06-30 00:00:00	S	2019-07-15 17:13:18	I	IDIS3	Gariepy	Peter										True		False
 744288	12713	  	Quarterly	False		4	  	    	2019-04-01 00:00:00	2019-06-30 00:00:00	S	2019-07-15 17:14:18	I	IDIS3	Daniels	Patrick										False		False
-744289	34707	  	Quarterly	False		2	  	    	2019-04-01 00:00:00	2019-06-30 00:00:00	S	2019-07-15 17:14:23	I	IDIS3	Gray	Rozlyn	Maloney	Angie	4606 N. Damen #1		Chicago	IL	60625			False	No amendments. Q2 filing	False
+744289	34707	  	Quarterly	False		2	  	    	2019-04-01 00:00:00	2019-06-30 00:00:00	S	2019-07-15 17:14:23	I	IDIS3	Gray	Rozlyn	Maloney	Angie	4606 N. Damen #1		Chicago	IL	60625			True	No amendments. Q2 filing	False
 744290	5377	  	Quarterly	False		1	  	    	2019-04-01 00:00:00	2019-06-30 00:00:00	S	2019-07-15 17:16:37	I	IDIS3	Lunnemann	Julie										False		False
 744291	32740	  	Quarterly	False		1	  	    	2019-04-01 00:00:00	2019-06-30 00:00:00	S	2019-07-15 17:16:39	I	IDIS3	Arnet	Karen	Arnet	Karen	1960 Haddam Place		Hoffman Estates	IL	60169	Arnet	Karen	False		False
 744292	32621	  	Quarterly	False		4	  	    	2019-04-01 00:00:00	2019-06-30 00:00:00	S	2019-07-15 17:17:53	I	IDIS3	Urbanski	Kerri										False		False
@@ -712855,7 +712855,7 @@ ID	CommitteeID	FiledDocType	DocName	Amend	Comment	Pages	ElectionType	ElectionYea
 752413	27357	  	Quarterly	False		1	  	    	2019-07-01 00:00:00	2019-09-30 00:00:00	S	2019-10-15 15:57:14	I	IDIS3	Fuchs	Jim	Fuchs	Jim	2112 W Galena Blvd, Ste 8	442	Aurora	FL	60506	Fuchs	Jim	False		False
 752414	19850	  	Final	False		1	  	    	2019-10-01 00:00:00	2019-10-15 00:00:00	S	2019-10-15 15:57:28.937000000	I	IDIS3	O'Brien	Julie										False		False
 752415	35589	  	A-1	False		1	  	    	2019-09-03 00:00:00	2019-09-30 00:00:00	S	2019-10-15 15:57:58	I	IDIS3	Kilroy	William										True		False
-752416	34707	  	Quarterly	False		1	  	    	2019-07-01 00:00:00	2019-09-30 00:00:00	S	2019-10-15 15:59:18	I	IDIS3	Gray	Rozlyn										False		False
+752416	34707	  	Quarterly	False		1	  	    	2019-07-01 00:00:00	2019-09-30 00:00:00	S	2019-10-15 15:59:18	I	IDIS3	Gray	Rozlyn										True		False
 752417	124	  	Quarterly	False		19	  	    	2019-07-01 00:00:00	2019-09-30 00:00:00	S	2019-10-15 15:59:33	I	NGP Software, Inc.	Feltman	Lexie										False		False
 752418	14111	  	Quarterly	False		17	  	    	2019-07-01 00:00:00	2019-09-30 00:00:00	S	2019-10-15 16:00:01	I	IDIS3	Frerichs	Michael	Mason	Barbara S.	43 Trailridge Lane		Springfield	IL	62704			False		False
 752419	35589	  	Quarterly	False		5	  	    	2019-09-03 00:00:00	2019-09-30 00:00:00	S	2019-10-15 16:00:08	I	IDIS3	Kilroy	William										False		False
@@ -720921,7 +720921,7 @@ ID	CommitteeID	FiledDocType	DocName	Amend	Comment	Pages	ElectionType	ElectionYea
 760491	23285	  	Quarterly	False		2	  	    	2019-10-01 00:00:00	2019-12-31 00:00:00	S	2020-01-15 16:29:29	I	IDIS3	Ramirez	Franklin										False		False
 760492	34409	  	Quarterly	True		6	  	    	2019-07-01 00:00:00	2019-09-30 00:00:00	S	2020-01-15 16:31:35	I	IDIS3	O'Keefe	Maggie										False	Found typo in expenditures	False
 760493	35399	  	Letter/Correspondence	False		1	  	    			C	2020-01-15 16:29:01	D													False		False
-760494	34707	  	Quarterly	False		1	  	    	2019-10-01 00:00:00	2019-12-31 00:00:00	S	2020-01-15 16:35:42	I	IDIS3	Gray	Rozlyn										False		False
+760494	34707	  	Quarterly	False		1	  	    	2019-10-01 00:00:00	2019-12-31 00:00:00	S	2020-01-15 16:35:42	I	IDIS3	Gray	Rozlyn										True		False
 760495	35582	  	Quarterly	False		5	  	    	2019-10-01 00:00:00	2019-12-31 00:00:00	S	2020-01-15 16:36:01	I	IDIS3	Fadeley	Michelle	Murphy	Kelly Marie	3950 N Lake Shore Drive	#527	Chicago	IL	60613			False		False
 760496	35256	  	Quarterly	False		2	  	    	2019-10-01 00:00:00	2019-12-31 00:00:00	S	2020-01-15 16:36:59	I	IDIS3	Cha	Tom										False		False
 760498	35112	  	Quarterly	False		1	  	    	2019-10-01 00:00:00	2019-12-31 00:00:00	S	2020-01-15 16:37:29	I	IDIS3	Roudez	Joseph								Roudez	Joseph	True		False
@@ -729605,7 +729605,7 @@ ID	CommitteeID	FiledDocType	DocName	Amend	Comment	Pages	ElectionType	ElectionYea
 769192	24799	  	Quarterly	False		2	  	    	2020-01-01 00:00:00	2020-03-31 00:00:00	S	2020-04-15 16:49:34	I	IDIS3	McCarthy	Daniel	Mason	Barbara S.	43 Trailridge Lane		Springfield	IL	62704			True		False
 769193	34659	  	Quarterly	False		2	  	    	2020-01-01 00:00:00	2020-03-31 00:00:00	S	2020-04-15 16:50:39	I	IDIS3	Barnett	Robert										False		False
 769194	9211	  	Quarterly	False		4	  	    	2020-01-01 00:00:00	2020-03-31 00:00:00	S	2020-04-15 16:53:14	I	IDIS3	Johnson	Lorrie										False		False
-769195	34707	  	Quarterly	False		1	  	    	2020-01-01 00:00:00	2020-03-31 00:00:00	S	2020-04-15 16:53:55	I	IDIS3	Gray	Rozlyn										False		False
+769195	34707	  	Quarterly	False		1	  	    	2020-01-01 00:00:00	2020-03-31 00:00:00	S	2020-04-15 16:53:55	I	IDIS3	Gray	Rozlyn										True		False
 769196	14093	  	Quarterly	False		5	  	    	2020-01-01 00:00:00	2020-03-31 00:00:00	S	2020-04-15 16:54:19	I	IDIS3	Muhr	Tina										False		False
 769197	22989	  	Quarterly	False		3	  	    	2020-01-01 00:00:00	2020-03-31 00:00:00	S	2020-04-15 16:56:53	I	NGP Software, Inc.	Levy	Paul	Joyce	Kayla	PO Box 101121		Chicago	IL	60610			False		False
 769198	34232	  	Quarterly	False		1	  	    	2020-01-01 00:00:00	2020-03-31 00:00:00	S	2020-04-15 16:57:40	I	IDIS3	Chancellor	Laura										False		False
@@ -732214,4 +732214,4 @@ ID	CommitteeID	FiledDocType	DocName	Amend	Comment	Pages	ElectionType	ElectionYea
 771804	33922	  	A-1	False		1	  	    	2020-04-01 00:00:00	2020-06-30 00:00:00	S	2020-07-02 14:48:57.553000000	I	IDIS3	Villa	Karina	McKevitt	Kelly	1 N. LaSalle St.	Ste 2065	Chicago	IL	60602			True		False
 771805	607	  	Quarterly	False		5	  	    	2020-04-01 00:00:00	2020-06-30 00:00:00	S	2020-07-02 14:49:54	I	IDIS3	Mitchell	Toni										False		False
 771806	35535	  	Quarterly	False		2	  	    	2020-04-01 00:00:00	2020-06-30 00:00:00	S	2020-07-02 14:52:50	I	IDIS3	Tristan	Marie	Saveall	Melody	150 N Wacker Drive	Suite 1550	Chicago	IL	60606			True		False
-771807	32228	  	Quarterly	False		1	  	    	2020-04-01 00:00:00	2020-06-30
+771807	32228	  	Quarterly	False		1	  	    	2020-04-01 00:00:00	2020-06-30 00:00:

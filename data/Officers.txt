@@ -45,6 +45,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 88701	Abdel-Moneim	Eiman	1301 Regency Grove Dr.		Darien	IL	60561     	Treasurer	                    	False
 68397	Abdnour	Donna	4720 N Idlewood Ct		Peoria	IL	61614     	Treasurer	309.686.2574        	False
 92096	Abdnour	Sydney	1800 Peach Bud Dr		Peoria	IL	61615     	Treasurer	309-643-2787        	False
+100590	Abdoli	Elli	2350 Kerner Blvd, Ste. 250		San Rafael	CA	94901     	Treasurer	415.389.6800        	False
 4079	Abdullah	Askia K	4844 W Potomac Ave		Chicago	IL	60651     	Treasurer	626-6800/826-3700   	False
 48618	Abdullah	Askia K	4844 W Potomac Ave		Chicago	IL	60651     	Chair	626-6800/826-3700   	False
 6528	Abdullah	Kasib	12214 S May		Chicago	IL	60643     	Treasurer	(312)427-7499       	False
@@ -11685,7 +11686,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 16292	Collier	Dale	305 E Main		Steeleville	IL	62288     	Chair	                    	False
 25396	Collier	Ed	7th & Warren		Oquawka	IL	61469     	Chair	309/867-5021        	False
 33155	Collier	Emily	8120 S Essex		Chicago	IL	60617     	Treasurer		False
-99947	Collier	Jeff	1937 Reserve Walkway		Belleville	IL	62220     	Chair	                    	False
+99947	Collier	Jeff	1937 Reserve Walkway		Belleville	IL	62220     	Chair	618.201.0987        	False
 22467	Collier	Pamela	5523 W Kamerling		Chicago	IL	60657     	Treasurer	                    	False
 53961	Collier	Pat	PO Box 93		Olympia Fields	IL	60461     	Treasurer	773.392.8575        	False
 99948	Collier	Sharrye	1937 Reserve Walkway		Belleville	IL	62220     	Treasurer	                    	False
@@ -20128,6 +20129,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 91526	Fogle	Timothy L.	607 N Franklin		Litchfield	IL	67056     	Chair	217.259.7609        	False
 35764	Fogleman	Marsha	6450 S 6th St Rd		Springfield	IL	62707-6818	Cust/records	786-2850            	False
 46100	Fogleman	Marsha	PO Box 8196		Springfield	IL	62791-8196	Comptroller	217.786-2850        	False
+100585	Foglia	Vince	9 Kensington Dr.		North Barrington	IL	60010     	Chair	                    	False
+100586	Foglia	Vince	9 Kensington Dr.		North Barrington	IL	60010     	Treasurer	                    	False
 89903	Foglia	Vincent	101 S Wynstone Park Drive		North Barrington	IL	60010     	Chair	224.655.7181        	False
 44472	Foisy	Mark	2623 Prairie Ave		Evanston	IL	60201     	Treasurer	847-424-1668        	False
 43195	Foisy	Mark T	2623 Prairie Ave		Evanston	IL	60201     	Treasurer	773-575-7610        	False
@@ -28588,7 +28591,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 41915	Hoerner	Michael	2717 Fox Run, apt 2		Springfield	IL	62704     	Chair	217/691-0125        	False
 27218	Hoerner	Shelby	8043 E 1800 N Rd		Graymont	IL	61743     	Chair		False
 89412	Hoerner.	Garrett	5111 West Main St		Belleville	IL	62226     	Treasurer	618.560.8836        	False
-25865	Hoerner.	Garrett P.	5111 W Main St		Belleville	IL	62226     	Treasurer	618.235.0020        	False
+25865	Hoerner.	Garrett P.	5111 W Main St		Belleville	IL	62220     	Treasurer	618.560.8836        	False
 5239	Hoerr	Dixie	1200 Avon		Pekin	IL	61554     	Treasurer	309/346-7536        	False
 1642	Hoerr	Kenneth E.	4001 N. War Memorial Drive		Peoria	IL	61614     	Chair	                    	False
 86674	Hoerr	Luke	5603 N Renwood Dr		Peoria	IL	61614     	Chair	309-840-2534        	False
@@ -32630,6 +32633,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 19869	Juvingo	Pat	453 Taylor		Bartlett	IL	60103     	Treasurer	708-289-1491        	False
 31855	Kaak	Stephan	116 Harvey Ct		East Peoria	Il	61611     	Chair	309-699-3570        	False
 12894	Kabak	Sheryl	26 Montbello Dr		Vernon Hills	IL	60061     	Chair	(708)367-5849       	False
+100588	Kabat	Amelia	7823 W. Addison St.		Chicago	IL	60634     	Chair	773.576.1573        	False
+100589	Kabat	Andrew	7823 W. Addison St.		Chicago	IL	60634     	Treasurer	773.852.1573        	False
 45760	Kabbes	Scott	2002 Steger Dr		Effingham	IL	62401     	Chair	217.347.5063        	False
 45761	Kabbes	Scott	2002 Steger Dr		Effingham	IL	62401     	Treasurer	217.347.5063        	False
 48316	Kabir	Cazembe	9429 S Ada		Chicago	IL	60620     	Treasurer	                    	False
@@ -36113,6 +36118,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 79193	Kwiatkowski	Casimir	1248 Viola Ln.		Volo	IL	60084     	Chair	630-290-5753        	False
 79195	Kwiatkowski	JoAnn	1248 Viola Ln.		Volo	IL	60084     	Treasurer	                    	False
 12253	Kwiatkowski	Mike	2605 Springdale Circle		Naperville	IL	60564     	Treasurer	(708)369-2454       	False
+100587	Kwilosz	Brian	1443 Baldwin Court		Naperville	IL	60565     	Chair	603.701.0397        	False
 79268	Kwon	Bernard	1437 Picadilly Circle		Mount Prospect	IL	60056     	Chair	                    	False
 78980	Kwon	Jae K	1781 Ardmore Lane		Wheaton	IL	60189     	Chair	847.338.1063        	False
 25629	Kyes	Barbara L	517 Juniper		Petersburg	IL	62675     	Treasurer	(217) 632-4103      	False
