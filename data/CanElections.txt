@@ -52938,7 +52938,6 @@ ID	CandidateID	ElectionType	ElectionYear	IncChallOpen	WonLost	FairCampaign	Limit
 58878	31983	CE	2015	Chal	Won 	False	False	
 75708	31983	CE	2019	Inc 	Won 	False	False	
 86941	31983	CE	2023	Inc 	Won 	False	False	
-101921	31983	CE	2027	Inc 	    	False	False	
 58881	31984	CE	2015	    	Won 	False	False	
 75846	31984	CE	2019	Inc 	Won 	False	False	
 58880	31985	CE	2015	    	Won 	False	False	
@@ -55857,7 +55856,6 @@ ID	CandidateID	ElectionType	ElectionYear	IncChallOpen	WonLost	FairCampaign	Limit
 74081	40545	GE	2018	Open	Won 	False	True	Limits Off for Race
 72350	40546	GP	2018	Open	Won 	True	False	
 74438	40546	GE	2018	Open	Lost	True	False	
-101922	40546	GE	2026	Chal	    	False	True	Board Determination
 72351	40547	GP	2018	Chal	Won 	False	False	
 74439	40547	GE	2018	Chal	Lost	False	False	
 72355	40548	GP	2018	Chal	Lost	False	False	
@@ -64502,7 +64500,7 @@ ID	CandidateID	ElectionType	ElectionYear	IncChallOpen	WonLost	FairCampaign	Limit
 89985	47572	GE	2024	Open	Won 	True	True	Limits Off for Race
 101577	47572	GE	2026	Inc 	    	False	True	Board Determination
 89991	47573	GE	2024	Open	Won 	False	True	Limits Off for Race
-101574	47573	GE	2026	Inc 	    	False	True	Limits Off for Race
+101574	47573	GE	2026	Inc 	    	False	False	
 89994	47574	GP	2024	Chal	Won 	False	False	
 89992	47574	GE	2024	Chal	Lost	False	False	
 89993	47575	GE	2024	Open	Won 	True	False	
@@ -65734,8 +65732,8 @@ ID	CandidateID	ElectionType	ElectionYear	IncChallOpen	WonLost	FairCampaign	Limit
 100574	53531	GE	2026	Open	    	False	False	
 100245	53532	GP	2026	Open	Won 	False	False	
 100937	53532	GE	2026	Open	    	False	False	
-100878	53533	GE	2026	Inc 	    	True	True	Limits Off for Race
-98815	53533	GP	2026	Inc 	Won 	True	False	
+100878	53533	GE	2026	Open	    	True	False	
+98815	53533	GP	2026	Open	Won 	True	False	
 98837	53534	GP	2026	Open	Won 	True	True	Self Funding Disclosure
 100569	53534	GE	2026	Open	    	True	True	Limits Off for Race
 98838	53535	GP	2026	Open	Lost	False	False	
@@ -66567,7 +66565,7 @@ ID	CandidateID	ElectionType	ElectionYear	IncChallOpen	WonLost	FairCampaign	Limit
 101595	54128	GP	2026	Chal	Won 	True	False	
 101596	54128	GE	2026	Chal	    	True	False	
 101597	54129	CE	2027	    	    	False	False	
-101598	54130	GE	2026	Chal	    	False	True	Board Determination
+101598	54130	GE	2026	Chal	    	False	False	
 101599	54131	GP	2026	Open	Won 	False	False	
 101600	54131	GE	2026	Open	    	False	False	
 101601	54132	CE	2025	Inc 	Won 	False	False	
@@ -66799,15 +66797,3 @@ ID	CandidateID	ElectionType	ElectionYear	IncChallOpen	WonLost	FairCampaign	Limit
 101907	54374	CE	2027	Chal	    	False	False	
 101913	54376	GE	2026	Inc 	    	False	False	
 101914	54376	GP	2026	Inc 	    	False	False	
-101915	54377	CP	2027	Chal	    	False	False	
-101918	54378	CP	2027	    	    	False	False	
-101917	54379	CP	2027	    	    	False	False	
-101916	54380	CP	2027	    	    	False	False	
-101919	54381	CE	2027	    	    	False	False	
-101920	54382	CE	2027	Chal	    	False	False	
-101924	54383	GE	2026	Chal	    	False	False	
-101923	54384	CE	2027	Open	    	False	False	
-101925	54385	CE	2027	    	    	False	False	
-101926	54385	CE	2019	    	Won 	False	False	
-101928	54387	CP	2027	    	    	False	False	
-101927	54388	CE	2027	    	    	False	False	

@@ -220004,11 +220004,11 @@ ution			False	False	False		False
 3507947	26223	716042	0	NAACP Peoria Branch		2018-09-28 00:00:00	725	725				IL	          	8B	Sponsorship			False	False	False		False
 3507948	26223	716042	0	State Board of Elections		2018-09-20 00:00:00	300	300				IL	          	8B	Civil penalties			False	False	False		False
 3507949	23386	716043	0	Wood River Township Democrats		2018-09-10 00:00:00	250	250	161 N. Shamrock St.		East Alton	IL	62024     	8B	Donation			False	False	False		False
-3507950	34707	716045	0	Bond Brothers & Co., Inc.		2018-08-24 00:00:00	410	410	7826 W 47th Street		Lyons	IL	          	8B	Walk Cards and Petitions			False	False	False		False
-3507951	34707	716045	0	Laduzinsky and Associates, P.C.		2018-08-10 00:00:00	2500	2500	216 S. Jefferson	Suite 301	Chicago	IL	60661     	8B	Legal fees			False	False	False		False
-3507952	34707	716045	0	Spagnolo	Steve	2018-09-12 00:00:00	750	1500	8417 Crescent Ct		Western Springs	IL	60480     	8B	Field Consulting			False	False	False		False
-3507953	34707	716045	0	Spagnolo	Steve	2018-08-23 00:00:00	750	1500	8417 Crescent Ct		Western Springs	IL	60480     	8B	Field Consulting			False	False	False		False
-3507954	34707	716045	0	Democratic Party of Illinois		2018-09-04 00:00:00	375	375	P.O. Box 610		Springfield	IL	62701     	6B	Voter File			False	False	False		False
+3507950	34707	716045	0	Bond Brothers & Co., Inc.		2018-08-24 00:00:00	410	410	7826 W 47th Street		Lyons	IL	          	8B	Walk Cards and Petitions			False	False	True		False
+3507951	34707	716045	0	Laduzinsky and Associates, P.C.		2018-08-10 00:00:00	2500	2500	216 S. Jefferson	Suite 301	Chicago	IL	60661     	8B	Legal fees			False	False	True		False
+3507952	34707	716045	0	Spagnolo	Steve	2018-09-12 00:00:00	750	1500	8417 Crescent Ct		Western Springs	IL	60480     	8B	Field Consulting			False	False	True		False
+3507953	34707	716045	0	Spagnolo	Steve	2018-08-23 00:00:00	750	1500	8417 Crescent Ct		Western Springs	IL	60480     	8B	Field Consulting			False	False	True		False
+3507954	34707	716045	0	Democratic Party of Illinois		2018-09-04 00:00:00	375	375	P.O. Box 610		Springfield	IL	62701     	6B	Voter File			False	False	True		False
 3507955	246	716047	0	Friends for Jeff Bullard		2018-09-26 00:00:00	1000	1000	622 N. Main		Woodlawn	IL	62989     	6B	Contribution			False	False	False		False
 3507956	246	716047	0	Friends for Ron Daniels		2018-09-19 00:00:00	1000	1000	1714 Broadway		MOUNT VERNON	IL	62864     	6B	Contribution			False	False	False		False
 3507957	246	716047	0	Friends for Robert "Bob" Watts		2018-09-26 00:00:00	1000	1000	3207 Lime Street		MOUNT VERNON	IL	62864     	6B	Donation			False	False	False		False
@@ -291164,10 +291164,10 @@ ution			False	False	False		False
 3579107	281	726638	0	Dimaggio's Rental		2018-09-10 00:00:00	2000	2000	April Avenue		Carmi	IL	62821     	8B	Rent			False	False	False		False
 3579108	281	726638	0	The Print Shop LLC		2018-09-24 00:00:00	291.6	291.6	213 Seventh Street		Carmi	IL	62821     	8B	Banners			False	False	False		False
 3579109	281	726638	0	First National Bank		2018-07-02 00:00:00	477.79	477.79	201 East Main Street		Carmi	IL	62821     	8B	Bank charges			False	False	False		False
-3579110	34707	726644	0	Spagnolo	Steve	2018-10-04 00:00:00	1000	1000	8417 Crescent Ct		Western Springs	IL	60480     	8B	Field Work			False	False	False		False
-3579111	34707	726644	0	CFO Consulting Group		2018-12-12 00:00:00	2250	2250	1 Park Row Place		Providence	IL	60134     	8B	Consulting			False	False	False		False
-3579112	34707	726644	0	Bond Brothers & Co., Inc.		2018-10-15 00:00:00	410	410	7826 W 47th Street		Lyons	IL	60534     	8B	Printing			False	False	False		False
-3579113	34707	726644	0	O'Sullivan	Brendan	2018-10-12 00:00:00	500	500				IL	          	8B	Consulting			False	False	False		False
+3579110	34707	726644	0	Spagnolo	Steve	2018-10-04 00:00:00	1000	1000	8417 Crescent Ct		Western Springs	IL	60480     	8B	Field Work			False	False	True		False
+3579111	34707	726644	0	CFO Consulting Group		2018-12-12 00:00:00	2250	2250	1 Park Row Place		Providence	IL	60134     	8B	Consulting			False	False	True		False
+3579112	34707	726644	0	Bond Brothers & Co., Inc.		2018-10-15 00:00:00	410	410	7826 W 47th Street		Lyons	IL	60534     	8B	Printing			False	False	True		False
+3579113	34707	726644	0	O'Sullivan	Brendan	2018-10-12 00:00:00	500	500				IL	          	8B	Consulting			False	False	True		False
 3579114	17626	726647	0	NGP VAN Inc.		2018-12-31 00:00:00	1850	1850	1101 15th Street N.W. 500		Washington	DC	20005     	8B	Computer - software			False	False	False		False
 3579115	17626	726647	0	Raoul for Illinois		2018-10-22 00:00:00	500	500	1507 E 53rd St, Ste 909		Chicago	IL	60615     	6B	Contribution			False	False	False		False
 3579116	17626	726647	0	Friends of Natalie Phelps Finnie		2018-11-03 00:00:00	500	500	RR 2 Box 127		Elizabethtown	IL	62931     	6B	Contribution			False	False	False		False
@@ -442854,27 +442854,27 @@ ution			False	False	False		False
 3730797	35155	744282	0	Stafford	William	2019-04-23 00:00:00	107.27	1107.27	1939 Sherman Ave 4E		Evanston	IL	60201     	8B	Office supplies			False	False	False		False
 3730798	35155	744282	0	Stafford	William	2019-05-30 00:00:00	1000	1107.27	1939 Sherman Ave 4E		Evanston	IL	60201     	8B	Election day expense			False	False	False		False
 3730799	20209	744285	0	Frankfort Twnshp. Repub. Comm. - ID # 4707		2019-06-25 00:00:00	250	250	20821 S. Briarwood Lane		Mokena	IL	60448-8920	6B	Contribution			False	False	False	U.S.A.	False
-3730800	34707	744286	0	Democratic Party of Illinois		2019-01-18 00:00:00	375	375	P.O. Box 610		Springfield	IL	62701     	6B	Voterfile			False	False	False		False
-3730801	34707	744286	0	Wishbone Restaurant		2019-02-12 00:00:00	262.99	262.99	3300 N. Lincoln		Chicago	IL	60657     	8B	Food			False	False	False		False
-3730802	34707	744286	0	Minuteman Press		2019-02-26 00:00:00	498	796	1249 N. Clybourn		Chicago	IL	60610     	8B	Printing			False	False	False		False
-3730803	34707	744286	0	Minuteman Press		2019-01-30 00:00:00	298	796	1249 N. Clybourn		Chicago	IL	60610     	8B	Printing			False	False	False		False
-3730804	34707	744286	0	1833 Group		2019-01-01 00:00:00	1005	3005	25 N. River Road	Suite 1833	Geneva	IL	60134     	8B	Consulting			False	False	False		False
-3730805	34707	744286	0	1833 Group		2019-03-05 00:00:00	2000	3005	25 N. River Road	Suite 1833	Geneva	IL	60134     	8B	Consulting			False	False	False		False
-3730806	34707	744286	0	Garrett Popcorn Shop		2019-02-11 00:00:00	105.07	178.17	835 N. Michigan		Chicago	IL	60611     	8B	Food			False	False	False		False
-3730807	34707	744286	0	Garrett Popcorn Shop		2019-02-11 00:00:00	73.1	178.17	835 N. Michigan		Chicago	IL	60611     	8B	Food			False	False	False		False
-3730808	34707	744286	0	Davio	Nick	2019-02-21 00:00:00	120	500			Chicago	IL	          	8B	Field Consulting			False	False	False		False
-3730809	34707	744286	0	Davio	Nick	2019-02-04 00:00:00	130	500			Chicago	IL	          	8B	Field Work			False	False	False		False
-3730810	34707	744286	0	Davio	Nick	2019-02-17 00:00:00	100	500			Chicago	IL	          	8B	Field Work			False	False	False		False
-3730811	34707	744286	0	Davio	Nick	2019-03-06 00:00:00	150	500			Chicago	IL	          	8B	Field Work			False	False	False		False
-3730812	34707	744286	0	Viol	Kevin	2019-01-21 00:00:00	578	578			Chicago	IL	          	8B	Video Production			False	False	False		False
-3730813	34707	744286	0	Borelli's Pizzeria		2019-02-18 00:00:00	100	700	2124 W Lawrence Ave		Chicago	IL	60625     	8B	Event Cost			False	False	False		False
-3730814	34707	744286	0	Borelli's Pizzeria		2019-03-31 00:00:00	600	700	2124 W Lawrence Ave		Chicago	IL	60625     	8B	Election Night			False	False	False		False
-3730815	34707	744286	0	Paladin Political		2019-03-31 00:00:00	22400	22400	1404 N Mohawk St # 3		Chicago	IL	60616     	6B	Mail			False	False	False		False
+3730800	34707	744286	0	Democratic Party of Illinois		2019-01-18 00:00:00	375	375	P.O. Box 610		Springfield	IL	62701     	6B	Voterfile			False	False	True		False
+3730801	34707	744286	0	Wishbone Restaurant		2019-02-12 00:00:00	262.99	262.99	3300 N. Lincoln		Chicago	IL	60657     	8B	Food			False	False	True		False
+3730802	34707	744286	0	Minuteman Press		2019-02-26 00:00:00	498	796	1249 N. Clybourn		Chicago	IL	60610     	8B	Printing			False	False	True		False
+3730803	34707	744286	0	Minuteman Press		2019-01-30 00:00:00	298	796	1249 N. Clybourn		Chicago	IL	60610     	8B	Printing			False	False	True		False
+3730804	34707	744286	0	1833 Group		2019-01-01 00:00:00	1005	3005	25 N. River Road	Suite 1833	Geneva	IL	60134     	8B	Consulting			False	False	True		False
+3730805	34707	744286	0	1833 Group		2019-03-05 00:00:00	2000	3005	25 N. River Road	Suite 1833	Geneva	IL	60134     	8B	Consulting			False	False	True		False
+3730806	34707	744286	0	Garrett Popcorn Shop		2019-02-11 00:00:00	105.07	178.17	835 N. Michigan		Chicago	IL	60611     	8B	Food			False	False	True		False
+3730807	34707	744286	0	Garrett Popcorn Shop		2019-02-11 00:00:00	73.1	178.17	835 N. Michigan		Chicago	IL	60611     	8B	Food			False	False	True		False
+3730808	34707	744286	0	Davio	Nick	2019-02-21 00:00:00	120	500			Chicago	IL	          	8B	Field Consulting			False	False	True		False
+3730809	34707	744286	0	Davio	Nick	2019-02-04 00:00:00	130	500			Chicago	IL	          	8B	Field Work			False	False	True		False
+3730810	34707	744286	0	Davio	Nick	2019-02-17 00:00:00	100	500			Chicago	IL	          	8B	Field Work			False	False	True		False
+3730811	34707	744286	0	Davio	Nick	2019-03-06 00:00:00	150	500			Chicago	IL	          	8B	Field Work			False	False	True		False
+3730812	34707	744286	0	Viol	Kevin	2019-01-21 00:00:00	578	578			Chicago	IL	          	8B	Video Production			False	False	True		False
+3730813	34707	744286	0	Borelli's Pizzeria		2019-02-18 00:00:00	100	700	2124 W Lawrence Ave		Chicago	IL	60625     	8B	Event Cost			False	False	True		False
+3730814	34707	744286	0	Borelli's Pizzeria		2019-03-31 00:00:00	600	700	2124 W Lawrence Ave		Chicago	IL	60625     	8B	Election Night			False	False	True		False
+3730815	34707	744286	0	Paladin Political		2019-03-31 00:00:00	22400	22400	1404 N Mohawk St # 3		Chicago	IL	60616     	6B	Mail			False	False	True		False
 3730816	12713	744288	0	A & B Printing		2019-04-14 00:00:00	216.1	216.1	2122 Republic		Springfield	IL	62702     	8B	Printing			False	False	False		False
 3730817	12713	744288	0	Twin Lakes Homeowners Association		2019-06-28 00:00:00	375	375	PO Box 8133		Springfield	IL	62791     	8B	Ad book			False	False	False		False
 3730818	12713	744288	0	Frye-Williamson Press, Inc		2019-04-16 00:00:00	2750.77	2750.77	PO Box 1057		Springfield	IL	62705-1057	8B	Printing			False	False	False		False
 3730819	12713	744288	0	Knights of Columbus 4175		2019-04-15 00:00:00	200	200	2801 West Street		Springfield	IL	62707     	8B	Ad book			False	False	False		False
-3730820	34707	744289	0	Beat Kitchen		2019-05-02 00:00:00	200	200	2100 W. Belmont		Chicago	IL	60618     	8B	Fund raising - hall rental			False	False	False		False
+3730820	34707	744289	0	Beat Kitchen		2019-05-02 00:00:00	200	200	2100 W. Belmont		Chicago	IL	60618     	8B	Fund raising - hall rental			False	False	True		False
 3730821	32621	744292	0	Marketing Automation, LLC		2019-05-10 00:00:00	537	537	2631 Williamsburg Ave		Geneva	IL	60134     	8B	Website			False	False	False		False
 3730822	32621	744292	0	Highway House		2019-05-20 00:00:00	207.38	207.38	5653 N Northwest Hwy		Chicago	IL	60646     	8B	Meals			False	False	False		False
 3730823	32621	744292	0	Miller's Ale House		2019-06-17 00:00:00	165.43	165.43	4474 N. Harlem Ave		Norridge	IL	60706     	8B	Meals			False	False	False		False
@@ -644337,4 +644337,4 @@ ution			False	False	False		False
 3932327	185	786596	0	Frerichs, Friends of Mike		2019-06-20 00:00:00	5000	5000	45 Greencroft		Champaign	IL	61821     	6B	Fundraiser			False	False	False		False
 3932328	185	786596	0	Gabel, Friends of Robyn		2019-06-20 00:00:00	1000	1000	P.O. Box 6453		Evanston	IL	60204-6453	6B	Fundraiser			False	False	False		False
 3932329	185	786596	0	Guzzardi, Committee to Elect Will		2019-06-20 00:00:00	1000	1000	2642 W. Fullerton Ave.		Chicago	IL	60647     	6B	Fundraiser			False	False	False		False
-3932330	185	786596	0	Holmes, Citizens for Linda		2019-06-20 00:00:00	1000	1000	PO Box 63
+3932330	185	786596	0	Holmes, Citizens for Linda		2019-06-20 00:00:00	1000	1000	PO Box 6374		Aurora	IL	60598     	6

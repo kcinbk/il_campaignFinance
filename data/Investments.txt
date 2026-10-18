@@ -24957,3 +24957,5 @@ ID	CommitteeID	FiledDocID	Description	PurchaseDate	PurchaseShares	PurchasePrice	
 37137	24663	1027431	Loan made	2023-12-28 00:00:00	0	19770.25	19770.25	0		Chicago Community Alliance		2622 W Jackson Blvd		Chicago	IL	60612     	False	
 37138	41125	1027434	Loan Made	2026-05-11 00:00:00	0	1870.36	1870.36	0		Gonzales	Peter	2540 W Diversey Ave #402		Chicago	IL	60647     	False	
 37139	41125	1027434	Loan Made	2026-05-29 00:00:00	0	30	30	0		Verizon					IL	          	False	
+37140	25411	1027602	Mailing	2020-10-14 00:00:00	0	522.31	522.31	0		United States Post Office		17541 S Kedzie		Hazel Crest	IL	60429     	False	
+37141	1188	1027639	Investment purchase	2024-12-12 00:00:00	0	53981.35	32208	0		Bradford Bank Wealth Management		600 S Idler Lane		Greenville	IL	62246     	False	

@@ -16546,6 +16546,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 91747	Dowland	Matthew	19686 Westwood Ln		Carlinville	IL	62626     	Treasurer	217-415-3159        	False
 24199	Dowling	Edward D	320 Crestview Dr		Mattoon	IL	61938     	Treasurer	217/235-1376        	False
 83314	Dowling	Karen	606 Robin Ridge		Elgin	IL	60123     	Chair	630.650.4491        	False
+100592	Dowling	Patrick Joseph	609 W. Elm St.		Urbana	IL	61801     	Chair	815.274.0525        	False
 41865	Dowling	Shelly	#6 Hunters Point		Swansea	IL	62226     	Treasurer	618.233.4591        	False
 13415	Downard	Mike	662 N 12th		Canton	IL	61520     	Chair	309/647-0055        	False
 86760	Downard-Salih	Arianna	419 S 16th St		Quincy	IL	62301     	Chair	                    	False
@@ -16598,6 +16599,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 5946	Dowty	Gary W.	1114 E. Butler		Olney	IL	62450     	Chair	618/395-2656        	False
 67824	Doye	Susan	4729 - 20th Avenue		Moline	IL	61265     	Treasurer	309-797-8139        	False
 82551	Doyle	Andrew	69 Flicker Court		Naperville	IL	60540     	Treasurer	630.301.0766        	False
+100595	Doyle	Brittany	PO Box 10692		Chicago	IL	60610     	Treasurer	317.504.2853        	False
 81391	Doyle	Carissa	23 Lincoln Court		Monmouth	IL	61462     	Treasurer	309.428.5493        	False
 15227	Doyle	Charles F	424 Ridgewood Ave		Glen Ellyn	IL	60137     	Treasurer	858-6747            	False
 30632	Doyle	Christine B	100 N Tryon St	NC1-007-20-02	Charlotte	NC	28255     	Assist/Treas		False
@@ -26770,6 +26772,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 8095	Harvey	John	380 Everett		Lake Forest	IL	60045     	Chair	(708)234-3363       	False
 7397	Harvey	Kathryn	4811 Linscott		Downers Grove	IL	60515     	Chair	(708)969-5737       	False
 46778	Harvey	Mark	3150 Wide Track Dr		Springfield	IL	62703     	Chair	217.544.3479        	False
+100599	Harvey	Rachel	18020 Arthur Dr.		Orland Park	IL	60467     	Treasurer	708.227.7642        	False
 284	Harvey	Shirley	1711 Riverview Rd.		Rock Falls	IL	61071     	Treasurer	                    	False
 26688	Harvey Jr	James	533 W 126th Pl		Chicago	IL	60628     	Treasurer	(773)928-1566       	False
 4896	Harwell	Carol Anne	1111 S. Laflin St.		Chicago	IL	60607     	Chair	                    	False
@@ -35633,6 +35636,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 49464	Krikorian	Sarah	4956 Hamilton		Chicago	IL	60625     	Treasurer	132-593-0892        	False
 20125	Krimbel	Rosemary	410 W Webster Ave		Chicago	IL	60614     	Treasurer	                    	False
 38672	Krimen	Lisa	930 N Ringwood Rd		Lake Forest	IL	60045     	Treasurer		False
+100593	Kriner	Beckett Alden	6207 S. IL Route 23		Marengo	IL	60152     	Treasurer	815.575.5487        	False
 51861	Kringlie	Brenda	6603 Kane Ave		Hodgkins	IL	60525     	Treasurer	708-482.4735        	False
 51860	Kringlie	Phil	6603 Kane Ave		Hodgkins	IL	60525     	Chair	708-482.4735        	False
 33822	Krinsky	Janice	310 W Noyes St		Arlington Hgts	IL	60005     	Chair	847/640-7501        	False
@@ -42727,6 +42731,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 11553	McLaughlin	Sharon	2432 Lowell		Springfield	IL	62704     	Treasurer	217/753-8573        	False
 21335	McLaughlin	Tom	Local 2050,Council31,AFSCME,AFL-CIO	615 S 2nd	Springfield	IL	62705     	Treasurer		False
 40046	McLaughlin	Tom	7720 W Bryce Ct		Mapleton	IL	61547-9688	Chair	309/633-1316        	False
+100598	McLaughlin Lindbloom	Bridget	13560 Mohawk Ln		Orland Park	IL	60462     	Chair	312.933.1403        	False
 6252	McLaurin	Gladys	5326 S. State		Chicago	IL	60615     	Treasurer		False
 21527	McLaurin	Otis	4333 W Cortez		Chicago	IL	60651     	Chair	773-278-0088        	False
 20240	McLaurin	Otis	4333 W Cortez		Chicago	IL		Treasurer		False
@@ -59535,6 +59540,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 20514	Seward	P John	2604 Elder Ln		Rockford	IL	61107     	Chair	815/877-7157        	False
 100502	Seward	Rhiannon	213 Liberty Street		West Dundee	IL	60118     	Treasurer	                    	False
 82124	Sewell	Brad	119 Kimberly Ct		Collinsville	IL	62234     	Treasurer	618-972-8544        	False
+100596	Sewell	Brad	PO Box 73		Edwardsville	IL	62026     	Chair	618.972.8544        	False
 52146	Sewell	Cathy	PO Box 5427		Villa Park	IL	60181-5427	Chair	                    	False
 52147	Sewell	Cathy	PO Box 5427		Villa Park	IL	60181-5427	Treasurer	                    	False
 26766	Sewell	Gerald E	1020 College Ave		Alton	IL	62002     	Treasurer		False
@@ -59542,6 +59548,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 100478	Sewell	Tim	2310 Dewes St.		Glenview	IL	60025     	Chair	847.962.6884        	False
 99600	Sewell	Wes	10 W. Chicago Ave		Naperville	IL	60540     	Treasurer	6307080125          	False
 80618	Sewell Palmer	Shauna	434 Elmwood Avenue	Apt G	Evanston	IL	60202     	Treasurer	847.971.3535        	False
+100597	Sewell..	Brad	PO Box 73		Edwardsville	IL	62026     	Treasurer	618.972.8544        	False
 59031	Sexton	Angela	11441 Winding Creek Ct		Orland Park	IL	60467     	Chair	773-343-9397        	False
 47375	Sexton	Brian	1455 W Fry	#2	Chicago	IL	60642     	Chair	                    	False
 69561	Sexton	Carol	PO Box 3362		Chicago	IL	60654     	Chair	312-755-9660        	False
@@ -69712,6 +69719,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 28449	Webster	Ralph	926 Wheelen St		Woodstock	IL	60098     	Chair	815/337-1769        	False
 33467	Webster	Ralph.	620 Indigo Ln		Woodstock	IL	60098     	Chair	815.338.2621        	False
 97831	Webster	Randall	2936 W. Palmer St		Chicago	IL	60647     	Treasurer	478.972.9042        	False
+100594	Webster	Randall	PO Box 10692		Chicago	IL	60610     	Chair	478.972.9042        	False
 16072	Webster	Sherl Chip	Rr 2		Varna	IL	61375     	Treasurer	309/463-2577        	False
 18624	Webster	Warren	129 N 96th St		Belleville	IL	62223     	Chair	618/398-4559        	False
 45040	Wechter	Sheila A.	TMA	1177 S Dee Rd	Park Ridge	IL	60068     	Accounting	847.825.1120 x1343  	False
@@ -72284,6 +72292,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 34978	Woods	Brent	7236 W 114th St		Worth	IL	60482     	Treasurer	708/671-1602        	False
 19587	Woods	Brent	11525 S Neenah		Worth	IL	60482     	Chair		False
 84490	Woods	Brent.	11166 S. Columbus Dr.		Worth	IL	60482     	Treasurer	                    	False
+100591	Woods	Brent.	11166 S. Columbus Dr.		Worth	IL	60482     	Chair	                    	False
 80053	Woods	Cat	2302 Northpointe Dr.	Unit B	Bloomington	IL	61704     	Treasurer	                    	False
 76404	Woods	Gayle	2108 School St		Hillsboro	IL	62049     	Treasurer	217.556.3587        	False
 16527	Woods	Harriett	1275 K St, Nw	Ste 750	Washington	DC	20005     	Chair	202/898-1100        	False
