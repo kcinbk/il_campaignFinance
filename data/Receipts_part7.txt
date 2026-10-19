@@ -1,4 +1,4 @@
-FL	33472     	1A							  	          	False		False
+se		False
 4033731	1362	538954		Londrigan	Timothy	2014-05-22 00:00:00	200	200	0			1227 South Seventh St.		Springfield	IL	52703     	1A							  	          	False		False
 4033732	1362	538954		Illinois American Water Company PAC		2014-06-05 00:00:00	250	250	0			300 N. Water Works Drive		Belleville	IL	62223     	2A							  	          	False		False
 4033733	1362	538954		Smith	James P.	2014-06-05 00:00:00	250	250	0			3339 Stephenson Place NW		Washington	DC	20015     	1A							  	          	False		False
@@ -612440,4 +612440,4 @@ Retired	16 Burning Tree Ct		Las Vegas	NV	89113     	1A							  	          	False
 4668014	32390	652335		Nascent Group, INC		2017-02-18 00:00:00	600	1600	0			972 Ashbrook Cir		Bolingbrook	IL	60440     	1A							  	          	True		False
 4668015	32390	652335		Democracy For America		2017-02-18 00:00:00	500	1500	0			PO Box 1717		Burlington	VT	05402     	1A							  	          	True		False
 4668016	32390	652335		Martin	James	2017-02-18 00:00:00	200	200	0			8322 S. County Line Rd		Burr Ridge	IL	60527     	1A							  	          	True		False
-4668017	32390	652335		Paige	Billie	2017-02-18 00:00:00	500	50
+4668017	32390	652335		Paige	Billie	2017-02-18 00:00:00	500	500	0			247 S. Chestnut Ln		Crete	IL	60417

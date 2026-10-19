@@ -1,4 +1,4 @@
-W. 15th Street	Suite 720	Austin	TX	78701     	2A							  	          	True		False
+   	True		False
 5294614	16107	754092		Caesars Enterprise Services LLC		2018-11-02 00:00:00	500	500	0			One Harrah's Court		Las Vegas	NV	89119     	1A							  	          	True		False
 5294615	16107	754092		Chicago Fire Fighters Union Local 2		2018-11-02 00:00:00	500	500	0			440 West 43rd St.		Chicago	IL	60609     	2A							  	          	True		False
 5294616	16107	754092		Illinois Medical Eye - PAC		2018-11-02 00:00:00	500	500	0			10 W. Philips Rd. Ste. 120		Vernon Hills	IL	60061     	2A							  	          	True		False
@@ -409944,7 +409944,7 @@ W. 15th Street	Suite 720	Austin	TX	78701     	2A							  	          	True		False
 5708846	19040	838314		Illinois Broadcasters Association		2022-02-07 00:00:00	500	500	0			200 Missouri Avenue		Carterville	IL	62918     	1A							  	          	False		False
 5708847	19040	838314		Illinois Merchants Political Action Committee Team		2022-02-07 00:00:00	750	750	0			19 S. LaSalle, Suite 300		Chicago	IL	60603     	2A							  	          	False		False
 5708848	19040	838314		Target		2022-02-07 00:00:00	550	550	0			P.O. Box 1296		Minneapolis	MN	55440-1296	1A							  	          	False		False
-5708849	34707	838315		Hernandez	Pablo	2022-03-31 00:00:00	480	480	0			4619 N. Winchester		Chicago	IL	60640     	4A	Check voided						  	          	False		False
+5708849	34707	838315		Hernandez	Pablo	2022-03-31 00:00:00	480	480	0			4619 N. Winchester		Chicago	IL	60640     	4A	Check voided						  	          	True		False
 5708850	36873	838328		Elliot	Timothy	2022-01-11 00:00:00	250	250	0			2601 Cleveland Blvd		Granite City	IL	62040     	1A							  	          	False		False
 5708851	36873	838328		Village of South Roxana Outreach		2022-01-11 00:00:00	250	250	0			211 Sinclair Ave		South Roxana	IL	62087     	1A							  	          	False		False
 5708852	36873	838328		BAILEY	DAVID	2022-01-11 00:00:00	500	500	0			3970 MARYVILLE ROAD		GRANITE CITY	IL	62040     	1A							  	          	False		False
@@ -619373,4 +619373,4 @@ Chicago	IL	60607     	2A							  	          	True		False
 5919975	37468	874476		Le Blanc	Ricky	2022-11-14 00:00:00	250	250	0			632 Canton Avenue		Milton	MA	22186     	1A							  	          	True		False
 5919976	37468	874476		Hibey	Michael	2022-11-14 00:00:00	250	250	0			1440 Topping Road		St. Louis	MO	63131     	1A							  	          	True		False
 5919977	37468	874476		Hurd	Ellyn	2022-11-14 00:00:00	250	250	0			53 old Main St.		West Dennis	MA	02670     	1A							  	          	True		False
-5919978	374
+5919978	37468	874476		ISDF		2022-10-26 00:00:00	200000	1367252.24	0			6939 W.

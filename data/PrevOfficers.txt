@@ -6271,6 +6271,7 @@ ID	CommitteeID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	ResignD
 37404	1126	Ryan	Timothy	9981 W 19th St Unit H		Mokena	IL	60448     	Chair	2023-10-18 15:26:24.957000000	False
 40013	1126	Massey	Mark	327 Country Club View		Edwardsville	IL	62025     	Chair	2024-10-09 14:16:04.560000000	False
 42602	1126	Zivojnovic	Jonathan L.	7818 W Cortland St		Elmwood	IL	60707     	Chair	2025-10-15 16:22:29.907000000	False
+43290	1126	Little	Carrie	353 Hemlock Lane		West Chicago	IL	60185     	Chair	2026-10-15 11:31:54.257000000	False
 3711	1127	Grogan	Patrick R.	Ernst & Whinney	150 S. Wacker Dr.	Chicago	IL	60606     	Treasurer	1995-01-17 00:00:00	False
 3712	1127	Mandolini	Anthony M.	Peat, Marwick, Mitchell & Co.	303 E. Wacker Dr.	Chicago	IL	60601     	Chair	1995-01-17 00:00:00	False
 4333	1127	Rogers	John R	57 N Ottawa St		Joliet	IL	60431     	Treasurer	1996-01-08 00:00:00	False
@@ -14021,6 +14022,7 @@ ID	CommitteeID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	ResignD
 7664	10887	Mukai	William	209 S Lasalle	4th Floor	Chicago	IL	60604     	Treasurer	2000-04-26 12:02:47	False
 3975	10888	Dunn	James S	212 S Second		Springfield	IL	62701     	Chair	1995-04-25 00:00:00	False
 11121	10892	Seabeck	John	25w Magnolia Ave		West Peoria	IL	61604     	Chair	2005-01-28 14:47:05	False
+43287	10892	Kennedy	Sharon	606 N Iris Ct		West Peoria	IL	61604     	Chair	2026-10-13 10:37:40.653000000	False
 6423	10893	Cataldo	Bud	1600 Golf Road		Rolling Meadows	IL	60008     	Chair	1998-07-23 00:00:00	False
 5842	10893	Speziale	Michael A	1845 E Rand Road	Po Ox 936	Prospect Hieghts	IL	60070     	Treasurer	1998-01-16 00:00:00	False
 4330	10893	Ferraro	Anthony B.	218 N. Jefferson St.	Suite 300	Chicago	IL	60661     	Treasurer	1996-01-04 00:00:00	False
@@ -21572,6 +21574,7 @@ ID	CommitteeID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	ResignD
 17779	24504	Large	Robert	845 W College		Jacksonville	IL	62650     	Treasurer	2014-08-04 14:09:01.113000000	False
 17841	24507	McLaughlin	Anita	342 Diane Lane		Chicago Heights	IL	60411     	Chair	2014-09-19 16:02:34.157000000	False
 26011	24507	Ashley	Darryl	17100 Greenwood		South Holland	IL	60473     	Chair	2017-01-10 09:35:57.430000000	False
+43294	24508	Morrison	Sean M	35 Romiga Ln		Palos Park	IL	60464     	Chair	2026-10-16 08:33:23.443000000	False
 16788	24510	Wiesner	Kenneth R	PO Box 473		Sugar Grove	IL	60554     	Chair	2013-01-15 17:05:35.490000000	False
 16789	24510	Wiesner	Kenneth R	PO Box 473		Sugar Grove	IL	60554     	Treasurer	2013-01-15 17:05:37.393000000	False
 32465	24511	Brown	Barbara	1412 High St		Chester	IL	62233     	Chair	2019-04-02 12:36:42.513000000	False
@@ -22783,6 +22786,7 @@ ID	CommitteeID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	ResignD
 36990	32569	Stafford	Ingrid	1939 Sherman Ave. #4E		Evanston	IL	60201     	Chair	2023-02-01 13:51:39.180000000	False
 36991	32569	Stafford	William	1939 Sherman Ave. #4E		Evanston	IL	60201     	Treasurer	2023-02-01 13:51:43.207000000	False
 32334	32576	Cook	Dennis.	82 S. LaGrange Rd.	Suite 204	LaGrange	IL	60525     	Treasurer	2019-01-15 09:12:41.430000000	False
+43288	32596	Ziller	Dan	12904 Ernesti Rd		Huntley	IL	60142     	Chair	2026-10-13 10:47:11.537000000	False
 35640	32605	Williams Jr.	Roy	2649 E. Lawrence Ave		Springfield	IL	62703     	Treasurer	2022-08-24 08:13:28.123000000	False
 42327	32605	Jones-Anderson	Claire	710 N 5th St., #4		Springfield	IL	62702     	Treasurer	2025-04-15 15:40:44.257000000	False
 30485	32607	Bodach	Bob	716 Westshore Dr.		Shorewood	IL	60404     	Treasurer	2017-12-13 14:51:28.147000000	False
@@ -23787,6 +23791,7 @@ ID	CommitteeID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	ResignD
 38850	36545	Wold	Sherry	2800 Via Rosso St. #96		Springfield	IL	62703     	Treasurer	2024-07-05 09:04:38.813000000	False
 42089	36548	Henry	Tamberlin	PO Box 579		South Holland	IL	60473     	Treasurer	2024-12-04 10:18:27.540000000	False
 42202	36554	Nazaire	Dr.Regine E.	3968 S. Ellis St.		Chicago	IL	60653     	Treasurer	2025-01-29 15:47:50.507000000	False
+43289	36567	Thornton	Patricia	647 North 40th Street		East Saint Louis	IL	62205     	Treasurer	2026-10-14 08:58:25.653000000	False
 38980	36571	Warshaw	Anne	4124 Grove St.		Skokie	IL	60076     	Treasurer	2024-09-23 08:40:00.557000000	False
 35421	36576	Durflinger	Kyle	820 S Kendall Street		Lakewood	CO	80226     	Treasurer	2022-05-31 15:06:12.477000000	False
 42185	36579	Nichols	Greg	25200 Round Barn Rd		Plainfield	IL	60585     	Chair	2025-01-23 08:39:51.283000000	False
@@ -23988,6 +23993,7 @@ ID	CommitteeID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	ResignD
 35290	37248	Stainback	Maya	5132 S. Kimbark Ave.	Unit 1E	Chicago	IL	60615     	Chair	2022-03-18 13:28:14.767000000	False
 37334	37249	Olson	Rebecca J.	400 Capitol Mall Ste 1545		Sacramento	CA	95814     	Treasurer	2023-09-11 08:25:51.700000000	False
 35530	37250	Coates	Matthew	1827 Saltonstall Dr.		Normal	IL	61761     	Treasurer	2022-07-27 16:12:16.123000000	False
+43291	37250	Coates	Brenda	1037 W Belle Haven Ln		Peoria	IL	61614     	Treasurer	2026-10-15 13:22:57.950000000	False
 35342	37266	Alvarez	Armen	3649 W. 70th Pl		Chicago	IL	60625     	Treasurer	2022-04-12 11:42:02.103000000	False
 38509	37266	Chavez	Jose	3012 N. Pulaski		Chicago	IL	60641     	Treasurer	2024-01-12 08:25:50.773000000	False
 38792	37272	Krahn	David.	515 Danbury Dr		Oswego	IL	60543     	Treasurer	2024-05-28 13:39:58.227000000	False
@@ -24241,6 +24247,7 @@ ID	CommitteeID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	ResignD
 42454	39823	Clemen	Michele Hilger	1537 Wedgefield Cir.		Naperville	IL	60563     	Treasurer	2025-07-16 10:36:40.077000000	False
 42763	39831	Lyons	Rashaad	3209 W Douglas		Chicago	IL	60623     	Chair	2026-02-24 11:30:16.450000000	False
 42764	39831	LoSurdo	Ashley	2665 W Warren		Chicago	IL	60612     	Treasurer	2026-02-24 11:30:21.457000000	False
+43293	39860	Marcinkowski	Ken	110 N. Carpenter St.		Chicago	IL	60607     	Treasurer	2026-10-15 16:34:49.140000000	False
 43174	39866	Odell	Laurie	4443 N. Malden St.		Chicago	IL	60640     	Treasurer	2026-08-10 08:20:11.107000000	False
 38915	39872	Hylton	Antonio	2691 Showplace Drive	Apt 204	Naperville	IL	60506     	Treasurer	2024-08-05 13:07:01.397000000	False
 43150	39881	Grandberry Jr.	Earl	3410 S. Calumet Avenue	Unit 1	Chicago	IL	60616     	Chair	2026-07-24 09:24:36.087000000	False
@@ -24378,6 +24385,8 @@ ID	CommitteeID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	ResignD
 42720	41007	Horvatic	Mike	12302 S. Oak Park Ave.		Palos Heights	IL	60463     	Treasurer	2026-01-26 14:48:59.803000000	False
 42797	41007	Connelly	Margaret	11019 S. Bell Ave.		Chicago	IL	60643     	Treasurer	2026-03-19 14:45:54.497000000	False
 43165	41012	Tunney	Tom	875 N MIchigan AVe F1. 31		Chicago	IL	60611     	Treasurer	2026-08-03 16:20:51.500000000	False
+43295	41028	Beltran	Jennifer	1921 Gunderson Ave		Berwyn	IL	60402     	Chair	2026-10-16 08:37:37.063000000	False
+43296	41028	Gomez-Valadez	Roberto	12616 Irving Ave.		Blue Island	IL	60406     	Treasurer	2026-10-16 08:37:41.220000000	False
 42983	41029	Lekas..	Constantine	15479 Willis Rd.		Benton	IL	61812     	Treasurer	2026-05-18 08:26:06.113000000	False
 42746	41063	Fulth	William C.	9616 S. King Drive		Chicago	IL	60628     	Treasurer	2026-02-13 09:19:13.887000000	False
 42785	41076	Sherratt	Ellen	769 W. Melrose St.		Chicago	IL	60657     	Treasurer	2026-03-10 13:26:24.257000000	False
@@ -24391,6 +24400,7 @@ ID	CommitteeID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	ResignD
 43169	41198	Varnado	Symone	PO Box 77		Chicago	IL	60690     	Chair	2026-08-06 10:51:04.213000000	False
 43170	41198	Varnado	Symone	PO Box 77		Chicago	IL	60690     	Treasurer	2026-08-06 10:51:07.890000000	False
 43244	41214	Tran	Teresa	Redaction Requested					Treasurer	2026-09-18 08:13:53.877000000	True
+43292	41223	Collier	Sharrye	1937 Reserve Walkway		Belleville	IL	62220     	Treasurer	2026-10-15 14:55:09.230000000	False
 43045	41225	James-Watson	Glynis	PO Box 1020		Harvey	IL	60426     	Treasurer	2026-06-16 13:36:01.117000000	False
 43143	41252	Carpenter	Jade	1514 Dewey Ave.		Evanston	IL	60201     	Treasurer	2026-07-17 13:17:26.350000000	False
 43160	41255	Barch	Constance	9075 Penman Road		Yorkville	IL	60560     	Chair	2026-08-03 09:57:49.507000000	False

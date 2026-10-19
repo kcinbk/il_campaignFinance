@@ -1,4 +1,4 @@
-0	0			247 S. Chestnut Ln		Crete	IL	60417     	1A							  	          	True		False
+     	1A							  	          	True		False
 4668018	32390	652335		Pritzker	Jay	2017-02-25 00:00:00	250	250	0			111 S. Wacker Dr.	Suite 4000	Chicago	IL	60606     	1A							  	          	True		False
 4668019	32390	652335		Scheetz	Annette	2017-02-25 00:00:00	500	500	0			2417 W Medill Ave		Chicago	IL	60647     	1A							  	          	True		False
 4668020	32390	652335		Gash	Lauren	2017-03-03 00:00:00	40	540	0			1345 Forest Ave		highland park	IL	60035     	1A							  	          	True		False
@@ -348702,10 +348702,10 @@
 5027046	23386	716043		Gori, Julian & Associates, P.C.		2018-08-13 00:00:00	5000	5000	0			156 N. Main Street		Edwardsville	IL	62025     	2A							  	          	False	USA	False
 5027047	34849	716044		Walton Telken LLC		2018-10-11 00:00:00	1000	0	0			241 North Main Street		Edwardsville	IL	62025     	1A							  	          	True		False
 5027048	34849	716044		Arrow Sign & Outdoor Advertising		2018-10-12 00:00:00	4650	0	0			4545 N Alby St		Godfrey	IL	62035     	5A	Billboard						  	          	True		False
-5027049	34707	716045		Illinois Pipe Trades PAC Account		2018-08-08 00:00:00	5000	5000	0			534 S. Second St. Suite 311		Springfield	IL	62701     	2A							  	          	False		False
-5027050	34707	716045		Pipefitters' Association Local 597 UA		2018-09-06 00:00:00	5000	5000	0			45 N Ogden Ave		Chicago	IL	60607     	2A							  	          	False		False
-5027051	34707	716045		Rady	Ben	2018-09-30 00:00:00	200	200	0			4923 W. Catalpa Ave		Chicago	IL	60630     	1A							  	          	False		False
-5027052	34707	716045		Gray	Jonathan	2018-09-30 00:00:00	200	200	0			5200 W. Cullom #3		Chicago	IL	60641     	1A							  	          	False		False
+5027049	34707	716045		Illinois Pipe Trades PAC Account		2018-08-08 00:00:00	5000	5000	0			534 S. Second St. Suite 311		Springfield	IL	62701     	2A							  	          	True		False
+5027050	34707	716045		Pipefitters' Association Local 597 UA		2018-09-06 00:00:00	5000	5000	0			45 N Ogden Ave		Chicago	IL	60607     	2A							  	          	True		False
+5027051	34707	716045		Rady	Ben	2018-09-30 00:00:00	200	200	0			4923 W. Catalpa Ave		Chicago	IL	60630     	1A							  	          	True		False
+5027052	34707	716045		Gray	Jonathan	2018-09-30 00:00:00	200	200	0			5200 W. Cullom #3		Chicago	IL	60641     	1A							  	          	True		False
 5027053	34543	716046		Illinois Association of School Administrators PAC		2018-10-15 00:00:00	15000	0	0			2648 Beechler Ct		Springfield	IL	62703     	2A							  	          	True		False
 5027054	6239	716048		Albany Care, Inc.		2018-08-09 00:00:00	3680	3680	0			901 Maple		Evanston	IL	60202     	1A							  	          	False		False
 5027055	6239	716048		Boilermakers-Blacksmiths Local 1  PAC		2018-08-09 00:00:00	2000	2000	0			2941 South Archer Avenue		Chicago	IL	60608     	2A							  	          	False		False
@@ -419886,18 +419886,18 @@
 5098230	281	726638		DEMOCRATIC CENTRAL COMMITTEE OF ROCK ISLAND		2018-07-18 00:00:00	5000	10000	0			P O BOX 3128		ROCK ISLAND	IL	61204     	2A							  	          	False		False
 5098231	281	726638		DEMOCRATIC CENTRAL COMMITTEE OF ROCK ISLAND		2018-09-10 00:00:00	5000	10000	0			P O BOX 3128		ROCK ISLAND	IL	61204     	2A							  	          	False		False
 5098232	32443	726639		Smith	Charles	2019-01-09 00:00:00	1000	0	0	Atorney and Partner	Skadden Arps LLP	88 Abbottsford Rd		Winnetka	IL	60093     	1A							  	          	True		False
-5098233	34707	726644		Pacula	Gina	2018-10-03 00:00:00	50	238	0			10645 Williamsburg Trail		Frankfort	IL	60423     	1A							  	          	False		False
-5098234	34707	726644		O'Brien	Erin	2018-10-10 00:00:00	200	325	0			2120 West Giddings Street		Chicago	IL	60625     	1A							  	          	False		False
-5098235	34707	726644		Hollinden	Tom	2018-12-15 00:00:00	50	197	0			640 N HARVEY AVE		Oak Park	IL	60302     	1A							  	          	False		False
-5098236	34707	726644		O'Brien	Erin	2018-12-30 00:00:00	25	325	0			2120 West Giddings Street		Chicago	IL	60625     	1A							  	          	False		False
-5098237	34707	726644		Gray	Frances	2018-12-31 00:00:00	100	250	0			P.O. Bpx 1941		Boerne	TX	78006     	1A							  	          	False		False
-5098238	34707	726644		Gray	Frances	2018-10-20 00:00:00	150	250	0			P.O. Bpx 1941		Boerne	TX	78006     	1A							  	          	False		False
-5098239	34707	726644		Pacula	Gina	2018-11-07 00:00:00	188	238	0			10645 Williamsburg Trail		Frankfort	IL	60423     	1A							  	          	False		False
-5098240	34707	726644		Hollinden	Tom	2018-11-09 00:00:00	147	197	0			640 N HARVEY AVE		Oak Park	IL	60302     	1A							  	          	False		False
-5098241	34707	726644		O'Brien	Erin	2018-11-09 00:00:00	100	325	0			2120 West Giddings Street		Chicago	IL	60625     	1A							  	          	False		False
-5098242	34707	726644		Dy-Johnson	Atsuko	2018-10-18 00:00:00	250	250	0			1254 Sargent Drive		Sunnyvale	CA	94087     	1A							  	          	False		False
-5098243	34707	726644		Virgo	Gloria	2018-11-09 00:00:00	188	188	0			18510 Lexington Avenue		Homewood	IL	60430     	1A							  	          	False		False
-5098244	34707	726644		Maloney	Carrie	2018-11-11 00:00:00	200	200	0			17245 S Ridgeland Ave		Tinley Park	IL	60447     	1A							  	          	False		False
+5098233	34707	726644		Pacula	Gina	2018-10-03 00:00:00	50	238	0			10645 Williamsburg Trail		Frankfort	IL	60423     	1A							  	          	True		False
+5098234	34707	726644		O'Brien	Erin	2018-10-10 00:00:00	200	325	0			2120 West Giddings Street		Chicago	IL	60625     	1A							  	          	True		False
+5098235	34707	726644		Hollinden	Tom	2018-12-15 00:00:00	50	197	0			640 N HARVEY AVE		Oak Park	IL	60302     	1A							  	          	True		False
+5098236	34707	726644		O'Brien	Erin	2018-12-30 00:00:00	25	325	0			2120 West Giddings Street		Chicago	IL	60625     	1A							  	          	True		False
+5098237	34707	726644		Gray	Frances	2018-12-31 00:00:00	100	250	0			P.O. Bpx 1941		Boerne	TX	78006     	1A							  	          	True		False
+5098238	34707	726644		Gray	Frances	2018-10-20 00:00:00	150	250	0			P.O. Bpx 1941		Boerne	TX	78006     	1A							  	          	True		False
+5098239	34707	726644		Pacula	Gina	2018-11-07 00:00:00	188	238	0			10645 Williamsburg Trail		Frankfort	IL	60423     	1A							  	          	True		False
+5098240	34707	726644		Hollinden	Tom	2018-11-09 00:00:00	147	197	0			640 N HARVEY AVE		Oak Park	IL	60302     	1A							  	          	True		False
+5098241	34707	726644		O'Brien	Erin	2018-11-09 00:00:00	100	325	0			2120 West Giddings Street		Chicago	IL	60625     	1A							  	          	True		False
+5098242	34707	726644		Dy-Johnson	Atsuko	2018-10-18 00:00:00	250	250	0			1254 Sargent Drive		Sunnyvale	CA	94087     	1A							  	          	True		False
+5098243	34707	726644		Virgo	Gloria	2018-11-09 00:00:00	188	188	0			18510 Lexington Avenue		Homewood	IL	60430     	1A							  	          	True		False
+5098244	34707	726644		Maloney	Carrie	2018-11-11 00:00:00	200	200	0			17245 S Ridgeland Ave		Tinley Park	IL	60447     	1A							  	          	True		False
 5098245	424	726645		Meyer	Eric	2018-12-21 00:00:00	1000	0	0	Tavern Business Owner	KAM's	618 E. Daniel		Champaign	IL	61820     	1A							  	          	True		False
 5098246	34729	726646		Weiner	Sally	2019-01-14 00:00:00	5600	0	0	artist	self	P.O. Box 577730		Chicago	IL	60657     	1A							  	          	True		False
 5098247	34729	726646		Holland & Knight LLP IL Committee for Effective Government		2019-01-14 00:00:00	1500	0	0			131 S. Dearborn St.	30th Floor	Chicago	IL	60603     	4A							  	          	True		False
@@ -553989,15 +553989,15 @@
 5232333	35155	744282		Carson	Georgeen	2019-04-01 00:00:00	500	500	0			1631 Executive Lane		Glenview	IL	60016     	1A							  	          	False		False
 5232334	35155	744282		Tishdahl	Elizabeth	2019-04-02 00:00:00	500	500	0			2 Martha Lane		Evanston	IL	60201     	1A							  	          	False		False
 5232335	35155	744282		Jean Baptiste	Lionel	2019-04-02 00:00:00	250	250	0			1900 Asbury Ave.		Evanston	IL	60202     	1A							  	          	False		False
-5232336	34707	744286		Pipefitters' Association Local 597 UA		2019-02-20 00:00:00	10000	10000	0			45 N Ogden Ave		Chicago	IL	60607     	2A							  	          	False		False
-5232337	34707	744286		Illinois Pipe Trades PAC Account		2019-02-20 00:00:00	10000	10000	0			534 S. Second St. Suite 311		Springfield	IL	62701     	2A							  	          	False		False
-5232338	34707	744286		UA Political Education Committee		2019-02-26 00:00:00	5000	5000	0			Three Park Place		Annapolis	IL	21401     	2A							  	          	False		False
-5232339	34707	744286		Heat & Frost Insulators & Allied Workers Local 17 PAC		2019-02-26 00:00:00	1000	1000	0			18520 Spring Creek	Unit U	Tinley Park	IL	60477     	2A							  	          	False		False
-5232340	34707	744286		Sprinkler Fitters Local 281 Political Education Fund		2019-02-26 00:00:00	1000	1000	0			11900 S Laramie		Alsip	IL	60803     	2A							  	          	False		False
-5232341	34707	744286		O'Connor	Patrick	2019-01-02 00:00:00	250	250	0			4231 N. Damen		Chicago	IL	60618     	1A							  	          	False		False
-5232342	34707	744286		Lagoni	Carrie	2019-01-19 00:00:00	200	200	0			15427 Weathervane Lane		Homer Glen	IL	60491     	1A							  	          	False		False
-5232343	34707	744286		Brault	Pascale-Anne	2019-01-27 00:00:00	250	250	0			2320 N. Kenmore		Chicago	IL	60614     	1A							  	          	False		False
-5232344	34707	744286		Virgo	Gloria	2019-02-15 00:00:00	300	300	0			18510 Lexington Avenue		Homewood	IL	60430     	1A							  	          	False		False
+5232336	34707	744286		Pipefitters' Association Local 597 UA		2019-02-20 00:00:00	10000	10000	0			45 N Ogden Ave		Chicago	IL	60607     	2A							  	          	True		False
+5232337	34707	744286		Illinois Pipe Trades PAC Account		2019-02-20 00:00:00	10000	10000	0			534 S. Second St. Suite 311		Springfield	IL	62701     	2A							  	          	True		False
+5232338	34707	744286		UA Political Education Committee		2019-02-26 00:00:00	5000	5000	0			Three Park Place		Annapolis	IL	21401     	2A							  	          	True		False
+5232339	34707	744286		Heat & Frost Insulators & Allied Workers Local 17 PAC		2019-02-26 00:00:00	1000	1000	0			18520 Spring Creek	Unit U	Tinley Park	IL	60477     	2A							  	          	True		False
+5232340	34707	744286		Sprinkler Fitters Local 281 Political Education Fund		2019-02-26 00:00:00	1000	1000	0			11900 S Laramie		Alsip	IL	60803     	2A							  	          	True		False
+5232341	34707	744286		O'Connor	Patrick	2019-01-02 00:00:00	250	250	0			4231 N. Damen		Chicago	IL	60618     	1A							  	          	True		False
+5232342	34707	744286		Lagoni	Carrie	2019-01-19 00:00:00	200	200	0			15427 Weathervane Lane		Homer Glen	IL	60491     	1A							  	          	True		False
+5232343	34707	744286		Brault	Pascale-Anne	2019-01-27 00:00:00	250	250	0			2320 N. Kenmore		Chicago	IL	60614     	1A							  	          	True		False
+5232344	34707	744286		Virgo	Gloria	2019-02-15 00:00:00	300	300	0			18510 Lexington Avenue		Homewood	IL	60430     	1A							  	          	True		False
 5232345	12713	744288		Sangamon County Republican  Central Committee		2019-04-14 00:00:00	2750	2750	0			1132 Sangamon Avenue		Springfield	IL	62702     	2A							  	          	False		False
 5232346	32621	744292		NORTHWEST SUBURBAN REPUBLICAN LINCOLN DAY DINNER		2019-06-02 00:00:00	7234.79	7234.79	0			PO Box 59207		Schaumburg	IL	60159     	1A							  	          	False		False
 5232347	35256	744293		Kim	Jong Ho	2019-04-08 00:00:00	300	300	0			6516 High Meadows Ct		Long Grove	IL	60047     	1A							  	          	False		False
@@ -616209,4 +616209,4 @@
 5294610	16107	754092		Foresight Energy Services		2018-11-02 00:00:00	2000	2000	0			211 N. Broadway Ste. 2600		St. Louis	MO	63102     	1A							  	          	True		False
 5294611	16107	754092		Idehen	Francis	2018-11-01 00:00:00	1500	1500	0	Managing Director	Grosvenor Capital Management	1340 E Madison Park		Chicago	IL	60615     	1A							  	          	True		False
 5294612	16107	754092		Snyder Pickerill Media Group, LLC		2018-10-11 00:00:00	240000	240000	0			230 W. Huron, #5E		Chicago	IL	60654     	4A	Refund						  	          	True		False
-5294613	16107	754092		Energy Transfer PAC		2018-11-02 00:00:00	500	500	0			400 
+5294613	16107	754092		Energy Transfer PAC		2018-11-02 00:00:00	500	500	0			400 W. 15th Street	Suite 720	Austin	TX	78701     	2A							  	       

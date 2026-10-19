@@ -53348,7 +53348,7 @@
 2830074	18592	395437		Bogdanowicz	Richard	2009-09-05 00:00:00	200	200	0			132 Chandler Avenue		Elmhurst	IL	60126     	1A							  	          	True		False
 2830075	18592	395437		Bolotin	Mary	2009-09-17 00:00:00	200	200	0			237 W. Potomac Avenue		Lombard	IL	60148     	1A							  	          	True		False
 2830076	18592	395437		Bryant	Tim	2009-09-25 00:00:00	500	500	0			460 W. Barry Ave.		Chicago	IL	60657     	1A							  	          	True		False
-2830077	18592	395437		Camero	Mark	2009-09-24 00:00:00	250	250	0			1415 S. Roselle Rd		Palatine	IL	60067     	1A							  	          	True		False
+2830077	18592	395437		Camero	Mark	2009-09-24 00:00:00	250	250	0			Redaction Requested					1A							  	          	True		True
 2830078	18592	395437		Cappetta	Frederick	2009-10-22 00:00:00	200	200	0			3612 Frederick Drive		Oak Brook	IL	60523     	1A							  	          	True		False
 2830079	18592	395437		Cronin	Claire	2009-09-05 00:00:00	200	200	0			315 W. St. Charles Rd.		Elmhurst	IL	60126     	1A							  	          	True		False
 2830080	18592	395437		Cunningham	Ken	2009-09-15 00:00:00	200	200	0			114 Michaux Road		Riverside	IL	60546     	1A							  	          	True		False
@@ -149771,7 +149771,7 @@
 2926614	18592	401961		PLCS Corporation		2009-09-18 00:00:00	250	250	0			4505 N. Elston Avenue		Chicago	IL	60630     	1A							  	          	False		False
 2926615	18592	401961		Nash	Brian T	2009-09-21 00:00:00	250	250	0			125 Duntrune Lane		Inverness	IL	60067     	1A							  	          	False		False
 2926616	18592	401961		Langan	Victoria	2009-09-23 00:00:00	100	250	0			114 E Madison		Lombard	IL	60148     	1A							  	          	False		False
-2926617	18592	401961		Camero	Mark	2009-09-24 00:00:00	250	250	0			1415 S. Roselle Rd		Palatine	IL	60067     	1A							  	          	False		False
+2926617	18592	401961		Camero	Mark	2009-09-24 00:00:00	250	250	0			Redaction Requested					1A							  	          	False		True
 2926618	18592	401961		Bryant	Tim	2009-09-25 00:00:00	500	500	0			460 W. Barry Ave.		Chicago	IL	60657     	1A							  	          	False		False
 2926619	18592	401961		Stein	Jeff	2009-09-25 00:00:00	300	300	0			22 South Washington Ave.		Park Ridge	IL	60608     	1A							  	          	False		False
 2926620	18592	401961		Axley	Cheryl	2009-09-28 00:00:00	1000	1000	0	Attorney	Self-Employed	121 S. Emerson Street		Mt. Prospect	IL	60056     	1A							  	          	False		False
@@ -622517,4 +622517,4 @@
 3404310	23682	451432		Kriozere	Mark	2011-07-25 00:00:00	200	200	0			161 Chenery Street		San Francisco	IL	94131     	1A							  	          	False		False
 3404311	23682	451432		Criz	Jesse	2011-07-26 00:00:00	250	250	0			203 N. LaSalle Street		Chicago	IL	60601     	1A							  	          	False		False
 3404312	23682	451432		Sussman	Eric	2011-08-03 00:00:00	1000	1000	0	Attorney	Kaye Scholer LLP	2059 N. Orleans Street		Chicago	IL	60614     	1A							  	          	False		False
-3404313	23682	45143
+3404313	23682	451432		Martinez	Paul	2011-08-04 00:00:00	500

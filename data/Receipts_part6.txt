@@ -1,4 +1,4 @@
-2		Martinez	Paul	2011-08-04 00:00:00	500	500	0			240 Jeffreys Place		Highwood	IL	60040     	1A							  	          	False		False
+	500	0			240 Jeffreys Place		Highwood	IL	60040     	1A							  	          	False		False
 3404314	23682	451432		Boron	Andrew	2011-08-08 00:00:00	200	200	0			702 Marion Avenue		Highland Park	IL	60035     	1A							  	          	False		False
 3404315	23682	451432		Waltenburg	Audrey	2011-08-10 00:00:00	500	500	0			1415 Woodhill Drive		Northbrook	IL	60062     	1A							  	          	False		False
 3404316	23682	451432		Sey, Inc.		2011-08-10 00:00:00	500	500	0			721 W. Belmont Avenue		Chicago	IL	60657     	1A							  	          	False		False
@@ -616769,4 +616769,4 @@
 4033727	1362	538954		Steamfitters Local 353 P.E.C.		2014-05-20 00:00:00	250	500	0			6304 W. Development Dr.		Peoria	IL	61604     	2A							  	          	False		False
 4033728	1362	538954		Cook		2014-05-20 00:00:00	250	250	0			PO Box 489		Bloomington	IN	47402     	1A							  	          	False		False
 4033729	1362	538954		UFCW Local 881 PAC		2014-05-20 00:00:00	250	250	0			10400 W. Higgins Road Ste. 500		Rosemont	IL	60018     	2A							  	          	False		False
-4033730	1362	538954		Marder	Sidney and Natalie	2014-05-22 00:00:00	250	250	0			8937 Agliana Circle		Boynton Beach	
+4033730	1362	538954		Marder	Sidney and Natalie	2014-05-22 00:00:00	250	250	0			8937 Agliana Circle		Boynton Beach	FL	33472     	1A							  	          	Fal
