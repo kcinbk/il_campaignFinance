@@ -21527,6 +21527,7 @@ ID	CommitteeID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	ResignD
 34897	24391	Kasal	Evan.	1050 North State St.	Suite 301	Chicago	IL	60610     	Treasurer	2021-08-11 07:46:30.597000000	False
 38780	24391	Boulton	Stephen	1251C W Fletcher St		Chicago	IL	60657     	Chair	2024-05-20 14:37:51.337000000	False
 42226	24391	Kasal	Evan	4038 N Clarendon Ave 2R		Chicago	IL	60613     	Treasurer	2025-02-13 13:14:44.777000000	False
+43297	24391	Hernandez	Chuck	8466 W. Sunnyside Ave.		Chicago	IL	60656     	Chair	2026-10-19 16:13:35.583000000	False
 22676	24406	McArtin	David S	25713 W Woodland Dr		Round Lake	IL	60030     	Treasurer	2016-06-01 12:12:34.950000000	False
 32174	24407	Trexler	Beth	120 W St Clair St		Vandalia	IL	62471     	Treasurer	2018-10-17 16:06:57.163000000	False
 16749	24426	Cokinis	George	8023 44th Ct		Lyons	IL	60534     	Chair	2012-12-26 10:42:48.253000000	False
@@ -24395,6 +24396,7 @@ ID	CommitteeID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	ResignD
 43237	41101	McCulloch.	Rod	10s371 Jamie Lane		Burr Ridge	IL	60527     	Treasurer	2026-09-15 08:30:07.340000000	False
 42958	41134	Kimble	Brittany	Redaction Requested					Treasurer	2026-05-07 15:43:25.707000000	True
 43159	41135	Torto	Melanie	225 S. Harvard Ave	Attn. Melanie Torto	Villa Park	IL	60181     	Chair	2026-07-31 15:49:54.880000000	False
+43298	41174	Chaffeur	John J.	855 West Agatite Ave.		Chicago	IL	60640     	Chair	2026-10-19 16:18:47.787000000	False
 43009	41185	Van Slyke.	Caren	110 S. Marion St., Unit 502		Oak Park	IL	60302     	Treasurer	2026-05-28 14:58:28.990000000	False
 43171	41197	Haussmann	Louis Dominic	8678 Ridgefield Road		Crystal Lake	IL	60012     	Treasurer	2026-08-06 12:46:33.230000000	False
 43169	41198	Varnado	Symone	PO Box 77		Chicago	IL	60690     	Chair	2026-08-06 10:51:04.213000000	False
