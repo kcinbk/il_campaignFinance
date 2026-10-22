@@ -24959,3 +24959,4 @@ ID	CommitteeID	FiledDocID	Description	PurchaseDate	PurchaseShares	PurchasePrice	
 37139	41125	1027434	Loan Made	2026-05-29 00:00:00	0	30	30	0		Verizon					IL	          	False	
 37140	25411	1027602	Mailing	2020-10-14 00:00:00	0	522.31	522.31	0		United States Post Office		17541 S Kedzie		Hazel Crest	IL	60429     	False	
 37141	1188	1027639	Investment purchase	2024-12-12 00:00:00	0	53981.35	32208	0		Bradford Bank Wealth Management		600 S Idler Lane		Greenville	IL	62246     	False	
+37142	314	1028050	Investment purchase	2025-07-23 00:00:00	0	20000	20000	0		First Community Bank		PO Box 40		Hillsboro	IL	62049     	False	

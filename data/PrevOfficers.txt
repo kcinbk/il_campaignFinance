@@ -20564,6 +20564,7 @@ ID	CommitteeID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	ResignD
 15587	22375	Deangelis	Steven	200 S Michigan		Chicago	IL	60604     	Chair	2011-02-07 09:51:41.860000000	False
 14802	22378	Sharp	Bernadette	3802 Ballantrae Way		Flossmoor	IL	60422     	Chair	2010-07-20 16:25:08.320000000	False
 14547	22381	Celauro	Eric A	10341 Georgia Lane		Oak Lawn	IL	60453     	Treasurer	2010-05-17 10:50:14.980000000	False
+43299	22385	Diamond	Rex	1268 N Rockwood Pt		Hernando	FL	34442     	Treasurer	2026-10-20 11:57:43.777000000	False
 14298	22386	Levitt	Catherine B	1425 Carol Ln		Deerfield	IL	60015     	Treasurer	2010-01-20 14:31:51.363000000	False
 25942	22386	Prebish	Steven M	Patzik, Frank & Samotny LTD	150 S Wacker Dr, Ste 1500	Chicago	IL	60606     	Chair	2016-11-01 16:11:11.977000000	False
 25943	22386	Kedjidjian	Cathy	1328 Woodland Dr		Deerfield	IL	60015     	Treasurer	2016-11-01 16:11:14.520000000	False

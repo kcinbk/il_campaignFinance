@@ -3776,6 +3776,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 28994	Bebar	Gary M	418 Whitney Terrace		Joliet	IL	60435     	Chair	(815) 723-9814      	False
 33923	Bebar	Gary M	418 Whitney Terrace		Joliet	IL	60435     	Treasurer	(815) 723-9814      	False
 28995	Bebar	Judith K	418 Whitney Terrace		Joliet	IL	60435     	Treasurer	(815) 723-9814      	False
+100605	Bebart	Barry	4212 N. Kedvale Ave.		Chicago	IL	60641     	Chair	                    	False
 47441	Becherer	Cheryl L	4616 Knab Rd		Smithton	IL	62285     	Chair	                    	False
 362	Bechily-hodes	Maria	1540 N. Lake Shore Dr .		Chicago	IL	60610     	Chair	                    	False
 4559	Bechtold	Joseph A	531 Happ Road		Northfield	IL	60093     	Chair	                    	False
@@ -4083,7 +4084,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 53762	Bell	Victory	2597 Meadow View Ln		Rockford	IL	61102     	Chair	815.978.6338        	False
 5403	Bell	Willie	2219 S Central Ave		Rockford	IL	61102     	Chair		False
 38223	Bell MD	Stephen W	c/o Sang Co Medical Society Inc	611 N 6th St	Springfield	IL	62702     	Treasurer	544-8491            	False
-100582	Bell Sr.	Gary T.	22340 Strassburg Ave		Sauk Village	IL	60411     	Chair	                    	False
+100582	Bell Sr.	Gary T.	22340 Strassburg Ave		Sauk Village	IL	60411     	Chair	708.314.6507        	False
 48017	Bell-Cousin	Kelli	PO Box 1026		Chicago Heights	IL	60412     	Treasurer	312.572.9824        	False
 33889	Bell-Yovkovich	Teri	725 Memorial Dr		Calumet City	IL	60409     	Chair	708/891-6504        	False
 42810	Bell-Zuccarelli	Darline	1630 S Central Park Ave	#2	Chicago	IL	60623     	Treasurer	773-762-0194        	False
@@ -13424,6 +13425,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 1534	Cullen	George J	35 E Wacker Dr	Suite 1760	Chicago	IL	60601     	Treasurer	312/32-2545         	False
 24758	Cullen	George J	35 E Wacker Dr, suite 1760		Chicago	IL	60601     	Chair	312/332-2545        	False
 68429	Cullen	Violetta	1717 Darrow		Evanston	IL	60201     	Secretary	773-870-3387        	False
+100602	Cullen-Williams	Ashley	549 Judge Ave.		Waukegan	IL	60085     	Chair	773.490.8718        	False
+100603	Cullen-Williams	Ashley	549 Judge Ave.		Waukegan	IL	60085     	Treasurer	773.490.8718        	False
 13514	Culler	Frances S	780 W Hawthorne Blvd		Wheaton	IL	60187     	Treasurer	                    	False
 13601	Culler	John	780 W Hawthorne Blvd		Wheaton	IL	60187     	Chair	(708)690-0218       	False
 50934	Culler	Mary	3025 Highland Pky Ste 500		Downers Grove	IL	60515     	Chair	                    	False
@@ -19770,7 +19773,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 56899	Fitzgibbons	Ron	3076 Summit Ave		Highland Park	IL	60035     	Chair	773-968-9996        	False
 56900	Fitzgibbons	Ron	3076 Summit Ave		Highland Park	IL	60035     	Treasurer	773-968-9996        	False
 49438	Fitzgibbons	Timothy P	600 W Washington Blvd		Chicago	IL	60661     	Chair	312.454.1340        	False
-99726	Fitzjarrald	Cristie A	31 Robin Ln		Marshall	IL	62441     	Chair	                    	False
+99726	Fitzjarrald	Cristie A	906 Ash St.		Marshall	IL	62441     	Chair	217.826.5874        	False
 81382	Fitzjarrald	Rhendy	276 Wyatt Court		Foley	AL	36535     	Treasurer	217.766.4317        	False
 43237	Fitzmaurice	Terrence P	1456 W Adams St		Chicago	IL	60607-2897	Chair	312.421.0046        	False
 43238	Fitzmaurice	Terrence P	1456 W Adams St		Chicago	IL	60607-2897	Treasurer	312.421.0046X223    	False
@@ -30241,6 +30244,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 56808	Hyde	Lyle	351 W Dickens	# 2 E	Chicago	IL	60616     	Treasurer	312.286.2921        	False
 77001	Hyde	Mary Beth	1429 Elm St.		Galena	IL	61036     	Treasurer	815.297.3031        	False
 77000	Hyde	Nicholas P	1429 Elm St.		Galena	IL	61036     	Chair	815.281.0491        	False
+100604	Hyde	Robert A.	506 Walsh Ct.		Yorkville	IL	60560     	Chair	                    	False
 35056	Hyde	Susan	PO Box		Olney	IL	62450     	Treasurer	618/392-6271        	False
 37464	Hyde	Thomas P	206 Janet Dr		Island lake	IL	60042     	Chair		False
 79448	Hykes-Clark	Conrien	11007 South State Street		Chicago	IL	60628     	Chair	872-218-3348        	False
@@ -43821,7 +43825,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 8832	Michael	Karen	4022 S. Prescott		Lyons	IL	60534     	Treasurer	                    	False
 38996	Michael	Kathy	110 Diane Dr		Lexington	IL	61753     	Chair	309.365.2519        	False
 62234	Michael	Kathy	2018 Juniper Ln		Bloomington	IL	61701     	Treasurer	309.838.3210        	False
-45619	Michael	Kathy	PO Box 173		Bloomington	IL	61701     	Chair	309.838.3210        	False
+45619	Michael	Kathy.	22079 Skyline Court		Carlock	IL	61725     	Chair	309.838.3210        	False
 26951	Michael	Thomas	1826 B Country Hill Dr		Yorkville	IL	60560     	Treasurer		False
 40567	Michael B	Hannon	5604 N Nagle Ave		Chicago	IL	60646     	Chair	773-852-3807        	False
 47384	Michael Roth	Mary	1385 W Fremont		Morris	IL	60450     	Treasurer	815-942-5112        	False
@@ -46633,6 +46637,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 42289	Myers	Glenda	349 Mt Glen Rd		Cobden	Il	62920     	Treasurer	618-893-2616        	False
 33056	Myers	Glenda J	PO Box 82		Cobden	Il	62920     	Treasurer	618/893-2616        	False
 20283	Myers	Harry	3418 Orchard Ter		Crete	IL	60417-1283	Treasurer	                    	False
+100607	Myers	J.E.	210 East Cemetery Ave.		Chenoa	IL	61726     	Treasurer	309.200.7577        	False
 21291	Myers	Jacqueline	904 S Locust St		Carlinville	IL	62626     	Chair	217/854-8642        	False
 35569	Myers	Jean	8332 Maple Grove Rd		Troy	IL	62294     	Chair	618.960.9630        	False
 40541	Myers	Jonathon R	1710 E 22nd St	Apt H	Wheaton	IL	60187     	Chair	630.476.1469        	False
@@ -47825,8 +47830,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 23982	Norwood	Fredrick	1113 Clark	Mt Zion Baptist Church	Evanston	IL	60201     	Chair	                    	False
 66820	Norwood, Jr.	Grady	4419 W. Van Buren		Chicago	IL	60617     	Chair	312.618.2132        	False
 39932	Nosek	Paul	6948 Windsor Ave		Berwyn	IL	60402     	Treasurer	708/484-1165        	False
-80445	Notariano	Jennifer	948 S 2nd St.		Springfield	IL	62704     	Chair	985.507.0166        	False
 80446	Notariano	Jennifer	948 S 2nd St.		Springfield	IL	62704     	Treasurer	985.507.0166        	False
+80445	Notariano	Jennifer	1604 S. Lowell Ave.		Springfield	IL	62704     	Chair	985.507.0166        	False
 84974	Notariano	Jennifer.	1620 S. State St.		Springfield	IL	62704     	Chair	                    	False
 85657	Notorangelo	Tyra	1239 W Melrose		Chicago	IL	60657     	Treasurer	312.607.5003        	False
 23156	Nottage	Courtney	1330 Huber Ln		Glenview	IL	60026     	Treasurer		False
@@ -57402,7 +57407,9 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 79574	Samuels	Jeanette	2925 S. Wabash, Ste. 104		Chicago	IL	60616     	Treasurer	872.588.8726        	False
 33194	Samuels	Julie	613 S Lombard		Oak Park	IL	60304     	Chair	(708) 524-0909      	False
 69987	Samuels	Julie	613 S. Lombard		Oak Park	IL	60304     	Chair	708.383.7711        	False
+100600	Samuels	Kristin	501 S. Dwyer Ave.		Arlington Heights	IL	60005     	Chair	                    	False
 6125	Samuels	Lorine	19710 Governor's Highway	Suite 1	Homewood	IL	          	Treasurer	                    	False
+100601	Samuels	Matthew	501 S. Dwyer Ave.		Arlington Heights	IL	60005     	Treasurer	                    	False
 20943	Samuels	Ronald S.	9957 S. Winchester		Chicago	IL	60643     	Chair	312-263-6600        	False
 34438	Samuels	Thomas	1333 W Hollywood		Chicago	IL	60660     	Bookkeeper	773/784-5277        	False
 35783	Samuelson	Dick	1 N Constitution Dr		Aurora	IL	60506     	Chair	630/859-9000        	False
@@ -69370,6 +69377,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 23044	Watkins	Dorothy	9636 S. Lasalle Street		Chicago	IL	60628     	Chair	(773)568-8863       	False
 20145	Watkins	Dorothy	9636 S. Lasalle Street		Chicago	IL	60628     	Treasurer	(773)568-8863       	False
 30851	Watkins	Gary	7330 S Harvard		Chicago	IL	60621     	Treasurer	(773)783-4031       	False
+100606	Watkins	Ian	2304 W 21st St, Apt 3		Chicago	IL	60608     	Chair	312-756-9234        	False
 91835	Watkins	Leah	6209 W. Diversey Ct.		Edwards	IL	61528     	Treasurer	309.472.8586        	False
 19570	Watkins	Lloyd	Rr 13		Bloomington	IL	61701     	Chair	309-827-0119        	False
 70016	Watkins	Marty	4830 E. Baker Woods Lane		Decatur	IL	62521     	Chair	309.643.0779        	False
@@ -69861,7 +69869,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 41249	Weiner	Lawrence	261 Kimberly Rd		North Barrington	IL	60010-2148	Chair	847.381.2118        	False
 25705	Weiner	Mark	One Weingeroff Blvd		Cranston	RI	02910     	Treasurer	(401) 467-3170      	False
 36118	Weiner	Mark.	3132 Wenonah		Berwyn	IL	60402     	Treasurer	(312) 604-2656      	False
-100494	Weiner	Mark..	629 N. Fair Oaks		Oak Park	IL	60302     	Treasurer	                    	False
+100494	Weiner	Mark..	629 N. Fair Oaks		Oak Park	IL	60302     	Treasurer	312-406-2412        	False
 49003	Weiner	Ralph	7432 W Grand Ave		Elmwood	IL	60707     	Chair	                    	False
 17200	Weiner,sr	Mark S	Po Box 3241		Providence	RI	02906     	Treasurer	401/467-2200        	False
 51707	Weinert	Bernie	7037 177th Pl		Tinley Park	IL	60477     	Treasurer	708.532.3923        	False

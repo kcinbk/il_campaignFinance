@@ -66187,25 +66187,25 @@
 4661082	17385	960316	0	Kennedy	Leslie	2024-11-07 00:00:00	375	900	13407 Minerds		Dolton	IL	60419     	8B	Election day expense			False	False	True		False
 4661083	17385	960316	0	Bertrand	Jamor	2024-10-21 00:00:00	525	900	15407 Minerva	STE 1032	Dolton	IL	60419     	8B	Political support work			False	False	True		False
 4661084	17385	960316	0	Bertrand	Jamor	2024-11-07 00:00:00	375	900	15407 Minerva	STE 1032	Dolton	IL	60419     	8B	Election day expense			False	False	True		False
-4661085	12713	960320	0	Illinois Times		2024-10-01 00:00:00	2700	2700	1240 S. 6th St	PO Box 5256	Springfield	IL	62705     	8B	Advertising - newspaper			False	False	False		False
-4661086	12713	960320	0	Validus		2024-10-21 00:00:00	20000	88483.23	1400 Patriot Blvd #946		Glenview	IL	60025     	8B	Media - television			False	False	False		False
-4661087	12713	960320	0	Validus		2024-10-21 00:00:00	58538.23	88483.23	1400 Patriot Blvd #946		Glenview	IL	60025     	8B	Advertising - television			False	False	False		False
-4661088	12713	960320	0	Validus		2024-10-29 00:00:00	9945	88483.23	1400 Patriot Blvd #946		Glenview	IL	60025     	8B	Advertising - television			False	False	False		False
-4661089	12713	960320	0	Habitat for Humanity of Sangamon County ReStore		2024-10-22 00:00:00	500	500	2744 S. 6th St.		Springfield	IL	62703     	8B	Sponsorship			False	False	False		False
-4661090	12713	960320	0	Ace Sign Co.		2024-10-25 00:00:00	11590.74	14560.74	2540 S. 1st St.		Springfield	IL	62704     	8B	Signs			False	False	False		False
-4661091	12713	960320	0	Ace Sign Co.		2024-11-26 00:00:00	2970	14560.74	2540 S. 1st St.		Springfield	IL	62704     	8B	Lawn signs			False	False	False		False
-4661092	12713	960320	0	Boondocks		2024-10-25 00:00:00	252	252	2909 N. Dirksen Pkwy.		Springfield	IL	62702     	8B	Fund raising - food			False	False	False		False
-4661093	12713	960320	0	Inn at 835		2024-10-29 00:00:00	2326.15	2326.15	835 S. 2nd St.		Springfield	IL	62704     	8B	Fund raising - food			False	False	False		False
-4661094	12713	960320	0	Neuhoff Media Springfield		2024-10-22 00:00:00	3615	9555	3055 S 4th Street		Springfield	IL	62703     	8B	Advertising - radio			False	False	False		False
-4661095	12713	960320	0	Neuhoff Media Springfield		2024-10-31 00:00:00	5940	9555	3055 S 4th Street		Springfield	IL	62703     	8B	Advertising - radio			False	False	False		False
-4661096	12713	960320	0	Walgreens		2024-11-07 00:00:00	213.9	213.9	2305 W. Monroe		Springfield	IL	62704     	8B	Supplies			False	False	False		False
-4661097	12713	960320	0	Lesko	Frank	2024-11-12 00:00:00	380	380	2906 West Street		Springfield	IL	62707     	8B	Election day expense			False	False	False		False
-4661098	12713	960320	0	Gabatoni's Restaurant		2024-12-26 00:00:00	165.19	165.19	300 E Laurel Street		Springfield	IL	62703     	8B	Food			False	False	False		False
-4661099	12713	960320	0	A & B Printing		2024-10-31 00:00:00	5082.15	5082.15	2122 Republic		Springfield	IL	62702     	8B	Printing			False	False	False		False
-4661100	12713	960320	0	Cunningham	Nicole	2024-11-18 00:00:00	479.26	479.26	PO Box 8482		Springfield	IL	62791     	8B	Supplies			False	False	False		False
-4661101	12713	960320	0	King Pin Lanes		2024-10-07 00:00:00	203	428	3115 Sangaman Avenue		Springfield	IL	62702     	8B	Fund raising - entertainment			False	False	False		False
-4661102	12713	960320	0	King Pin Lanes		2024-10-08 00:00:00	225	428	3115 Sangaman Avenue		Springfield	IL	62702     	8B	Fund raising - entertainment			False	False	False		False
-4661103	12713	960320	0	Houck Transit Advertising		2024-11-22 00:00:00	2297.5	2297.5	1025 Tomlyn Ave. Suite 100		St. Paul	MN	55126     	8B	Banners			False	False	False		False
+4661085	12713	960320	0	Illinois Times		2024-10-01 00:00:00	2700	2700	1240 S. 6th St	PO Box 5256	Springfield	IL	62705     	8B	Advertising - newspaper			False	False	True		False
+4661086	12713	960320	0	Validus		2024-10-21 00:00:00	20000	88483.23	1400 Patriot Blvd #946		Glenview	IL	60025     	8B	Media - television			False	False	True		False
+4661087	12713	960320	0	Validus		2024-10-21 00:00:00	58538.23	88483.23	1400 Patriot Blvd #946		Glenview	IL	60025     	8B	Advertising - television			False	False	True		False
+4661088	12713	960320	0	Validus		2024-10-29 00:00:00	9945	88483.23	1400 Patriot Blvd #946		Glenview	IL	60025     	8B	Advertising - television			False	False	True		False
+4661089	12713	960320	0	Habitat for Humanity of Sangamon County ReStore		2024-10-22 00:00:00	500	500	2744 S. 6th St.		Springfield	IL	62703     	8B	Sponsorship			False	False	True		False
+4661090	12713	960320	0	Ace Sign Co.		2024-10-25 00:00:00	11590.74	14560.74	2540 S. 1st St.		Springfield	IL	62704     	8B	Signs			False	False	True		False
+4661091	12713	960320	0	Ace Sign Co.		2024-11-26 00:00:00	2970	14560.74	2540 S. 1st St.		Springfield	IL	62704     	8B	Lawn signs			False	False	True		False
+4661092	12713	960320	0	Boondocks		2024-10-25 00:00:00	252	252	2909 N. Dirksen Pkwy.		Springfield	IL	62702     	8B	Fund raising - food			False	False	True		False
+4661093	12713	960320	0	Inn at 835		2024-10-29 00:00:00	2326.15	2326.15	835 S. 2nd St.		Springfield	IL	62704     	8B	Fund raising - food			False	False	True		False
+4661094	12713	960320	0	Neuhoff Media Springfield		2024-10-22 00:00:00	3615	9555	3055 S 4th Street		Springfield	IL	62703     	8B	Advertising - radio			False	False	True		False
+4661095	12713	960320	0	Neuhoff Media Springfield		2024-10-31 00:00:00	5940	9555	3055 S 4th Street		Springfield	IL	62703     	8B	Advertising - radio			False	False	True		False
+4661096	12713	960320	0	Walgreens		2024-11-07 00:00:00	213.9	213.9	2305 W. Monroe		Springfield	IL	62704     	8B	Supplies			False	False	True		False
+4661097	12713	960320	0	Lesko	Frank	2024-11-12 00:00:00	380	380	2906 West Street		Springfield	IL	62707     	8B	Election day expense			False	False	True		False
+4661098	12713	960320	0	Gabatoni's Restaurant		2024-12-26 00:00:00	165.19	165.19	300 E Laurel Street		Springfield	IL	62703     	8B	Food			False	False	True		False
+4661099	12713	960320	0	A & B Printing		2024-10-31 00:00:00	5082.15	5082.15	2122 Republic		Springfield	IL	62702     	8B	Printing			False	False	True		False
+4661100	12713	960320	0	Cunningham	Nicole	2024-11-18 00:00:00	479.26	479.26	PO Box 8482		Springfield	IL	62791     	8B	Supplies			False	False	True		False
+4661101	12713	960320	0	King Pin Lanes		2024-10-07 00:00:00	203	428	3115 Sangaman Avenue		Springfield	IL	62702     	8B	Fund raising - entertainment			False	False	True		False
+4661102	12713	960320	0	King Pin Lanes		2024-10-08 00:00:00	225	428	3115 Sangaman Avenue		Springfield	IL	62702     	8B	Fund raising - entertainment			False	False	True		False
+4661103	12713	960320	0	Houck Transit Advertising		2024-11-22 00:00:00	2297.5	2297.5	1025 Tomlyn Ave. Suite 100		St. Paul	MN	55126     	8B	Banners			False	False	True		False
 4661104	23575	960322	0	Bob & Ringo's Grill & Smokehouse		2024-11-15 00:00:00	88.13	156.43	223 W Madison St.		Pontiac	IL	61764     	8B	Staff Meal			False	False	True		False
 4661105	23575	960322	0	Bob & Ringo's Grill & Smokehouse		2024-12-11 00:00:00	68.3	156.43	223 W Madison St.		Pontiac	IL	61764     	8B	Staff Meal			False	False	True		False
 4661106	23575	960322	0	Old Route 66		2024-12-11 00:00:00	67.15	198.06	105 S Old Route 66		Dwight	IL	60420     	8B	Staff Meal			False	False	True		False
@@ -109581,12 +109581,12 @@
 4704476	40070	968327	0	Butterfield Country Club		2025-03-22 00:00:00	3013.77	3013.77	2800 Midwest Road		Oak Brook	IL	60523     	8B	Fundraiser Food & Beverage Costs			False	False	False		False
 4704477	40070	968327	0	Anedot		2025-03-25 00:00:00	20.3	1073.66	1340 Poydras Street	#1770	New Orleans	LA	70112     	8B	CC Transaction Fee			False	False	False		False
 4704478	40070	968327	0	Irvin for Aurora		2025-03-26 00:00:00	1000	1000	PO Box 284		Aurora	IL	60507     	6B	Political Contribution			False	False	False		False
-4704479	12713	968328	0	Walmart		2025-01-02 00:00:00	37.32	298.44	2760 N Dirksen Parkway		Springfield	IL	62702     	8B	Supplies			False	False	False		False
-4704480	12713	968328	0	Cunningham	Nicole	2025-02-27 00:00:00	157.42	264.52	PO Box 8482		Springfield	IL	62791     	8B	Supplies			False	False	False		False
-4704481	12713	968328	0	Cunningham	Nicole	2025-01-14 00:00:00	107.1	264.52	PO Box 8482		Springfield	IL	62791     	8B	Field Work			False	False	False		False
-4704482	12713	968328	0	Walmart		2025-01-23 00:00:00	133.13	298.44	2760 N Dirksen Parkway		Springfield	IL	62702     	8B	Supplies			False	False	False		False
-4704483	12713	968328	0	Woodward Community Media		2025-03-26 00:00:00	1390	1390	PO Box 6493		Springfield	IL	62708     	8B	Media - radio			False	False	False		False
-4704484	12713	968328	0	Walmart		2025-03-27 00:00:00	127.99	298.44	2760 N Dirksen Parkway		Springfield	IL	62702     	8B	Food			False	False	False		False
+4704479	12713	968328	0	Walmart		2025-01-02 00:00:00	37.32	298.44	2760 N Dirksen Parkway		Springfield	IL	62702     	8B	Supplies			False	False	True		False
+4704480	12713	968328	0	Cunningham	Nicole	2025-02-27 00:00:00	157.42	264.52	PO Box 8482		Springfield	IL	62791     	8B	Supplies			False	False	True		False
+4704481	12713	968328	0	Cunningham	Nicole	2025-01-14 00:00:00	107.1	264.52	PO Box 8482		Springfield	IL	62791     	8B	Field Work			False	False	True		False
+4704482	12713	968328	0	Walmart		2025-01-23 00:00:00	133.13	298.44	2760 N Dirksen Parkway		Springfield	IL	62702     	8B	Supplies			False	False	True		False
+4704483	12713	968328	0	Woodward Community Media		2025-03-26 00:00:00	1390	1390	PO Box 6493		Springfield	IL	62708     	8B	Media - radio			False	False	True		False
+4704484	12713	968328	0	Walmart		2025-03-27 00:00:00	127.99	298.44	2760 N Dirksen Parkway		Springfield	IL	62702     	8B	Food			False	False	True		False
 4704485	39503	968329	0	Grundy Kendall Beef Association		2025-02-28 00:00:00	300	300	PO Box		Morris	IL	60450     	6B	Contribution			False	False	True		False
 4704486	39503	968329	0	USPS		2025-03-08 00:00:00	365	365	625 Carrollton Ave		Indianapolis	IN	46220     	8B	Postage			False	False	True		False
 4704487	39503	968329	0	Friends of Matt Nelson		2025-03-13 00:00:00	750	750	70 E 2nd St		Coal City	IL	60416     	6B	Contribution			False	False	True		False
@@ -153105,11 +153105,11 @@
 4748000	5001	976941	0	Turley	Kirsten	2025-05-14 00:00:00	500	500	17823 Poplar Grove Road		Poplar Grove	IL	61065     	8B	Scholarship			False	False	False		False
 4748001	5001	976941	0	Gallagly	Jayden	2025-05-15 00:00:00	500	500	Beloit Road		Belvidere	IL	61008     	8B	Scho;arship			False	False	False		False
 4748002	5001	976941	0	Farm & Fleet		2025-06-18 00:00:00	293.3	293.3	7300 East Riverside Blvd.		Loves Park	IL	61111     	8B	Promotional items			False	False	False		False
-4748003	12713	976945	0	NAACP Springfield Branch		2025-04-02 00:00:00	330	330	PO Box 3002		Springfield	IL	62708     	8B	Sponsorship			False	False	False		False
-4748004	12713	976945	0	Papa John's Pizza		2025-05-31 00:00:00	250	250	121 N Grand Ave.		Springfield	IL	62702     	8B	Food			False	False	False		False
-4748005	12713	976945	0	Juneteenth inc.		2025-06-06 00:00:00	250	250	PO Box 6184		Springfield	IL	62708     	8B	Sponsorship			False	False	False		False
-4748006	12713	976945	0	Cunningham	Nicole	2025-06-27 00:00:00	191.13	191.13	1500 S Lowell Ave	Apt B2	Springfield	IL	62704     	8B	Supplies			False	False	False		False
-4748007	12713	976945	0	United States Postal Service		2025-04-28 00:00:00	216	216	Springfield MPO		Springfield	IL	62703     	8B	Post office box			False	False	False		False
+4748003	12713	976945	0	NAACP Springfield Branch		2025-04-02 00:00:00	330	330	PO Box 3002		Springfield	IL	62708     	8B	Sponsorship			False	False	True		False
+4748004	12713	976945	0	Papa John's Pizza		2025-05-31 00:00:00	250	250	121 N Grand Ave.		Springfield	IL	62702     	8B	Food			False	False	True		False
+4748005	12713	976945	0	Juneteenth inc.		2025-06-06 00:00:00	250	250	PO Box 6184		Springfield	IL	62708     	8B	Sponsorship			False	False	True		False
+4748006	12713	976945	0	Cunningham	Nicole	2025-06-27 00:00:00	191.13	191.13	1500 S Lowell Ave	Apt B2	Springfield	IL	62704     	8B	Supplies			False	False	True		False
+4748007	12713	976945	0	United States Postal Service		2025-04-28 00:00:00	216	216	Springfield MPO		Springfield	IL	62703     	8B	Post office box			False	False	True		False
 4748008	40178	976946	0	Dos Amigos		2025-04-01 00:00:00	1488.54	1488.54	101 West Rockland Rd		Libertyville	IL	60048     	8B	Party - staff			False	False	False		False
 4748009	19152	976947	0	Deganutti	Patricia R.	2025-04-07 00:00:00	800	2400	3739 S Austin Blvd		Cicero	IL	60804     	8B	Headquarters Office Services			False	False	False		False
 4748010	19152	976947	0	Art-Flo Shirt & Lettering Co.		2025-04-04 00:00:00	3274.02	9848.44	6939 W 59th St		Chicago	IL	60638     	8B	Promotional items			False	False	False		False
@@ -185923,17 +185923,17 @@
 4780818	32754	985277	0	Tazewell County Republican Women		2025-09-19 00:00:00	250	250	PO Box 691		Tremont	IL	61568     	8B	Sponsorship of the Illinois Freedom Caucus Brunch			False	False	False		False
 4780819	32754	985277	0	Pekin Community High School Volleyball		2025-09-07 00:00:00	250	250	1903 Court St.		Pekin	IL	61554     	8B	Sponsorship			False	False	False		False
 4780820	35499	985280	0	Illinois State Board of Elections		2025-04-11 00:00:00	306.75	306.75	2329 S. MacArthur Blvd.		Springfield	IL	62704     	8B	Legal fees			False	False	False		False
-4780821	12713	985284	0	Taylorville Chamber of Commerce		2025-09-22 00:00:00	250	250	108 W, Market St. 2nd Floor		Taylorville	IL	62568     	8B	Sponsorship			False	False	False		False
-4780822	12713	985284	0	Parent Place		2025-09-22 00:00:00	350	350	314 South Grand Ave W.		Springfield	IL	62704     	8B	Sponsorship			False	False	False		False
-4780823	12713	985284	0	A & B Printing		2025-09-18 00:00:00	233	928	2122 Republic		Springfield	IL	62702     	8B	Printing			False	False	False		False
-4780824	12713	985284	0	Military Families Together, Inc.		2025-09-16 00:00:00	500	500	PO Box 13145		Springfield	IL	62791     	8B	Golf outing			False	False	False		False
-4780825	12713	985284	0	King Pin Lanes		2025-09-09 00:00:00	270	270	3115 Sangaman Avenue		Springfield	IL	62702     	8B	Fund raising - entertainment			False	False	False		False
-4780826	12713	985284	0	A & B Printing		2025-09-04 00:00:00	695	928	2122 Republic		Springfield	IL	62702     	8B	Printing			False	False	False		False
-4780827	12713	985284	0	United States Postal Service		2025-09-09 00:00:00	49.14	431.14	Springfield MPO		Springfield	IL	62703     	8B	Postage			False	False	False		False
-4780828	12713	985284	0	Walgreens		2025-08-12 00:00:00	32.91	199.66	2140 Peoria Rd		Springfield	IL	62702     	8B	Supplies			False	False	False		False
-4780829	12713	985284	0	Walgreens		2025-08-11 00:00:00	122.87	199.66	2140 Peoria Rd		Springfield	IL	62702     	8B	Supplies			False	False	False		False
-4780830	12713	985284	0	Walgreens		2025-08-08 00:00:00	43.88	199.66	2140 Peoria Rd		Springfield	IL	62702     	8B	Supplies			False	False	False		False
-4780831	12713	985284	0	United States Postal Service		2025-09-29 00:00:00	382	431.14	Springfield MPO		Springfield	IL	62703     	8B	Post office box			False	False	False		False
+4780821	12713	985284	0	Taylorville Chamber of Commerce		2025-09-22 00:00:00	250	250	108 W, Market St. 2nd Floor		Taylorville	IL	62568     	8B	Sponsorship			False	False	True		False
+4780822	12713	985284	0	Parent Place		2025-09-22 00:00:00	350	350	314 South Grand Ave W.		Springfield	IL	62704     	8B	Sponsorship			False	False	True		False
+4780823	12713	985284	0	A & B Printing		2025-09-18 00:00:00	233	928	2122 Republic		Springfield	IL	62702     	8B	Printing			False	False	True		False
+4780824	12713	985284	0	Military Families Together, Inc.		2025-09-16 00:00:00	500	500	PO Box 13145		Springfield	IL	62791     	8B	Golf outing			False	False	True		False
+4780825	12713	985284	0	King Pin Lanes		2025-09-09 00:00:00	270	270	3115 Sangaman Avenue		Springfield	IL	62702     	8B	Fund raising - entertainment			False	False	True		False
+4780826	12713	985284	0	A & B Printing		2025-09-04 00:00:00	695	928	2122 Republic		Springfield	IL	62702     	8B	Printing			False	False	True		False
+4780827	12713	985284	0	United States Postal Service		2025-09-09 00:00:00	49.14	431.14	Springfield MPO		Springfield	IL	62703     	8B	Postage			False	False	True		False
+4780828	12713	985284	0	Walgreens		2025-08-12 00:00:00	32.91	199.66	2140 Peoria Rd		Springfield	IL	62702     	8B	Supplies			False	False	True		False
+4780829	12713	985284	0	Walgreens		2025-08-11 00:00:00	122.87	199.66	2140 Peoria Rd		Springfield	IL	62702     	8B	Supplies			False	False	True		False
+4780830	12713	985284	0	Walgreens		2025-08-08 00:00:00	43.88	199.66	2140 Peoria Rd		Springfield	IL	62702     	8B	Supplies			False	False	True		False
+4780831	12713	985284	0	United States Postal Service		2025-09-29 00:00:00	382	431.14	Springfield MPO		Springfield	IL	62703     	8B	Post office box			False	False	True		False
 4780832	35499	985287	0	Illinois State Board of Elections		2025-07-28 00:00:00	613.5	613.5	2329 S. MacArthur Blvd.		Springfield	IL	62704     	8B	Legal fees			False	False	False		False
 4780833	618	985288	0	MOW Printing		2025-08-26 00:00:00	736.2	736.2	526 Vandalia		Collinsville	IL	62234     	8B	Printing			False	False	False		False
 4780834	12191	985293	0	Downstate Democratic Caucus		2025-07-02 00:00:00	1250	1250	PO Box 32		Steeleville	IL	62288     	6B	Ticket purchase			False	False	False		False
@@ -240223,33 +240223,33 @@
 4835115	25649	997214		Anderson	Neil	2025-12-02 00:00:00	425	2573	Redaction Requested					8B				False	False	False		True
 4835104	25649	997214		Anderson	Neil	2025-11-04 00:00:00	545	2573	Redaction Requested					8B				False	False	False		True
 4835097	25649	997214		Anderson	Neil	2025-10-03 00:00:00	1603	2573	Redaction Requested					8B				False	False	False		True
-4835121	12713	997215	0	Knights of Columbus 4175		2025-11-10 00:00:00	220	620	2801 West Street		Springfield	IL	62707     	8B	Fund raising - hall rental			False	False	False		False
-4835122	12713	997215	0	Sam's Club		2025-10-24 00:00:00	305.8	843.31	2300 West White Oaks Drive		Springfield	IL	62704     	8B	Fund raising - food			False	False	False		False
-4835123	12713	997215	0	Feast Buffet		2025-10-25 00:00:00	164.89	164.89	3126 S. MacArthur Blvd		Springfield	IL	62704     	8B	Campaign Work			False	False	False		False
-4835124	12713	997215	0	Sam's Club		2025-10-25 00:00:00	160.14	843.31	2300 West White Oaks Drive		Springfield	IL	62704     	8B	Food			False	False	False		False
-4835125	12713	997215	0	Walmart		2025-10-22 00:00:00	253.5	778.68	2760 N Dirksen Parkway		Springfield	IL	62702     	8B	Fund raising - food			False	False	False		False
-4835126	12713	997215	0	A & B Printing		2025-10-21 00:00:00	150	1400.07	2122 Republic		Springfield	IL	62702     	8B	Printing			False	False	False		False
-4835127	12713	997215	0	Knights of Columbus 4175		2025-10-20 00:00:00	400	620	2801 West Street		Springfield	IL	62707     	8B	Fund raising - hall rental			False	False	False		False
-4835128	12713	997215	0	Jiffy.com		2025-10-22 00:00:00	96.81	612.44	1000 N. West St. Suite 1200		Wilmington	DE	19801     	8B	T-Shirts			False	False	False		False
-4835129	12713	997215	0	A & B Printing		2025-10-10 00:00:00	1178.57	1400.07	2122 Republic		Springfield	IL	62702     	8B	Mailing			False	False	False		False
-4835130	12713	997215	0	A & B Printing		2025-10-07 00:00:00	65	1400.07	2122 Republic		Springfield	IL	62702     	8B	Printing			False	False	False		False
-4835131	12713	997215	0	Jiffy.com		2025-10-07 00:00:00	515.63	612.44	1000 N. West St. Suite 1200		Wilmington	DE	19801     	8B	T-Shirts			False	False	False		False
-4835132	12713	997215	0	Amazon		2025-10-06 00:00:00	177.57	415.88	410 Terry Ave. N.		Seattle	WA	98109     	8B	Supplies			False	False	False		False
-4835133	12713	997215	0	Sam's Club		2025-10-21 00:00:00	377.37	843.31	2300 West White Oaks Drive		Springfield	IL	62704     	8B	Food			False	False	False		False
-4835134	12713	997215	0	Walmart		2025-10-01 00:00:00	180.89	778.68	2760 N Dirksen Parkway		Springfield	IL	62702     	8B	Fund raising - entertainment			False	False	False		False
-4835135	12713	997215	0	Walmart		2025-11-10 00:00:00	81.96	778.68	2760 N Dirksen Parkway		Springfield	IL	62702     	8B	Fund raising - entertainment			False	False	False		False
-4835136	12713	997215	0	United States Postal Service		2025-11-05 00:00:00	156	156	Springfield MPO		Springfield	IL	62703     	8B	Postage			False	False	False		False
-4835137	12713	997215	0	Jr. Blues Alumni Association		2025-11-17 00:00:00	200	200	3117 Cascade Dr		Springfield	IL	62704     	8B	Donation			False	False	False		False
-4835138	12713	997215	0	Springfield Jaycees		2025-12-10 00:00:00	150	400	2525 S 12th Street		Springfield	IL	62703     	8B	Field Work			False	False	False		False
-4835139	12713	997215	0	Springfield Jaycees		2025-12-10 00:00:00	250	400	2525 S 12th Street		Springfield	IL	62703     	8B	Sponsorship			False	False	False		False
-4835140	12713	997215	0	Crimestoppers of Sangamon and Menard Counties		2025-12-12 00:00:00	500	500	PO Box 1059		Springfield	IL	62705     	8B	Sponsorship			False	False	False		False
-4835141	12713	997215	0	A & B Printing		2025-11-19 00:00:00	6.5	1400.07	2122 Republic		Springfield	IL	62702     	8B	Printing			False	False	False		False
-4835142	12713	997215	0	Walmart		2025-12-17 00:00:00	210.24	778.68	2760 N Dirksen Parkway		Springfield	IL	62702     	8B	Fund raising - entertainment			False	False	False		False
-4835143	12713	997215	0	Walmart		2025-12-19 00:00:00	52.09	778.68	2760 N Dirksen Parkway		Springfield	IL	62702     	8B	Fund raising - entertainment			False	False	False		False
-4835144	12713	997215	0	Amazon		2025-12-19 00:00:00	14.99	415.88	410 Terry Ave. N.		Seattle	WA	98109     	8B	Contractual			False	False	False		False
-4835145	12713	997215	0	Aldi		2025-12-08 00:00:00	211.12	211.12	2731 N Dirksen Pkwy		Springfield	IL	62702     	8B	Supplies			False	False	False		False
-4835146	12713	997215	0	Amazon		2025-12-08 00:00:00	221.33	415.88	410 Terry Ave. N.		Seattle	WA	98109     	8B	Supplies			False	False	False		False
-4835147	12713	997215	0	Amazon		2025-12-08 00:00:00	1.99	415.88	410 Terry Ave. N.		Seattle	WA	98109     	8B	Subscription			False	False	False		False
+4835121	12713	997215	0	Knights of Columbus 4175		2025-11-10 00:00:00	220	620	2801 West Street		Springfield	IL	62707     	8B	Fund raising - hall rental			False	False	True		False
+4835122	12713	997215	0	Sam's Club		2025-10-24 00:00:00	305.8	843.31	2300 West White Oaks Drive		Springfield	IL	62704     	8B	Fund raising - food			False	False	True		False
+4835123	12713	997215	0	Feast Buffet		2025-10-25 00:00:00	164.89	164.89	3126 S. MacArthur Blvd		Springfield	IL	62704     	8B	Campaign Work			False	False	True		False
+4835124	12713	997215	0	Sam's Club		2025-10-25 00:00:00	160.14	843.31	2300 West White Oaks Drive		Springfield	IL	62704     	8B	Food			False	False	True		False
+4835125	12713	997215	0	Walmart		2025-10-22 00:00:00	253.5	778.68	2760 N Dirksen Parkway		Springfield	IL	62702     	8B	Fund raising - food			False	False	True		False
+4835126	12713	997215	0	A & B Printing		2025-10-21 00:00:00	150	1400.07	2122 Republic		Springfield	IL	62702     	8B	Printing			False	False	True		False
+4835127	12713	997215	0	Knights of Columbus 4175		2025-10-20 00:00:00	400	620	2801 West Street		Springfield	IL	62707     	8B	Fund raising - hall rental			False	False	True		False
+4835128	12713	997215	0	Jiffy.com		2025-10-22 00:00:00	96.81	612.44	1000 N. West St. Suite 1200		Wilmington	DE	19801     	8B	T-Shirts			False	False	True		False
+4835129	12713	997215	0	A & B Printing		2025-10-10 00:00:00	1178.57	1400.07	2122 Republic		Springfield	IL	62702     	8B	Mailing			False	False	True		False
+4835130	12713	997215	0	A & B Printing		2025-10-07 00:00:00	65	1400.07	2122 Republic		Springfield	IL	62702     	8B	Printing			False	False	True		False
+4835131	12713	997215	0	Jiffy.com		2025-10-07 00:00:00	515.63	612.44	1000 N. West St. Suite 1200		Wilmington	DE	19801     	8B	T-Shirts			False	False	True		False
+4835132	12713	997215	0	Amazon		2025-10-06 00:00:00	177.57	415.88	410 Terry Ave. N.		Seattle	WA	98109     	8B	Supplies			False	False	True		False
+4835133	12713	997215	0	Sam's Club		2025-10-21 00:00:00	377.37	843.31	2300 West White Oaks Drive		Springfield	IL	62704     	8B	Food			False	False	True		False
+4835134	12713	997215	0	Walmart		2025-10-01 00:00:00	180.89	778.68	2760 N Dirksen Parkway		Springfield	IL	62702     	8B	Fund raising - entertainment			False	False	True		False
+4835135	12713	997215	0	Walmart		2025-11-10 00:00:00	81.96	778.68	2760 N Dirksen Parkway		Springfield	IL	62702     	8B	Fund raising - entertainment			False	False	True		False
+4835136	12713	997215	0	United States Postal Service		2025-11-05 00:00:00	156	156	Springfield MPO		Springfield	IL	62703     	8B	Postage			False	False	True		False
+4835137	12713	997215	0	Jr. Blues Alumni Association		2025-11-17 00:00:00	200	200	3117 Cascade Dr		Springfield	IL	62704     	8B	Donation			False	False	True		False
+4835138	12713	997215	0	Springfield Jaycees		2025-12-10 00:00:00	150	400	2525 S 12th Street		Springfield	IL	62703     	8B	Field Work			False	False	True		False
+4835139	12713	997215	0	Springfield Jaycees		2025-12-10 00:00:00	250	400	2525 S 12th Street		Springfield	IL	62703     	8B	Sponsorship			False	False	True		False
+4835140	12713	997215	0	Crimestoppers of Sangamon and Menard Counties		2025-12-12 00:00:00	500	500	PO Box 1059		Springfield	IL	62705     	8B	Sponsorship			False	False	True		False
+4835141	12713	997215	0	A & B Printing		2025-11-19 00:00:00	6.5	1400.07	2122 Republic		Springfield	IL	62702     	8B	Printing			False	False	True		False
+4835142	12713	997215	0	Walmart		2025-12-17 00:00:00	210.24	778.68	2760 N Dirksen Parkway		Springfield	IL	62702     	8B	Fund raising - entertainment			False	False	True		False
+4835143	12713	997215	0	Walmart		2025-12-19 00:00:00	52.09	778.68	2760 N Dirksen Parkway		Springfield	IL	62702     	8B	Fund raising - entertainment			False	False	True		False
+4835144	12713	997215	0	Amazon		2025-12-19 00:00:00	14.99	415.88	410 Terry Ave. N.		Seattle	WA	98109     	8B	Contractual			False	False	True		False
+4835145	12713	997215	0	Aldi		2025-12-08 00:00:00	211.12	211.12	2731 N Dirksen Pkwy		Springfield	IL	62702     	8B	Supplies			False	False	True		False
+4835146	12713	997215	0	Amazon		2025-12-08 00:00:00	221.33	415.88	410 Terry Ave. N.		Seattle	WA	98109     	8B	Supplies			False	False	True		False
+4835147	12713	997215	0	Amazon		2025-12-08 00:00:00	1.99	415.88	410 Terry Ave. N.		Seattle	WA	98109     	8B	Subscription			False	False	True		False
 4835148	497	997217	0	Friedman Properties		2025-10-22 00:00:00	1967.5	5817.5	350 N. Clark St, Suite 400		Chicago	IL	60654     	8B	Rent			False	False	False		False
 4835149	497	997217	0	Friedman Properties		2025-11-20 00:00:00	1900	5817.5	350 N. Clark St, Suite 400		Chicago	IL	60654     	8B	Rent			False	False	False		False
 4835150	497	997217	0	AT&T		2025-10-05 00:00:00	73.29	219.87	PO Box 9001310		Louisville	KY	40290     	8B	Internet access			False	False	False		False
@@ -309876,20 +309876,20 @@
 4904841	909	1010065	0	Citizens for Dan Ugaste		2026-02-18 00:00:00	500	500	399 Southampton Dr		Geneva	IL	60134     	6B	Contribution			False	False	True		False
 4904842	909	1010065	0	Friends of Jaime M Andrade Jr		2026-02-17 00:00:00	1000	1000	PO Box 18380		Chicago	IL	60618     	6B	Contribution			False	False	True		False
 4904843	909	1010065	0	Democratic Party of Illinois		2026-02-17 00:00:00	5000	5000	PO Box 10692		Chicago	IL	60664     	6B	Contribution			False	False	True		False
-4904844	12713	1010093	0	Sam's Club		2026-03-09 00:00:00	454.46	454.46	2300 West White Oaks Drive		Springfield	IL	62704     	8B	Supplies			False	False	False		False
-4904845	12713	1010093	0	NAACP Springfield Branch		2026-03-04 00:00:00	265	265	PO Box 3002		Springfield	IL	62708     	8B	Sponsorship			False	False	False		False
-4904846	12713	1010093	0	Papa Frank's		2026-02-11 00:00:00	1983.05	1983.05	4111 Wabash Ave		Springfield	IL	62711     	8B	Fund raising - food			False	False	False		False
-4904847	12713	1010093	0	Cumberworth	Peggy	2026-03-23 00:00:00	665	665	19 Lansing Dr.		Springfield	IL	62703     	8B	T-Shirts			False	False	False		False
-4904848	12713	1010093	0	Amazon		2026-02-18 00:00:00	200.25	239.75	410 Terry Ave. N.		Seattle	WA	98109     	8B	Supplies			False	False	False		False
-4904849	12713	1010093	0	Amazon		2026-03-06 00:00:00	39.5	239.75	410 Terry Ave. N.		Seattle	WA	98109     	8B	Supplies			False	False	False		False
-4904850	12713	1010093	0	Woodward Community Media		2026-01-30 00:00:00	1350	1750	PO Box 6493		Springfield	IL	62708     	8B	Media - radio			False	False	False		False
-4904851	12713	1010093	0	Woodward Community Media		2026-02-12 00:00:00	400	1750	PO Box 6493		Springfield	IL	62708     	8B	Media - radio			False	False	False		False
-4904852	12713	1010093	0	Springfield Jr. Blues Alumni Association		2026-02-23 00:00:00	200	200	3180 Cobblestone Ln	Unit 3	Springfield	IL	62711     	8B	Donation			False	False	False		False
-4904853	12713	1010093	0	Blessed Sacrament Church		2026-03-03 00:00:00	250	250	1725 South Walnut Street		Springfield	IL	62704     	8B	Ad book			False	False	False		False
-4904854	12713	1010093	0	Cunningham	Nicole	2026-03-06 00:00:00	155.24	155.24	PO Box 2642		Springfield	IL	62708     	8B	Food			False	False	False		False
-4904855	12713	1010093	0	Jiffy.com		2026-02-18 00:00:00	292.68	461.06	1000 N. West St. Suite 1200		Wilmington	DE	19801     	8B	T-Shirts			False	False	False		False
-4904856	12713	1010093	0	Jiffy.com		2026-02-18 00:00:00	168.38	461.06	1000 N. West St. Suite 1200		Wilmington	DE	19801     	8B	Supplies			False	False	False		False
-4904857	12713	1010093	0	Springfield IL St. Patrick's Day Parade		2026-02-05 00:00:00	350	350	1 S. Old State Capitol Plaza		Springfield	IL	62701     	8B	Sponsorship			False	False	False		False
+4904844	12713	1010093	0	Sam's Club		2026-03-09 00:00:00	454.46	454.46	2300 West White Oaks Drive		Springfield	IL	62704     	8B	Supplies			False	False	True		False
+4904845	12713	1010093	0	NAACP Springfield Branch		2026-03-04 00:00:00	265	265	PO Box 3002		Springfield	IL	62708     	8B	Sponsorship			False	False	True		False
+4904846	12713	1010093	0	Papa Frank's		2026-02-11 00:00:00	1983.05	1983.05	4111 Wabash Ave		Springfield	IL	62711     	8B	Fund raising - food			False	False	True		False
+4904847	12713	1010093	0	Cumberworth	Peggy	2026-03-23 00:00:00	665	665	19 Lansing Dr.		Springfield	IL	62703     	8B	T-Shirts			False	False	True		False
+4904848	12713	1010093	0	Amazon		2026-02-18 00:00:00	200.25	239.75	410 Terry Ave. N.		Seattle	WA	98109     	8B	Supplies			False	False	True		False
+4904849	12713	1010093	0	Amazon		2026-03-06 00:00:00	39.5	239.75	410 Terry Ave. N.		Seattle	WA	98109     	8B	Supplies			False	False	True		False
+4904850	12713	1010093	0	Woodward Community Media		2026-01-30 00:00:00	1350	1750	PO Box 6493		Springfield	IL	62708     	8B	Media - radio			False	False	True		False
+4904851	12713	1010093	0	Woodward Community Media		2026-02-12 00:00:00	400	1750	PO Box 6493		Springfield	IL	62708     	8B	Media - radio			False	False	True		False
+4904852	12713	1010093	0	Springfield Jr. Blues Alumni Association		2026-02-23 00:00:00	200	200	3180 Cobblestone Ln	Unit 3	Springfield	IL	62711     	8B	Donation			False	False	True		False
+4904853	12713	1010093	0	Blessed Sacrament Church		2026-03-03 00:00:00	250	250	1725 South Walnut Street		Springfield	IL	62704     	8B	Ad book			False	False	True		False
+4904854	12713	1010093	0	Cunningham	Nicole	2026-03-06 00:00:00	155.24	155.24	PO Box 2642		Springfield	IL	62708     	8B	Food			False	False	True		False
+4904855	12713	1010093	0	Jiffy.com		2026-02-18 00:00:00	292.68	461.06	1000 N. West St. Suite 1200		Wilmington	DE	19801     	8B	T-Shirts			False	False	True		False
+4904856	12713	1010093	0	Jiffy.com		2026-02-18 00:00:00	168.38	461.06	1000 N. West St. Suite 1200		Wilmington	DE	19801     	8B	Supplies			False	False	True		False
+4904857	12713	1010093	0	Springfield IL St. Patrick's Day Parade		2026-02-05 00:00:00	350	350	1 S. Old State Capitol Plaza		Springfield	IL	62701     	8B	Sponsorship			False	False	True		False
 4904858	909	1010112	0	Friends of Don Harmon for State Senate		2024-10-02 00:00:00	7500	8500	6939 W North Ave		Oak Park	IL	60302-1024	6B	Contribution			False	False	False		False
 4904859	909	1010112	0	Friends of Don Harmon for State Senate		2024-12-10 00:00:00	1000	8500	6939 W North Ave		Oak Park	IL	60302-1024	6B	Contribution			False	False	False		False
 4904860	909	1010112	0	Eck Schafer & Punke LLP		2024-10-01 00:00:00	1150	1150	227 S 7th St		Springfield	IL	62701     	8B	Taxes			False	False	False		False
@@ -317588,14 +317588,14 @@
 4912553	41035	1013292	0	Sam's Club		2026-05-18 00:00:00	330.85	528.53	7151 Walton St		Rockford	IL	61108     	8B	Parade Candy Advertising			False	False	False		False
 4912554	41035	1013292	0	Sam's Club		2026-06-29 00:00:00	197.68	528.53	7151 Walton St		Rockford	IL	61108     	8B	Food			False	False	False		False
 4912555	5376	1013301	0	sang cty rep central comm		2026-04-15 00:00:00	900	900	1132 sangamon ave		spfld	IL	62702     	6B	Ticket purchase			False	False	False		False
-4912556	40635	1013302	0	Idea Creative Marketing		2026-04-16 00:00:00	550	1650	1214 Walnut St		Murphysboro	IL	62966     	8B	Media - production			False	False	False		False
-4912557	40635	1013302	0	Idea Creative Marketing		2026-05-15 00:00:00	550	1650	1214 Walnut St		Murphysboro	IL	62966     	8B	Lawn signs			False	False	False		False
-4912558	40635	1013302	0	Idea Creative Marketing		2026-06-11 00:00:00	550	1650	1214 Walnut St		Murphysboro	IL	62966     	8B	Fund raising - advertisement			False	False	False		False
-4912559	40635	1013302	0	Schwebel Printing		2026-04-13 00:00:00	241.44	241.44	1408 Walnut		Murphysboro	IL	62966     	8B				False	False	False		False
-4912560	40635	1013302	0	American Legion Post 147		2026-04-25 00:00:00	200	200	11720 Longstreet		Marion	IL	62959     	8B	Fund raising - food			False	False	False		False
-4912561	40635	1013302	0	Steve Hornbeck Procductions		2026-04-25 00:00:00	1500	1500				IL	          	8B	Fund raising - entertainment			False	False	False		False
-4912562	40635	1013302	0	Sam's Club		2026-05-07 00:00:00	1139.93	1139.93				IL	          	8B	Fund raising - food			False	False	False		False
-4912563	40635	1013302	0	Filgor	Eileen	2026-06-10 00:00:00	500	500				IL	          	8B	Consulting			False	False	False		False
+4912556	40635	1013302	0	Idea Creative Marketing		2026-04-16 00:00:00	550	1650	1214 Walnut St		Murphysboro	IL	62966     	8B	Media - production			False	False	True		False
+4912557	40635	1013302	0	Idea Creative Marketing		2026-05-15 00:00:00	550	1650	1214 Walnut St		Murphysboro	IL	62966     	8B	Lawn signs			False	False	True		False
+4912558	40635	1013302	0	Idea Creative Marketing		2026-06-11 00:00:00	550	1650	1214 Walnut St		Murphysboro	IL	62966     	8B	Fund raising - advertisement			False	False	True		False
+4912559	40635	1013302	0	Schwebel Printing		2026-04-13 00:00:00	241.44	241.44	1408 Walnut		Murphysboro	IL	62966     	8B				False	False	True		False
+4912560	40635	1013302	0	American Legion Post 147		2026-04-25 00:00:00	200	200	11720 Longstreet		Marion	IL	62959     	8B	Fund raising - food			False	False	True		False
+4912561	40635	1013302	0	Steve Hornbeck Procductions		2026-04-25 00:00:00	1500	1500				IL	          	8B	Fund raising - entertainment			False	False	True		False
+4912562	40635	1013302	0	Sam's Club		2026-05-07 00:00:00	1139.93	1139.93				IL	          	8B	Fund raising - food			False	False	True		False
+4912563	40635	1013302	0	Filgor	Eileen	2026-06-10 00:00:00	500	500				IL	          	8B	Consulting			False	False	True		False
 4912564	342	1013304	0	Panzarella	Stephen	2026-05-28 00:00:00	1000	1000	1 Walnut Lane		South  Barrington	IL	60010     	8B	Refund of contribution			False	False	False		False
 4912565	342	1013304	0	Collurafici	Paul	2026-05-28 00:00:00	1000	1000	1 Westcott Lane		Sourh Barrington	IL	60010     	8B	Refund of contribution			False	False	False		False
 4912566	342	1013304	0	Antler	David	2026-05-28 00:00:00	1000	1000	348 Old Sutton Rd		Barrington Hills	IL	60010     	8B	Refund of contribution			False	False	False		False
@@ -317825,26 +317825,26 @@
 4912790	667	1013314	0	Judd	Tammie	2026-02-02 00:00:00	200	200	115 Cape Ann Ct		Pekin	IL	61554     	8B	Reimbursement for Pekin Country Club room rental			False	False	False		False
 4912791	667	1013314	0	Washington Police Department		2026-02-25 00:00:00	179.62	179.62	115 W Jefferson St.		Washington	IL	61571     	8B	Security for Gubernatorial Forum			False	False	False		False
 4912792	667	1013314	0	Mom's for Liberty Tazewell County IL		2026-02-20 00:00:00	1000	1000	127 Sampson St		Tremont	IL	61568-0534	6B	Funding			False	False	False		False
-4912793	12713	1013315	0	Sam's Club		2026-05-12 00:00:00	60	707.08	2300 West White Oaks Drive		Springfield	IL	62704     	8B	Subscription			False	False	False		False
-4912794	12713	1013315	0	Sam's Club		2026-06-15 00:00:00	89	707.08	2300 West White Oaks Drive		Springfield	IL	62704     	8B	Fund raising - food			False	False	False		False
-4912795	12713	1013315	0	Sam's Club		2026-06-12 00:00:00	245	707.08	2300 West White Oaks Drive		Springfield	IL	62704     	8B	Fund raising - food			False	False	False		False
-4912796	12713	1013315	0	Sam's Club		2026-06-29 00:00:00	313.08	707.08	2300 West White Oaks Drive		Springfield	IL	62704     	8B	Field Work			False	False	False		False
-4912797	12713	1013315	0	A & B Printing		2026-04-01 00:00:00	45	2296.57	2122 Republic		Springfield	IL	62702     	8B	Printing			False	False	False		False
-4912798	12713	1013315	0	A & B Printing		2026-06-02 00:00:00	701.68	2296.57	2122 Republic		Springfield	IL	62702     	8B	Printing			False	False	False		False
-4912799	12713	1013315	0	A & B Printing		2026-06-02 00:00:00	1399.89	2296.57	2122 Republic		Springfield	IL	62702     	8B	Printing			False	False	False		False
-4912800	12713	1013315	0	A & B Printing		2026-06-04 00:00:00	50	2296.57	2122 Republic		Springfield	IL	62702     	8B	Printing			False	False	False		False
-4912801	12713	1013315	0	A & B Printing		2026-06-10 00:00:00	100	2296.57	2122 Republic		Springfield	IL	62702     	8B	Printing			False	False	False		False
-4912802	12713	1013315	0	Wal-Mart		2026-06-12 00:00:00	199.05	199.05	1100 Lejune Dr		Springfield	IL	62703     	8B	Supplies			False	False	False		False
-4912803	12713	1013315	0	Amazon		2026-04-02 00:00:00	40.6	519.62	410 Terry Ave. N.		Seattle	WA	98109     	8B	Supplies			False	False	False		False
-4912804	12713	1013315	0	Amazon		2026-04-15 00:00:00	21.62	519.62	410 Terry Ave. N.		Seattle	WA	98109     	8B	Supplies			False	False	False		False
-4912805	12713	1013315	0	Amazon		2026-05-07 00:00:00	457.4	519.62	410 Terry Ave. N.		Seattle	WA	98109     	8B	Supplies			False	False	False		False
-4912806	12713	1013315	0	Truax	Paul	2026-06-26 00:00:00	173.82	173.82	1723 Fairfield Drive		Springfield	IL	62702     	8B	Food			False	False	False		False
-4912807	12713	1013315	0	Star 66 Cafe		2026-06-23 00:00:00	163.72	163.72	3752 Camp Butler Road		Springfield	IL	62707     	8B	Food			False	False	False		False
-4912808	12713	1013315	0	Russo	Adrian	2026-06-04 00:00:00	665	665	820 High Pointe Dr		Springfield	IL	62702     	8B	Website			False	False	False		False
-4912809	12713	1013315	0	Village of Rochester		2026-06-04 00:00:00	250	250	125 1st St.		Rochester	IL	62563     	8B	Ad book			False	False	False		False
-4912810	12713	1013315	0	Midwest Creative Arts		2026-06-11 00:00:00	350	350	424 S 11th St		Springfield	IL	62703     	8B	Photography			False	False	False		False
-4912811	12713	1013315	0	Heffernan	Kathryn	2026-05-23 00:00:00	1207.5	1207.5	1204 Oakmont Dr		Springfield	IL	62704     	8B	Campaign Work			False	False	False		False
-4912812	12713	1013315	0	Castleman	Rick	2026-06-18 00:00:00	350	350	1515 N. Lincoln Ave Lot 45		Springfield	IL	62702     	8B	Photography			False	False	False		False
+4912793	12713	1013315	0	Sam's Club		2026-05-12 00:00:00	60	707.08	2300 West White Oaks Drive		Springfield	IL	62704     	8B	Subscription			False	False	True		False
+4912794	12713	1013315	0	Sam's Club		2026-06-15 00:00:00	89	707.08	2300 West White Oaks Drive		Springfield	IL	62704     	8B	Fund raising - food			False	False	True		False
+4912795	12713	1013315	0	Sam's Club		2026-06-12 00:00:00	245	707.08	2300 West White Oaks Drive		Springfield	IL	62704     	8B	Fund raising - food			False	False	True		False
+4912796	12713	1013315	0	Sam's Club		2026-06-29 00:00:00	313.08	707.08	2300 West White Oaks Drive		Springfield	IL	62704     	8B	Field Work			False	False	True		False
+4912797	12713	1013315	0	A & B Printing		2026-04-01 00:00:00	45	2296.57	2122 Republic		Springfield	IL	62702     	8B	Printing			False	False	True		False
+4912798	12713	1013315	0	A & B Printing		2026-06-02 00:00:00	701.68	2296.57	2122 Republic		Springfield	IL	62702     	8B	Printing			False	False	True		False
+4912799	12713	1013315	0	A & B Printing		2026-06-02 00:00:00	1399.89	2296.57	2122 Republic		Springfield	IL	62702     	8B	Printing			False	False	True		False
+4912800	12713	1013315	0	A & B Printing		2026-06-04 00:00:00	50	2296.57	2122 Republic		Springfield	IL	62702     	8B	Printing			False	False	True		False
+4912801	12713	1013315	0	A & B Printing		2026-06-10 00:00:00	100	2296.57	2122 Republic		Springfield	IL	62702     	8B	Printing			False	False	True		False
+4912802	12713	1013315	0	Wal-Mart		2026-06-12 00:00:00	199.05	199.05	1100 Lejune Dr		Springfield	IL	62703     	8B	Supplies			False	False	True		False
+4912803	12713	1013315	0	Amazon		2026-04-02 00:00:00	40.6	519.62	410 Terry Ave. N.		Seattle	WA	98109     	8B	Supplies			False	False	True		False
+4912804	12713	1013315	0	Amazon		2026-04-15 00:00:00	21.62	519.62	410 Terry Ave. N.		Seattle	WA	98109     	8B	Supplies			False	False	True		False
+4912805	12713	1013315	0	Amazon		2026-05-07 00:00:00	457.4	519.62	410 Terry Ave. N.		Seattle	WA	98109     	8B	Supplies			False	False	True		False
+4912806	12713	1013315	0	Truax	Paul	2026-06-26 00:00:00	173.82	173.82	1723 Fairfield Drive		Springfield	IL	62702     	8B	Food			False	False	True		False
+4912807	12713	1013315	0	Star 66 Cafe		2026-06-23 00:00:00	163.72	163.72	3752 Camp Butler Road		Springfield	IL	62707     	8B	Food			False	False	True		False
+4912808	12713	1013315	0	Russo	Adrian	2026-06-04 00:00:00	665	665	820 High Pointe Dr		Springfield	IL	62702     	8B	Website			False	False	True		False
+4912809	12713	1013315	0	Village of Rochester		2026-06-04 00:00:00	250	250	125 1st St.		Rochester	IL	62563     	8B	Ad book			False	False	True		False
+4912810	12713	1013315	0	Midwest Creative Arts		2026-06-11 00:00:00	350	350	424 S 11th St		Springfield	IL	62703     	8B	Photography			False	False	True		False
+4912811	12713	1013315	0	Heffernan	Kathryn	2026-05-23 00:00:00	1207.5	1207.5	1204 Oakmont Dr		Springfield	IL	62704     	8B	Campaign Work			False	False	True		False
+4912812	12713	1013315	0	Castleman	Rick	2026-06-18 00:00:00	350	350	1515 N. Lincoln Ave Lot 45		Springfield	IL	62702     	8B	Photography			False	False	True		False
 4912813	18434	1013316	0	Waitekus	Doug	2026-06-26 00:00:00	315	315	9435 Nicklaus Ln		Crystal Lake	IL	60014     	8B	Raffle winnings			False	False	False		False
 4912814	18434	1013316	0	Pinecrest Golf Club		2026-06-26 00:00:00	6401.68	6401.68	11220 W Algonquin Rd		Huntley	IL	60142     	8B	Golf outing			False	False	False		False
 4912815	18434	1013316	0	Crystal Lake Food Pantry		2026-04-02 00:00:00	200	200	42 East St		Crystal Lake	IL	60014     	8B	Donation			False	False	False		False
@@ -322164,7 +322164,7 @@
 4917129	23645	1014142	0	FRIENDS FOR MARC MCKIRDIE		2026-05-22 00:00:00	250	250	7734 W. JEFFERSON CT.		FRANKFORT	IL	60423     	6B	Contribution			False	False	False		False
 4917130	23645	1014142	0	RICHARDSON FOR SHERIFF		2026-06-01 00:00:00	500	500	P.O. BOX 52		OSWEGO	IL	60543     	6B	Contribution			False	False	False		False
 4917131	23645	1014142	0	CROKE FOR ILLINOIS		2026-06-08 00:00:00	2500	2500	220 N. GREEN ST.		CHICAGO	IL	60607     	6B	Contribution			False	False	False		False
-4917132	6455	1014143	0	Shantel for State Rep		2026-06-29 00:00:00	250	250	4827 W Ferdinand St		Chicago	IL	60644     	6B				False	False	False		False
+4917132	6455	1014143	0	Shantel for State Rep		2026-06-29 00:00:00	250	250	4827 W Ferdinand St		Chicago	IL	60644     	6B				False	False	True		False
 4917133	23629	1014145	0	FRIENDS TO ELECT KEN BRILEY		2026-04-10 00:00:00	900	900	P.O. BOX 243		MORRIS	IL	60450     	6B	Contribution			False	False	False		False
 4917134	23629	1014145	0	LEGACY PROFESSIONALS LLP		2026-04-06 00:00:00	250	500	4 WESTBROOK CORP. CENTER, STE 700		WESTCHESTER	IL	60154     	8B	Accounting fees			False	False	False		False
 4917135	23629	1014145	0	LEGACY PROFESSIONALS LLP		2026-06-11 00:00:00	250	500	4 WESTBROOK CORP. CENTER, STE 700		WESTCHESTER	IL	60154     	8B	Accounting fees			False	False	False		False
@@ -341308,11 +341308,11 @@
 4936273	40760	1016013	0	Banks	Cherish	2026-04-14 00:00:00	500	500	2530 N Sacramento Ave, apt 103		Chicago	IL	60647     	8B	Campaign Work			False	False	False		False
 4936274	36936	1016014	0	Friends of Alma Anaya		2026-06-03 00:00:00	500	500	4140 S. Archer		Chicago	IL	60632     	8B	Donation			False	False	False		False
 4936275	36936	1016014	0	Patty Garcia for Congress		2026-05-15 00:00:00	1000	1000	PO BOX 1021		Melrose Park	IL	60161     	8B	Donation			False	False	False		False
-4936276	40854	1016015	0	Democratic Party of Illinois 04		2026-06-11 00:00:00	1000	1000	PO Box 32201		Chicago	IL	60632     	6B	Contribution			False	False	False		False
-4936277	40854	1016015	0	Friends of Jeylu Gutierrez		2026-06-02 00:00:00	250	250	4638 S. Troy St.		Chicago	IL	60632     	6B	Contribution			False	False	False		False
-4936278	40854	1016015	0	Patty Garcia for Congress		2026-06-02 00:00:00	250	250	3837 W 51st St		Chicago	IL	60632     	6B	Contribution			False	False	False		False
-4936279	40854	1016015	0	Gr33nink Inc.		2026-06-22 00:00:00	200	200	548 Manor Cir		Schaumburg	IL	60194     	8B	Website design			False	False	False		False
-4936280	40854	1016015	0	Friends of Jesse Fuentes		2026-06-11 00:00:00	1000	1000	1746 N Kimball Ave		Chicago	IL	60647     	6B	Contribution			False	False	False		False
+4936276	40854	1016015	0	Democratic Party of Illinois 04		2026-06-11 00:00:00	1000	1000	PO Box 32201		Chicago	IL	60632     	6B	Contribution			False	False	True		False
+4936277	40854	1016015	0	Friends of Jeylu Gutierrez		2026-06-02 00:00:00	250	250	4638 S. Troy St.		Chicago	IL	60632     	6B	Contribution			False	False	True		False
+4936278	40854	1016015	0	Patty Garcia for Congress		2026-06-02 00:00:00	250	250	3837 W 51st St		Chicago	IL	60632     	6B	Contribution			False	False	True		False
+4936279	40854	1016015	0	Gr33nink Inc.		2026-06-22 00:00:00	200	200	548 Manor Cir		Schaumburg	IL	60194     	8B	Website design			False	False	True		False
+4936280	40854	1016015	0	Friends of Jesse Fuentes		2026-06-11 00:00:00	1000	1000	1746 N Kimball Ave		Chicago	IL	60647     	6B	Contribution			False	False	True		False
 4936281	40933	1016017	0	Act Blue Technical Services		2026-04-05 00:00:00	172.08	630.53	366 Summer St		Somerville	MA	02144-3132	8B	Credit Card Processing Fees			False	False	False		False
 4936282	40933	1016017	0	Act Blue Technical Services		2026-04-12 00:00:00	6.33	630.53	366 Summer St		Somerville	MA	02144-3132	8B	Credit Card Processing Fees			False	False	False		False
 4936283	40933	1016017	0	Act Blue Technical Services		2026-04-19 00:00:00	5.36	630.53	366 Summer St		Somerville	MA	02144-3132	8B	Credit Card Processing Fees			False	False	False		False
@@ -346225,7 +346225,7 @@
 4941190	35091	1016456	0	Sangamon County Republican Central Committee		2026-06-18 00:00:00	500	500	1132 E. Sangamon Ave		Springfield	IL	62702     	6B	Contribution			False	False	False		False
 4941191	35091	1016456	0	Sangamon County Republican Foundation		2026-06-18 00:00:00	500	500	241 N. 5th St.		Springfield	IL	62701     	6B	Contribution			False	False	False		False
 4941192	37065	1016486	0	Friends and Family of Nabeela Syed		2026-04-20 00:00:00	250	250	PO Box 1128		Palatine	IL	60078     	6B				False	False	False		False
-4941193	40842	1016487	0	Gooden	Nicole	2026-06-30 00:00:00	555.01	555.01	14311 S Parnell	Ave	Harvey	IL	60426     	8B	Loan repayment 4/1-6/30			False	False	False		False
+4941193	40842	1016487	0	Gooden	Nicole	2026-06-30 00:00:00	555.01	555.01	14311 S Parnell	Ave	Harvey	IL	60426     	8B	Loan repayment 4/1-6/30			False	False	True		False
 4941194	39779	1016494	0	Conduit Training		2026-04-14 00:00:00	500	1275	587 Wakefield Ct		Naperville	IL	60563     	8B	Website			False	False	False		False
 4941195	39779	1016494	0	Conduit Training		2026-05-21 00:00:00	500	1275	587 Wakefield Ct		Naperville	IL	60563     	8B	Consulting			False	False	False		False
 4941196	39779	1016494	0	Conduit Training		2026-06-29 00:00:00	275	1275	587 Wakefield Ct		Naperville	IL	60563     	8B	Consulting			False	False	False		False
@@ -351950,34 +351950,34 @@
 4946915	1026	1022638	0	Act Blue		2026-09-20 00:00:00	13.83	444.51	Post Office Box 382110		Cambridge	MA	02238-2110	8B	Service Fee			False	False	False		False
 4946916	1026	1022638	0	Act Blue		2026-09-27 00:00:00	132.34	444.51	Post Office Box 382110		Cambridge	MA	02238-2110	8B	Service Fee			False	False	False		False
 4946917	1026	1022638	0	Act Blue		2026-09-30 00:00:00	19.76	444.51	Post Office Box 382110		Cambridge	MA	02238-2110	8B	Service Fee			False	False	False		False
-4946918	22078	1022642	0	Worth Twp Dem Organization		2026-07-22 00:00:00	500	500	PO Box 1022		Worth	IL	60482     	6B	Contribution			False	False	False		False
-4946919	22078	1022642	0	Committee to Elect Brooks & Winfrey for 8		2026-07-29 00:00:00	500	500	104 E Zarley Boulevard		Joliet	IL	60433     	6B	Contribution			False	False	False		False
-4946920	22078	1022642	0	Committee to elect Jennifer Bertino Tarrant		2026-07-22 00:00:00	500	500	903 Valencia Drive		Shorewood	IL	60404     	6B	Contribution			False	False	False		False
-4946921	22078	1022642	0	Plainfield Township Democratic Org		2026-09-21 00:00:00	500	500	PO Box 873		Plainfield	IL	60544     	6B	Contribution			False	False	False		False
-4946922	22078	1022642	0	Horwitz, Horwitz & Associates		2026-09-21 00:00:00	2500	2500	25 E. Washington Street	Suite 900	Chicago	IL	60602     	6B	Check returned for duplicate contribution			False	False	False		False
-4946923	22078	1022642	0	Constant Contact E-mail Marketing		2026-08-31 00:00:00	351	351	1601 Trapelo Rd.		Walthorn	MA	02451     	8B	Email marketing			False	False	False		False
-4946924	22078	1022642	0	Frankfort Township Democratic Organization		2026-07-22 00:00:00	250	250	19712 Patricia Ln		Mokena	IL	60448-1798	6B	Contribution			False	False	False		False
-4946925	22078	1022642	0	Will County Democratic Central Committee		2026-09-21 00:00:00	625	625	P.O. Box 4242		Joliet	IL	60434     	6B	Ticket purchase			False	False	False		False
-4946926	22078	1022642	0	Heartland Signal		2026-07-15 00:00:00	3200	3200	5475 N. Milwaukee Ave.		CHICAGO	IL	60630     	8B	Advertising - radio			False	False	False		False
-4946927	22078	1022642	0	Plumbers Local #130 U.A.		2026-07-29 00:00:00	750	750	1340 W. Washington Blvd.		Chicago	IL	60607-1988	6B	Ticket purchase			False	False	False		False
-4946928	22078	1022642	0	Illinois Democratic Women		2026-07-22 00:00:00	250	250	P. O. Box 6094		Woodridge	IL	60527     	6B	Contribution			False	False	False		False
-4946929	22078	1022642	0	Unity Party of Bloom Township		2026-08-11 00:00:00	260	260	87 Terry Court		Chicago Heights	IL	60411     	6B	Contribution			False	False	False		False
-4946930	22078	1022642	0	New Lenox Twp Democratic Org.		2026-07-22 00:00:00	250	250	P.O. Box 923		New Lenox	IL	60451-3369	6B	Contribution			False	False	False		False
-4946931	22078	1022642	0	Italian American Labor Council of Chicago		2026-09-21 00:00:00	300	300	30 n LaSalle St	c/o Amalgamated Bank	Chicago	IL	60602     	6B	Ad book			False	False	False		False
-4946932	22078	1022642	0	Illinois Democratic Women of Will County		2026-07-15 00:00:00	620	620	433 Delaware Circle		Bolingbrook	IL	60440     	6B	Ticket purchase			False	False	False		False
-4946933	22078	1022642	0	Graphic Image		2026-07-29 00:00:00	450	490	10500 W 163rd Pl.		Orland Park	IL	60467     	8B	Office supplies			False	False	False		False
-4946934	22078	1022642	0	Graphic Image		2026-09-11 00:00:00	40	490	10500 W 163rd Pl.		Orland Park	IL	60467     	8B	Joan Esposito Fliers			False	False	False		False
-4946935	22078	1022642	0	Elect Karen Johnson County Board 5		2026-07-29 00:00:00	250	250	PO Box 133		Lockport	IL	60441     	6B	Ticket purchase			False	False	False		False
-4946936	22078	1022642	0	Kankakee Friends of Labor		2026-07-16 00:00:00	5500	5500	555 S. Schuyler #105		Kankakee	IL	60901-3827	6B	Contribution			False	False	False		False
-4946937	22078	1022642	0	Campaign to Elect Michelle Stiff		2026-09-21 00:00:00	250	250	1220 Buell Ct.		Joliet	IL	60435     	6B	Contribution			False	False	False		False
-4946938	22078	1022642	0	Citizens to Elect Robert E Howard		2026-09-21 00:00:00	1000	1000	32245 S klemme		Beecher	IL	60401     	6B	Contribution			False	False	False		False
-4946939	22078	1022642	0	Friends of Sherry Newquist		2026-08-11 00:00:00	700	700	3511 Union Ave.		Steger	IL	60475     	6B	Contribution			False	False	False		False
-4946940	22078	1022642	0	Perales	Marta	2026-07-01 00:00:00	3600	3600	153 W Illinois		Momence	IL	60954     	8B	Contractual Services			False	False	False		False
-4946941	22078	1022642	0	Friends of Patricia Joan Murphy		2026-09-21 00:00:00	250	250	PO Box 42605		Evergreen Pk.	IL	60805     	6B	Donation			False	False	False		False
-4946942	22078	1022642	0	Friends of Theresa Rouse		2026-09-21 00:00:00	250	250	P.O. Box 2247		Joliet	IL	60434     	6B	Contribution			False	False	False		False
-4946943	22078	1022642	0	Friends of Alex Zapien		2026-08-11 00:00:00	500	500	P.O. Box 7371		Romeoville	IL	60446     	6B	Contribution			False	False	False		False
-4946944	22078	1022642	0	Friends of Michael Crowner		2026-09-21 00:00:00	250	250	13154 Thelma Cir.		Plainfield	IL	60585     	6B	Donation			False	False	False		False
-4946945	22078	1022642	0	Committee to Elect Patrick Jones for Sheriff		2026-09-21 00:00:00	250	250	PO Box 3158		Joliet	IL	60434     	6B	Contribution			False	False	False		False
+4946918	22078	1022642	0	Worth Twp Dem Organization		2026-07-22 00:00:00	500	500	PO Box 1022		Worth	IL	60482     	6B	Contribution			False	False	True		False
+4946919	22078	1022642	0	Committee to Elect Brooks & Winfrey for 8		2026-07-29 00:00:00	500	500	104 E Zarley Boulevard		Joliet	IL	60433     	6B	Contribution			False	False	True		False
+4946920	22078	1022642	0	Committee to elect Jennifer Bertino Tarrant		2026-07-22 00:00:00	500	500	903 Valencia Drive		Shorewood	IL	60404     	6B	Contribution			False	False	True		False
+4946921	22078	1022642	0	Plainfield Township Democratic Org		2026-09-21 00:00:00	500	500	PO Box 873		Plainfield	IL	60544     	6B	Contribution			False	False	True		False
+4946922	22078	1022642	0	Horwitz, Horwitz & Associates		2026-09-21 00:00:00	2500	2500	25 E. Washington Street	Suite 900	Chicago	IL	60602     	6B	Check returned for duplicate contribution			False	False	True		False
+4946923	22078	1022642	0	Constant Contact E-mail Marketing		2026-08-31 00:00:00	351	351	1601 Trapelo Rd.		Walthorn	MA	02451     	8B	Email marketing			False	False	True		False
+4946924	22078	1022642	0	Frankfort Township Democratic Organization		2026-07-22 00:00:00	250	250	19712 Patricia Ln		Mokena	IL	60448-1798	6B	Contribution			False	False	True		False
+4946925	22078	1022642	0	Will County Democratic Central Committee		2026-09-21 00:00:00	625	625	P.O. Box 4242		Joliet	IL	60434     	6B	Ticket purchase			False	False	True		False
+4946926	22078	1022642	0	Heartland Signal		2026-07-15 00:00:00	3200	3200	5475 N. Milwaukee Ave.		CHICAGO	IL	60630     	8B	Advertising - radio			False	False	True		False
+4946927	22078	1022642	0	Plumbers Local #130 U.A.		2026-07-29 00:00:00	750	750	1340 W. Washington Blvd.		Chicago	IL	60607-1988	6B	Ticket purchase			False	False	True		False
+4946928	22078	1022642	0	Illinois Democratic Women		2026-07-22 00:00:00	250	250	P. O. Box 6094		Woodridge	IL	60527     	6B	Contribution			False	False	True		False
+4946929	22078	1022642	0	Unity Party of Bloom Township		2026-08-11 00:00:00	260	260	87 Terry Court		Chicago Heights	IL	60411     	6B	Contribution			False	False	True		False
+4946930	22078	1022642	0	New Lenox Twp Democratic Org.		2026-07-22 00:00:00	250	250	P.O. Box 923		New Lenox	IL	60451-3369	6B	Contribution			False	False	True		False
+4946931	22078	1022642	0	Italian American Labor Council of Chicago		2026-09-21 00:00:00	300	300	30 n LaSalle St	c/o Amalgamated Bank	Chicago	IL	60602     	6B	Ad book			False	False	True		False
+4946932	22078	1022642	0	Illinois Democratic Women of Will County		2026-07-15 00:00:00	620	620	433 Delaware Circle		Bolingbrook	IL	60440     	6B	Ticket purchase			False	False	True		False
+4946933	22078	1022642	0	Graphic Image		2026-07-29 00:00:00	450	490	10500 W 163rd Pl.		Orland Park	IL	60467     	8B	Office supplies			False	False	True		False
+4946934	22078	1022642	0	Graphic Image		2026-09-11 00:00:00	40	490	10500 W 163rd Pl.		Orland Park	IL	60467     	8B	Joan Esposito Fliers			False	False	True		False
+4946935	22078	1022642	0	Elect Karen Johnson County Board 5		2026-07-29 00:00:00	250	250	PO Box 133		Lockport	IL	60441     	6B	Ticket purchase			False	False	True		False
+4946936	22078	1022642	0	Kankakee Friends of Labor		2026-07-16 00:00:00	5500	5500	555 S. Schuyler #105		Kankakee	IL	60901-3827	6B	Contribution			False	False	True		False
+4946937	22078	1022642	0	Campaign to Elect Michelle Stiff		2026-09-21 00:00:00	250	250	1220 Buell Ct.		Joliet	IL	60435     	6B	Contribution			False	False	True		False
+4946938	22078	1022642	0	Citizens to Elect Robert E Howard		2026-09-21 00:00:00	1000	1000	32245 S klemme		Beecher	IL	60401     	6B	Contribution			False	False	True		False
+4946939	22078	1022642	0	Friends of Sherry Newquist		2026-08-11 00:00:00	700	700	3511 Union Ave.		Steger	IL	60475     	6B	Contribution			False	False	True		False
+4946940	22078	1022642	0	Perales	Marta	2026-07-01 00:00:00	3600	3600	153 W Illinois		Momence	IL	60954     	8B	Contractual Services			False	False	True		False
+4946941	22078	1022642	0	Friends of Patricia Joan Murphy		2026-09-21 00:00:00	250	250	PO Box 42605		Evergreen Pk.	IL	60805     	6B	Donation			False	False	True		False
+4946942	22078	1022642	0	Friends of Theresa Rouse		2026-09-21 00:00:00	250	250	P.O. Box 2247		Joliet	IL	60434     	6B	Contribution			False	False	True		False
+4946943	22078	1022642	0	Friends of Alex Zapien		2026-08-11 00:00:00	500	500	P.O. Box 7371		Romeoville	IL	60446     	6B	Contribution			False	False	True		False
+4946944	22078	1022642	0	Friends of Michael Crowner		2026-09-21 00:00:00	250	250	13154 Thelma Cir.		Plainfield	IL	60585     	6B	Donation			False	False	True		False
+4946945	22078	1022642	0	Committee to Elect Patrick Jones for Sheriff		2026-09-21 00:00:00	250	250	PO Box 3158		Joliet	IL	60434     	6B	Contribution			False	False	True		False
 4946946	16797	1022643	0	Friends of Theresa Mah		2026-09-17 00:00:00	1000	1000	3500 N Lakewood Avenue #3 - S		Chicago	IL	60657-1488	6B	Contribution			False	False	False		False
 4946947	16797	1022643	0	Committee to Elect Margaret De La Rosa		2026-09-22 00:00:00	500	500	612 Newton Ave		Glen Ellyn	IL	60137     	6B	Contribution			False	False	False		False
 4946948	16797	1022643	0	Committee to Elect Terri Bryant		2026-08-25 00:00:00	1000	1000	PO Box 363		Murphysboro	IL	62966     	6B	Contribution			False	False	False		False
@@ -352478,7 +352478,7 @@
 4947443	40990	1022830	0	FIELDHOUSE By the Fox		2026-08-31 00:00:00	106	371	1920 Dean Street		Saint Charles	IL	60275     	8B	Fund raising - hall rental			False	False	False		False
 4947444	40990	1022830	0	D'Alessandro	Deana	2026-09-22 00:00:00	400	400	2535 Walnut Ave		Geneva	IL	60134     	8B	Consulting			False	False	False		False
 4947445	40990	1022830	0	Professional Mailing		2026-09-23 00:00:00	2034.48	2034.48	69 Commonwealth Dr		Carol Stream	IL	60188     	8B	Mailing			False	False	False		False
-4947446	36316	1022832	0	Friends of Stephanie Mendoza		2026-09-28 00:00:00	1580.96	1580.96	1806 Lake Street	Unit 1	Evanston	IL	60201     	6B	Contribution			False	False	False		False
+4947446	36316	1022832	0	Friends of Stephanie Mendoza		2026-09-28 00:00:00	1580.96	1580.96	1806 Lake Street	Unit 1	Evanston	IL	60201     	6B	Contribution			False	False	True		False
 4947447	19647	1022838	0	Cash	Various	2026-07-01 00:00:00	200	200	3542 W. Peterson		Chicago	IL	60659     	8B	Field Work			False	False	False		False
 4947448	19647	1022838	0	Democracy Engine		2026-09-02 00:00:00	200.3	200.3	237 Florida Avenue NW		Washington	DC	20001     	8B	Bank charges			False	False	False		False
 4947449	19647	1022838	0	Friends of Ram		2026-07-01 00:00:00	25000	25000	PO Box 59808		chicago	IL	60659     	8B	Donation			False	False	False		False
@@ -359220,36 +359220,36 @@
 4954185	36876	1024579	0	Friends for Eva Dina Delgado		2026-09-24 00:00:00	2500	2500	3023 N. Clark Street	PMB 102	Chicago	IL	60657     	6B	Contribution			False	False	False		False
 4954186	25170	1024580	0	Distinct Visual Solutions		2026-07-28 00:00:00	157.18	157.18	28 W Crowley Ave		Joliet	IL	60432     	8B	T-Shirts			False	False	False		False
 4954187	25170	1024580	0	Friends for Marc Mckirdie		2026-08-10 00:00:00	500	500	7734 W. Jefferson CT.		Frankfort	IL	60423     	6B	Contribution			False	False	False		False
-4954188	12713	1024583	0	SHG Football Program		2026-08-24 00:00:00	250	250	1200 W. Washington St.		Springfield	IL	62702     	8B	Ad book			False	False	False		False
-4954189	12713	1024583	0	Awesome Campaigns		2026-08-26 00:00:00	2212.5	2212.5	1220 St. Charles St.		Elgin	IL	60120     	8B	Printing			False	False	False		False
-4954190	12713	1024583	0	Chatham Jaycees		2026-07-23 00:00:00	500	500	9505 S. Main		Chatham	IL	62629     	8B	Sponsorship			False	False	False		False
-4954191	12713	1024583	0	Anedot Inc		2026-08-27 00:00:00	200.3	405.2	3723 Greenville Ave Ste 41002		Dallas	TX	75206     	8B	Credit Card Fees			False	False	False		False
-4954192	12713	1024583	0	Anedot Inc		2026-08-20 00:00:00	2.3	405.2	3723 Greenville Ave Ste 41002		Dallas	TX	75206     	8B	Credit Card Fees			False	False	False		False
-4954193	12713	1024583	0	Anedot Inc		2026-07-07 00:00:00	2.3	405.2	3723 Greenville Ave Ste 41002		Dallas	TX	75206     	8B	Credit Card Fees			False	False	False		False
-4954194	12713	1024583	0	Anedot Inc		2026-09-15 00:00:00	200.3	405.2	3723 Greenville Ave Ste 41002		Dallas	TX	75206     	8B	Credit Card Fees			False	False	False		False
-4954195	12713	1024583	0	Russo	Adrian	2026-07-22 00:00:00	201.25	236.25	820 High Pointe Dr		Springfield	IL	62702     	8B	Website			False	False	False		False
-4954196	12713	1024583	0	Russo	Adrian	2026-09-21 00:00:00	35	236.25	820 High Pointe Dr		Springfield	IL	62702     	8B	Website design			False	False	False		False
-4954197	12713	1024583	0	Decatur Regional Chamber of Commerce		2026-07-01 00:00:00	250	550	225 N. Water St. Ste. 200		Decatur	IL	62523     	8B	Computer - services			False	False	False		False
-4954198	12713	1024583	0	Decatur Regional Chamber of Commerce		2026-07-01 00:00:00	300	550	225 N. Water St. Ste. 200		Decatur	IL	62523     	8B	Subscription			False	False	False		False
-4954199	12713	1024583	0	Hodas & Associates		2026-07-09 00:00:00	6000	129775.17	718 S. 7th St. Unit 702		Springfield	IL	60703     	8B	Computer - services			False	False	False		False
-4954200	12713	1024583	0	Hodas & Associates		2026-07-16 00:00:00	7000	129775.17	718 S. 7th St. Unit 702		Springfield	IL	60703     	8B	Computer - services			False	False	False		False
-4954201	12713	1024583	0	Hodas & Associates		2026-07-23 00:00:00	7000	129775.17	718 S. 7th St. Unit 702		Springfield	IL	60703     	8B	Computer - services			False	False	False		False
-4954202	12713	1024583	0	Hodas & Associates		2026-08-07 00:00:00	5225	129775.17	718 S. 7th St. Unit 702		Springfield	IL	60703     	8B	Computer - services			False	False	False		False
-4954203	12713	1024583	0	Hodas & Associates		2026-09-14 00:00:00	5000	129775.17	718 S. 7th St. Unit 702		Springfield	IL	60703     	8B	Digital Advertising			False	False	False		False
-4954204	12713	1024583	0	Hodas & Associates		2026-09-22 00:00:00	25000	129775.17	718 S. 7th St. Unit 702		Springfield	IL	60703     	8B	Advertising			False	False	False		False
-4954205	12713	1024583	0	Hodas & Associates		2026-09-14 00:00:00	25000	129775.17	718 S. 7th St. Unit 702		Springfield	IL	60703     	8B	Advertising			False	False	False		False
-4954206	12713	1024583	0	Hodas & Associates		2026-09-28 00:00:00	25000	129775.17	718 S. 7th St. Unit 702		Springfield	IL	60703     	8B	Advertising			False	False	False		False
-4954207	12713	1024583	0	Hodas & Associates		2026-09-30 00:00:00	17550.17	129775.17	718 S. 7th St. Unit 702		Springfield	IL	60703     	8B	Advertising			False	False	False		False
-4954208	12713	1024583	0	Hodas & Associates		2026-08-21 00:00:00	7000	129775.17	718 S. 7th St. Unit 702		Springfield	IL	60703     	8B	Advertising			False	False	False		False
-4954209	12713	1024583	0	Sam's Club		2026-07-03 00:00:00	271.08	511.32	2300 West White Oaks Drive		Springfield	IL	62704     	8B	Food			False	False	False		False
-4954210	12713	1024583	0	Sam's Club		2026-08-10 00:00:00	240.24	511.32	2300 West White Oaks Drive		Springfield	IL	62704     	8B	Supplies			False	False	False		False
-4954211	12713	1024583	0	A & B Printing		2026-07-23 00:00:00	70	6089.96	2122 Republic		Springfield	IL	62702     	8B	Printing			False	False	False		False
-4954212	12713	1024583	0	A & B Printing		2026-08-06 00:00:00	1019.96	6089.96	2122 Republic		Springfield	IL	62702     	8B	Printing			False	False	False		False
-4954213	12713	1024583	0	A & B Printing		2026-09-04 00:00:00	5000	6089.96	2122 Republic		Springfield	IL	62702     	8B	Printing			False	False	False		False
-4954214	12713	1024583	0	Cumberworth	Peggy	2026-09-28 00:00:00	285	285	19 Lansing Dr.		Springfield	IL	62703     	8B	T-Shirts			False	False	False		False
-4954215	12713	1024583	0	Brady	Jennifer	2026-09-16 00:00:00	575	575	105 Tamarisk Dr		Springfield	IL	62704     	8B	Social Media			False	False	False		False
-4954216	12713	1024583	0	Sisti	Jamie	2026-09-25 00:00:00	986.75	986.75	109 Twin Oaks Dr		Chatham	IL	62629     	8B	T-Shirts			False	False	False		False
-4954217	12713	1024583	0	K of C 2120		2026-08-14 00:00:00	210	210	1208 N. 900 E. Rd		Taylorville	IL	62568     	8B	Food			False	False	False		False
+4954188	12713	1024583	0	SHG Football Program		2026-08-24 00:00:00	250	250	1200 W. Washington St.		Springfield	IL	62702     	8B	Ad book			False	False	True		False
+4954189	12713	1024583	0	Awesome Campaigns		2026-08-26 00:00:00	2212.5	2212.5	1220 St. Charles St.		Elgin	IL	60120     	8B	Printing			False	False	True		False
+4954190	12713	1024583	0	Chatham Jaycees		2026-07-23 00:00:00	500	500	9505 S. Main		Chatham	IL	62629     	8B	Sponsorship			False	False	True		False
+4954191	12713	1024583	0	Anedot Inc		2026-08-27 00:00:00	200.3	405.2	3723 Greenville Ave Ste 41002		Dallas	TX	75206     	8B	Credit Card Fees			False	False	True		False
+4954192	12713	1024583	0	Anedot Inc		2026-08-20 00:00:00	2.3	405.2	3723 Greenville Ave Ste 41002		Dallas	TX	75206     	8B	Credit Card Fees			False	False	True		False
+4954193	12713	1024583	0	Anedot Inc		2026-07-07 00:00:00	2.3	405.2	3723 Greenville Ave Ste 41002		Dallas	TX	75206     	8B	Credit Card Fees			False	False	True		False
+4954194	12713	1024583	0	Anedot Inc		2026-09-15 00:00:00	200.3	405.2	3723 Greenville Ave Ste 41002		Dallas	TX	75206     	8B	Credit Card Fees			False	False	True		False
+4954195	12713	1024583	0	Russo	Adrian	2026-07-22 00:00:00	201.25	236.25	820 High Pointe Dr		Springfield	IL	62702     	8B	Website			False	False	True		False
+4954196	12713	1024583	0	Russo	Adrian	2026-09-21 00:00:00	35	236.25	820 High Pointe Dr		Springfield	IL	62702     	8B	Website design			False	False	True		False
+4954197	12713	1024583	0	Decatur Regional Chamber of Commerce		2026-07-01 00:00:00	250	550	225 N. Water St. Ste. 200		Decatur	IL	62523     	8B	Computer - services			False	False	True		False
+4954198	12713	1024583	0	Decatur Regional Chamber of Commerce		2026-07-01 00:00:00	300	550	225 N. Water St. Ste. 200		Decatur	IL	62523     	8B	Subscription			False	False	True		False
+4954199	12713	1024583	0	Hodas & Associates		2026-07-09 00:00:00	6000	129775.17	718 S. 7th St. Unit 702		Springfield	IL	60703     	8B	Computer - services			False	False	True		False
+4954200	12713	1024583	0	Hodas & Associates		2026-07-16 00:00:00	7000	129775.17	718 S. 7th St. Unit 702		Springfield	IL	60703     	8B	Computer - services			False	False	True		False
+4954201	12713	1024583	0	Hodas & Associates		2026-07-23 00:00:00	7000	129775.17	718 S. 7th St. Unit 702		Springfield	IL	60703     	8B	Computer - services			False	False	True		False
+4954202	12713	1024583	0	Hodas & Associates		2026-08-07 00:00:00	5225	129775.17	718 S. 7th St. Unit 702		Springfield	IL	60703     	8B	Computer - services			False	False	True		False
+4954203	12713	1024583	0	Hodas & Associates		2026-09-14 00:00:00	5000	129775.17	718 S. 7th St. Unit 702		Springfield	IL	60703     	8B	Digital Advertising			False	False	True		False
+4954204	12713	1024583	0	Hodas & Associates		2026-09-22 00:00:00	25000	129775.17	718 S. 7th St. Unit 702		Springfield	IL	60703     	8B	Advertising			False	False	True		False
+4954205	12713	1024583	0	Hodas & Associates		2026-09-14 00:00:00	25000	129775.17	718 S. 7th St. Unit 702		Springfield	IL	60703     	8B	Advertising			False	False	True		False
+4954206	12713	1024583	0	Hodas & Associates		2026-09-28 00:00:00	25000	129775.17	718 S. 7th St. Unit 702		Springfield	IL	60703     	8B	Advertising			False	False	True		False
+4954207	12713	1024583	0	Hodas & Associates		2026-09-30 00:00:00	17550.17	129775.17	718 S. 7th St. Unit 702		Springfield	IL	60703     	8B	Advertising			False	False	True		False
+4954208	12713	1024583	0	Hodas & Associates		2026-08-21 00:00:00	7000	129775.17	718 S. 7th St. Unit 702		Springfield	IL	60703     	8B	Advertising			False	False	True		False
+4954209	12713	1024583	0	Sam's Club		2026-07-03 00:00:00	271.08	511.32	2300 West White Oaks Drive		Springfield	IL	62704     	8B	Food			False	False	True		False
+4954210	12713	1024583	0	Sam's Club		2026-08-10 00:00:00	240.24	511.32	2300 West White Oaks Drive		Springfield	IL	62704     	8B	Supplies			False	False	True		False
+4954211	12713	1024583	0	A & B Printing		2026-07-23 00:00:00	70	6089.96	2122 Republic		Springfield	IL	62702     	8B	Printing			False	False	True		False
+4954212	12713	1024583	0	A & B Printing		2026-08-06 00:00:00	1019.96	6089.96	2122 Republic		Springfield	IL	62702     	8B	Printing			False	False	True		False
+4954213	12713	1024583	0	A & B Printing		2026-09-04 00:00:00	5000	6089.96	2122 Republic		Springfield	IL	62702     	8B	Printing			False	False	True		False
+4954214	12713	1024583	0	Cumberworth	Peggy	2026-09-28 00:00:00	285	285	19 Lansing Dr.		Springfield	IL	62703     	8B	T-Shirts			False	False	True		False
+4954215	12713	1024583	0	Brady	Jennifer	2026-09-16 00:00:00	575	575	105 Tamarisk Dr		Springfield	IL	62704     	8B	Social Media			False	False	True		False
+4954216	12713	1024583	0	Sisti	Jamie	2026-09-25 00:00:00	986.75	986.75	109 Twin Oaks Dr		Chatham	IL	62629     	8B	T-Shirts			False	False	True		False
+4954217	12713	1024583	0	K of C 2120		2026-08-14 00:00:00	210	210	1208 N. 900 E. Rd		Taylorville	IL	62568     	8B	Food			False	False	True		False
 4954218	25747	1024586	0	Bureau County Democratic Central Committee		2026-07-27 00:00:00	1528.47	1528.47	PO Box 36		Spring Valley	IL	61362     	6B	Contribution			False	False	False		False
 4954219	25747	1024586	0	Whiteside County Democratic Central Committee		2026-07-27 00:00:00	3138.23	3138.23	c/o Katherine A Nelson	1905 New High St	Rock Falls	IL	61071     	6B	Contribution			False	False	False		False
 4954220	25747	1024586	0	Rock Island County Democratic Party		2026-07-27 00:00:00	1933.98	1933.98	PO Box 3128		Rock Island	IL	61201     	6B	Contribution			False	False	False		False
@@ -380127,25 +380127,25 @@
 4975091	41461	1026657	0	Distinct Visual Solutions		2026-09-30 00:00:00	1575	1575	101 Springfield Ave		Joliet	IL	60435     	8B	Yard signs			False	False	False		False
 4975092	41288	1026659	0	Navigate Campaigns		2026-10-15 00:00:00	8041.44	0	1328 Florida Ave NW		Washington	DC	20009     	9B	Direct mail	Mark Parker	Circuit Judge Madison 3rd Judicial Circuit	True	False	False		False
 4975093	32222	1026660	0	Tomorrows Youth Foundation		2026-09-15 00:00:00	500	500	PO BOX 245		Calumet City	IL	60409     	8B	Donation			False	False	False		False
-4975094	37086	1026667	0	Naperville Township Democratic Organization		2026-07-08 00:00:00	250	250	PO Box 3921		Naperville	IL	60567     	8B	Sponsorship			False	False	False		False
-4975095	37086	1026667	0	Union Signs & Printing		2026-09-30 00:00:00	360	360	1 S Eastern Ave		Joliet	IL	60433     	8B	Signs			False	False	False		False
-4975096	37086	1026667	0	Citizens for Paula Deacon Garcia		2026-09-15 00:00:00	750	750	5307 Meadow Lane		Lisle	IL	60532     	6B	Contribution			False	False	False		False
-4975097	37086	1026667	0	Forest Printing		2026-07-14 00:00:00	2913.28	4868.84	7214 Madison St.		Forest Park	IL	60130     	8B	Printing			False	False	False		False
-4975098	37086	1026667	0	Forest Printing		2026-08-25 00:00:00	1758.78	4868.84	7214 Madison St.		Forest Park	IL	60130     	8B	Printing			False	False	False		False
-4975099	37086	1026667	0	Forest Printing		2026-08-27 00:00:00	196.78	4868.84	7214 Madison St.		Forest Park	IL	60130     	8B	Printing			False	False	False		False
-4975100	37086	1026667	0	Lisle Township Democratic Organization		2026-09-28 00:00:00	250	250	661 Sunset Drive		Naperville	IL	60540     	6B	Sponsorship			False	False	False		False
-4975101	37086	1026667	0	ActBlue		2026-09-30 00:00:00	1.98	256.3	366 Summer Street		Somerville	MA	02144     	8B	Bank charges			False	False	False		False
-4975102	37086	1026667	0	ActBlue		2026-09-23 00:00:00	16.8	256.3	366 Summer Street		Somerville	MA	02144     	8B	Bank charges			False	False	False		False
-4975103	37086	1026667	0	ActBlue		2026-09-16 00:00:00	25.69	256.3	366 Summer Street		Somerville	MA	02144     	8B	Bank charges			False	False	False		False
-4975104	37086	1026667	0	ActBlue		2026-09-02 00:00:00	20.16	256.3	366 Summer Street		Somerville	MA	02144     	8B	Bank charges			False	False	False		False
-4975105	37086	1026667	0	ActBlue		2026-08-26 00:00:00	19.75	256.3	366 Summer Street		Somerville	MA	02144     	8B	Bank charges			False	False	False		False
-4975106	37086	1026667	0	ActBlue		2026-08-19 00:00:00	19.75	256.3	366 Summer Street		Somerville	MA	02144     	8B	Bank charges			False	False	False		False
-4975107	37086	1026667	0	ActBlue		2026-08-12 00:00:00	39.5	256.3	366 Summer Street		Somerville	MA	02144     	8B	Bank charges			False	False	False		False
-4975108	37086	1026667	0	ActBlue		2026-08-05 00:00:00	55.36	256.3	366 Summer Street		Somerville	MA	02144     	8B	Bank charges			False	False	False		False
-4975109	37086	1026667	0	ActBlue		2026-07-29 00:00:00	11.86	256.3	366 Summer Street		Somerville	MA	02144     	8B	Bank charges			False	False	False		False
-4975110	37086	1026667	0	ActBlue		2026-07-22 00:00:00	5.93	256.3	366 Summer Street		Somerville	MA	02144     	8B	Bank charges			False	False	False		False
-4975111	37086	1026667	0	ActBlue		2026-07-15 00:00:00	39.52	256.3	366 Summer Street		Somerville	MA	02144     	8B	Bank charges			False	False	False		False
-4975112	37086	1026667	0	Orange Hat Innovation LLC		2026-09-28 00:00:00	10000	10000	2615 W Ainslie St, #2E		Chicago	IL	60625     	8B	Digital Media			False	False	False		False
+4975094	37086	1026667	0	Naperville Township Democratic Organization		2026-07-08 00:00:00	250	250	PO Box 3921		Naperville	IL	60567     	8B	Sponsorship			False	False	True		False
+4975095	37086	1026667	0	Union Signs & Printing		2026-09-30 00:00:00	360	360	1 S Eastern Ave		Joliet	IL	60433     	8B	Signs			False	False	True		False
+4975096	37086	1026667	0	Citizens for Paula Deacon Garcia		2026-09-15 00:00:00	750	750	5307 Meadow Lane		Lisle	IL	60532     	6B	Contribution			False	False	True		False
+4975097	37086	1026667	0	Forest Printing		2026-07-14 00:00:00	2913.28	4868.84	7214 Madison St.		Forest Park	IL	60130     	8B	Printing			False	False	True		False
+4975098	37086	1026667	0	Forest Printing		2026-08-25 00:00:00	1758.78	4868.84	7214 Madison St.		Forest Park	IL	60130     	8B	Printing			False	False	True		False
+4975099	37086	1026667	0	Forest Printing		2026-08-27 00:00:00	196.78	4868.84	7214 Madison St.		Forest Park	IL	60130     	8B	Printing			False	False	True		False
+4975100	37086	1026667	0	Lisle Township Democratic Organization		2026-09-28 00:00:00	250	250	661 Sunset Drive		Naperville	IL	60540     	6B	Sponsorship			False	False	True		False
+4975101	37086	1026667	0	ActBlue		2026-09-30 00:00:00	1.98	256.3	366 Summer Street		Somerville	MA	02144     	8B	Bank charges			False	False	True		False
+4975102	37086	1026667	0	ActBlue		2026-09-23 00:00:00	16.8	256.3	366 Summer Street		Somerville	MA	02144     	8B	Bank charges			False	False	True		False
+4975103	37086	1026667	0	ActBlue		2026-09-16 00:00:00	25.69	256.3	366 Summer Street		Somerville	MA	02144     	8B	Bank charges			False	False	True		False
+4975104	37086	1026667	0	ActBlue		2026-09-02 00:00:00	20.16	256.3	366 Summer Street		Somerville	MA	02144     	8B	Bank charges			False	False	True		False
+4975105	37086	1026667	0	ActBlue		2026-08-26 00:00:00	19.75	256.3	366 Summer Street		Somerville	MA	02144     	8B	Bank charges			False	False	True		False
+4975106	37086	1026667	0	ActBlue		2026-08-19 00:00:00	19.75	256.3	366 Summer Street		Somerville	MA	02144     	8B	Bank charges			False	False	True		False
+4975107	37086	1026667	0	ActBlue		2026-08-12 00:00:00	39.5	256.3	366 Summer Street		Somerville	MA	02144     	8B	Bank charges			False	False	True		False
+4975108	37086	1026667	0	ActBlue		2026-08-05 00:00:00	55.36	256.3	366 Summer Street		Somerville	MA	02144     	8B	Bank charges			False	False	True		False
+4975109	37086	1026667	0	ActBlue		2026-07-29 00:00:00	11.86	256.3	366 Summer Street		Somerville	MA	02144     	8B	Bank charges			False	False	True		False
+4975110	37086	1026667	0	ActBlue		2026-07-22 00:00:00	5.93	256.3	366 Summer Street		Somerville	MA	02144     	8B	Bank charges			False	False	True		False
+4975111	37086	1026667	0	ActBlue		2026-07-15 00:00:00	39.52	256.3	366 Summer Street		Somerville	MA	02144     	8B	Bank charges			False	False	True		False
+4975112	37086	1026667	0	Orange Hat Innovation LLC		2026-09-28 00:00:00	10000	10000	2615 W Ainslie St, #2E		Chicago	IL	60625     	8B	Digital Media			False	False	True		False
 4975113	24033	1026669	0	Soldier Field Chicago		2026-08-24 00:00:00	473.72	473.72	1410 Museum Campus Drive		Chicago	IL	60605     	8B	Fund raising - food			False	False	False		False
 4975114	24033	1026669	0	Constant Contact		2026-07-29 00:00:00	405	1215	122 Hudson Street	3rd Floor	New York	NY	10013     	8B	Communications			False	False	False		False
 4975115	24033	1026669	0	Constant Contact		2026-08-31 00:00:00	405	1215	122 Hudson Street	3rd Floor	New York	NY	10013     	8B	Communications			False	False	False		False
@@ -391725,7 +391725,7 @@
 4986689	33897	1027126	0	UnitedHealthcare		2026-07-09 00:00:00	719.65	2158.95	PO Box 30555		Salt Lake City	UT	84130-0555	8B	Insurance			False	False	False		False
 4986690	33897	1027126	0	UnitedHealthcare		2026-08-11 00:00:00	719.65	2158.95	PO Box 30555		Salt Lake City	UT	84130-0555	8B	Insurance			False	False	False		False
 4986691	33897	1027126	0	UnitedHealthcare		2026-09-09 00:00:00	719.65	2158.95	PO Box 30555		Salt Lake City	UT	84130-0555	8B	Insurance			False	False	False		False
-4986692	36959	1027129	0	47th Ward Democratic Organization		2026-07-23 00:00:00	1000	1000	4551 N Western Ave		Chicago	IL	60625     	8B	Donation			False	False	False		False
+4986692	36959	1027129	0	47th Ward Democratic Organization		2026-07-23 00:00:00	1000	1000	4551 N Western Ave		Chicago	IL	60625     	8B	Donation			False	False	True		False
 4986693	39820	1027130	0	Sekendur	Audrey	2026-08-27 00:00:00	4000	4000	908 N. Mozart Street	#2	Chicago	IL	60622     	8B	Contract Staffing			False	False	False		False
 4986694	39820	1027130	0	Minuteman Press Chicago		2026-07-10 00:00:00	190	2656	1249 N. Clybourn Avenue		Chicago	IL	60610     	8B	Window Signs			False	False	False		False
 4986695	39820	1027130	0	Minuteman Press Chicago		2026-07-10 00:00:00	256	2656	1249 N. Clybourn Avenue		Chicago	IL	60610     	8B	Literature			False	False	False		False
@@ -393465,7 +393465,7 @@
 4988429	34422	1027252	0	hope church		2026-08-02 00:00:00	500	500	6059 archer		chicago	IL	60619     	8B	Tickets			False	False	False		False
 4988430	34422	1027252	0	carter	jimmy	2026-07-10 00:00:00	2000	2000	7458 halsted		chicago	IL	60620     	8B	Fund raising - food			False	False	False		False
 4988431	26142	1027253	0	UNIVERSAL PRINTING-		2026-09-23 00:00:00	650	650	3314 147TH		MIDLOTHIAN	IL	60445     	8B	Printing			False	False	False		False
-4988432	20799	1027254	0	Citizens for Mariyana Spyropoulos		2026-07-25 00:00:00	280	280	33  N. Dearborn Suite 1000		Chicago	IL	60602     	8B	Electronic filing			False	False	False		False
+4988432	20799	1027254	0	Citizens for Mariyana Spyropoulos		2026-07-25 00:00:00	280	280	33  N. Dearborn Suite 1000		Chicago	IL	60602     	8B	Electronic filing			False	False	True		False
 4988433	22446	1027255	0	I.U.O.E. Local 399		2026-08-07 00:00:00	600	600	2260 S Grove Street		chicago	IL	60616     	6B	Donation			False	False	False		False
 4988434	22446	1027255	0	ef Design Group Inc		2026-07-24 00:00:00	1000	1000	2845 West 48th place		chicago	IL	60632     	8B	Printing			False	False	False		False
 4988435	22446	1027255	0	Breaker Press		2026-08-26 00:00:00	520	520	2421 S. Western Avenue		Chicago	IL	60608     	8B	Printed materials			False	False	False		False
@@ -396991,3 +396991,434 @@
 4991955	1370	1027737	0	Harriss, Erica For Illinois		2026-09-16 00:00:00	500	500	105 N. Main Street	PO Box 288	Glen Carbon	IL	62034-1368	6B	Ticket purchase			False	False	False		False
 4991956	41232	1027741	0	Limani	Buki and Loui	2026-10-12 00:00:00	200	200	2959 N Oakland Ave		Decatur	IL	62526     	8B	Campaign Work			False	False	False		False
 4991957	1207	1027767	0	Spudich	Derek	2026-08-17 00:00:00	500	500	3607 Whilhoit Airport Rd		Staunton	IL	62088     	8B	Flags			False	False	False		False
+4991958	20886	1027789	0	Fix My Gadget		2026-07-15 00:00:00	272.49	272.49	4732 North University St.		Peoria	IL	61614     	8B	Phone repair service			False	False	False		False
+4991959	20886	1027789	0	D Joseph Campustown		2026-08-20 00:00:00	3000	3000	5001 N University St.		Peoria	IL	61614     	8B	Rent July, August, Sept, Oct,Nov. Dec.			False	False	False		False
+4991960	20886	1027789	0	Expedia		2026-07-09 00:00:00	2678.58	8516.47	1111 Expedia Group Way		Seattle	WA	98119     	8B	Flight and lodging for conference			False	False	False		False
+4991961	20886	1027789	0	Expedia		2026-07-27 00:00:00	1928.4	8516.47	1111 Expedia Group Way		Seattle	WA	98119     	8B	Transportation/Lodging			False	False	False		False
+4991962	20886	1027789	0	Expedia		2026-08-10 00:00:00	2546.51	8516.47	1111 Expedia Group Way		Seattle	WA	98119     	8B	Transportation			False	False	False		False
+4991963	20886	1027789	0	Expedia		2026-09-14 00:00:00	355.26	8516.47	1111 Expedia Group Way		Seattle	WA	98119     	8B	Travel expense			False	False	False		False
+4991964	20886	1027789	0	Expedia		2026-09-28 00:00:00	901.75	8516.47	1111 Expedia Group Way		Seattle	WA	98119     	8B	Flight			False	False	False		False
+4991965	20886	1027789	0	Expedia		2026-09-28 00:00:00	47.13	8516.47	1111 Expedia Group Way		Seattle	WA	98119     	8B	Inflight			False	False	False		False
+4991966	20886	1027789	0	Expedia		2026-09-28 00:00:00	38.69	8516.47	1111 Expedia Group Way		Seattle	WA	98119     	8B	Inflight			False	False	False		False
+4991967	20886	1027789	0	Expedia		2026-09-28 00:00:00	12.48	8516.47	1111 Expedia Group Way		Seattle	WA	98119     	8B	Inflight			False	False	False		False
+4991968	20886	1027789	0	Expedia		2026-09-28 00:00:00	7.67	8516.47	1111 Expedia Group Way		Seattle	WA	98119     	8B	Inflight			False	False	False		False
+4991969	20886	1027789	0	Comcast Business		2026-07-02 00:00:00	316.32	3264.46	PO Box 4928		Oak Brook	IL	60522     	8B	Office cable expense			False	False	False		False
+4991970	20886	1027789	0	Comcast Business		2026-07-15 00:00:00	2314.94	3264.46	PO Box 4928		Oak Brook	IL	60522     	8B	Office cable expense			False	False	False		False
+4991971	20886	1027789	0	Comcast Business		2026-08-03 00:00:00	316.45	3264.46	PO Box 4928		Oak Brook	IL	60522     	8B	Office cable expense			False	False	False		False
+4991972	20886	1027789	0	Comcast Business		2026-09-03 00:00:00	316.75	3264.46	PO Box 4928		Oak Brook	IL	60522     	8B	Office cable fee			False	False	False		False
+4991973	20886	1027789	0	Sam's Club		2026-07-20 00:00:00	58.63	258.17	4100 Willow Knolls Shoppping Center		Peoria	IL	61615     	8B	One Peoria Events supplies			False	False	False		False
+4991974	20886	1027789	0	Sam's Club		2026-07-21 00:00:00	199.54	258.17	4100 Willow Knolls Shoppping Center		Peoria	IL	61615     	8B	One Peoria Event school supplies			False	False	False		False
+4991975	20886	1027789	0	Living to Serve Foundation		2026-08-13 00:00:00	1000	1000	PO Box 10662		Peoria	IL	61612     	8B	Event sponsor 6/27/2026			False	False	False		False
+4991976	20886	1027789	0	GM Financial GMF Payment		2026-07-06 00:00:00	989.28	2967.85	801 Cherry St Ste. 3500		Fort Worth	TX	76102     	8B	Automobile lease payment			False	False	False		False
+4991977	20886	1027789	0	GM Financial GMF Payment		2026-08-03 00:00:00	989.29	2967.85	801 Cherry St Ste. 3500		Fort Worth	TX	76102     	8B	Automobile lease payment			False	False	False		False
+4991978	20886	1027789	0	GM Financial GMF Payment		2026-09-03 00:00:00	989.28	2967.85	801 Cherry St Ste. 3500		Fort Worth	TX	76102     	8B	Automobile lease payment			False	False	False		False
+4991979	20886	1027789	0	United Airlines		2026-09-16 00:00:00	718.8	1400	1200 E Algonquin Rd		Elk Grove Village	IL	60007     	8B	Travel			False	False	False		False
+4991980	20886	1027789	0	United Airlines		2026-09-29 00:00:00	100	1400	1200 E Algonquin Rd		Elk Grove Village	IL	60007     	8B	Inflight			False	False	False		False
+4991981	20886	1027789	0	United Airlines		2026-09-29 00:00:00	60	1400	1200 E Algonquin Rd		Elk Grove Village	IL	60007     	8B	Inflight			False	False	False		False
+4991982	20886	1027789	0	United Airlines		2026-09-29 00:00:00	50	1400	1200 E Algonquin Rd		Elk Grove Village	IL	60007     	8B	Inflight			False	False	False		False
+4991983	20886	1027789	0	United Airlines		2026-09-29 00:00:00	10	1400	1200 E Algonquin Rd		Elk Grove Village	IL	60007     	8B	Inflight			False	False	False		False
+4991984	20886	1027789	0	United Airlines		2026-09-29 00:00:00	10	1400	1200 E Algonquin Rd		Elk Grove Village	IL	60007     	8B	Inflight			False	False	False		False
+4991985	20886	1027789	0	United Airlines		2026-09-28 00:00:00	451.2	1400	1200 E Algonquin Rd		Elk Grove Village	IL	60007     	8B	Flight			False	False	False		False
+4991986	20886	1027789	0	U-Haul Moving Storage		2026-07-14 00:00:00	139.95	232.47	3650 N Meadowbrook Rd		Peoria	IL	61604     	8B	Storage fee			False	False	False		False
+4991987	20886	1027789	0	U-Haul Moving Storage		2026-07-22 00:00:00	92.52	232.47	3650 N Meadowbrook Rd		Peoria	IL	61604     	8B	Moving truck for event			False	False	False		False
+4991988	20886	1027789	0	American Airlines		2026-09-28 00:00:00	447.28	447.28	800 Connecticut Ave		Norwalk	CT	06854     	8B	Flight			False	False	False		False
+4991989	20886	1027789	0	Clearme.com		2026-09-16 00:00:00	219	219	85 10th Ave		New York	NY	10111     	8B	Travel expense			False	False	False		False
+4991990	20886	1027789	0	Fairways at GLC		2026-08-24 00:00:00	704.04	704.04	7815 N Radnor Rd		Peoria	IL	61615     	8B	Event sponsor			False	False	False		False
+4991991	20886	1027789	0	Walmart		2026-07-21 00:00:00	1164.62	2139.32	8915 N. Allen Road		Peoria	IL	61615     	8B	One Peoria Event school supplies			False	False	False		False
+4991992	20886	1027789	0	Walmart		2026-07-21 00:00:00	779.14	2139.32	8915 N. Allen Road		Peoria	IL	61615     	8B	One Peoria Event school supplies			False	False	False		False
+4991993	20886	1027789	0	Walmart		2026-08-31 00:00:00	57.62	2139.32	8915 N. Allen Road		Peoria	IL	61615     	8B	Supplies			False	False	False		False
+4991994	20886	1027789	0	Walmart		2026-09-08 00:00:00	137.94	2139.32	8915 N. Allen Road		Peoria	IL	61615     	8B	Supplies			False	False	False		False
+4991995	20886	1027789	0	Uber		2026-07-28 00:00:00	62.92	1052.34	1455 Market St.,Ste. 400		San Francisco	CA	94103     	8B	Transportation			False	False	False		False
+4991996	20886	1027789	0	Uber		2026-07-28 00:00:00	48.97	1052.34	1455 Market St.,Ste. 400		San Francisco	CA	94103     	8B	Transportation			False	False	False		False
+4991997	20886	1027789	0	Uber		2026-07-28 00:00:00	30.98	1052.34	1455 Market St.,Ste. 400		San Francisco	CA	94103     	8B	Transportation			False	False	False		False
+4991998	20886	1027789	0	Uber		2026-07-29 00:00:00	63.32	1052.34	1455 Market St.,Ste. 400		San Francisco	CA	94103     	8B	Transportation			False	False	False		False
+4991999	20886	1027789	0	Uber		2026-07-29 00:00:00	56.97	1052.34	1455 Market St.,Ste. 400		San Francisco	CA	94103     	8B	Transportation			False	False	False		False
+4992000	20886	1027789	0	Uber		2026-07-29 00:00:00	51.99	1052.34	1455 Market St.,Ste. 400		San Francisco	CA	94103     	8B	Transportation			False	False	False		False
+4992001	20886	1027789	0	Uber		2026-07-29 00:00:00	37.99	1052.34	1455 Market St.,Ste. 400		San Francisco	CA	94103     	8B	Transportation			False	False	False		False
+4992002	20886	1027789	0	Uber		2026-07-29 00:00:00	35.99	1052.34	1455 Market St.,Ste. 400		San Francisco	CA	94103     	8B	Transportation			False	False	False		False
+4992003	20886	1027789	0	Uber		2026-07-30 00:00:00	109.98	1052.34	1455 Market St.,Ste. 400		San Francisco	CA	94103     	8B	Transportation			False	False	False		False
+4992004	20886	1027789	0	Uber		2026-07-30 00:00:00	62.98	1052.34	1455 Market St.,Ste. 400		San Francisco	CA	94103     	8B	Transportation			False	False	False		False
+4992005	20886	1027789	0	Uber		2026-07-30 00:00:00	50.98	1052.34	1455 Market St.,Ste. 400		San Francisco	CA	94103     	8B	Transportation			False	False	False		False
+4992006	20886	1027789	0	Uber		2026-09-16 00:00:00	170.98	1052.34	1455 Market St.,Ste. 400		San Francisco	CA	94103     	8B	Transportation			False	False	False		False
+4992007	20886	1027789	0	Uber		2026-09-16 00:00:00	133.97	1052.34	1455 Market St.,Ste. 400		San Francisco	CA	94103     	8B	Transportation			False	False	False		False
+4992008	20886	1027789	0	Uber		2026-09-28 00:00:00	20.39	1052.34	1455 Market St.,Ste. 400		San Francisco	CA	94103     	8B	Transportation			False	False	False		False
+4992009	20886	1027789	0	Uber		2026-09-29 00:00:00	34.98	1052.34	1455 Market St.,Ste. 400		San Francisco	CA	94103     	8B	Transportation			False	False	False		False
+4992010	20886	1027789	0	Uber		2026-09-30 00:00:00	30.97	1052.34	1455 Market St.,Ste. 400		San Francisco	CA	94103     	8B	Transportation			False	False	False		False
+4992011	20886	1027789	0	Uber		2026-09-28 00:00:00	47.98	1052.34	1455 Market St.,Ste. 400		San Francisco	CA	94103     	8B	Transportation			False	False	False		False
+4992012	20886	1027789	0	Verizon Wireless		2026-07-06 00:00:00	471.56	1178.43	PO Box 489		Newark	NJ	07101     	8B	Phone bill			False	False	False		False
+4992013	20886	1027789	0	Verizon Wireless		2026-07-27 00:00:00	117.29	1178.43	PO Box 489		Newark	NJ	07101     	8B	Phone bill			False	False	False		False
+4992014	20886	1027789	0	Verizon Wireless		2026-08-26 00:00:00	117.26	1178.43	PO Box 489		Newark	NJ	07101     	8B	Phone bill			False	False	False		False
+4992015	20886	1027789	0	Verizon Wireless		2026-09-08 00:00:00	472.32	1178.43	PO Box 489		Newark	NJ	07101     	8B	Phone bill			False	False	False		False
+4992016	20886	1027789	0	Jones	Kanika	2026-09-09 00:00:00	2000	2000	6831 N. Frostwood #83		Peoria	IL	61615     	8B	Remaining bonus			False	False	False		False
+4992017	20886	1027789	0	Washington	Yvaine	2026-07-28 00:00:00	400	400	6019 N Old Orchard Dr.l		Peoria	IL	61614     	8B	One Peoria DJ  services			False	False	False		False
+4992018	20886	1027789	0	ZoomUS		2026-09-04 00:00:00	219.9	219.9	55 Almaden Blvd. 6th Fl.		San Jose	CA	95113     	8B	Conference service subscription			False	False	False		False
+4992019	20886	1027789	0	American Pest Control		2026-07-31 00:00:00	60	180	14003 W. Farmington Road		Hannah City	IL	61536     	8B	Office pest control			False	False	False		False
+4992020	20886	1027789	0	American Pest Control		2026-08-25 00:00:00	60	180	14003 W. Farmington Road		Hannah City	IL	61536     	8B	Office pest control			False	False	False		False
+4992021	20886	1027789	0	American Pest Control		2026-09-28 00:00:00	60	180	14003 W. Farmington Road		Hannah City	IL	61536     	8B	Pest control			False	False	False		False
+4992022	20886	1027789	0	Peoria NAACP		2026-09-15 00:00:00	1000	1000	PO Box 6002		Peoria	IL	61601     	8B	Event sponsor			False	False	False		False
+4992023	20886	1027789	0	Verizon		2026-08-06 00:00:00	472.29	589.55	PO Box 489		Newark	NJ	07101     	8B	Phone bill			False	False	False		False
+4992024	20886	1027789	0	Verizon		2026-09-28 00:00:00	117.26	589.55	PO Box 489		Newark	NJ	07101     	8B	Phone bill			False	False	False		False
+4992025	20886	1027789	0	Heberle	Devon	2026-08-03 00:00:00	400	400	145 N West St.		Farmington	IL	61531     	8B	Photography/videography for Bookclub event			False	False	False		False
+4992026	20886	1027789	0	U-Haul		2026-08-14 00:00:00	139.95	279.9	3650 N Meadowbrook Rd.		Peoria	IL	61604     	8B	Storage fee			False	False	False		False
+4992027	20886	1027789	0	U-Haul		2026-09-14 00:00:00	139.95	279.9	3650 N Meadowbrook Rd.		Peoria	IL	61604     	8B	Storage fee			False	False	False		False
+4992028	20886	1027789	0	Golden Torch Foundation		2026-08-19 00:00:00	309.43	309.43	PO Box 656		Peoria	IL	61652     	8B	Event sponsor			False	False	False		False
+4992029	20886	1027789	0	Walmart		2026-07-06 00:00:00	87.91	464.36	2101 SE Simple Savings		Bentonville	AR	72712     	8B	One Peoria Event supplies			False	False	False		False
+4992030	20886	1027789	0	Walmart		2026-07-20 00:00:00	29.69	464.36	2101 SE Simple Savings		Bentonville	AR	72712     	8B	One Peoria Event supplies			False	False	False		False
+4992031	20886	1027789	0	Walmart		2026-08-04 00:00:00	179.91	464.36	2101 SE Simple Savings		Bentonville	AR	72712     	8B	Emergency items for a family fire lost			False	False	False		False
+4992032	20886	1027789	0	Walmart		2026-09-02 00:00:00	166.85	464.36	2101 SE Simple Savings		Bentonville	AR	72712     	8B	Supplies			False	False	False		False
+4992033	20886	1027789	0	NCLGS Winter Meeting		2026-07-07 00:00:00	300	425	200 Lakeside Dr #250		Horsham	PA	19044     	8B	Conference fees			False	False	False		False
+4992034	20886	1027789	0	NCLGS Winter Meeting		2026-07-08 00:00:00	125	425	200 Lakeside Dr #250		Horsham	PA	19044     	8B	NCLGS member fee			False	False	False		False
+4992035	20886	1027789	0	Chicago Moonwalks		2026-07-22 00:00:00	5922.75	5922.75	4850 S Kilbourn Ave		Chicago	IL	60632     	8B	One Peoria Event inflatables			False	False	False		False
+4992036	20886	1027789	0	Starks, Jr.	Darrell	2026-07-22 00:00:00	900	900	5926  N Mt Hawley Rd		Peoria	IL	61614     	8B	One Peoria Videography			False	False	False		False
+4992037	20886	1027789	0	Mt. Hawley Bowl		2026-08-03 00:00:00	17.25	2217.25	8200 N Hale Ave		Peoria	IL	61615     	8B	Event snacks			False	False	False		False
+4992038	20886	1027789	0	Mt. Hawley Bowl		2026-08-04 00:00:00	2200	2217.25	8200 N Hale Ave		Peoria	IL	61615     	8B	Venue fee for Summer Bookclub Celebration			False	False	False		False
+4992039	20886	1027789	0	Peoria PAC LLC		2026-08-17 00:00:00	1000	1000	PO Box 9733		Peoria	IL	61614     	8B	Event sponsor			False	False	False		False
+4992040	20886	1027789	0	Zeffy Agsfamilies		2026-08-17 00:00:00	800	800	PO Box 9696		Peoria	IL	61212     	8B	Goldstar Family event sponsor			False	False	False		False
+4992041	20886	1027789	0	Family Core		2026-08-18 00:00:00	500	500	330 SW Washington St		Peoria	IL	61602     	8B	Event sponsor			False	False	False		False
+4992042	20886	1027789	0	Sweetwater		2026-08-27 00:00:00	158.93	158.93	13637 N River Beach Dr		Chillicothe	IL	61523     	8B	Lunch meeting			False	False	False		False
+4992043	20886	1027789	0	Democrats for Illinois House		2026-08-28 00:00:00	100000	100000	10055 Roosevelt Rd		Westchester	IL	60154     	6B	Contribution			False	False	False		False
+4992044	20886	1027789	0	Green River Lines Inc.		2026-09-02 00:00:00	1144	1144	3131 May Rd		Peru	IL	61354     	8B	Bus sponsor for Richwoods HS			False	False	False		False
+4992045	20886	1027789	0	Simplisafe		2026-09-10 00:00:00	497	497	100 Summer St Ste. 300		Boston	MA	02110     	8B	Security system			False	False	False		False
+4992046	20886	1027789	0	Brienzo's Pizza		2026-09-14 00:00:00	158.14	158.14	7713 N Orange Prairie Road		Peoria	IL	61615     	8B	Volunteer meal			False	False	False		False
+4992047	20886	1027789	0	Croke for Illinois		2026-09-24 00:00:00	500	500	%NCCLLC	220 N Green St	Chicago	IL	60607     	6B	Contribution			False	False	False		False
+4992048	20886	1027789	0	Jet Blue		2026-09-28 00:00:00	428.4	532.4	27-01 Queens Plaza North		Long Island City	NY	11101     	8B	Flight			False	False	False		False
+4992049	20886	1027789	0	Jet Blue		2026-09-28 00:00:00	59	532.4	27-01 Queens Plaza North		Long Island City	NY	11101     	8B	Flight			False	False	False		False
+4992050	20886	1027789	0	Jet Blue		2026-09-28 00:00:00	45	532.4	27-01 Queens Plaza North		Long Island City	NY	11101     	8B	Inflight			False	False	False		False
+4992051	20886	1027789	0	Gordon	Jehan	2026-08-18 00:00:00	250	250	2416 Wilson		Peoria	IL	61614     	8B	Delivery service for event			False	False	False		False
+4992052	22078	1027816	0	Worth Twp Dem Organization		2026-07-22 00:00:00	500	500	PO Box 1022		Worth	IL	60482     	6B	Contribution			False	False	False		False
+4992053	22078	1027816	0	Committee to Elect Brooks & Winfrey for 8		2026-07-29 00:00:00	500	500	104 E Zarley Boulevard		Joliet	IL	60433     	6B	Contribution			False	False	False		False
+4992054	22078	1027816	0	Committee to elect Jennifer Bertino Tarrant		2026-07-22 00:00:00	500	500	903 Valencia Drive		Shorewood	IL	60404     	6B	Contribution			False	False	False		False
+4992055	22078	1027816	0	Plainfield Township Democratic Org		2026-09-21 00:00:00	500	500	PO Box 873		Plainfield	IL	60544     	6B	Contribution			False	False	False		False
+4992056	22078	1027816	0	Horwitz, Horwitz & Associates		2026-09-21 00:00:00	2500	2500	25 E. Washington Street	Suite 900	Chicago	IL	60602     	6B	Check returned for duplicate contribution			False	False	False		False
+4992057	22078	1027816	0	Constant Contact E-mail Marketing		2026-08-31 00:00:00	351	351	1601 Trapelo Rd.		Walthorn	MA	02451     	8B	Email marketing			False	False	False		False
+4992058	22078	1027816	0	Frankfort Township Democratic Organization		2026-07-22 00:00:00	250	250	19712 Patricia Ln		Mokena	IL	60448-1798	6B	Contribution			False	False	False		False
+4992059	22078	1027816	0	Will County Democratic Central Committee		2026-09-21 00:00:00	625	625	P.O. Box 4242		Joliet	IL	60434     	6B	Ticket purchase			False	False	False		False
+4992060	22078	1027816	0	Heartland Signal		2026-07-15 00:00:00	3200	3200	5475 N. Milwaukee Ave.		CHICAGO	IL	60630     	8B	Advertising - radio			False	False	False		False
+4992061	22078	1027816	0	Plumbers Local #130 U.A.		2026-07-29 00:00:00	750	750	1340 W. Washington Blvd.		Chicago	IL	60607-1988	6B	Ticket purchase			False	False	False		False
+4992062	22078	1027816	0	Illinois Democratic Women		2026-07-22 00:00:00	250	250	P. O. Box 6094		Woodridge	IL	60527     	6B	Contribution			False	False	False		False
+4992063	22078	1027816	0	Unity Party of Bloom Township		2026-08-11 00:00:00	260	260	87 Terry Court		Chicago Heights	IL	60411     	6B	Contribution			False	False	False		False
+4992064	22078	1027816	0	New Lenox Twp Democratic Org.		2026-07-22 00:00:00	250	250	P.O. Box 923		New Lenox	IL	60451-3369	6B	Contribution			False	False	False		False
+4992065	22078	1027816	0	Italian American Labor Council of Chicago		2026-09-21 00:00:00	300	300	30 n LaSalle St	c/o Amalgamated Bank	Chicago	IL	60602     	6B	Ad book			False	False	False		False
+4992066	22078	1027816	0	Illinois Democratic Women of Will County		2026-07-15 00:00:00	620	620	433 Delaware Circle		Bolingbrook	IL	60440     	6B	Ticket purchase			False	False	False		False
+4992067	22078	1027816	0	Graphic Image		2026-07-29 00:00:00	450	490	10500 W 163rd Pl.		Orland Park	IL	60467     	8B	Office supplies			False	False	False		False
+4992068	22078	1027816	0	Graphic Image		2026-09-11 00:00:00	40	490	10500 W 163rd Pl.		Orland Park	IL	60467     	8B	Joan Esposito Fliers			False	False	False		False
+4992069	22078	1027816	0	Elect Karen Johnson County Board 5		2026-07-29 00:00:00	250	250	PO Box 133		Lockport	IL	60441     	6B	Ticket purchase			False	False	False		False
+4992070	22078	1027816	0	Kankakee Friends of Labor		2026-07-16 00:00:00	5500	5500	555 S. Schuyler #105		Kankakee	IL	60901-3827	6B	Contribution			False	False	False		False
+4992071	22078	1027816	0	Campaign to Elect Michelle Stiff		2026-09-21 00:00:00	250	250	1220 Buell Ct.		Joliet	IL	60435     	6B	Contribution			False	False	False		False
+4992072	22078	1027816	0	Citizens to Elect Robert E Howard		2026-09-21 00:00:00	1000	1000	32245 S klemme		Beecher	IL	60401     	6B	Contribution			False	False	False		False
+4992073	22078	1027816	0	Friends of Sherry Newquist		2026-08-11 00:00:00	700	700	3511 Union Ave.		Steger	IL	60475     	6B	Contribution			False	False	False		False
+4992074	22078	1027816	0	Perales	Marta	2026-07-01 00:00:00	3600	3600	153 W Illinois		Momence	IL	60954     	8B	Contractual Services			False	False	False		False
+4992075	22078	1027816	0	Friends of Patricia Joan Murphy		2026-09-21 00:00:00	250	250	PO Box 42605		Evergreen Pk.	IL	60805     	6B	Donation			False	False	False		False
+4992076	22078	1027816	0	Friends of Theresa Rouse		2026-09-21 00:00:00	250	250	P.O. Box 2247		Joliet	IL	60434     	6B	Contribution			False	False	False		False
+4992077	22078	1027816	0	Friends of Alex Zapien		2026-08-11 00:00:00	500	500	P.O. Box 7371		Romeoville	IL	60446     	6B	Contribution			False	False	False		False
+4992078	22078	1027816	0	Friends of Michael Crowner		2026-09-21 00:00:00	250	250	13154 Thelma Cir.		Plainfield	IL	60585     	6B	Donation			False	False	False		False
+4992079	22078	1027816	0	Committee to Elect Patrick Jones for Sheriff		2026-09-21 00:00:00	250	250	PO Box 3158		Joliet	IL	60434     	6B	Contribution			False	False	False		False
+4992080	40854	1027862	0	Friends of Jeylu Gutierrez		2026-06-02 00:00:00	250	250	4638 S. Troy St.		Chicago	IL	60632     	6B	Contribution			False	False	False		False
+4992081	40854	1027862	0	Patty Garcia for Congress		2026-06-02 00:00:00	250	250	3837 W 51st St		Chicago	IL	60632     	6B	Contribution			False	False	False		False
+4992082	40854	1027862	0	Gr33nink Inc.		2026-06-22 00:00:00	200	200	548 Manor Cir		Schaumburg	IL	60194     	8B	Website design			False	False	False		False
+4992083	40854	1027862	0	Democratic Party of Illinois 04		2026-06-11 00:00:00	1000	1000	PO Box 32201		Chicago	IL	60632     	6B	Contribution			False	False	False		False
+4992084	40854	1027862	0	Friends of Jesse Fuentes		2026-06-11 00:00:00	1000	1000	1746 N Kimball Ave		Chicago	IL	60647     	6B	Contribution			False	False	False		False
+4992085	40854	1027862	0	Wellman for Missouri		2026-06-26 00:00:00	500	500	15455 Manchester Rd	PO Box 36	Ballwin	MO	63011     	6B	Contribution			False	False	False		False
+4992086	40854	1027864	0	Friends for Corey Dixon		2026-07-30 00:00:00	1000	1000	PO Box 6110		Elgin	IL	60121     	6B	Contribution			False	False	False		False
+4992087	19236	1027873	0	Welch		2026-09-25 00:00:00	250	250	10055 W. Roosevelt Rd.	Ste. D	Westchester	IL	60154     	8B	Donation			False	False	False		False
+4992088	40842	1027882	0	Gooden	Nicole	2026-06-30 00:00:00	500	500	14311 S Parnell	Ave	Harvey	IL	60426     	8B	Principal payment, Gooden			False	False	False		False
+4992089	36316	1027883	0	Friends of Stephanie Mendoza		2026-09-28 00:00:00	1580.96	1580.96	1806 Lake Street	Unit 1	Evanston	IL	60201     	6B	Contribution			False	False	False		False
+4992090	41327	1027900	0	Resonance Campaigns		2026-10-19 00:00:00	21198.18	0	1319 F St NW Ste 301 #220		Washington	DC	20004     	9B	Mailing	Jessica Biggs	President of the Chicago Board of Education	True	False	False		False
+4992091	41327	1027900	0	Nineteen Sixty Campaigns LLC		2026-10-19 00:00:00	6103.08	0	4540 N Ravenswood Ave		Chicago	IL	60640     	9B	Texting	Jessica Biggs	President of the Chicago Board of Education	True	False	False		False
+4992092	41327	1027900	0	Nineteen Sixty Campaigns LLC		2026-10-19 00:00:00	5313	0	4540 N Ravenswood Ave		Chicago	IL	60640     	9B	Field	Jessica Biggs	President of the Chicago Board of Education	True	False	False		False
+4992093	40635	1027905	0	Schwebel Printing		2026-04-13 00:00:00	241.44	241.44	1408 Walnut		Murphysboro	IL	62966     	8B				False	False	False		False
+4992094	40635	1027905	0	Idea Creative Marketing		2026-04-16 00:00:00	550	1650	1214 Walnut St		Murphysboro	IL	62966     	8B	Media - production			False	False	False		False
+4992095	40635	1027905	0	American Legion Post 147		2026-04-25 00:00:00	200	200	11720 Longstreet		Marion	IL	62959     	8B	Fund raising - food			False	False	False		False
+4992096	40635	1027905	0	Steve Hornbeck Procductions		2026-04-25 00:00:00	1500	1500				IL	          	8B	Fund raising - entertainment			False	False	False		False
+4992097	40635	1027905	0	Sam's Club		2026-05-07 00:00:00	1139.93	1139.93				IL	          	8B	Fund raising - food			False	False	False		False
+4992098	40635	1027905	0	Idea Creative Marketing		2026-05-15 00:00:00	550	1650	1214 Walnut St		Murphysboro	IL	62966     	8B	Lawn signs			False	False	False		False
+4992099	40635	1027905	0	Filgor	Eileen	2026-06-10 00:00:00	500	500				IL	          	8B	Consulting			False	False	False		False
+4992100	40635	1027905	0	Idea Creative Marketing		2026-06-11 00:00:00	550	1650	1214 Walnut St		Murphysboro	IL	62966     	8B	Fund raising - advertisement			False	False	False		False
+4992101	40635	1027906	0	Schwebel Printing		2026-07-02 00:00:00	3050.99	6351.98	1408 Walnut		Murphysboro	IL	62966     	8B				False	False	False		False
+4992102	40635	1027906	0	Idea Creative Marketing		2026-07-15 00:00:00	550	29425	1214 Walnut St		Murphysboro	IL	62966     	8B				False	False	False		False
+4992103	40635	1027906	0	Filgor	Eileen	2026-07-15 00:00:00	600	1200				IL	          	8B	Consulting			False	False	False		False
+4992104	40635	1027906	0	Bottoms Up		2026-07-19 00:00:00	400	400				IL	          	8B	Fund raising - food			False	False	False		False
+4992105	40635	1027906	0	Laborer's Central		2026-07-22 00:00:00	250	250				IL	          	8B	Fund raising - hall rental			False	False	False		False
+4992106	40635	1027906	0	Filgor	Eileen	2026-08-11 00:00:00	600	1200				IL	          	8B	Consulting			False	False	False		False
+4992107	40635	1027906	0	Idea Creative Marketing		2026-08-15 00:00:00	4675	29425	1214 Walnut St		Murphysboro	IL	62966     	8B	Advertising - magazine			False	False	False		False
+4992108	40635	1027906	0	Down The Leash Service Dogs		2026-08-24 00:00:00	250	250				IL	          	8B	Advertising - magazine			False	False	False		False
+4992109	40635	1027906	0	Schwebel Printing		2026-08-25 00:00:00	1730	6351.98	1408 Walnut		Murphysboro	IL	62966     	8B	Yard signs			False	False	False		False
+4992110	40635	1027906	0	Schwebel Printing		2026-08-25 00:00:00	583.49	6351.98	1408 Walnut		Murphysboro	IL	62966     	8B	T-Shirts			False	False	False		False
+4992111	40635	1027906	0	Silkworm		2026-09-03 00:00:00	2941.88	5901.13	102 Sezmore Dr		Murphysboro	IL	62966     	8B				False	False	False		False
+4992112	40635	1027906	0	Silkworm		2026-09-03 00:00:00	2462.88	5901.13	102 Sezmore Dr		Murphysboro	IL	62966     	8B	Yard signs			False	False	False		False
+4992113	40635	1027906	0	Schwebel Printing		2026-09-16 00:00:00	425	6351.98	1408 Walnut		Murphysboro	IL	62966     	8B	Brochures			False	False	False		False
+4992114	40635	1027906	0	Silkworm		2026-09-17 00:00:00	496.37	5901.13	102 Sezmore Dr		Murphysboro	IL	62966     	8B	Promotional items			False	False	False		False
+4992115	40635	1027906	0	Idea Creative Marketing		2026-09-17 00:00:00	24200	29425	1214 Walnut St		Murphysboro	IL	62966     	8B	Advertising - television			False	False	False		False
+4992116	40635	1027906	0	Schwebel Printing		2026-09-15 00:00:00	462.5	6351.98	1408 Walnut		Murphysboro	IL	62966     	8B	Yard signs			False	False	False		False
+4992117	40635	1027906	0	Schwebel Printing		2026-08-21 00:00:00	100	6351.98	1408 Walnut		Murphysboro	IL	62966     	8B	Yard signs			False	False	False		False
+4992118	5166	1027919	0	Costco Wholesale		2026-09-09 00:00:00	235.29	235.29	2790 E 53rd Street		Davenport	IA	52807     	8B	Supplies			False	False	False		False
+4992119	5166	1027919	0	Lamar Companies		2026-09-09 00:00:00	1700	1700	PO Box 746966		Atlanta	GA	30374-6966	8B	Billboard			False	False	False		False
+4992120	40775	1027920	0	R2 Message and Media		2026-08-10 00:00:00	990	990	111 W. Jackson	Suite 1700	Chicago	IL	60604     	8B	Consulting and Field Work			False	False	False		False
+4992121	41155	1027931	0	Culbies Event Center		2026-08-11 00:00:00	258.6	258.6	90 Sinsinawa Ave		East Dubuque	IL	61025     	8B	Fund raising - food			False	False	False		False
+4992122	509	1027941	0	Cook County Democratic Party		2026-09-21 00:00:00	2000	2000	134 N. LaSalle St	Suite #1420	Chicago	IL	60602     	8B	Cook county table			False	False	False		False
+4992123	509	1027941	0	Peters	Jadie	2026-08-27 00:00:00	700	700	17203 Elm Drive		Hazel Crest	IL	60429     	8B	Event space			False	False	False		False
+4992124	509	1027941	0	Love	Byron	2026-08-27 00:00:00	350	350	731 E 103rd Street		Chicago	IL	60629     	8B	DJ			False	False	False		False
+4992125	509	1027941	0	Hazel Crest Park Distict		2026-09-08 00:00:00	200	560	2600 W 171st Street		Hazel Crest	IL	60429     	8B	Picnic Rental			False	False	False		False
+4992126	509	1027941	0	Hazel Crest Park Distict		2026-09-23 00:00:00	360	560	2600 W 171st Street		Hazel Crest	IL	60429     	8B	Room Rental			False	False	False		False
+4992127	509	1027941	0	Delaney	Victoria	2026-08-31 00:00:00	200	200	1101 W. Adams		Chicago	IL	60607     	8B	Face Painter			False	False	False		False
+4992128	509	1027941	0	Ratcliff	Carolyn	2026-08-31 00:00:00	400	400	16232 Sawyer		Markham	IL	60428     	8B	Butchie Bar B Q			False	False	False		False
+4992129	509	1027941	0	Tyler	Stephen	2026-08-31 00:00:00	500	500	4170 189th PL		Country Club Hills	IL	60478     	8B	Inflatables			False	False	False		False
+4992130	509	1027941	0	Thurman	Sheila	2026-08-31 00:00:00	750	750	7917 S. Perry		Chicago	IL	60619     	8B	DJ and Sound			False	False	False		False
+4992131	40802	1027947	0	Squarespace		2026-07-20 00:00:00	168	168	225 Varick Street, 12th Floor		New York	NY	10014     	8B	Website			False	False	False		False
+4992132	6455	1027964	0	Shantel for State Rep		2026-06-29 00:00:00	250	250	4827 W Ferdinand St		Chicago	IL	60644     	6B				False	False	False		False
+4992133	6455	1027965	0	Friends of Don Harmon for State Senate		2026-09-11 00:00:00	10000	10000	6939 W North Ave		Oak Park	IL	60302     	8B				False	False	False		False
+4992134	6455	1027965	0	People for Emanuel Chris Welch		2026-09-11 00:00:00	10000	10000	1005 W Roosevelt Rd, Ste D		Westchester	IL	60154     	8B				False	False	False		False
+4992135	6455	1027965	0	McCombie for Illinois		2026-09-11 00:00:00	5000	5000	1548 Bond St, Ste 102		Naperville	IL	60563     	8B				False	False	False		False
+4992136	6455	1027965	0	Friends of John Curran		2026-09-11 00:00:00	5000	5000	5926 Grand Ave		Downers Grove	IL	60516-2043	8B				False	False	False		False
+4992137	6455	1027965	0	Committee to Elect Jay C Hoffman		2026-09-11 00:00:00	2500	2500	PO Box 134		Collinsville	IL	62234     	8B				False	False	False		False
+4992138	6455	1027965	0	State Representative Kam Buckner		2026-09-11 00:00:00	1000	1000	PO Box 53528		Chicago	IL	60653     	8B				False	False	False		False
+4992139	6455	1027965	0	Citizens for Castro		2026-09-11 00:00:00	5000	5000	PO Box 1506		Elgin	IL	60121     	8B				False	False	False		False
+4992140	6455	1027965	0	Friends of Elgie Sims		2026-09-11 00:00:00	1000	1000	8142A S Prarie Park PL		Chicago	IL	60619     	8B				False	False	False		False
+4992141	6455	1027965	0	Citizens for Cassidy		2026-09-11 00:00:00	1000	1000	PO Box 408061		Chicago	IL	60640     	8B				False	False	False		False
+4992142	6455	1027965	0	Friends of Sharon Chung		2026-09-11 00:00:00	1000	1000	3 Dawes Pl		Bloomington	IL	61701-1925	8B				False	False	False		False
+4992143	6455	1027965	0	Friends for Eva Dina Delgado		2026-09-11 00:00:00	500	500	2442 N St Louis Ave		Chicago	IL	60647-2405	8B				False	False	False		False
+4992144	6455	1027965	0	Jennifer Gong-Gershowitz		2026-09-11 00:00:00	500	500				IL	          	8B				False	False	False		False
+4992145	6455	1027965	0	Jehan Gordon-Booth		2026-09-11 00:00:00	1000	1000	300 E War Memorial Dr, Ste 303		Peoria	IL	61614     	8B				False	False	False		False
+4992146	6455	1027965	0	Friends of Tracy Katz Muhl		2026-09-11 00:00:00	1000	1000	3710 Commercial Ave, Ste 5		Northbrook	IL	60062     	8B				False	False	False		False
+4992147	6455	1027965	0	Friends of LaPointe		2026-09-11 00:00:00	1000	1000	PO Box 30161		Chicago	IL	60630     	8B				False	False	False		False
+4992148	6455	1027965	0	Friends of Theresa Mah		2026-09-11 00:00:00	1500	1500	3500 N Lakewood Ave #3-S		Chicago	IL	60657     	8B				False	False	False		False
+4992149	6455	1027965	0	Friends of Natalie Manley		2026-09-11 00:00:00	1000	1000	1927 Timbers Edge Cir		Joliet	IL	60431     	8B				False	False	False		False
+4992150	6455	1027965	0	Friends of Bob Morgan		2026-09-11 00:00:00	4000	4000	PO Box 1074		Deerfield	IL	60015-6001	8B				False	False	False		False
+4992151	6455	1027965	0	Yolonda Morris		2026-09-11 00:00:00	500	500				IL	          	8B				False	False	False		False
+4992152	6455	1027965	0	Friends of Aaron Ortiz		2026-09-11 00:00:00	1000	1000	PO Box 32243		Chicago	IL	60632     	8B				False	False	False		False
+4992153	6455	1027965	0	Friends of Rick Ryan		2026-09-11 00:00:00	1000	1000	9726 S Avers		Evergreen Park	IL	60643     	8B				False	False	False		False
+4992154	6455	1027965	0	Friends of Katie Stuart		2026-09-11 00:00:00	1000	1000	PO Box 591		Edwardsville	IL	62025     	8B				False	False	False		False
+4992155	6455	1027965	0	Friends of Curtis Tarver II		2026-09-11 00:00:00	1000	1000	65 Jackson #134		Chicago	IL	60604     	8B				False	False	False		False
+4992156	6455	1027965	0	Friends of Dave Vella		2026-09-11 00:00:00	1000	1000	3235 Windsong Ct		Rockford	IL	61114     	8B				False	False	False		False
+4992157	6455	1027965	0	Maurice West, II		2026-09-11 00:00:00	500	500	PO Box 4303		Rockford	IL	61110     	8B				False	False	False		False
+4992158	6455	1027965	0	Friends of Ann M Williams		2026-09-11 00:00:00	1000	1000	4044 N Lincoln Ave, #266		Chicago	IL	60618     	8B				False	False	False		False
+4992159	6455	1027965	0	Friends of Jawaharial Omarr Williams		2026-09-11 00:00:00	1000	1000	1648 W Warren		Chicago	IL	60612-2611	8B				False	False	False		False
+4992160	6455	1027965	0	Citizens for Hauter		2026-09-11 00:00:00	5000	5000	105 Forestview Rd.		Morton	IL	61550     	8B				False	False	False		False
+4992161	6455	1027965	0	Citizens for Kyle Moore		2026-09-11 00:00:00	500	500	5012 Chestnut St		Quincy	IL	62305     	8B				False	False	False		False
+4992162	6455	1027965	0	Schmidt for Illinois		2026-09-11 00:00:00	500	500	225 E Washington St		Millstadt	IL	62260     	8B				False	False	False		False
+4992163	6455	1027965	0	Friends of Ryan Spain		2026-09-11 00:00:00	1000	1000	PO Box 1575		Peoria	IL	61655     	8B				False	False	False		False
+4992164	6455	1027965	0	Omar Aquino		2026-09-11 00:00:00	1000	1000	1000 N Rockwell St		Chicago	IL	60622     	8B				False	False	False		False
+4992165	6455	1027965	0	Friends of Christopher Belt		2026-09-11 00:00:00	2500	2500	5111 W Main St		Belleville	IL	62226     	8B				False	False	False		False
+4992166	6455	1027965	0	Senator Javier Cervantes		2026-09-11 00:00:00	2500	2500	PO Box 8415		Chicago	IL	60608     	8B				False	False	False		False
+4992167	6455	1027965	0	Friends of Suzy Glowiak		2026-09-11 00:00:00	5000	5000	PO Box 3454		Oak Brook	IL	60522     	8B				False	False	False		False
+4992168	6455	1027965	0	Michael Halpin		2026-09-11 00:00:00	1000	1000	PO Box 6937		Rock Island	IL	61204     	8B				False	False	False		False
+4992169	6455	1027965	0	Citizens for Michael E Hastings		2026-09-11 00:00:00	2500	2500	PO Box 16		Tinley Park	IL	60477     	8B				False	False	False		False
+4992170	6455	1027965	0	Senator Emil Jones, III		2026-09-11 00:00:00	2500	2500	11357 S Lowe Ave		Chicago	IL	60628     	8B				False	False	False		False
+4992171	6455	1027965	0	Senator Ram Villivalam		2026-09-11 00:00:00	2500	2500	PO Box 598085		Chicago	IL	60659-8085	8B				False	False	False		False
+4992172	6455	1027965	0	Erica for Illinois		2026-09-11 00:00:00	1000	1000	PO Box 288		Glen Carbon	IL	62034     	8B				False	False	False		False
+4992173	6455	1027965	0	Friends of Steve McClure		2026-09-11 00:00:00	1500	1500	PO Box 83		Springfield	IL	62705     	8B				False	False	False		False
+4992174	6455	1027965	0	Dave Syverson Campaign Committee		2026-09-11 00:00:00	1000	1000	PO Box 245		Cherryy Valley	IL	61016     	8B				False	False	False		False
+4992175	15907	1027991	0	Not Your Father's Foundation		2026-08-18 00:00:00	1200	1200	11170 Glenbrook Lane		Indian Head Park	IL	60525     	8B	Donation			False	False	False		False
+4992176	15907	1027991	0	Citizens for Christopher Getty		2026-08-28 00:00:00	250	250	7710 Ogden Ave		Lyons	IL	60534     	6B	Contribution			False	False	False		False
+4992177	41466	1028019	0	Minute Man Press Chicago		2026-09-28 00:00:00	2380	2380	1249 N. Clybourn Ave		Chicago	IL	60610     	8B	Lawn signs			False	False	False		False
+4992178	36959	1028024	0	Friends of Bill Lowry		2026-09-25 00:00:00	750	750	1507 E. 53rd Street	Suite 808	Chicago	IL	60615     	8B	Donation			False	False	False		False
+4992179	36959	1028024	0	47th Ward Democratic Organization		2026-07-23 00:00:00	1000	1000	4551 N Western Ave		Chicago	IL	60625     	8B	Donation			False	False	False		False
+4992180	315	1028027	0	AFL-CIO Cope		2026-09-30 00:00:00	10000	0	999 McClintock Drive		Burr Ridge	IL	60527     	6B	fundraiser			False	False	False		False
+4992181	315	1028027	0	Brad Stephens for State Representative		2026-07-10 00:00:00	3000	0	P.O. Box 796		Rosemont	IL	60018     	6B	fundraiser			False	False	False		False
+4992182	315	1028027	0	Citizens for Bradley J Fritts		2026-08-15 00:00:00	1000	0	P.O. Box 1014		Dixon	IL	61021     	6B	fundraiser			False	False	False		False
+4992183	315	1028027	0	Citizens for Rick Ryan		2026-08-15 00:00:00	1000	0	9726 S Avers		Evergreen Park	IL	60805     	6B	fundraiser			False	False	False		False
+4992184	315	1028027	0	Citizens for Seth Lewis		2026-08-15 00:00:00	1000	0	29W571 Sunnydale Ct.		Bartlett	IL	60103     	6B	fundraiser			False	False	False		False
+4992185	315	1028027	0	Friends of Anna Valencia		2026-07-15 00:00:00	2500	0	9947 S Damen		Chicago	IL	60643     	6B	FUNDRAISER			False	False	False		False
+4992186	315	1028027	0	Friends of Anthony Napolitano		2026-09-01 00:00:00	5000	0	7321 W Greenfield		Chicago	IL	60631     	6B	fundraising			False	False	False		False
+4992187	315	1028027	0	Friends of Celina Villanueva		2026-08-15 00:00:00	2500	0	2500 S. St. Louis		Chicago	IL	60623     	6B	fundraiser			False	False	False		False
+4992188	315	1028027	0	Friends of Chris Teliaferro		2026-07-27 00:00:00	1000	0	3128 N. Octavia		Chicao	IL	60707     	6B	fundraiser			False	False	False		False
+4992189	315	1028027	0	Friends of Danielle Penman		2026-09-03 00:00:00	1000	0	P.O. Box 3082		St. Charles	IL	60174     	6B	fundraiser			False	False	False		False
+4992190	315	1028027	0	FRIENDS OF DON HARMON		2026-09-03 00:00:00	10000	0	6933 W. NORTH AVENUE		OAK PARK	IL	60302     	6B	fundraiser			False	False	False		False
+4992191	315	1028027	0	Friends of Jawaharial Williams		2026-09-03 00:00:00	500	0	1648 W Warren		Chicago	IL	60612     	6B	fundraiser			False	False	False		False
+4992192	315	1028027	0	Friends of John Curran		2026-08-15 00:00:00	5000	0	5926 Grand Avenue		Downers Grove	IL	60516     	6B	fundraiser			False	False	False		False
+4992193	315	1028027	0	Friends of Mary Gill		2026-08-15 00:00:00	1000	0	10402 S Western		Chicago	IL	60643     	6B	fundraiser			False	False	False		False
+4992194	315	1028027	0	Friends of Mike Kelly		2026-07-01 00:00:00	25000	0	4200 West Lawrence		Chicago	IL	60630     	6B	fundraiser			False	False	False		False
+4992195	315	1028027	0	Friends of Nicole Lee		2026-09-03 00:00:00	1500	0	329 West 24th Place Apt 3		Chicago	IL	60616     	6B	fundraiser			False	False	False		False
+4992196	315	1028027	0	Friends of Omar Aquino		2026-08-15 00:00:00	2500	0	2067 N Lorel Avenue		Chicago	IL	60639     	6B	fundraiser			False	False	False		False
+4992197	315	1028027	0	Friends of Peter Chico		2026-07-27 00:00:00	2500	0	13501 S Mackinaw		Chicago	IL	60633     	6B	fundraiser			False	False	False		False
+4992198	315	1028027	0	Friends of Robert Martwick		2026-07-27 00:00:00	2500	0	P.O. Box 64298		Chicago	IL	60664     	6B	fundraiser			False	False	False		False
+4992199	315	1028027	0	Friends of Ryan Spain		2026-09-03 00:00:00	500	0	P.O. Box  1575		Peoria	IL	61655     	6B	fundraiser			False	False	False		False
+4992200	315	1028027	0	Friends of Samantha Nugent		2026-07-27 00:00:00	1000	0	6121 N Forest Glen Ave		Chicago	IL	60646     	6B	fundraiser			False	False	False		False
+4992201	315	1028027	0	Plumbers Local 130 Political Fund		2026-09-30 00:00:00	1500	0	1340 West Washington Blvd		Chicago	IL	60607     	6B	fundraiser			False	False	False		False
+4992202	315	1028027	0	Sheehan for Illinois		2026-09-03 00:00:00	1000	0	16542 Lakeside Drive		Lockport	IL	60441     	6B	fund raiser			False	False	False		False
+4992203	5578	1028033	0	Winnebago County Democrats		2026-08-25 00:00:00	1500	1500	321 N. Church St.		Rockford	IL	61101     	6B	Contribution			False	False	False		False
+4992204	314	1028050	0	Meyer	Roberta	2026-09-06 00:00:00	494	494	12198 N 6th Ave		Hillsboro	IL	62049     	8B	Promotional items			False	False	False		False
+4992205	314	1028050	0	Capri IGA		2026-07-31 00:00:00	194	194	1201 Vandalia Rd		Hillsboro	IL	62049     	8B	Food			False	False	False		False
+4992206	314	1028050	0	Corso	Robert	2026-08-07 00:00:00	169	169	1931 N Monroe St		Litchfield	IL	62056     	8B	Booth Fee			False	False	False		False
+4992207	314	1028050	0	Opera House Brewing Co		2026-08-03 00:00:00	380	380	405 S Main St		Hillsboro	IL	62049     	8B	Fund raising - food			False	False	False		False
+4992208	314	1028050	0	Diamond Bros Insurance		2026-08-07 00:00:00	456	806	PO Box 1090		Paris	IL	61944     	8B	Insurance			False	False	False		False
+4992209	314	1028050	0	Diamond Bros Insurance		2026-08-31 00:00:00	350	806	PO Box 1090		Paris	IL	61944     	8B	Insurance			False	False	False		False
+4992210	314	1028050	0	Petal Pushers		2026-07-01 00:00:00	458.85	611.8	305 N State St		Litchfield	IL	62056     	8B	Flowers			False	False	False		False
+4992211	314	1028050	0	Petal Pushers		2026-07-16 00:00:00	152.95	611.8	305 N State St		Litchfield	IL	62056     	8B	Flowers			False	False	False		False
+4992212	314	1028050	0	Journal Publications		2026-07-16 00:00:00	85	308.5	PO Box 100		Hillsboro	IL	62049     	8B	Advertising - newspaper			False	False	False		False
+4992213	314	1028050	0	Journal Publications		2026-08-13 00:00:00	223.5	308.5	PO Box 100		Hillsboro	IL	62049     	8B	Advertising - newspaper			False	False	False		False
+4992214	314	1028050	0	Amazon		2026-07-31 00:00:00	171.4	473.96	440 Terry Ave. N		Seattle	WA	98109     	8B	Promotional items			False	False	False		False
+4992215	314	1028050	0	Amazon		2026-08-31 00:00:00	138.72	473.96	440 Terry Ave. N		Seattle	WA	98109     	8B	Promotional items			False	False	False		False
+4992216	314	1028050	0	Amazon		2026-08-31 00:00:00	103.2	473.96	440 Terry Ave. N		Seattle	WA	98109     	8B	Promotional items			False	False	False		False
+4992217	314	1028050	0	Amazon		2026-08-31 00:00:00	34.84	473.96	440 Terry Ave. N		Seattle	WA	98109     	8B	Promotional items			False	False	False		False
+4992218	314	1028050	0	Amazon		2026-08-31 00:00:00	25.8	473.96	440 Terry Ave. N		Seattle	WA	98109     	8B	Promotional items			False	False	False		False
+4992219	314	1028050	0	Walmart		2026-09-08 00:00:00	175.68	175.68	1205 W. Ferdon		Litchfield	IL	62056     	8B	Supplies			False	False	False		False
+4992220	26066	1028086	0	THE BALDUZZI GROUP		2026-10-16 00:00:00	33880	0	154 COBBLESTONE COURT DRIVE #133		VICTOR	NY	14564     	9B	Mailing	Margie Luczak	School Board, District 1A	True	False	False		False
+4992221	26066	1028086	0	THE BALDUZZI GROUP		2026-10-16 00:00:00	28918	0	154 COBBLESTONE COURT DRIVE #133		VICTOR	NY	14564     	9B	Mailing	Michelle Pierre	School Board, District 1B	True	False	False		False
+4992222	26066	1028086	0	THE BALDUZZI GROUP		2026-10-16 00:00:00	35772	0	154 COBBLESTONE COURT DRIVE #133		VICTOR	NY	14564     	9B	Mailing	Kyna Lenhof	School Board, District 2B	True	False	False		False
+4992223	26066	1028086	0	THE BALDUZZI GROUP		2026-10-16 00:00:00	28540	0	154 COBBLESTONE COURT DRIVE #133		VICTOR	NY	14564     	9B	Mailing	Pete Gonzales	School Board, District 3A	True	False	False		False
+4992224	26066	1028086	0	THE BALDUZZI GROUP		2026-10-16 00:00:00	26580	0	154 COBBLESTONE COURT DRIVE #133		VICTOR	NY	14564     	9B	Mailing	Carlos Rivas	School Board, District 3B	True	False	False		False
+4992225	26066	1028086	0	THE BALDUZZI GROUP		2026-10-16 00:00:00	27649	0	154 COBBLESTONE COURT DRIVE #133		VICTOR	NY	14564     	9B	Mailing	LaPamela Williams	School Board, District 5A	True	False	False		False
+4992226	26066	1028086	0	THE BALDUZZI GROUP		2026-10-16 00:00:00	30149	0	154 COBBLESTONE COURT DRIVE #133		VICTOR	NY	14564     	9B	Mailing	Anthony Hargrove	School Board, District 5B	True	False	False		False
+4992227	26066	1028086	0	THE BALDUZZI GROUP		2026-10-16 00:00:00	34627	0	154 COBBLESTONE COURT DRIVE #133		VICTOR	NY	14564     	9B	Mailing	Isaiah White	School Board, District 6A	True	False	False		False
+4992228	26066	1028086	0	THE BALDUZZI GROUP		2026-10-16 00:00:00	21111	0	154 COBBLESTONE COURT DRIVE #133		VICTOR	NY	14564     	9B	Mailing	Jesus Ayala	School Board, District 7A	True	False	False		False
+4992229	26066	1028086	0	THE BALDUZZI GROUP		2026-10-16 00:00:00	19589	0	154 COBBLESTONE COURT DRIVE #133		VICTOR	NY	14564     	9B	Mailing	Erika Diaz	School Board, District 7B	True	False	False		False
+4992230	26066	1028086	0	THE BALDUZZI GROUP		2026-10-16 00:00:00	33313	0	154 COBBLESTONE COURT DRIVE #133		VICTOR	NY	14564     	9B	Mailing	Patrick Watson	School Board, District 10B	True	False	False		False
+4992231	26066	1028086	0	THE BALDUZZI GROUP		2026-10-16 00:00:00	39328	0	154 COBBLESTONE COURT DRIVE #133		VICTOR	NY	14564     	9B	Mailing	Karen Zaccor	School Board, District 4A	False	True	False		False
+4992232	20799	1028111	0	Lyons Communication		2026-07-25 00:00:00	2050	2050	3459 N.Ravenswood Ave. #222		Chicago	IL	60613     	8B	Consulting			False	False	False		False
+4992233	20799	1028111	0	Barbara S. Mason Campaign Services, Ltd.		2026-07-25 00:00:00	280	280	43 Trailridge Lane		Springfield	IL	62704     	8B	Electronic filing			False	False	False		False
+4992234	20799	1028111	0	Murray	Mike	2026-08-04 00:00:00	502.64	502.64	421 Burnley Circle		Schaumburg	IL	60193     	8B	Parade supplies			False	False	False		False
+4992235	20799	1028111	0	Citizens for Mariyana Spyropoulos		2026-07-25 00:00:00	280	280	33  N. Dearborn Suite 1000		Chicago	IL	60602     	8B	Electronic filing			False	False	False		False
+4992236	20799	1028111	0	Evergreen Park Recreation Dept.		2026-08-03 00:00:00	235	235	3450 W 97th St		Evergreen Park	IL	60805     	8B	Parade fee			False	False	False		False
+4992237	20799	1028111	0	Little Village Chamber of Commerce		2026-08-10 00:00:00	1000	1000	3610 W 26th St		Chicago	IL	60623     	8B	Parade fee			False	False	False		False
+4992238	12713	1028115	0	Neuhoff Media Springfield		2024-10-31 00:00:00	5940	9555	3055 S 4th Street		Springfield	IL	62703     	8B	Advertising - radio			False	False	False		False
+4992239	12713	1028115	0	A & B Printing		2024-10-31 00:00:00	5082.15	5082.15	2122 Republic		Springfield	IL	62702     	8B	Printing			False	False	False		False
+4992240	12713	1028115	0	Walgreens		2024-11-07 00:00:00	213.9	213.9	2305 W. Monroe		Springfield	IL	62704     	8B	Supplies			False	False	False		False
+4992241	12713	1028115	0	Lesko	Frank	2024-11-12 00:00:00	380	380	2906 West Street		Springfield	IL	62707     	8B	Election day expense			False	False	False		False
+4992242	12713	1028115	0	Houck Transit Advertising		2024-11-22 00:00:00	2297.5	2297.5	1025 Tomlyn Ave. Suite 100		St. Paul	MN	55126     	8B	Banners			False	False	False		False
+4992243	12713	1028115	0	Ace Sign Co.		2024-11-26 00:00:00	2970	14560.74	2540 S. 1st St.		Springfield	IL	62704     	8B	Lawn signs			False	False	False		False
+4992244	12713	1028115	0	Cunningham	Nicole	2024-11-18 00:00:00	479.26	479.26	PO Box 2642		Springfield	IL	62708     	8B	Supplies			False	False	False		False
+4992245	12713	1028115	0	Illinois Times		2024-10-01 00:00:00	2700	2700	1240 S. 6th St	PO Box 5256	Springfield	IL	62705     	8B	Advertising - newspaper			False	False	False		False
+4992246	12713	1028115	0	King Pin Lanes		2024-10-07 00:00:00	203	428	3115 Sangaman Avenue		Springfield	IL	62702     	8B	Fund raising - entertainment			False	False	False		False
+4992247	12713	1028115	0	King Pin Lanes		2024-10-08 00:00:00	225	428	3115 Sangaman Avenue		Springfield	IL	62702     	8B	Fund raising - entertainment			False	False	False		False
+4992248	12713	1028115	0	Gabatoni's Restaurant		2024-12-26 00:00:00	165.19	165.19	300 E Laurel Street		Springfield	IL	62703     	8B	Food			False	False	False		False
+4992249	12713	1028115	0	Validus		2024-10-21 00:00:00	20000	88483.23	1400 Patriot Blvd #946		Glenview	IL	60025     	8B	Media - television			False	False	False		False
+4992250	12713	1028115	0	Validus		2024-10-21 00:00:00	58538.23	88483.23	1400 Patriot Blvd #946		Glenview	IL	60025     	8B	Advertising - television			False	False	False		False
+4992251	12713	1028115	0	Neuhoff Media Springfield		2024-10-22 00:00:00	3615	9555	3055 S 4th Street		Springfield	IL	62703     	8B	Advertising - radio			False	False	False		False
+4992252	12713	1028115	0	Habitat for Humanity of Sangamon County ReStore		2024-10-22 00:00:00	500	500	2744 S. 6th St.		Springfield	IL	62703     	8B	Sponsorship			False	False	False		False
+4992253	12713	1028115	0	Ace Sign Co.		2024-10-25 00:00:00	11590.74	14560.74	2540 S. 1st St.		Springfield	IL	62704     	8B	Signs			False	False	False		False
+4992254	12713	1028115	0	Boondocks		2024-10-25 00:00:00	252	252	2909 N. Dirksen Pkwy.		Springfield	IL	62702     	8B	Fund raising - food			False	False	False		False
+4992255	12713	1028115	0	Validus		2024-10-29 00:00:00	9945	88483.23	1400 Patriot Blvd #946		Glenview	IL	60025     	8B	Advertising - television			False	False	False		False
+4992256	12713	1028115	0	Inn at 835		2024-10-29 00:00:00	2326.15	2326.15	835 S. 2nd St.		Springfield	IL	62704     	8B	Fund raising - food			False	False	False		False
+4992257	12713	1028116	0	Cunningham	Nicole	2025-02-27 00:00:00	157.42	264.52	PO Box 2642		Springfield	IL	62708     	8B	Supplies			False	False	False		False
+4992258	12713	1028116	0	Cunningham	Nicole	2025-01-14 00:00:00	107.1	264.52	PO Box 2642		Springfield	IL	62708     	8B	Field Work			False	False	False		False
+4992259	12713	1028116	0	Walmart		2025-01-23 00:00:00	133.13	298.44	2760 N Dirksen Parkway		Springfield	IL	62702     	8B	Supplies			False	False	False		False
+4992260	12713	1028116	0	Woodward Community Media		2025-03-26 00:00:00	1390	1390	PO Box 6493		Springfield	IL	62708     	8B	Media - radio			False	False	False		False
+4992261	12713	1028116	0	Walmart		2025-03-27 00:00:00	127.99	298.44	2760 N Dirksen Parkway		Springfield	IL	62702     	8B	Food			False	False	False		False
+4992262	12713	1028116	0	Walmart		2025-01-02 00:00:00	37.32	298.44	2760 N Dirksen Parkway		Springfield	IL	62702     	8B	Supplies			False	False	False		False
+4992263	12713	1028117	0	NAACP Springfield Branch		2025-04-02 00:00:00	330	330	PO Box 3002		Springfield	IL	62708     	8B	Sponsorship			False	False	False		False
+4992264	12713	1028117	0	Papa John's Pizza		2025-05-31 00:00:00	250	250	121 N Grand Ave.		Springfield	IL	62702     	8B	Food			False	False	False		False
+4992265	12713	1028117	0	Juneteenth inc.		2025-06-06 00:00:00	250	250	PO Box 6184		Springfield	IL	62708     	8B	Sponsorship			False	False	False		False
+4992266	12713	1028117	0	Cunningham	Nicole	2025-06-27 00:00:00	191.13	191.13	PO Box 2642		Springfield	IL	62708     	8B	Supplies			False	False	False		False
+4992267	12713	1028117	0	United States Postal Service		2025-04-28 00:00:00	216	216	Springfield MPO		Springfield	IL	62703     	8B	Post office box			False	False	False		False
+4992268	12713	1028118	0	Taylorville Chamber of Commerce		2025-09-22 00:00:00	250	250	108 W, Market St. 2nd Floor		Taylorville	IL	62568     	8B	Sponsorship			False	False	False		False
+4992269	12713	1028118	0	Parent Place		2025-09-22 00:00:00	350	350	314 South Grand Ave W.		Springfield	IL	62704     	8B	Sponsorship			False	False	False		False
+4992270	12713	1028118	0	A & B Printing		2025-09-18 00:00:00	233	928	2122 Republic		Springfield	IL	62702     	8B	Printing			False	False	False		False
+4992271	12713	1028118	0	Military Families Together, Inc.		2025-09-16 00:00:00	500	500	PO Box 13145		Springfield	IL	62791     	8B	Golf outing			False	False	False		False
+4992272	12713	1028118	0	King Pin Lanes		2025-09-09 00:00:00	270	270	3115 Sangaman Avenue		Springfield	IL	62702     	8B	Fund raising - entertainment			False	False	False		False
+4992273	12713	1028118	0	A & B Printing		2025-09-04 00:00:00	695	928	2122 Republic		Springfield	IL	62702     	8B	Printing			False	False	False		False
+4992274	12713	1028118	0	Walgreens		2025-08-11 00:00:00	122.87	199.66	2140 Peoria Rd		Springfield	IL	62702     	8B	Supplies			False	False	False		False
+4992275	12713	1028118	0	Walgreens		2025-08-08 00:00:00	43.88	199.66	2140 Peoria Rd		Springfield	IL	62702     	8B	Supplies			False	False	False		False
+4992276	12713	1028118	0	United States Postal Service		2025-09-09 00:00:00	49.14	431.14	Springfield MPO		Springfield	IL	62703     	8B	Postage			False	False	False		False
+4992277	12713	1028118	0	Walgreens		2025-08-12 00:00:00	32.91	199.66	2140 Peoria Rd		Springfield	IL	62702     	8B	Supplies			False	False	False		False
+4992278	12713	1028118	0	United States Postal Service		2025-09-29 00:00:00	382	431.14	Springfield MPO		Springfield	IL	62703     	8B	Post office box			False	False	False		False
+4992279	12713	1028119	0	A & B Printing		2025-10-10 00:00:00	1178.57	1400.07	2122 Republic		Springfield	IL	62702     	8B	Mailing			False	False	False		False
+4992280	12713	1028119	0	A & B Printing		2025-10-07 00:00:00	65	1400.07	2122 Republic		Springfield	IL	62702     	8B	Printing			False	False	False		False
+4992281	12713	1028119	0	Jiffy.com		2025-10-07 00:00:00	515.63	612.44	1000 N. West St. Suite 1200		Wilmington	DE	19801     	8B	T-Shirts			False	False	False		False
+4992282	12713	1028119	0	Amazon		2025-10-06 00:00:00	177.57	415.88	410 Terry Ave. N.		Seattle	WA	98109     	8B	Supplies			False	False	False		False
+4992283	12713	1028119	0	Sam's Club		2025-10-21 00:00:00	377.37	843.31	2300 West White Oaks Drive		Springfield	IL	62704     	8B	Food			False	False	False		False
+4992284	12713	1028119	0	Walmart		2025-10-01 00:00:00	180.89	778.68	2760 N Dirksen Parkway		Springfield	IL	62702     	8B	Fund raising - entertainment			False	False	False		False
+4992285	12713	1028119	0	Walmart		2025-11-10 00:00:00	81.96	778.68	2760 N Dirksen Parkway		Springfield	IL	62702     	8B	Fund raising - entertainment			False	False	False		False
+4992286	12713	1028119	0	United States Postal Service		2025-11-05 00:00:00	156	156	Springfield MPO		Springfield	IL	62703     	8B	Postage			False	False	False		False
+4992287	12713	1028119	0	Jr. Blues Alumni Association		2025-11-17 00:00:00	200	200	3117 Cascade Dr		Springfield	IL	62704     	8B	Donation			False	False	False		False
+4992288	12713	1028119	0	Springfield Jaycees		2025-12-10 00:00:00	150	400	2525 S 12th Street		Springfield	IL	62703     	8B	Field Work			False	False	False		False
+4992289	12713	1028119	0	Springfield Jaycees		2025-12-10 00:00:00	250	400	2525 S 12th Street		Springfield	IL	62703     	8B	Sponsorship			False	False	False		False
+4992290	12713	1028119	0	Crimestoppers of Sangamon and Menard Counties		2025-12-12 00:00:00	500	500	PO Box 1059		Springfield	IL	62705     	8B	Sponsorship			False	False	False		False
+4992291	12713	1028119	0	A & B Printing		2025-11-19 00:00:00	6.5	1400.07	2122 Republic		Springfield	IL	62702     	8B	Printing			False	False	False		False
+4992292	12713	1028119	0	Walmart		2025-12-17 00:00:00	210.24	778.68	2760 N Dirksen Parkway		Springfield	IL	62702     	8B	Fund raising - entertainment			False	False	False		False
+4992293	12713	1028119	0	Walmart		2025-12-19 00:00:00	52.09	778.68	2760 N Dirksen Parkway		Springfield	IL	62702     	8B	Fund raising - entertainment			False	False	False		False
+4992294	12713	1028119	0	Amazon		2025-12-19 00:00:00	14.99	415.88	410 Terry Ave. N.		Seattle	WA	98109     	8B	Contractual			False	False	False		False
+4992295	12713	1028119	0	Aldi		2025-12-08 00:00:00	211.12	211.12	2731 N Dirksen Pkwy		Springfield	IL	62702     	8B	Supplies			False	False	False		False
+4992296	12713	1028119	0	Amazon		2025-12-08 00:00:00	221.33	415.88	410 Terry Ave. N.		Seattle	WA	98109     	8B	Supplies			False	False	False		False
+4992297	12713	1028119	0	Amazon		2025-12-08 00:00:00	1.99	415.88	410 Terry Ave. N.		Seattle	WA	98109     	8B	Subscription			False	False	False		False
+4992298	12713	1028119	0	Knights of Columbus 4175		2025-11-10 00:00:00	220	620	2801 West Street		Springfield	IL	62707     	8B	Fund raising - hall rental			False	False	False		False
+4992299	12713	1028119	0	Sam's Club		2025-10-24 00:00:00	305.8	843.31	2300 West White Oaks Drive		Springfield	IL	62704     	8B	Fund raising - food			False	False	False		False
+4992300	12713	1028119	0	Feast Buffet		2025-10-25 00:00:00	164.89	164.89	3126 S. MacArthur Blvd		Springfield	IL	62704     	8B	Campaign Work			False	False	False		False
+4992301	12713	1028119	0	Sam's Club		2025-10-25 00:00:00	160.14	843.31	2300 West White Oaks Drive		Springfield	IL	62704     	8B	Food			False	False	False		False
+4992302	12713	1028119	0	Walmart		2025-10-22 00:00:00	253.5	778.68	2760 N Dirksen Parkway		Springfield	IL	62702     	8B	Fund raising - food			False	False	False		False
+4992303	12713	1028119	0	A & B Printing		2025-10-21 00:00:00	150	1400.07	2122 Republic		Springfield	IL	62702     	8B	Printing			False	False	False		False
+4992304	12713	1028119	0	Knights of Columbus 4175		2025-10-20 00:00:00	400	620	2801 West Street		Springfield	IL	62707     	8B	Fund raising - hall rental			False	False	False		False
+4992305	12713	1028119	0	Jiffy.com		2025-10-22 00:00:00	96.81	612.44	1000 N. West St. Suite 1200		Wilmington	DE	19801     	8B	T-Shirts			False	False	False		False
+4992306	12713	1028120	0	Papa Frank's		2026-02-11 00:00:00	1983.05	1983.05	4111 Wabash Ave		Springfield	IL	62711     	8B	Fund raising - food			False	False	False		False
+4992307	12713	1028120	0	Springfield IL St. Patrick's Day Parade		2026-02-05 00:00:00	350	350	1 S. Old State Capitol Plaza		Springfield	IL	62701     	8B	Sponsorship			False	False	False		False
+4992308	12713	1028120	0	Jiffy.com		2026-02-18 00:00:00	292.68	461.06	1000 N. West St. Suite 1200		Wilmington	DE	19801     	8B	T-Shirts			False	False	False		False
+4992309	12713	1028120	0	Jiffy.com		2026-02-18 00:00:00	168.38	461.06	1000 N. West St. Suite 1200		Wilmington	DE	19801     	8B	Supplies			False	False	False		False
+4992310	12713	1028120	0	Woodward Community Media		2026-01-30 00:00:00	1350	1750	PO Box 6493		Springfield	IL	62708     	8B	Media - radio			False	False	False		False
+4992311	12713	1028120	0	Amazon		2026-02-18 00:00:00	200.25	239.75	410 Terry Ave. N.		Seattle	WA	98109     	8B	Supplies			False	False	False		False
+4992312	12713	1028120	0	Woodward Community Media		2026-02-12 00:00:00	400	1750	PO Box 6493		Springfield	IL	62708     	8B	Media - radio			False	False	False		False
+4992313	12713	1028120	0	Sam's Club		2026-03-09 00:00:00	454.46	454.46	2300 West White Oaks Drive		Springfield	IL	62704     	8B	Supplies			False	False	False		False
+4992314	12713	1028120	0	Cunningham	Nicole	2026-03-06 00:00:00	155.24	155.24	PO Box 2642		Springfield	IL	62708     	8B	Food			False	False	False		False
+4992315	12713	1028120	0	Springfield Jr. Blues Alumni Association		2026-02-23 00:00:00	200	200	3180 Cobblestone Ln	Unit 3	Springfield	IL	62711     	8B	Donation			False	False	False		False
+4992316	12713	1028120	0	Blessed Sacrament Church		2026-03-03 00:00:00	250	250	1725 South Walnut Street		Springfield	IL	62704     	8B	Ad book			False	False	False		False
+4992317	12713	1028120	0	NAACP Springfield Branch		2026-03-04 00:00:00	265	265	PO Box 3002		Springfield	IL	62708     	8B	Sponsorship			False	False	False		False
+4992318	12713	1028120	0	Amazon		2026-03-06 00:00:00	39.5	239.75	410 Terry Ave. N.		Seattle	WA	98109     	8B	Supplies			False	False	False		False
+4992319	12713	1028120	0	Cumberworth	Peggy	2026-03-23 00:00:00	665	665	19 Lansing Dr.		Springfield	IL	62703     	8B	T-Shirts			False	False	False		False
+4992320	12713	1028121	0	A & B Printing		2026-04-01 00:00:00	45	2296.57	2122 Republic		Springfield	IL	62702     	8B	Printing			False	False	False		False
+4992321	12713	1028121	0	Amazon		2026-04-02 00:00:00	40.6	519.62	410 Terry Ave. N.		Seattle	WA	98109     	8B	Supplies			False	False	False		False
+4992322	12713	1028121	0	A & B Printing		2026-06-02 00:00:00	701.68	2296.57	2122 Republic		Springfield	IL	62702     	8B	Printing			False	False	False		False
+4992323	12713	1028121	0	A & B Printing		2026-06-02 00:00:00	1399.89	2296.57	2122 Republic		Springfield	IL	62702     	8B	Printing			False	False	False		False
+4992324	12713	1028121	0	Russo	Adrian	2026-06-04 00:00:00	665	665	820 High Pointe Dr		Springfield	IL	62702     	8B	Website			False	False	False		False
+4992325	12713	1028121	0	Village of Rochester		2026-06-04 00:00:00	250	250	125 1st St.		Rochester	IL	62563     	8B	Ad book			False	False	False		False
+4992326	12713	1028121	0	A & B Printing		2026-06-04 00:00:00	50	2296.57	2122 Republic		Springfield	IL	62702     	8B	Printing			False	False	False		False
+4992327	12713	1028121	0	A & B Printing		2026-06-10 00:00:00	100	2296.57	2122 Republic		Springfield	IL	62702     	8B	Printing			False	False	False		False
+4992328	12713	1028121	0	Amazon		2026-04-15 00:00:00	21.62	519.62	410 Terry Ave. N.		Seattle	WA	98109     	8B	Supplies			False	False	False		False
+4992329	12713	1028121	0	Amazon		2026-05-07 00:00:00	457.4	519.62	410 Terry Ave. N.		Seattle	WA	98109     	8B	Supplies			False	False	False		False
+4992330	12713	1028121	0	Sam's Club		2026-05-12 00:00:00	60	707.08	2300 West White Oaks Drive		Springfield	IL	62704     	8B	Subscription			False	False	False		False
+4992331	12713	1028121	0	Sam's Club		2026-06-15 00:00:00	89	707.08	2300 West White Oaks Drive		Springfield	IL	62704     	8B	Fund raising - food			False	False	False		False
+4992332	12713	1028121	0	Wal-Mart		2026-06-12 00:00:00	199.05	199.05	1100 Lejune Dr		Springfield	IL	62703     	8B	Supplies			False	False	False		False
+4992333	12713	1028121	0	Sam's Club		2026-06-12 00:00:00	245	707.08	2300 West White Oaks Drive		Springfield	IL	62704     	8B	Fund raising - food			False	False	False		False
+4992334	12713	1028121	0	Star 66 Cafe		2026-06-23 00:00:00	163.72	163.72	3752 Camp Butler Road		Springfield	IL	62707     	8B	Food			False	False	False		False
+4992335	12713	1028121	0	Truax	Paul	2026-06-26 00:00:00	173.82	173.82	1723 Fairfield Drive		Springfield	IL	62702     	8B	Food			False	False	False		False
+4992336	12713	1028121	0	Sam's Club		2026-06-29 00:00:00	313.08	707.08	2300 West White Oaks Drive		Springfield	IL	62704     	8B	Field Work			False	False	False		False
+4992337	12713	1028121	0	Castleman	Rick	2026-06-18 00:00:00	350	350	1515 N. Lincoln Ave Lot 45		Springfield	IL	62702     	8B	Photography			False	False	False		False
+4992338	12713	1028121	0	Midwest Creative Arts		2026-06-11 00:00:00	350	350	424 S 11th St		Springfield	IL	62703     	8B	Photography			False	False	False		False
+4992339	12713	1028121	0	Heffernan	Kathryn	2026-05-23 00:00:00	1207.5	1207.5	1204 Oakmont Dr		Springfield	IL	62704     	8B	Campaign Work			False	False	False		False
+4992340	12713	1028122	0	Decatur Regional Chamber of Commerce		2026-07-01 00:00:00	250	550	225 N. Water St. Ste. 200		Decatur	IL	62523     	8B	Computer - services			False	False	False		False
+4992341	12713	1028122	0	Decatur Regional Chamber of Commerce		2026-07-01 00:00:00	300	550	225 N. Water St. Ste. 200		Decatur	IL	62523     	8B	Subscription			False	False	False		False
+4992342	12713	1028122	0	Sam's Club		2026-07-03 00:00:00	271.08	511.32	2300 West White Oaks Drive		Springfield	IL	62704     	8B	Food			False	False	False		False
+4992343	12713	1028122	0	Hodas & Associates		2026-07-09 00:00:00	6000	129775.17	718 S. 7th St. Unit 702		Springfield	IL	60703     	8B	Computer - services			False	False	False		False
+4992344	12713	1028122	0	Hodas & Associates		2026-07-16 00:00:00	7000	129775.17	718 S. 7th St. Unit 702		Springfield	IL	60703     	8B	Computer - services			False	False	False		False
+4992345	12713	1028122	0	Russo	Adrian	2026-07-22 00:00:00	201.25	236.25	820 High Pointe Dr		Springfield	IL	62702     	8B	Website			False	False	False		False
+4992346	12713	1028122	0	A & B Printing		2026-07-23 00:00:00	70	6089.96	2122 Republic		Springfield	IL	62702     	8B	Printing			False	False	False		False
+4992347	12713	1028122	0	Hodas & Associates		2026-07-23 00:00:00	7000	129775.17	718 S. 7th St. Unit 702		Springfield	IL	60703     	8B	Computer - services			False	False	False		False
+4992348	12713	1028122	0	Chatham Jaycees		2026-07-23 00:00:00	500	500	9505 S. Main		Chatham	IL	62629     	8B	Sponsorship			False	False	False		False
+4992349	12713	1028122	0	Hodas & Associates		2026-08-07 00:00:00	5225	129775.17	718 S. 7th St. Unit 702		Springfield	IL	60703     	8B	Computer - services			False	False	False		False
+4992350	12713	1028122	0	Sam's Club		2026-08-10 00:00:00	240.24	511.32	2300 West White Oaks Drive		Springfield	IL	62704     	8B	Supplies			False	False	False		False
+4992351	12713	1028122	0	Anedot Inc		2026-08-27 00:00:00	200.3	405.2	3723 Greenville Ave Ste 41002		Dallas	TX	75206     	8B	Credit Card Fees			False	False	False		False
+4992352	12713	1028122	0	Anedot Inc		2026-08-20 00:00:00	2.3	405.2	3723 Greenville Ave Ste 41002		Dallas	TX	75206     	8B	Credit Card Fees			False	False	False		False
+4992353	12713	1028122	0	Anedot Inc		2026-07-07 00:00:00	2.3	405.2	3723 Greenville Ave Ste 41002		Dallas	TX	75206     	8B	Credit Card Fees			False	False	False		False
+4992354	12713	1028122	0	Hodas & Associates		2026-09-14 00:00:00	5000	129775.17	718 S. 7th St. Unit 702		Springfield	IL	60703     	8B	Digital Advertising			False	False	False		False
+4992355	12713	1028122	0	Anedot Inc		2026-09-15 00:00:00	200.3	405.2	3723 Greenville Ave Ste 41002		Dallas	TX	75206     	8B	Credit Card Fees			False	False	False		False
+4992356	12713	1028122	0	A & B Printing		2026-08-06 00:00:00	1019.96	6089.96	2122 Republic		Springfield	IL	62702     	8B	Printing			False	False	False		False
+4992357	12713	1028122	0	Awesome Campaigns		2026-08-26 00:00:00	2212.5	2212.5	1220 St. Charles St.		Elgin	IL	60120     	8B	Printing			False	False	False		False
+4992358	12713	1028122	0	A & B Printing		2026-09-04 00:00:00	5000	6089.96	2122 Republic		Springfield	IL	62702     	8B	Printing			False	False	False		False
+4992359	12713	1028122	0	Brady	Jennifer	2026-09-16 00:00:00	575	575	105 Tamarisk Dr		Springfield	IL	62704     	8B	Social Media			False	False	False		False
+4992360	12713	1028122	0	Russo	Adrian	2026-09-21 00:00:00	35	236.25	820 High Pointe Dr		Springfield	IL	62702     	8B	Website design			False	False	False		False
+4992361	12713	1028122	0	Hodas & Associates		2026-09-22 00:00:00	25000	129775.17	718 S. 7th St. Unit 702		Springfield	IL	60703     	8B	Advertising			False	False	False		False
+4992362	12713	1028122	0	Hodas & Associates		2026-09-14 00:00:00	25000	129775.17	718 S. 7th St. Unit 702		Springfield	IL	60703     	8B	Advertising			False	False	False		False
+4992363	12713	1028122	0	Sisti	Jamie	2026-09-25 00:00:00	986.75	986.75	109 Twin Oaks Dr		Chatham	IL	62629     	8B	T-Shirts			False	False	False		False
+4992364	12713	1028122	0	Hodas & Associates		2026-09-28 00:00:00	25000	129775.17	718 S. 7th St. Unit 702		Springfield	IL	60703     	8B	Advertising			False	False	False		False
+4992365	12713	1028122	0	Cumberworth	Peggy	2026-09-28 00:00:00	285	285	19 Lansing Dr.		Springfield	IL	62703     	8B	T-Shirts			False	False	False		False
+4992366	12713	1028122	0	Hodas & Associates		2026-09-30 00:00:00	17550.17	129775.17	718 S. 7th St. Unit 702		Springfield	IL	60703     	8B	Advertising			False	False	False		False
+4992367	12713	1028122	0	K of C 2120		2026-08-14 00:00:00	210	210	1208 N. 900 E. Rd		Taylorville	IL	62568     	8B	Food			False	False	False		False
+4992368	12713	1028122	0	Hodas & Associates		2026-08-21 00:00:00	7000	129775.17	718 S. 7th St. Unit 702		Springfield	IL	60703     	8B	Advertising			False	False	False		False
+4992369	12713	1028122	0	SHG Football Program		2026-08-24 00:00:00	250	250	1200 W. Washington St.		Springfield	IL	62702     	8B	Ad book			False	False	False		False
+4992370	37086	1028125	0	Naperville Township Democratic Organization		2026-07-08 00:00:00	250	250	PO Box 3921		Naperville	IL	60567     	8B	Sponsorship			False	False	False		False
+4992371	37086	1028125	0	Union Signs & Printing		2026-09-30 00:00:00	360	360	1 S Eastern Ave		Joliet	IL	60433     	8B	Signs			False	False	False		False
+4992372	37086	1028125	0	Citizens for Paula Deacon Garcia		2026-09-15 00:00:00	750	750	5307 Meadow Lane		Lisle	IL	60532     	6B	Contribution			False	False	False		False
+4992373	37086	1028125	0	Forest Printing		2026-07-14 00:00:00	2913.28	4868.84	7214 Madison St.		Forest Park	IL	60130     	8B	Printing			False	False	False		False
+4992374	37086	1028125	0	Forest Printing		2026-08-25 00:00:00	1758.78	4868.84	7214 Madison St.		Forest Park	IL	60130     	8B	Printing			False	False	False		False
+4992375	37086	1028125	0	Forest Printing		2026-08-27 00:00:00	196.78	4868.84	7214 Madison St.		Forest Park	IL	60130     	8B	Printing			False	False	False		False
+4992376	37086	1028125	0	Lisle Township Democratic Organization		2026-09-28 00:00:00	250	250	661 Sunset Drive		Naperville	IL	60540     	6B	Sponsorship			False	False	False		False
+4992377	37086	1028125	0	ActBlue		2026-09-30 00:00:00	1.98	256.3	366 Summer Street		Somerville	MA	02144     	8B	Bank charges			False	False	False		False
+4992378	37086	1028125	0	ActBlue		2026-09-23 00:00:00	16.8	256.3	366 Summer Street		Somerville	MA	02144     	8B	Bank charges			False	False	False		False
+4992379	37086	1028125	0	ActBlue		2026-09-16 00:00:00	25.69	256.3	366 Summer Street		Somerville	MA	02144     	8B	Bank charges			False	False	False		False
+4992380	37086	1028125	0	ActBlue		2026-09-02 00:00:00	20.16	256.3	366 Summer Street		Somerville	MA	02144     	8B	Bank charges			False	False	False		False
+4992381	37086	1028125	0	ActBlue		2026-08-26 00:00:00	19.75	256.3	366 Summer Street		Somerville	MA	02144     	8B	Bank charges			False	False	False		False
+4992382	37086	1028125	0	ActBlue		2026-08-19 00:00:00	19.75	256.3	366 Summer Street		Somerville	MA	02144     	8B	Bank charges			False	False	False		False
+4992383	37086	1028125	0	ActBlue		2026-08-12 00:00:00	39.5	256.3	366 Summer Street		Somerville	MA	02144     	8B	Bank charges			False	False	False		False
+4992384	37086	1028125	0	ActBlue		2026-08-05 00:00:00	55.36	256.3	366 Summer Street		Somerville	MA	02144     	8B	Bank charges			False	False	False		False
+4992385	37086	1028125	0	ActBlue		2026-07-29 00:00:00	11.86	256.3	366 Summer Street		Somerville	MA	02144     	8B	Bank charges			False	False	False		False
+4992386	37086	1028125	0	ActBlue		2026-07-22 00:00:00	5.93	256.3	366 Summer Street		Somerville	MA	02144     	8B	Bank charges			False	False	False		False
+4992387	37086	1028125	0	ActBlue		2026-07-15 00:00:00	39.52	256.3	366 Summer Street		Somerville	MA	02144     	8B	Bank charges			False	False	False		False
+4992388	37086	1028125	0	Orange Hat Innovation LLC		2026-09-28 00:00:00	10000	10000	2615 W Ainslie St, #2E		Chicago	IL	60625     	8B	Digital Media			False	False	False		False

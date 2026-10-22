@@ -5212,8 +5212,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 10356	Cole	Sandy	1315 Osage Orange Rd		Grayslake	IL	60030	Member	County Board	Lake 11 	Lake	Republican	False
 7644	Cole	Terry	PO Box 226		Galena	IL	61036	Mayor	City	Galena	Jo Daviess		False
 48737	Coleman	Anthony	PO Box 948		North Chicago	IL	60064	Mayor	City	North Chicago	Cook	Independent	False
-46853	Coleman	Anthony D	PO Box 948		North Chicago	IL	60064	Alderperson	Ward	2		Democratic	False
 26772	Coleman	Anthony D	1806 Park Ave		North Chicago	IL	60064	Mayor	City	North Chicago	Cook	Independent	False
+46853	Coleman	Anthony D	PO Box 948		North Chicago	IL	60064	Alderperson	Ward	2	Lake	Democratic	False
 42726	Coleman	Arnold	21820 Peterson Ave, Apt 1		Sauk Village	IL	60411	Trustee	Village	Sauk Village	Cook	Independent	False
 16966	Coleman	Bob	914 Ashland Ave		River Forest	IL	60305	Attorney General	Statewide		Cook	Republican	False
 25812	Coleman	Brian A	22593 Brian Ln		Richton Park	IL	60471-1875	Trustee	Village	Richton Park	Cook		False
@@ -10531,7 +10531,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 13532	Gordon	Robert E	680 N Lake Shore Dr		Chicago	IL	60611	Judge	Subcircuit Court	Cook 8  	Cook	Democratic	False
 41914	Gordon	Simon	636 Brookwood Dr		Olympia Fields	IL	60461	Commissioner	Water Reclamation	Chicago	Cook	Democratic	False
 22143	Gordon-Booth	Jehan A	PO Box 6591		Peoria	IL	61601	State Representative	Representative	92 	Peoria	Democratic	False
-47006	Gordon-Young	Bernice	906 W. Stratford Drive		Peoria	IL	61614	Councilman	City	Peoria	Peoria		False
+47006	Gordon-Young	Bernice	906 W. Stratford Drive		Peoria	IL	61614	Council Member	City	Peoria	Peoria		False
 53732	Gore	Albert S.	1465 Farignton Ct		Naperville	IL	60563     	State Representative	Representative	Dupage	DuPage	Democratic	False
 6953	Gore	Kurt	153 S Roselle Rd		Roselle	IL	60172	President	Village	Roselle	DuPage		False
 14629	Gorecki	M "Meg"	1015 Fargo Blvd		Geneva	IL	60134	State's Attorney	County	Kane	Kane	Republican	False
@@ -19332,7 +19332,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 25831	Micenheimer	Larry	907 N Merchant		Effingham	IL	62401	Mayor	City	Effingham	Effingham	Non Partisan	False
 34442	Michael	David	20 Crown Pointe Blvd Apt C		Highland	IL	62249	Member	County Board	Madison 	Madison	Republican	False
 43392	Michael	David	20 Crown Pointe Blvd Apt C		Highland	IL	62249	Auditor	County	Madison	Madison	Republican	False
-24111	Michael	Kathy	PO Box 173		Bloomington	IL	61701	Clerk	County	McLean	McLean	Republican	False
+24111	Michael	Kathy	22079 Skyline Court		Carlock	IL	61725	Clerk	County	McLean	McLean	Republican	False
 46902	Michael	Kevin	1815 Eastwood Dr.		Arlington Heights	IL	60004	Member	School	Arlington Heights	Cook		False
 19721	Michaelis	Joe	519 12th St		Highland	IL		Mayor	City	Highland	Madison		False
 42217	Michaels	Diane	1548 County Rd 3050 N		Rantoul	IL	61866	Auditor	County	Champaign	Champaign	Republican	False
