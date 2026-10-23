@@ -12261,6 +12261,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 13627	Henrichs	Roger	RR 1 Box 21		Saunemin	IL	61769	Clerk	County	Livingston 	Livingston	Republican	False
 2797	Henrici	Charles B	1812 Fox Run		Elk Grove	IL	60007	Trustee	Village	Elk Grove Village	Cook		False
 40490	Henricks	Todd	111 E Hunt St	PO Box 227	Cerro Gordo	IL	61818-0227	State Representative	Representative	101	Piatt	Republican	False
+54395	Henrikson	Johan	33 Allens Ave.		Galesburg	IL	61401     	Clerk/Recorder	County	Knox	Knox	Democratic	False
 19370	Henrikson	Kathy L	12945 Silver Fox Dr		Lemont	IL	60439	Trustee	Township	Lemont	Cook	Independent	False
 42685	Henry	Ann	6842 N Stonecrest Ct		Peoria	IL	61615	Member	School	323	Peoria	Non Partisan	False
 21820	Henry	David	357 High Rd		Cary	IL	60013	Trustee	Village	Cary	McHenry	Non Partisan	False
@@ -19733,6 +19734,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 42236	Moffit	Ann	702 S Walnut St		Pittsfield	IL	62363	Clerk	County	Pike	Pike	Democratic	False
 14581	Moffitt	Donald L	1006 Knox Highway 17		Gilson	IL	61436	State Representative	Representative	94 	Knox	Republican	False
 17118	Moffitt	Donald L	1006 Knox Hwy 17		Gilson	IL	61436	State Representative	Representative	74 	Knox	Republican	False
+54398	Mogan	Michael	3440 N. Elston Ave., Unit G3		Chicago	IL	60618     	Alderperson	Ward	33	Cook	Non Partisan	False
 7103	Mohalik	Nancy	9309 Madison		Brookfield	IL	60513	Trustee	Library	Brookfield	Cook		False
 46911	Mohamed	Magda	6753 Squire Lane		Loves Park	IL	61111	Trustee	Comm College	511		Non Partisan	False
 43819	Mohammad	Mervate	10941 Valley Ct		Palos Hills	IL	60465	Trustee	Township	Palos		Independent	False
@@ -20040,6 +20042,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 6089	Morgan	Dennis	112 Coniella Wds Cove		East Alton	IL	62024	Trustee	Village	East Alton	Madison		False
 9918	Morgan	George	PO Box		New Lenox	IL	60451	Coroner	County	Will 	Will	Republican	False
 37981	Morgan	Hart	1205 High Valley Ln		Belleville	IL	62221	Trustee	Township	St Clair	St Clair		False
+54397	Morgan	James	2016 N. Nordica Ave.		Chicago	IL	60707     	Alderperson	Ward	29	Cook	Non Partisan	False
 1588	Morgan	Kevin F						Clerk	Township	Worth	Cook	Republican	False
 45835	Morgan	Mary	708 N Carriage Hill Rd		Island Lake	IL	60042	State Representative	Representative	52	Lake	Democratic	False
 12064	Morgan	Michael						Clerk	Township	Stookey	St Clair		False
@@ -20851,6 +20854,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 378	Nelligan	John J	607 N Main Street		Glen Ellyn	IL	60137	Judge	Circuit Court	18	DuPage	Republican	False
 45868	Nellis	Daniel	50 Ridgedale Dr.		Decatur	IL	62521	State Representative	Representative	88	Macon	Democratic	False
 12880	Nellis	Jay	7434 Temple Ct		Rockford	IL	61108	Member	School	205	Winnebago	Non Partisan	False
+54396	Nellis	Mike	3838 N. Ravenswood Ave.		Chicago	IL	60657     	Committeeperson	City	Chicago	Cook	Democratic	False
 31894	Nelson	Cameron	2430 Vardon Pl		Flossmoor	IL	60422	Member	School	161	Cook		False
 22858	Nelson	Cathy	26209 North St		Mettawa	IL	60048	Trustee	Village	Mettawa	Lake		False
 11555	Nelson	Charles	6411 Coachlight Rd		Crystal Lake	IL	60012	Supervisor	Township	Nunda	McHenry	Republican	False

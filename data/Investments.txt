@@ -24911,7 +24911,7 @@ ID	CommitteeID	FiledDocID	Description	PurchaseDate	PurchaseShares	PurchasePrice	
 37091	35096	1027259	Investment purchase	2026-03-02 00:00:00	0	5000	5000	0		Byline Bank		4701 N Clark St		Chicago	IL	60640     	False	
 37092	35096	1027262	Investment purchase	2025-09-27 00:00:00	0	10000	10000	0		Byline Bank		4701 N Clark St		Chicago	IL	60640     	False	
 37093	35096	1027262	Investment purchase	2026-03-02 00:00:00	0	5000	5000	0		Byline Bank		4701 N Clark St		Chicago	IL	60640     	False	
-37094	279	1027266	7 month CD for purpose of creating a scholarship dedicated to Libby Chumley	2023-07-25 00:00:00	0	1000.82	-21.75	0		Taylorville Community Credit Union		422 West Main Cross		Taylorville	IL	62569     	False	
+37094	279	1027266	7 month CD for purpose of creating a scholarship dedicated to Libby Chumley	2023-07-25 00:00:00	0	1000.82	-21.75	0		Taylorville Community Credit Union		422 West Main Cross		Taylorville	IL	62569     	True	
 37095	14305	1027281	Supplies	2026-09-01 00:00:00	0	13.22	13.22	0		AMAZON.COM		410 Terry Ave., North		Seattle	WA	98109     	False	
 37096	1205	1027291	Merrill Lynch Initial Payment	2022-12-13 00:00:00	0	5000	66807.32	0		The Maurer Group		110 North Wacker Drive 17th Fl		Chicago	IL	60606     	False	
 37097	37243	1027305	Loan Made	2025-10-03 00:00:00	0	1106.41	206.26	0		Caparelli-Ruff	Lisa	15048 W OCONNELL DR		HOMER GLEN	IL	60491-9783	False	
@@ -24960,3 +24960,6 @@ ID	CommitteeID	FiledDocID	Description	PurchaseDate	PurchaseShares	PurchasePrice	
 37140	25411	1027602	Mailing	2020-10-14 00:00:00	0	522.31	522.31	0		United States Post Office		17541 S Kedzie		Hazel Crest	IL	60429     	False	
 37141	1188	1027639	Investment purchase	2024-12-12 00:00:00	0	53981.35	32208	0		Bradford Bank Wealth Management		600 S Idler Lane		Greenville	IL	62246     	False	
 37142	314	1028050	Investment purchase	2025-07-23 00:00:00	0	20000	20000	0		First Community Bank		PO Box 40		Hillsboro	IL	62049     	False	
+37143	25491	1028142	Investment purchase - CD	2019-10-01 00:00:00	0	2500	2502.63	0		Bank r Us		23 Cash St		Moneyville	IL	69815     	False	
+37144	25491	1028142	Loan Made	2024-05-10 00:00:00	0	1200	1200	0		NewsBank		5801 Pelican Bay Blvd, Ste 600		Naples	FL	34108     	False	
+37145	279	1028280	7 month CD for purpose of creating a scholarship dedicated to Libby Chumley	2023-07-25 00:00:00	0	1000.82	-21.75	0		Taylorville Community Credit Union		422 West Main Cross		Taylorville	IL	62569     	False	

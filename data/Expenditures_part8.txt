@@ -114932,7 +114932,7 @@
 4709827	36915	969819	0	Advocate for 708 Referendum		2025-01-27 00:00:00	250	250	c/o Mike Murray	154 S. Prospect St	Roselle	IL	60172     	6B	Contribution			False	False	False		False
 4709828	36915	969819	0	Anzaldi	Maria	2025-01-07 00:00:00	1300	3900	P. O. Box 1815		Des Plaines	IL	60018     	8B	Headquarters rent			False	False	False		False
 4709829	36915	969819	0	Commonwealth Edison		2025-01-24 00:00:00	52.42	163.77	PO Box 6111		Carol Stream	IL	60197     	8B	Utilities			False	False	False		False
-4709830	22709	969824	0	Illinois Evening Republican Club		2025-04-09 00:00:00	913.99	913.99	PO Box 5041		Springfield	IL	62705     	8B	Donation			False	False	False		False
+4709830	22709	969824	0	Illinois Evening Republican Club		2025-04-09 00:00:00	913.99	913.99	PO Box 5041		Springfield	IL	62705     	8B	Donation			False	False	True		False
 4709831	313	969828	0	Jersey County Journal		2025-01-19 00:00:00	316.8	400.2	832 S State St		Jerseyville	IL	62052     	8B	Advertising - newspaper			False	False	False		False
 4709832	313	969828	0	Jersey County Journal		2025-01-19 00:00:00	83.4	400.2	832 S State St		Jerseyville	IL	62052     	8B	Advertising - newspaper			False	False	False		False
 4709833	313	969828	0	Wittworth, Horn and Geotten		2025-01-22 00:00:00	387	387	100 N State		Jerseyville	IL	62052     	8B	Insurance			False	False	False		False
@@ -188591,30 +188591,30 @@
 4783486	39902	986268	0	Highland Park Chamber of Commerce		2025-08-28 00:00:00	195	195	508 Central Avenue	Suite 202	Highland Park	IL	60035     	8B	Donation			False	False	False		False
 4783487	36970	986269	0	Eileen O'Neill Burke for State's Attorney		2025-08-18 00:00:00	500	500	c/o NCC, LLC	220 N. Green Street	Chicago	IL	60607     	8B	Donation			False	False	False		False
 4783488	36970	986269	0	Croke for Illinois		2025-08-15 00:00:00	5000	5000	455 W. Webster		Chicago	IL	60614     	8B	Donation			False	False	False		False
-4783489	177	986272	0	SurusDH LLC		2025-07-10 00:00:00	1478.33	4434.99	10 E. Scranton Avenue	Suite 302	Lake Bluff	IL	60044     	8B	Contractual			False	False	False		False
-4783490	177	986272	0	SurusDH LLC		2025-08-11 00:00:00	1478.33	4434.99	10 E. Scranton Avenue	Suite 302	Lake Bluff	IL	60044     	8B	Contractual			False	False	False		False
-4783491	177	986272	0	SurusDH LLC		2025-09-10 00:00:00	1478.33	4434.99	10 E. Scranton Avenue	Suite 302	Lake Bluff	IL	60044     	8B	Contractual			False	False	False		False
-4783492	177	986272	0	NationBuilder		2025-07-08 00:00:00	58.3	304.01	PO Box 811428		Los Angeles	CA	90081     	8B	Accounting fees			False	False	False		False
-4783493	177	986272	0	NationBuilder		2025-09-08 00:00:00	44.73	304.01	PO Box 811428		Los Angeles	CA	90081     	8B	Accounting fees			False	False	False		False
-4783494	177	986272	0	NationBuilder		2025-09-04 00:00:00	35.98	304.01	PO Box 811428		Los Angeles	CA	90081     	8B	Accounting fees			False	False	False		False
-4783495	177	986272	0	NationBuilder		2025-09-10 00:00:00	37.74	304.01	PO Box 811428		Los Angeles	CA	90081     	8B	Accounting fees			False	False	False		False
-4783496	177	986272	0	NationBuilder		2025-09-17 00:00:00	7.26	304.01	PO Box 811428		Los Angeles	CA	90081     	8B	Accounting fees			False	False	False		False
-4783497	177	986272	0	NationBuilder		2025-08-27 00:00:00	120	304.01	PO Box 811428		Los Angeles	CA	90081     	8B	Accounting fees			False	False	False		False
-4783498	177	986272	0	Walmart		2025-07-02 00:00:00	228.43	263.44	3315 N University		Peoria	IL	61604     	8B	Food			False	False	False		False
-4783499	177	986272	0	Walmart		2025-09-19 00:00:00	22.28	263.44	3315 N University		Peoria	IL	61604     	8B	Office supplies			False	False	False		False
-4783500	177	986272	0	Walmart		2025-09-19 00:00:00	12.73	263.44	3315 N University		Peoria	IL	61604     	8B	Office supplies			False	False	False		False
-4783501	177	986272	0	Comcast		2025-07-10 00:00:00	475.94	1344.92	3517 N. Dries Lane		Peoria	IL	61604     	8B	Internet access			False	False	False		False
-4783502	177	986272	0	Comcast		2025-08-11 00:00:00	424.26	1344.92	3517 N. Dries Lane		Peoria	IL	61604     	8B	Internet access			False	False	False		False
-4783503	177	986272	0	Comcast		2025-09-10 00:00:00	444.72	1344.92	3517 N. Dries Lane		Peoria	IL	61604     	8B	Internet access			False	False	False		False
-4783504	177	986272	0	Ameren Illinois		2025-07-14 00:00:00	233.29	791.23	PO Box 66884		StLouis	MO	63166     	8B	Utilities			False	False	False		False
-4783505	177	986272	0	Ameren Illinois		2025-08-11 00:00:00	210.57	791.23	PO Box 66884		StLouis	MO	63166     	8B	Utilities			False	False	False		False
-4783506	177	986272	0	Ameren Illinois		2025-09-15 00:00:00	347.37	791.23	PO Box 66884		StLouis	MO	63166     	8B	Utilities			False	False	False		False
-4783507	177	986272	0	Digital Copy Systems		2025-07-25 00:00:00	344.86	526.99	1619 W. Altorfer Dr.		Peoria	IL	61615     	8B	Printing			False	False	False		False
-4783508	177	986272	0	Digital Copy Systems		2025-08-26 00:00:00	58.54	526.99	1619 W. Altorfer Dr.		Peoria	IL	61615     	8B	Printing			False	False	False		False
-4783509	177	986272	0	Digital Copy Systems		2025-09-26 00:00:00	123.59	526.99	1619 W. Altorfer Dr.		Peoria	IL	61615     	8B	Printing			False	False	False		False
-4783510	177	986272	0	D. Joseph Sons & Associates Real Estate Co.		2025-07-01 00:00:00	800	2400	5001 N. University		Peoria	IL	61614     	8B	Rent			False	False	False		False
-4783511	177	986272	0	D. Joseph Sons & Associates Real Estate Co.		2025-08-01 00:00:00	800	2400	5001 N. University		Peoria	IL	61614     	8B	Rent			False	False	False		False
-4783512	177	986272	0	D. Joseph Sons & Associates Real Estate Co.		2025-09-01 00:00:00	800	2400	5001 N. University		Peoria	IL	61614     	8B	Rent			False	False	False		False
+4783489	177	986272	0	SurusDH LLC		2025-07-10 00:00:00	1478.33	4434.99	10 E. Scranton Avenue	Suite 302	Lake Bluff	IL	60044     	8B	Contractual			False	False	True		False
+4783490	177	986272	0	SurusDH LLC		2025-08-11 00:00:00	1478.33	4434.99	10 E. Scranton Avenue	Suite 302	Lake Bluff	IL	60044     	8B	Contractual			False	False	True		False
+4783491	177	986272	0	SurusDH LLC		2025-09-10 00:00:00	1478.33	4434.99	10 E. Scranton Avenue	Suite 302	Lake Bluff	IL	60044     	8B	Contractual			False	False	True		False
+4783492	177	986272	0	NationBuilder		2025-07-08 00:00:00	58.3	304.01	PO Box 811428		Los Angeles	CA	90081     	8B	Accounting fees			False	False	True		False
+4783493	177	986272	0	NationBuilder		2025-09-08 00:00:00	44.73	304.01	PO Box 811428		Los Angeles	CA	90081     	8B	Accounting fees			False	False	True		False
+4783494	177	986272	0	NationBuilder		2025-09-04 00:00:00	35.98	304.01	PO Box 811428		Los Angeles	CA	90081     	8B	Accounting fees			False	False	True		False
+4783495	177	986272	0	NationBuilder		2025-09-10 00:00:00	37.74	304.01	PO Box 811428		Los Angeles	CA	90081     	8B	Accounting fees			False	False	True		False
+4783496	177	986272	0	NationBuilder		2025-09-17 00:00:00	7.26	304.01	PO Box 811428		Los Angeles	CA	90081     	8B	Accounting fees			False	False	True		False
+4783497	177	986272	0	NationBuilder		2025-08-27 00:00:00	120	304.01	PO Box 811428		Los Angeles	CA	90081     	8B	Accounting fees			False	False	True		False
+4783498	177	986272	0	Walmart		2025-07-02 00:00:00	228.43	263.44	3315 N University		Peoria	IL	61604     	8B	Food			False	False	True		False
+4783499	177	986272	0	Walmart		2025-09-19 00:00:00	22.28	263.44	3315 N University		Peoria	IL	61604     	8B	Office supplies			False	False	True		False
+4783500	177	986272	0	Walmart		2025-09-19 00:00:00	12.73	263.44	3315 N University		Peoria	IL	61604     	8B	Office supplies			False	False	True		False
+4783501	177	986272	0	Comcast		2025-07-10 00:00:00	475.94	1344.92	3517 N. Dries Lane		Peoria	IL	61604     	8B	Internet access			False	False	True		False
+4783502	177	986272	0	Comcast		2025-08-11 00:00:00	424.26	1344.92	3517 N. Dries Lane		Peoria	IL	61604     	8B	Internet access			False	False	True		False
+4783503	177	986272	0	Comcast		2025-09-10 00:00:00	444.72	1344.92	3517 N. Dries Lane		Peoria	IL	61604     	8B	Internet access			False	False	True		False
+4783504	177	986272	0	Ameren Illinois		2025-07-14 00:00:00	233.29	791.23	PO Box 66884		StLouis	MO	63166     	8B	Utilities			False	False	True		False
+4783505	177	986272	0	Ameren Illinois		2025-08-11 00:00:00	210.57	791.23	PO Box 66884		StLouis	MO	63166     	8B	Utilities			False	False	True		False
+4783506	177	986272	0	Ameren Illinois		2025-09-15 00:00:00	347.37	791.23	PO Box 66884		StLouis	MO	63166     	8B	Utilities			False	False	True		False
+4783507	177	986272	0	Digital Copy Systems		2025-07-25 00:00:00	344.86	526.99	1619 W. Altorfer Dr.		Peoria	IL	61615     	8B	Printing			False	False	True		False
+4783508	177	986272	0	Digital Copy Systems		2025-08-26 00:00:00	58.54	526.99	1619 W. Altorfer Dr.		Peoria	IL	61615     	8B	Printing			False	False	True		False
+4783509	177	986272	0	Digital Copy Systems		2025-09-26 00:00:00	123.59	526.99	1619 W. Altorfer Dr.		Peoria	IL	61615     	8B	Printing			False	False	True		False
+4783510	177	986272	0	D. Joseph Sons & Associates Real Estate Co.		2025-07-01 00:00:00	800	2400	5001 N. University		Peoria	IL	61614     	8B	Rent			False	False	True		False
+4783511	177	986272	0	D. Joseph Sons & Associates Real Estate Co.		2025-08-01 00:00:00	800	2400	5001 N. University		Peoria	IL	61614     	8B	Rent			False	False	True		False
+4783512	177	986272	0	D. Joseph Sons & Associates Real Estate Co.		2025-09-01 00:00:00	800	2400	5001 N. University		Peoria	IL	61614     	8B	Rent			False	False	True		False
 4783513	34545	986273	0	Pitts	Larry	2025-07-11 00:00:00	312.5	312.5	426 S West St		Wheaton	IL	60187     	8B	Treasurer duties			False	False	False		False
 4783514	34545	986273	0	DuPage County NAACP		2025-07-15 00:00:00	265.5	265.5	122 N. Wheaton Ave		Wheaton	IL	60187     	8B	Gala ad book and tickets			False	False	False		False
 4783515	34545	986273	0	Wayne Township Democratic Party		2025-08-13 00:00:00	250	250	PO Box 8174		Bartlett	IL	60103     	6B	fundraiser			False	False	False		False
@@ -227488,28 +227488,28 @@
 4822383	40898	994530	0	Davenport Printing Company		2025-11-13 00:00:00	185.11	1477.67	104 Western Avenue		Davenport	IA	52801     	8B	Yard signs			False	False	False		False
 4822384	40898	994530	0	Davenport Printing Company		2025-12-12 00:00:00	1292.56	1477.67	104 Western Avenue		Davenport	IA	52801     	8B	Flyers			False	False	False		False
 4822385	39797	994532	0	The People for Emanuel "Chris" Welch		2025-11-13 00:00:00	3000	3000	10055 Roosevelt Road	Suite D	Westchester	IL	60154     	6B	Contribution			False	False	False		False
-4822386	177	994535	0	D. Joseph Sons & Associates Real Estate Co.		2025-10-01 00:00:00	500	1500	5001 N. University		Peoria	IL	61614     	8B	Rent			False	False	False		False
-4822387	177	994535	0	Comcast		2025-10-10 00:00:00	444.72	1493.14	3517 N. Dries Lane		Peoria	IL	61604     	8B	Internet access			False	False	False		False
-4822388	177	994535	0	SurusDH LLC		2025-10-10 00:00:00	1478.33	5684.99	10 E. Scranton Avenue	Suite 302	Lake Bluff	IL	60044     	8B	Contractual			False	False	False		False
-4822389	177	994535	0	Ameren Illinois		2025-10-14 00:00:00	304.55	831.73	PO Box 66884		StLouis	MO	63166     	8B	Utilities			False	False	False		False
-4822390	177	994535	0	Digital Copy Systems		2025-10-24 00:00:00	69.93	238.63	1619 W. Altorfer Dr.		Peoria	IL	61615     	8B	Printing			False	False	False		False
-4822391	177	994535	0	Garber Heating & Cooling		2025-10-29 00:00:00	182.27	182.27	310 Detroit Ave		Morton	IL	61550     	8B	Equipment - maintenance			False	False	False		False
-4822392	177	994535	0	D. Joseph Sons & Associates Real Estate Co.		2025-11-01 00:00:00	500	1500	5001 N. University		Peoria	IL	61614     	8B	Rent			False	False	False		False
-4822393	177	994535	0	U. S. Postal Service		2025-11-04 00:00:00	195.2	195.2	95 State Street		Peoria	IL	61601-9900	8B	Postage			False	False	False		False
-4822394	177	994535	0	Comcast		2025-11-10 00:00:00	445.55	1493.14	3517 N. Dries Lane		Peoria	IL	61604     	8B	Internet access			False	False	False		False
-4822395	177	994535	0	SurusDH LLC		2025-11-10 00:00:00	1478.33	5684.99	10 E. Scranton Avenue	Suite 302	Lake Bluff	IL	60044     	8B	Contractual			False	False	False		False
-4822396	177	994535	0	Ameren Illinois		2025-11-12 00:00:00	270.23	831.73	PO Box 66884		StLouis	MO	63166     	8B	Utilities			False	False	False		False
-4822397	177	994535	0	Digital Copy Systems		2025-11-20 00:00:00	84.37	238.63	1619 W. Altorfer Dr.		Peoria	IL	61615     	8B	Printing			False	False	False		False
-4822398	177	994535	0	Simmons Little Johnnies		2025-11-24 00:00:00	490.5	490.5	10534 Churchill Drive		Peoria	IL	61615     	8B	Equipment - rental			False	False	False		False
-4822399	177	994535	0	Sam's Club		2025-11-20 00:00:00	325.17	325.17	4100 W Willow Knolls Drive		Peoria	IL	61615     	8B	Supplies			False	False	False		False
-4822400	177	994535	0	D. Joseph Sons & Associates Real Estate Co.		2025-12-01 00:00:00	500	1500	5001 N. University		Peoria	IL	61614     	8B	Rent			False	False	False		False
-4822401	177	994535	0	T-Mobile		2025-12-03 00:00:00	164.25	235.85	PO Box 742596		Cincinnati	OH	45274-2596	8B	Phone			False	False	False		False
-4822402	177	994535	0	Comcast		2025-12-10 00:00:00	602.87	1493.14	3517 N. Dries Lane		Peoria	IL	61604     	8B	Internet access			False	False	False		False
-4822403	177	994535	0	SurusDH LLC		2025-12-10 00:00:00	1478.33	5684.99	10 E. Scranton Avenue	Suite 302	Lake Bluff	IL	60044     	8B	Contractual			False	False	False		False
-4822404	177	994535	0	Ameren Illinois		2025-12-12 00:00:00	256.95	831.73	PO Box 66884		StLouis	MO	63166     	8B	Utilities			False	False	False		False
-4822405	177	994535	0	SurusDH LLC		2025-12-12 00:00:00	1250	5684.99	10 E. Scranton Avenue	Suite 302	Lake Bluff	IL	60044     	8B	Campaign Work			False	False	False		False
-4822406	177	994535	0	T-Mobile		2025-12-17 00:00:00	71.6	235.85	PO Box 742596		Cincinnati	OH	45274-2596	8B	Internet access			False	False	False		False
-4822407	177	994535	0	Digital Copy Systems		2025-12-22 00:00:00	84.33	238.63	1619 W. Altorfer Dr.		Peoria	IL	61615     	8B	Printing			False	False	False		False
+4822386	177	994535	0	D. Joseph Sons & Associates Real Estate Co.		2025-10-01 00:00:00	500	1500	5001 N. University		Peoria	IL	61614     	8B	Rent			False	False	True		False
+4822387	177	994535	0	Comcast		2025-10-10 00:00:00	444.72	1493.14	3517 N. Dries Lane		Peoria	IL	61604     	8B	Internet access			False	False	True		False
+4822388	177	994535	0	SurusDH LLC		2025-10-10 00:00:00	1478.33	5684.99	10 E. Scranton Avenue	Suite 302	Lake Bluff	IL	60044     	8B	Contractual			False	False	True		False
+4822389	177	994535	0	Ameren Illinois		2025-10-14 00:00:00	304.55	831.73	PO Box 66884		StLouis	MO	63166     	8B	Utilities			False	False	True		False
+4822390	177	994535	0	Digital Copy Systems		2025-10-24 00:00:00	69.93	238.63	1619 W. Altorfer Dr.		Peoria	IL	61615     	8B	Printing			False	False	True		False
+4822391	177	994535	0	Garber Heating & Cooling		2025-10-29 00:00:00	182.27	182.27	310 Detroit Ave		Morton	IL	61550     	8B	Equipment - maintenance			False	False	True		False
+4822392	177	994535	0	D. Joseph Sons & Associates Real Estate Co.		2025-11-01 00:00:00	500	1500	5001 N. University		Peoria	IL	61614     	8B	Rent			False	False	True		False
+4822393	177	994535	0	U. S. Postal Service		2025-11-04 00:00:00	195.2	195.2	95 State Street		Peoria	IL	61601-9900	8B	Postage			False	False	True		False
+4822394	177	994535	0	Comcast		2025-11-10 00:00:00	445.55	1493.14	3517 N. Dries Lane		Peoria	IL	61604     	8B	Internet access			False	False	True		False
+4822395	177	994535	0	SurusDH LLC		2025-11-10 00:00:00	1478.33	5684.99	10 E. Scranton Avenue	Suite 302	Lake Bluff	IL	60044     	8B	Contractual			False	False	True		False
+4822396	177	994535	0	Ameren Illinois		2025-11-12 00:00:00	270.23	831.73	PO Box 66884		StLouis	MO	63166     	8B	Utilities			False	False	True		False
+4822397	177	994535	0	Digital Copy Systems		2025-11-20 00:00:00	84.37	238.63	1619 W. Altorfer Dr.		Peoria	IL	61615     	8B	Printing			False	False	True		False
+4822398	177	994535	0	Simmons Little Johnnies		2025-11-24 00:00:00	490.5	490.5	10534 Churchill Drive		Peoria	IL	61615     	8B	Equipment - rental			False	False	True		False
+4822399	177	994535	0	Sam's Club		2025-11-20 00:00:00	325.17	325.17	4100 W Willow Knolls Drive		Peoria	IL	61615     	8B	Supplies			False	False	True		False
+4822400	177	994535	0	D. Joseph Sons & Associates Real Estate Co.		2025-12-01 00:00:00	500	1500	5001 N. University		Peoria	IL	61614     	8B	Rent			False	False	True		False
+4822401	177	994535	0	T-Mobile		2025-12-03 00:00:00	164.25	235.85	PO Box 742596		Cincinnati	OH	45274-2596	8B	Phone			False	False	True		False
+4822402	177	994535	0	Comcast		2025-12-10 00:00:00	602.87	1493.14	3517 N. Dries Lane		Peoria	IL	61604     	8B	Internet access			False	False	True		False
+4822403	177	994535	0	SurusDH LLC		2025-12-10 00:00:00	1478.33	5684.99	10 E. Scranton Avenue	Suite 302	Lake Bluff	IL	60044     	8B	Contractual			False	False	True		False
+4822404	177	994535	0	Ameren Illinois		2025-12-12 00:00:00	256.95	831.73	PO Box 66884		StLouis	MO	63166     	8B	Utilities			False	False	True		False
+4822405	177	994535	0	SurusDH LLC		2025-12-12 00:00:00	1250	5684.99	10 E. Scranton Avenue	Suite 302	Lake Bluff	IL	60044     	8B	Campaign Work			False	False	True		False
+4822406	177	994535	0	T-Mobile		2025-12-17 00:00:00	71.6	235.85	PO Box 742596		Cincinnati	OH	45274-2596	8B	Internet access			False	False	True		False
+4822407	177	994535	0	Digital Copy Systems		2025-12-22 00:00:00	84.33	238.63	1619 W. Altorfer Dr.		Peoria	IL	61615     	8B	Printing			False	False	True		False
 4822408	31728	994539	0	Joliet Exchange Club Charities		2025-10-06 00:00:00	250	250	PO BOX 2682		Joliet	IL	60434     	8B	Sponsorship			False	False	False		False
 4822409	31728	994539	0	Southlands Friends of Labor		2025-11-13 00:00:00	200	200	P.O. Box 129		Chicago Heights	IL	60412     	8B	Sponsorship			False	False	False		False
 4822410	31728	994539	0	Chicago Street Bar & Grill		2025-12-24 00:00:00	875	875	75 N Chicago St		Joliet	IL	60432     	8B	Sponsorship			False	False	False		False
@@ -336762,59 +336762,59 @@
 4931727	38605	1015785	0	Rocket Science Group (MailChimp)		2026-06-15 00:00:00	327.75	1004.64	675 Ponce de Leon Ave NE	Suite 5000	Atlanta	GA	30308     	8B	Email Service			False	False	False		False
 4931728	38605	1015785	0	Rocket Science Group (MailChimp)		2026-04-13 00:00:00	202.74	1004.64	675 Ponce de Leon Ave NE	Suite 5000	Atlanta	GA	30308     	8B	Email Service			False	False	False		False
 4931729	38605	1015785	0	Rocket Science Group (MailChimp)		2026-04-21 00:00:00	163.5	1004.64	675 Ponce de Leon Ave NE	Suite 5000	Atlanta	GA	30308     	8B	Email Service			False	False	False		False
-4931730	40825	1015786	0	McVey	Traeton	2026-04-03 00:00:00	360	360	1121 IL 167		Oneida	IL	61467     	8B	Field Work			False	False	False		False
-4931731	40825	1015786	0	Heinz	Otto	2026-04-01 00:00:00	2500	2500	2S764 Timber Drive		Warrenville	IL	60555     	8B	Campaign staff			False	False	False		False
-4931732	40825	1015786	0	McGinn	Christopher	2026-04-16 00:00:00	4140	4140	252 Nordic Rd		Bloomingdale	IL	60108     	8B	Field Work			False	False	False		False
-4931733	40825	1015786	0	EG Strategies		2026-04-01 00:00:00	5000	5000	21 E. Huron Street	Unit 1201	Chicago,	IL	60611     	8B	Fundraising Consulting			False	False	False		False
-4931734	40825	1015786	0	Quickbooks		2026-06-29 00:00:00	38	153.75	2700 Coast Avenue		Mountain View	CA	94043     	8B	Accounting Software			False	False	False		False
-4931735	40825	1015786	0	Quickbooks		2026-05-28 00:00:00	38	153.75	2700 Coast Avenue		Mountain View	CA	94043     	8B	Computer - software			False	False	False		False
-4931736	40825	1015786	0	Quickbooks		2026-04-28 00:00:00	77.75	153.75	2700 Coast Avenue		Mountain View	CA	94043     	8B	Computer - software			False	False	False		False
-4931737	40825	1015786	0	Sweeney	Susan	2026-04-01 00:00:00	3123.14	3123.14	1747 Park Ridge Pointe		Park Ridge	IL	60068     	8B	Campaign staff			False	False	False		False
-4931738	40825	1015786	0	Westin O'Hare Hotel		2026-04-01 00:00:00	1187.29	1187.29	6100 N River Rd		Rosemont	IL	60018     	8B	Party - staff			False	False	False		False
-4931739	40825	1015786	0	McEleney	Conner	2026-04-01 00:00:00	880	880	7117 Agatite Ave		Norridge	IL	60706     	8B	Field Work			False	False	False		False
-4931740	40825	1015786	0	Trump Hotel		2026-04-01 00:00:00	586.25	586.25	401 N. Wabash Avenue		Chicago	IL	60611     	8B	Various			False	False	False		False
-4931741	40825	1015786	0	Amazon.com, Inc.		2026-04-01 00:00:00	899.51	899.51	410 Terry Avenue North		Seattle	WA	98109     	8B	Promotional items			False	False	False		False
-4931742	40825	1015786	0	Kearney	Tracy	2026-04-01 00:00:00	6400	6400	816 E Glenwood Rd.		Glenview	IL	60025     	8B	Campaign staff			False	False	False		False
-4931743	40825	1015786	0	North Shore Community Bank & Trust		2026-04-16 00:00:00	1763.75	1763.75	1145 Wilmette Ave		Wilmette	IL	60091     	8B	Bank charges			False	False	False		False
-4931744	40825	1015786	0	Schmidt	Julie	2026-04-01 00:00:00	2000	4000	8458 Gardens Cir	Apt. 9	Sarasota	FL	34243     	8B	Accounting Services			False	False	False		False
-4931745	40825	1015786	0	Schmidt	Julie	2026-05-11 00:00:00	2000	4000	8458 Gardens Cir	Apt. 9	Sarasota	FL	34243     	8B	Accounting Services			False	False	False		False
-4931746	40825	1015786	0	Google Workspace		2026-04-02 00:00:00	134	402	1600 Amphitheatre Parkway		Mountain View	CA	94043     	8B	Productivity Software			False	False	False		False
-4931747	40825	1015786	0	Google Workspace		2026-06-06 00:00:00	134	402	1600 Amphitheatre Parkway		Mountain View	CA	94043     	8B	Computer - software			False	False	False		False
-4931748	40825	1015786	0	Google Workspace		2026-05-04 00:00:00	134	402	1600 Amphitheatre Parkway		Mountain View	CA	94043     	8B	Computer - software			False	False	False		False
-4931749	40825	1015786	0	1701 Lake LLC		2026-05-01 00:00:00	1952	1952	2835 N SHEFFIELD STE 217		CHICAGO	IL	60657     	8B	Rent			False	False	False		False
-4931750	40825	1015786	0	i360		2026-04-10 00:00:00	1852.42	1852.42	2300 Clarendon Blvd, Suite 800		Arlington	VA	22201     	8B	Voter Data			False	False	False		False
-4931751	40825	1015786	0	Anderson	Desi	2026-04-01 00:00:00	7500	13000	233 Denman Rd.		Carlock	IL	61725     	8B	Campaign staff			False	False	False		False
-4931752	40825	1015786	0	Anderson	Desi	2026-04-22 00:00:00	5500	13000	233 Denman Rd.		Carlock	IL	61725     	8B	Campaign staff			False	False	False		False
-4931753	40825	1015786	0	Klingner	John	2026-04-01 00:00:00	7400	13400	1484 Quaker Ln		Prospect Heights	IL	60070     	8B	Campaign staff			False	False	False		False
-4931754	40825	1015786	0	Klingner	John	2026-04-22 00:00:00	6000	13400	1484 Quaker Ln		Prospect Heights	IL	60070     	8B	Campaign staff			False	False	False		False
-4931755	40825	1015786	0	Rotkis	Colleen	2026-04-01 00:00:00	5374.5	5374.5	13203 Ione St.		Plainfield	IL	60585     	8B	Campaign staff			False	False	False		False
-4931756	40825	1015786	0	Schnek	Cynthia	2026-04-01 00:00:00	3712.12	3712.12	2416 N IL 23		Marengo	IL	60152     	8B	Campaign staff			False	False	False		False
-4931757	40825	1015786	0	Bresnahan	John	2026-04-01 00:00:00	3283.39	3283.39	1131 Vernon Dr.		Glenview	IL	60025     	8B	Campaign staff			False	False	False		False
-4931758	40825	1015786	0	Korte	Jennifer	2026-04-01 00:00:00	3697.2	3697.2	15 Primrose Ln		Trenton	IL	62293     	8B	Campaign staff			False	False	False		False
-4931759	40825	1015786	0	Hexatrope Creative Studios		2026-04-22 00:00:00	650	650	979 Hodgins Rd		Van Alstyne	TX	75495     	8B	Computer - services			False	False	False		False
-4931760	40825	1015786	0	WXAN-AM		2026-05-28 00:00:00	240	240	603 South Kellogg Street		Galesburg	IL	61401     	8B	Advertising - radio			False	False	False		False
-4931761	40825	1015786	0	Uber Technologies, Inc.		2026-04-30 00:00:00	14.94	168.34	1515 3rd Street		San Francisco	CA	94158     	8B	Transportation			False	False	False		False
-4931762	40825	1015786	0	Uber Technologies, Inc.		2026-04-29 00:00:00	42.37	168.34	1515 3rd Street		San Francisco	CA	94158     	8B	Transportation			False	False	False		False
-4931763	40825	1015786	0	Uber Technologies, Inc.		2026-04-29 00:00:00	10.72	168.34	1515 3rd Street		San Francisco	CA	94158     	8B	Transportation			False	False	False		False
-4931764	40825	1015786	0	Uber Technologies, Inc.		2026-04-29 00:00:00	9.93	168.34	1515 3rd Street		San Francisco	CA	94158     	8B	Transportation			False	False	False		False
-4931765	40825	1015786	0	Uber Technologies, Inc.		2026-04-28 00:00:00	12.99	168.34	1515 3rd Street		San Francisco	CA	94158     	8B	Transportation			False	False	False		False
-4931766	40825	1015786	0	Uber Technologies, Inc.		2026-04-28 00:00:00	2	168.34	1515 3rd Street		San Francisco	CA	94158     	8B	Transportation			False	False	False		False
-4931767	40825	1015786	0	Uber Technologies, Inc.		2026-04-28 00:00:00	2	168.34	1515 3rd Street		San Francisco	CA	94158     	8B	Transportation			False	False	False		False
-4931768	40825	1015786	0	Uber Technologies, Inc.		2026-04-27 00:00:00	19.96	168.34	1515 3rd Street		San Francisco	CA	94158     	8B	Transportation			False	False	False		False
-4931769	40825	1015786	0	Uber Technologies, Inc.		2026-04-27 00:00:00	19.95	168.34	1515 3rd Street		San Francisco	CA	94158     	8B	Transportation			False	False	False		False
-4931770	40825	1015786	0	Uber Technologies, Inc.		2026-04-27 00:00:00	16.97	168.34	1515 3rd Street		San Francisco	CA	94158     	8B	Transportation			False	False	False		False
-4931771	40825	1015786	0	Uber Technologies, Inc.		2026-04-27 00:00:00	12.51	168.34	1515 3rd Street		San Francisco	CA	94158     	8B	Transportation			False	False	False		False
-4931772	40825	1015786	0	Uber Technologies, Inc.		2026-04-27 00:00:00	4	168.34	1515 3rd Street		San Francisco	CA	94158     	8B	Transportation			False	False	False		False
-4931773	40825	1015786	0	Nextsulting, LLC		2026-04-02 00:00:00	900	900	222 W Merchandise Mart Plaza	Ste 1212	Chicago	IL	60654     	8B	Campaign Consulting			False	False	False		False
-4931774	40825	1015786	0	News Reporting, Inc.		2026-04-10 00:00:00	900	900	20 N. Clark Street	Suite 3300	Chicago	IL	60602     	8B	Advertising - newspaper			False	False	False		False
-4931775	40825	1015786	0	Encore AV Rentals		2026-04-24 00:00:00	8761.92	8761.92	38167 Airport Parkway		Willoughby	OH	44094     	8B	Audio-visual rental			False	False	False		False
-4931776	40825	1015786	0	Wintrust Bank		2026-06-16 00:00:00	91.5	183	1145 Wilmette Avenue		Wilmette	IL	60091     	8B	Bank charges			False	False	False		False
-4931777	40825	1015786	0	Wintrust Bank		2026-05-15 00:00:00	91.5	183	1145 Wilmette Avenue		Wilmette	IL	60091     	8B	Bank charges			False	False	False		False
-4931778	40825	1015786	0	Mendoza	Carrie	2026-04-23 00:00:00	10563.82	10563.82	756 Glencoe dr		Glencoe	IL	60022     	8B	Campaign staff			False	False	False		False
-4931779	40825	1015786	0	Siwicki	Brian	2026-04-21 00:00:00	1000	1000	572 Clark St		Hinkley	IL	60520     	8B	Contractual			False	False	False		False
-4931780	40825	1015786	0	Partington	Brady	2026-04-01 00:00:00	690	690	685 Partridge Place		Dixon	IL	61021     	8B	Field Work			False	False	False		False
-4931781	40825	1015786	0	Banuelos	Brauilio	2026-06-11 00:00:00	680	1060	Unknown		Sandwich	IL	60548     	8B	Contractual			False	False	False		False
-4931782	40825	1015786	0	Banuelos	Brauilio	2026-06-11 00:00:00	380	1060	Unknown		Sandwich	IL	60548     	8B	Contractual			False	False	False		False
+4931730	40825	1015786	0	McVey	Traeton	2026-04-03 00:00:00	360	360	1121 IL 167		Oneida	IL	61467     	8B	Field Work			False	False	True		False
+4931731	40825	1015786	0	Heinz	Otto	2026-04-01 00:00:00	2500	2500	2S764 Timber Drive		Warrenville	IL	60555     	8B	Campaign staff			False	False	True		False
+4931732	40825	1015786	0	McGinn	Christopher	2026-04-16 00:00:00	4140	4140	252 Nordic Rd		Bloomingdale	IL	60108     	8B	Field Work			False	False	True		False
+4931733	40825	1015786	0	EG Strategies		2026-04-01 00:00:00	5000	5000	21 E. Huron Street	Unit 1201	Chicago,	IL	60611     	8B	Fundraising Consulting			False	False	True		False
+4931734	40825	1015786	0	Quickbooks		2026-06-29 00:00:00	38	153.75	2700 Coast Avenue		Mountain View	CA	94043     	8B	Accounting Software			False	False	True		False
+4931735	40825	1015786	0	Quickbooks		2026-05-28 00:00:00	38	153.75	2700 Coast Avenue		Mountain View	CA	94043     	8B	Computer - software			False	False	True		False
+4931736	40825	1015786	0	Quickbooks		2026-04-28 00:00:00	77.75	153.75	2700 Coast Avenue		Mountain View	CA	94043     	8B	Computer - software			False	False	True		False
+4931737	40825	1015786	0	Sweeney	Susan	2026-04-01 00:00:00	3123.14	3123.14	1747 Park Ridge Pointe		Park Ridge	IL	60068     	8B	Campaign staff			False	False	True		False
+4931738	40825	1015786	0	Westin O'Hare Hotel		2026-04-01 00:00:00	1187.29	1187.29	6100 N River Rd		Rosemont	IL	60018     	8B	Party - staff			False	False	True		False
+4931739	40825	1015786	0	McEleney	Conner	2026-04-01 00:00:00	880	880	7117 Agatite Ave		Norridge	IL	60706     	8B	Field Work			False	False	True		False
+4931740	40825	1015786	0	Trump Hotel		2026-04-01 00:00:00	586.25	586.25	401 N. Wabash Avenue		Chicago	IL	60611     	8B	Various			False	False	True		False
+4931741	40825	1015786	0	Amazon.com, Inc.		2026-04-01 00:00:00	899.51	899.51	410 Terry Avenue North		Seattle	WA	98109     	8B	Promotional items			False	False	True		False
+4931742	40825	1015786	0	Kearney	Tracy	2026-04-01 00:00:00	6400	6400	816 E Glenwood Rd.		Glenview	IL	60025     	8B	Campaign staff			False	False	True		False
+4931743	40825	1015786	0	North Shore Community Bank & Trust		2026-04-16 00:00:00	1763.75	1763.75	1145 Wilmette Ave		Wilmette	IL	60091     	8B	Bank charges			False	False	True		False
+4931744	40825	1015786	0	Schmidt	Julie	2026-04-01 00:00:00	2000	4000	8458 Gardens Cir	Apt. 9	Sarasota	FL	34243     	8B	Accounting Services			False	False	True		False
+4931745	40825	1015786	0	Schmidt	Julie	2026-05-11 00:00:00	2000	4000	8458 Gardens Cir	Apt. 9	Sarasota	FL	34243     	8B	Accounting Services			False	False	True		False
+4931746	40825	1015786	0	Google Workspace		2026-04-02 00:00:00	134	402	1600 Amphitheatre Parkway		Mountain View	CA	94043     	8B	Productivity Software			False	False	True		False
+4931747	40825	1015786	0	Google Workspace		2026-06-06 00:00:00	134	402	1600 Amphitheatre Parkway		Mountain View	CA	94043     	8B	Computer - software			False	False	True		False
+4931748	40825	1015786	0	Google Workspace		2026-05-04 00:00:00	134	402	1600 Amphitheatre Parkway		Mountain View	CA	94043     	8B	Computer - software			False	False	True		False
+4931749	40825	1015786	0	1701 Lake LLC		2026-05-01 00:00:00	1952	1952	2835 N SHEFFIELD STE 217		CHICAGO	IL	60657     	8B	Rent			False	False	True		False
+4931750	40825	1015786	0	i360		2026-04-10 00:00:00	1852.42	1852.42	2300 Clarendon Blvd, Suite 800		Arlington	VA	22201     	8B	Voter Data			False	False	True		False
+4931751	40825	1015786	0	Anderson	Desi	2026-04-01 00:00:00	7500	13000	233 Denman Rd.		Carlock	IL	61725     	8B	Campaign staff			False	False	True		False
+4931752	40825	1015786	0	Anderson	Desi	2026-04-22 00:00:00	5500	13000	233 Denman Rd.		Carlock	IL	61725     	8B	Campaign staff			False	False	True		False
+4931753	40825	1015786	0	Klingner	John	2026-04-01 00:00:00	7400	13400	1484 Quaker Ln		Prospect Heights	IL	60070     	8B	Campaign staff			False	False	True		False
+4931754	40825	1015786	0	Klingner	John	2026-04-22 00:00:00	6000	13400	1484 Quaker Ln		Prospect Heights	IL	60070     	8B	Campaign staff			False	False	True		False
+4931755	40825	1015786	0	Rotkis	Colleen	2026-04-01 00:00:00	5374.5	5374.5	13203 Ione St.		Plainfield	IL	60585     	8B	Campaign staff			False	False	True		False
+4931756	40825	1015786	0	Schnek	Cynthia	2026-04-01 00:00:00	3712.12	3712.12	2416 N IL 23		Marengo	IL	60152     	8B	Campaign staff			False	False	True		False
+4931757	40825	1015786	0	Bresnahan	John	2026-04-01 00:00:00	3283.39	3283.39	1131 Vernon Dr.		Glenview	IL	60025     	8B	Campaign staff			False	False	True		False
+4931758	40825	1015786	0	Korte	Jennifer	2026-04-01 00:00:00	3697.2	3697.2	15 Primrose Ln		Trenton	IL	62293     	8B	Campaign staff			False	False	True		False
+4931759	40825	1015786	0	Hexatrope Creative Studios		2026-04-22 00:00:00	650	650	979 Hodgins Rd		Van Alstyne	TX	75495     	8B	Computer - services			False	False	True		False
+4931760	40825	1015786	0	WXAN-AM		2026-05-28 00:00:00	240	240	603 South Kellogg Street		Galesburg	IL	61401     	8B	Advertising - radio			False	False	True		False
+4931761	40825	1015786	0	Uber Technologies, Inc.		2026-04-30 00:00:00	14.94	168.34	1515 3rd Street		San Francisco	CA	94158     	8B	Transportation			False	False	True		False
+4931762	40825	1015786	0	Uber Technologies, Inc.		2026-04-29 00:00:00	42.37	168.34	1515 3rd Street		San Francisco	CA	94158     	8B	Transportation			False	False	True		False
+4931763	40825	1015786	0	Uber Technologies, Inc.		2026-04-29 00:00:00	10.72	168.34	1515 3rd Street		San Francisco	CA	94158     	8B	Transportation			False	False	True		False
+4931764	40825	1015786	0	Uber Technologies, Inc.		2026-04-29 00:00:00	9.93	168.34	1515 3rd Street		San Francisco	CA	94158     	8B	Transportation			False	False	True		False
+4931765	40825	1015786	0	Uber Technologies, Inc.		2026-04-28 00:00:00	12.99	168.34	1515 3rd Street		San Francisco	CA	94158     	8B	Transportation			False	False	True		False
+4931766	40825	1015786	0	Uber Technologies, Inc.		2026-04-28 00:00:00	2	168.34	1515 3rd Street		San Francisco	CA	94158     	8B	Transportation			False	False	True		False
+4931767	40825	1015786	0	Uber Technologies, Inc.		2026-04-28 00:00:00	2	168.34	1515 3rd Street		San Francisco	CA	94158     	8B	Transportation			False	False	True		False
+4931768	40825	1015786	0	Uber Technologies, Inc.		2026-04-27 00:00:00	19.96	168.34	1515 3rd Street		San Francisco	CA	94158     	8B	Transportation			False	False	True		False
+4931769	40825	1015786	0	Uber Technologies, Inc.		2026-04-27 00:00:00	19.95	168.34	1515 3rd Street		San Francisco	CA	94158     	8B	Transportation			False	False	True		False
+4931770	40825	1015786	0	Uber Technologies, Inc.		2026-04-27 00:00:00	16.97	168.34	1515 3rd Street		San Francisco	CA	94158     	8B	Transportation			False	False	True		False
+4931771	40825	1015786	0	Uber Technologies, Inc.		2026-04-27 00:00:00	12.51	168.34	1515 3rd Street		San Francisco	CA	94158     	8B	Transportation			False	False	True		False
+4931772	40825	1015786	0	Uber Technologies, Inc.		2026-04-27 00:00:00	4	168.34	1515 3rd Street		San Francisco	CA	94158     	8B	Transportation			False	False	True		False
+4931773	40825	1015786	0	Nextsulting, LLC		2026-04-02 00:00:00	900	900	222 W Merchandise Mart Plaza	Ste 1212	Chicago	IL	60654     	8B	Campaign Consulting			False	False	True		False
+4931774	40825	1015786	0	News Reporting, Inc.		2026-04-10 00:00:00	900	900	20 N. Clark Street	Suite 3300	Chicago	IL	60602     	8B	Advertising - newspaper			False	False	True		False
+4931775	40825	1015786	0	Encore AV Rentals		2026-04-24 00:00:00	8761.92	8761.92	38167 Airport Parkway		Willoughby	OH	44094     	8B	Audio-visual rental			False	False	True		False
+4931776	40825	1015786	0	Wintrust Bank		2026-06-16 00:00:00	91.5	183	1145 Wilmette Avenue		Wilmette	IL	60091     	8B	Bank charges			False	False	True		False
+4931777	40825	1015786	0	Wintrust Bank		2026-05-15 00:00:00	91.5	183	1145 Wilmette Avenue		Wilmette	IL	60091     	8B	Bank charges			False	False	True		False
+4931778	40825	1015786	0	Mendoza	Carrie	2026-04-23 00:00:00	10563.82	10563.82	756 Glencoe dr		Glencoe	IL	60022     	8B	Campaign staff			False	False	True		False
+4931779	40825	1015786	0	Siwicki	Brian	2026-04-21 00:00:00	1000	1000	572 Clark St		Hinkley	IL	60520     	8B	Contractual			False	False	True		False
+4931780	40825	1015786	0	Partington	Brady	2026-04-01 00:00:00	690	690	685 Partridge Place		Dixon	IL	61021     	8B	Field Work			False	False	True		False
+4931781	40825	1015786	0	Banuelos	Brauilio	2026-06-11 00:00:00	680	1060	Unknown		Sandwich	IL	60548     	8B	Contractual			False	False	True		False
+4931782	40825	1015786	0	Banuelos	Brauilio	2026-06-11 00:00:00	380	1060	Unknown		Sandwich	IL	60548     	8B	Contractual			False	False	True		False
 4931783	34082	1015790	0	Nelson Wurth Consulting, Inc		2026-04-06 00:00:00	500	500	6753 N. Wildwood Ave		Chicago	IL	60646     	8B	Campaign services			False	False	False		False
 4931784	34082	1015790	0	The Shipping Point		2026-05-29 00:00:00	156.24	179.95	5250 Grand Ave		Gurnee	IL	60031     	8B	Postage			False	False	False		False
 4931785	34082	1015790	0	The Shipping Point		2026-04-20 00:00:00	23.71	179.95	5250 Grand Ave		Gurnee	IL	60031     	8B				False	False	False		False
@@ -345580,27 +345580,27 @@
 4940545	36591	1016262	0	Squarespace Inc		2026-06-11 00:00:00	78	297	8 Clarkson St		New York	NY	10014     	8B	Website			False	False	False		False
 4940546	36591	1016262	0	Squarespace Inc		2026-06-23 00:00:00	21	297	8 Clarkson St		New York	NY	10014     	8B	Website			False	False	False		False
 4940547	41008	1016263	0	Democratic Party of Illinois		2026-06-18 00:00:00	250	250	PO Box 10692		Chicago	IL	60610     	8B	Vote Builder voter list			False	False	False		False
-4940548	177	1016265	0	T-Mobile		2026-03-17 00:00:00	62.1	424.53	PO Box 742596		Cincinnati	OH	45274-2596	8B	Phone			False	False	False		False
-4940549	177	1016265	0	T-Mobile		2026-03-03 00:00:00	60.59	424.53	PO Box 742596		Cincinnati	OH	45274-2596	8B	Internet access			False	False	False		False
-4940550	177	1016265	0	T-Mobile		2026-01-20 00:00:00	61.6	424.53	PO Box 742596		Cincinnati	OH	45274-2596	8B	Internet access			False	False	False		False
-4940551	177	1016265	0	T-Mobile		2026-01-05 00:00:00	119.1	424.53	PO Box 742596		Cincinnati	OH	45274-2596	8B	Utilities			False	False	False		False
-4940552	177	1016265	0	T-Mobile		2026-02-03 00:00:00	59.54	424.53	PO Box 742596		Cincinnati	OH	45274-2596	8B	Phone			False	False	False		False
-4940553	177	1016265	0	T-Mobile		2026-02-17 00:00:00	61.6	424.53	PO Box 742596		Cincinnati	OH	45274-2596	8B	Internet access			False	False	False		False
-4940554	177	1016265	0	Google "GSuite"		2026-03-23 00:00:00	252	252	1600 Amphitheatre Parkway		Mountain VIEW	CA	94043     	8B	Subscription			False	False	False		False
-4940555	177	1016265	0	D. Joseph Sons & Associates Real Estate Co.		2026-01-01 00:00:00	500	1500	5001 N. University		Peoria	IL	61614     	8B	Rent			False	False	False		False
-4940556	177	1016265	0	D. Joseph Sons & Associates Real Estate Co.		2026-02-01 00:00:00	500	1500	5001 N. University		Peoria	IL	61614     	8B	Rent			False	False	False		False
-4940557	177	1016265	0	D. Joseph Sons & Associates Real Estate Co.		2026-03-01 00:00:00	500	1500	5001 N. University		Peoria	IL	61614     	8B	Rent			False	False	False		False
-4940558	177	1016265	0	Digital Copy Systems		2026-03-20 00:00:00	198.39	272.99	1619 W. Altorfer Dr.		Peoria	IL	61615     	8B	Printing			False	False	False		False
-4940559	177	1016265	0	Digital Copy Systems		2026-01-20 00:00:00	28.65	272.99	1619 W. Altorfer Dr.		Peoria	IL	61615     	8B	Printing			False	False	False		False
-4940560	177	1016265	0	Digital Copy Systems		2026-02-23 00:00:00	45.95	272.99	1619 W. Altorfer Dr.		Peoria	IL	61615     	8B	Printing			False	False	False		False
-4940561	177	1016265	0	SurusDH LLC		2026-01-12 00:00:00	1478.33	8434.99	10 E. Scranton Avenue	Suite 302	Lake Bluff	IL	60044     	8B	Contractual			False	False	False		False
-4940562	177	1016265	0	SurusDH LLC		2026-01-07 00:00:00	4000	8434.99	10 E. Scranton Avenue	Suite 302	Lake Bluff	IL	60044     	8B	Campaign Work			False	False	False		False
-4940563	177	1016265	0	SurusDH LLC		2026-02-10 00:00:00	1478.33	8434.99	10 E. Scranton Avenue	Suite 302	Lake Bluff	IL	60044     	8B	Contractual			False	False	False		False
-4940564	177	1016265	0	SurusDH LLC		2026-03-10 00:00:00	1478.33	8434.99	10 E. Scranton Avenue	Suite 302	Lake Bluff	IL	60044     	8B	Contractual			False	False	False		False
-4940565	177	1016265	0	Ameren Illinois		2026-03-16 00:00:00	421.68	1081.34	PO Box 66884		StLouis	MO	63166     	8B	Utilities			False	False	False		False
-4940566	177	1016265	0	Ameren Illinois		2026-01-12 00:00:00	252.21	1081.34	PO Box 66884		StLouis	MO	63166     	8B	Utilities			False	False	False		False
-4940567	177	1016265	0	Ameren Illinois		2026-02-10 00:00:00	407.45	1081.34	PO Box 66884		StLouis	MO	63166     	8B	Utilities			False	False	False		False
-4940568	177	1016265	0	Illinois Freedom Alliance		2026-03-10 00:00:00	449	449	1529 46th Ave		Moline	IL	61201     	6B	Reimbursement			False	False	False		False
+4940548	177	1016265	0	T-Mobile		2026-03-17 00:00:00	62.1	424.53	PO Box 742596		Cincinnati	OH	45274-2596	8B	Phone			False	False	True		False
+4940549	177	1016265	0	T-Mobile		2026-03-03 00:00:00	60.59	424.53	PO Box 742596		Cincinnati	OH	45274-2596	8B	Internet access			False	False	True		False
+4940550	177	1016265	0	T-Mobile		2026-01-20 00:00:00	61.6	424.53	PO Box 742596		Cincinnati	OH	45274-2596	8B	Internet access			False	False	True		False
+4940551	177	1016265	0	T-Mobile		2026-01-05 00:00:00	119.1	424.53	PO Box 742596		Cincinnati	OH	45274-2596	8B	Utilities			False	False	True		False
+4940552	177	1016265	0	T-Mobile		2026-02-03 00:00:00	59.54	424.53	PO Box 742596		Cincinnati	OH	45274-2596	8B	Phone			False	False	True		False
+4940553	177	1016265	0	T-Mobile		2026-02-17 00:00:00	61.6	424.53	PO Box 742596		Cincinnati	OH	45274-2596	8B	Internet access			False	False	True		False
+4940554	177	1016265	0	Google "GSuite"		2026-03-23 00:00:00	252	252	1600 Amphitheatre Parkway		Mountain VIEW	CA	94043     	8B	Subscription			False	False	True		False
+4940555	177	1016265	0	D. Joseph Sons & Associates Real Estate Co.		2026-01-01 00:00:00	500	1500	5001 N. University		Peoria	IL	61614     	8B	Rent			False	False	True		False
+4940556	177	1016265	0	D. Joseph Sons & Associates Real Estate Co.		2026-02-01 00:00:00	500	1500	5001 N. University		Peoria	IL	61614     	8B	Rent			False	False	True		False
+4940557	177	1016265	0	D. Joseph Sons & Associates Real Estate Co.		2026-03-01 00:00:00	500	1500	5001 N. University		Peoria	IL	61614     	8B	Rent			False	False	True		False
+4940558	177	1016265	0	Digital Copy Systems		2026-03-20 00:00:00	198.39	272.99	1619 W. Altorfer Dr.		Peoria	IL	61615     	8B	Printing			False	False	True		False
+4940559	177	1016265	0	Digital Copy Systems		2026-01-20 00:00:00	28.65	272.99	1619 W. Altorfer Dr.		Peoria	IL	61615     	8B	Printing			False	False	True		False
+4940560	177	1016265	0	Digital Copy Systems		2026-02-23 00:00:00	45.95	272.99	1619 W. Altorfer Dr.		Peoria	IL	61615     	8B	Printing			False	False	True		False
+4940561	177	1016265	0	SurusDH LLC		2026-01-12 00:00:00	1478.33	8434.99	10 E. Scranton Avenue	Suite 302	Lake Bluff	IL	60044     	8B	Contractual			False	False	True		False
+4940562	177	1016265	0	SurusDH LLC		2026-01-07 00:00:00	4000	8434.99	10 E. Scranton Avenue	Suite 302	Lake Bluff	IL	60044     	8B	Campaign Work			False	False	True		False
+4940563	177	1016265	0	SurusDH LLC		2026-02-10 00:00:00	1478.33	8434.99	10 E. Scranton Avenue	Suite 302	Lake Bluff	IL	60044     	8B	Contractual			False	False	True		False
+4940564	177	1016265	0	SurusDH LLC		2026-03-10 00:00:00	1478.33	8434.99	10 E. Scranton Avenue	Suite 302	Lake Bluff	IL	60044     	8B	Contractual			False	False	True		False
+4940565	177	1016265	0	Ameren Illinois		2026-03-16 00:00:00	421.68	1081.34	PO Box 66884		StLouis	MO	63166     	8B	Utilities			False	False	True		False
+4940566	177	1016265	0	Ameren Illinois		2026-01-12 00:00:00	252.21	1081.34	PO Box 66884		StLouis	MO	63166     	8B	Utilities			False	False	True		False
+4940567	177	1016265	0	Ameren Illinois		2026-02-10 00:00:00	407.45	1081.34	PO Box 66884		StLouis	MO	63166     	8B	Utilities			False	False	True		False
+4940568	177	1016265	0	Illinois Freedom Alliance		2026-03-10 00:00:00	449	449	1529 46th Ave		Moline	IL	61201     	6B	Reimbursement			False	False	True		False
 4940569	14556	1016266	0	Kidd	Melvin	2026-05-01 00:00:00	120	240	10001	Michigan	Chicago	IL	60628     	8B	Cleaning			False	False	False		False
 4940570	14556	1016266	0	Kidd	Melvin	2026-06-05 00:00:00	120	240	10001	Michigan	Chicago	IL	60628     	8B	Cleaning fee			False	False	False		False
 4940571	14556	1016266	0	SKY LAKE		2026-04-01 00:00:00	868	868	10258 S. STATE ST		CHGO	IL	60628     	8B	Campaign Meals			False	False	False		False
@@ -345626,25 +345626,25 @@
 4940591	40739	1016267	0	Neighbors for Andre		2026-06-29 00:00:00	10000	10000	6115 Ravenswood Ave		Chicago	IL	60660     	6B	Return of contribution			False	False	False		False
 4940592	40739	1016267	0	Timberlanes		2026-06-02 00:00:00	600	600	1851 W Irving Park Rd		Chicago	IL	60613     	8B	Event			False	False	False		False
 4940593	24049	1016268	0	Peoria County Republican Central Commitee		2026-06-02 00:00:00	2000	2000	8835 Knoxville Ave	Suite 8	Peoria	IL	61615     	6B	Contribution			False	False	False		False
-4940594	177	1016269	0	T-Mobile		2026-04-03 00:00:00	60.59	367.83	PO Box 742596		Cincinnati	OH	45274-2596	8B	Internet access			False	False	False		False
-4940595	177	1016269	0	T-Mobile		2026-04-17 00:00:00	62.1	367.83	PO Box 742596		Cincinnati	OH	45274-2596	8B	Phone			False	False	False		False
-4940596	177	1016269	0	T-Mobile		2026-05-04 00:00:00	60.59	367.83	PO Box 742596		Cincinnati	OH	45274-2596	8B	Internet access			False	False	False		False
-4940597	177	1016269	0	T-Mobile		2026-05-18 00:00:00	62.1	367.83	PO Box 742596		Cincinnati	OH	45274-2596	8B	Phone			False	False	False		False
-4940598	177	1016269	0	T-Mobile		2026-06-03 00:00:00	60.35	367.83	PO Box 742596		Cincinnati	OH	45274-2596	8B	Internet access			False	False	False		False
-4940599	177	1016269	0	T-Mobile		2026-06-17 00:00:00	62.1	367.83	PO Box 742596		Cincinnati	OH	45274-2596	8B	Phone			False	False	False		False
-4940600	177	1016269	0	Prompt.io Inc.		2026-04-28 00:00:00	740	740	14419 Greenwood Ave N	A-373	Seattle	WA	98133     	8B	Phone bank			False	False	False		False
-4940601	177	1016269	0	D. Joseph Sons & Associates Real Estate Co.		2026-04-01 00:00:00	500	1500	5001 N. University		Peoria	IL	61614     	8B	Rent			False	False	False		False
-4940602	177	1016269	0	D. Joseph Sons & Associates Real Estate Co.		2026-05-01 00:00:00	500	1500	5001 N. University		Peoria	IL	61614     	8B	Rent			False	False	False		False
-4940603	177	1016269	0	D. Joseph Sons & Associates Real Estate Co.		2026-06-01 00:00:00	500	1500	5001 N. University		Peoria	IL	61614     	8B	Rent			False	False	False		False
-4940604	177	1016269	0	Digital Copy Systems		2026-04-20 00:00:00	87.75	196.66	1619 W. Altorfer Dr.		Peoria	IL	61615     	8B	Printing			False	False	False		False
-4940605	177	1016269	0	Digital Copy Systems		2026-05-20 00:00:00	65.46	196.66	1619 W. Altorfer Dr.		Peoria	IL	61615     	8B	Printing			False	False	False		False
-4940606	177	1016269	0	Digital Copy Systems		2026-06-22 00:00:00	43.45	196.66	1619 W. Altorfer Dr.		Peoria	IL	61615     	8B	Printing			False	False	False		False
-4940607	177	1016269	0	SurusDH LLC		2026-04-10 00:00:00	1458.33	3541.66	10 E. Scranton Avenue	Suite 302	Lake Bluff	IL	60044     	8B	Contractual			False	False	False		False
-4940608	177	1016269	0	SurusDH LLC		2026-05-11 00:00:00	1458.33	3541.66	10 E. Scranton Avenue	Suite 302	Lake Bluff	IL	60044     	8B	Contractual			False	False	False		False
-4940609	177	1016269	0	SurusDH LLC		2026-06-10 00:00:00	625	3541.66	10 E. Scranton Avenue	Suite 302	Lake Bluff	IL	60044     	8B	Contractual			False	False	False		False
-4940610	177	1016269	0	Ameren Illinois		2026-04-14 00:00:00	527.41	1255.55	PO Box 66884		StLouis	MO	63166     	8B	Utilities			False	False	False		False
-4940611	177	1016269	0	Ameren Illinois		2026-05-15 00:00:00	381.07	1255.55	PO Box 66884		StLouis	MO	63166     	8B	Utilities			False	False	False		False
-4940612	177	1016269	0	Ameren Illinois		2026-06-15 00:00:00	347.07	1255.55	PO Box 66884		StLouis	MO	63166     	8B	Utilities			False	False	False		False
+4940594	177	1016269	0	T-Mobile		2026-04-03 00:00:00	60.59	367.83	PO Box 742596		Cincinnati	OH	45274-2596	8B	Internet access			False	False	True		False
+4940595	177	1016269	0	T-Mobile		2026-04-17 00:00:00	62.1	367.83	PO Box 742596		Cincinnati	OH	45274-2596	8B	Phone			False	False	True		False
+4940596	177	1016269	0	T-Mobile		2026-05-04 00:00:00	60.59	367.83	PO Box 742596		Cincinnati	OH	45274-2596	8B	Internet access			False	False	True		False
+4940597	177	1016269	0	T-Mobile		2026-05-18 00:00:00	62.1	367.83	PO Box 742596		Cincinnati	OH	45274-2596	8B	Phone			False	False	True		False
+4940598	177	1016269	0	T-Mobile		2026-06-03 00:00:00	60.35	367.83	PO Box 742596		Cincinnati	OH	45274-2596	8B	Internet access			False	False	True		False
+4940599	177	1016269	0	T-Mobile		2026-06-17 00:00:00	62.1	367.83	PO Box 742596		Cincinnati	OH	45274-2596	8B	Phone			False	False	True		False
+4940600	177	1016269	0	Prompt.io Inc.		2026-04-28 00:00:00	740	740	14419 Greenwood Ave N	A-373	Seattle	WA	98133     	8B	Phone bank			False	False	True		False
+4940601	177	1016269	0	D. Joseph Sons & Associates Real Estate Co.		2026-04-01 00:00:00	500	1500	5001 N. University		Peoria	IL	61614     	8B	Rent			False	False	True		False
+4940602	177	1016269	0	D. Joseph Sons & Associates Real Estate Co.		2026-05-01 00:00:00	500	1500	5001 N. University		Peoria	IL	61614     	8B	Rent			False	False	True		False
+4940603	177	1016269	0	D. Joseph Sons & Associates Real Estate Co.		2026-06-01 00:00:00	500	1500	5001 N. University		Peoria	IL	61614     	8B	Rent			False	False	True		False
+4940604	177	1016269	0	Digital Copy Systems		2026-04-20 00:00:00	87.75	196.66	1619 W. Altorfer Dr.		Peoria	IL	61615     	8B	Printing			False	False	True		False
+4940605	177	1016269	0	Digital Copy Systems		2026-05-20 00:00:00	65.46	196.66	1619 W. Altorfer Dr.		Peoria	IL	61615     	8B	Printing			False	False	True		False
+4940606	177	1016269	0	Digital Copy Systems		2026-06-22 00:00:00	43.45	196.66	1619 W. Altorfer Dr.		Peoria	IL	61615     	8B	Printing			False	False	True		False
+4940607	177	1016269	0	SurusDH LLC		2026-04-10 00:00:00	1458.33	3541.66	10 E. Scranton Avenue	Suite 302	Lake Bluff	IL	60044     	8B	Contractual			False	False	True		False
+4940608	177	1016269	0	SurusDH LLC		2026-05-11 00:00:00	1458.33	3541.66	10 E. Scranton Avenue	Suite 302	Lake Bluff	IL	60044     	8B	Contractual			False	False	True		False
+4940609	177	1016269	0	SurusDH LLC		2026-06-10 00:00:00	625	3541.66	10 E. Scranton Avenue	Suite 302	Lake Bluff	IL	60044     	8B	Contractual			False	False	True		False
+4940610	177	1016269	0	Ameren Illinois		2026-04-14 00:00:00	527.41	1255.55	PO Box 66884		StLouis	MO	63166     	8B	Utilities			False	False	True		False
+4940611	177	1016269	0	Ameren Illinois		2026-05-15 00:00:00	381.07	1255.55	PO Box 66884		StLouis	MO	63166     	8B	Utilities			False	False	True		False
+4940612	177	1016269	0	Ameren Illinois		2026-06-15 00:00:00	347.07	1255.55	PO Box 66884		StLouis	MO	63166     	8B	Utilities			False	False	True		False
 4940613	38729	1016272	0	Google		2026-04-01 00:00:00	84.42	253.11	1600 Amphitheatre Pkwy		Mountain View	CA	94043     	8B	Digital Services			False	False	False		False
 4940614	38729	1016272	0	Google		2026-05-04 00:00:00	84.39	253.11	1600 Amphitheatre Pkwy		Mountain View	CA	94043     	8B	Digital Services			False	False	False		False
 4940615	38729	1016272	0	Google		2026-06-02 00:00:00	84.3	253.11	1600 Amphitheatre Pkwy		Mountain View	CA	94043     	8B	Digital Services			False	False	False		False
@@ -352057,8 +352057,8 @@
 4947022	1065	1022661	0	Friends of Jared Ploger		2026-09-22 00:00:00	1000	1000	513 South 3rd Street		Geneva	IL	60134     	6B	Contribution			False	False	False		False
 4947023	40650	1022662	0	Lemar		2026-07-10 00:00:00	537.5	537.5	15255 S 94th Ave	Suite 201	Orland park	IL	60462     	8B	Advertising - television			False	False	False		False
 4947024	40650	1022662	0	Sign on the Cheap		2026-08-28 00:00:00	332.62	332.62	11525 A Stonehallow Dr	Suite 120	Austin	TX	78758     	8B	Signs			False	False	False		False
-4947025	41397	1022664	0	PostNet IL133		2026-09-24 00:00:00	1687.5	2184.9	36 N. Cass Ave		Westmont	IL	60559     	8B	Yard signs			False	False	False		False
-4947026	41397	1022664	0	PostNet IL133		2026-09-29 00:00:00	497.4	2184.9	36 N. Cass Ave		Westmont	IL	60559     	8B	Printing			False	False	False		False
+4947025	41397	1022664	0	PostNet IL133		2026-09-24 00:00:00	1687.5	2184.9	36 N. Cass Ave		Westmont	IL	60559     	8B	Yard signs			False	False	True		False
+4947026	41397	1022664	0	PostNet IL133		2026-09-29 00:00:00	497.4	2184.9	36 N. Cass Ave		Westmont	IL	60559     	8B	Printing			False	False	True		False
 4947027	39955	1022666	0	Weber CPA		2026-07-02 00:00:00	562.5	562.5	600 E Lincoln Highway	Suite C&D	New Lenox	IL	60451     	8B	Accounting fees			False	False	False		False
 4947028	39955	1022666	0	VFW  5788		2026-09-09 00:00:00	200	200	1026 E 9th Street		Lockport	IL	60441     	8B	Fund raising - hall rental			False	False	False		False
 4947029	6588	1022667	0	IL BOE		2026-09-17 00:00:00	750.85	750.85	2329 S MacArthur Blvd		Springfield	IL	62704     	8B	Civil penalties			False	False	False		False
@@ -358395,13 +358395,13 @@
 4953360	21616	1024487	0	Will County Board Democratic Caucus		2026-09-29 00:00:00	1000	1000	P.O. Box 9317		Naperville	IL	60567     	6B	Contribution			False	False	False		False
 4953361	21616	1024487	0	Friends of Michele Clark		2026-09-29 00:00:00	1000	1000	P.O. Box 7203		Algonquin	IL	60102     	6B	Contribution			False	False	False		False
 4953362	21616	1024487	0	Citizens For Suzanne Ness		2026-09-29 00:00:00	1000	1000	P.O. Box 2633		Crystal Lake	IL	60014     	6B	Contribution			False	False	False		False
-4953363	40825	1024491	0	Dabrowski	Ted	2026-07-08 00:00:00	8000	8000	901 Oakwood Ave.		Wilmette	IL	60091     	8B	Campaign staff			False	False	False		False
-4953364	40825	1024491	0	Google Workspace		2026-07-02 00:00:00	134	402	1600 Amphitheatre Parkway		Mountain View	CA	94043     	8B	Computer - software			False	False	False		False
-4953365	40825	1024491	0	Google Workspace		2026-08-03 00:00:00	134	402	1600 Amphitheatre Parkway		Mountain View	CA	94043     	8B	Computer - software			False	False	False		False
-4953366	40825	1024491	0	Google Workspace		2026-09-02 00:00:00	134	402	1600 Amphitheatre Parkway		Mountain View	CA	94043     	8B	Computer - software			False	False	False		False
-4953367	40825	1024491	0	Wintrust Bank		2026-07-16 00:00:00	91.5	194.5	1145 Wilmette Avenue		Wilmette	IL	60091     	8B	Bank charges			False	False	False		False
-4953368	40825	1024491	0	Wintrust Bank		2026-08-17 00:00:00	51.5	194.5	1145 Wilmette Avenue		Wilmette	IL	60091     	8B	Bank charges			False	False	False		False
-4953369	40825	1024491	0	Wintrust Bank		2026-09-16 00:00:00	51.5	194.5	1145 Wilmette Avenue		Wilmette	IL	60091     	8B	Bank charges			False	False	False		False
+4953363	40825	1024491	0	Dabrowski	Ted	2026-07-08 00:00:00	8000	8000	901 Oakwood Ave.		Wilmette	IL	60091     	8B	Campaign staff			False	False	True		False
+4953364	40825	1024491	0	Google Workspace		2026-07-02 00:00:00	134	402	1600 Amphitheatre Parkway		Mountain View	CA	94043     	8B	Computer - software			False	False	True		False
+4953365	40825	1024491	0	Google Workspace		2026-08-03 00:00:00	134	402	1600 Amphitheatre Parkway		Mountain View	CA	94043     	8B	Computer - software			False	False	True		False
+4953366	40825	1024491	0	Google Workspace		2026-09-02 00:00:00	134	402	1600 Amphitheatre Parkway		Mountain View	CA	94043     	8B	Computer - software			False	False	True		False
+4953367	40825	1024491	0	Wintrust Bank		2026-07-16 00:00:00	91.5	194.5	1145 Wilmette Avenue		Wilmette	IL	60091     	8B	Bank charges			False	False	True		False
+4953368	40825	1024491	0	Wintrust Bank		2026-08-17 00:00:00	51.5	194.5	1145 Wilmette Avenue		Wilmette	IL	60091     	8B	Bank charges			False	False	True		False
+4953369	40825	1024491	0	Wintrust Bank		2026-09-16 00:00:00	51.5	194.5	1145 Wilmette Avenue		Wilmette	IL	60091     	8B	Bank charges			False	False	True		False
 4953370	34823	1024492	0	Peoria County Republican Central Committee		2026-09-22 00:00:00	3924.66	3924.66	8835 N Knoxville Ave, Ste 8		Peoria	IL	61615     	6B	Contribution			False	False	False		False
 4953371	34823	1024492	0	Friends of Ryan Spain		2026-09-22 00:00:00	500	500	PO Box 1575		Peoria	IL	61655     	6B	Contribution			False	False	False		False
 4953372	34823	1024492	0	Friends of Travis Weaver		2026-09-22 00:00:00	500	500	4213 W Thistlewood Ct		Dunlap	IL	61525     	6B	Contribution			False	False	False		False
@@ -397422,3 +397422,273 @@
 4992386	37086	1028125	0	ActBlue		2026-07-22 00:00:00	5.93	256.3	366 Summer Street		Somerville	MA	02144     	8B	Bank charges			False	False	False		False
 4992387	37086	1028125	0	ActBlue		2026-07-15 00:00:00	39.52	256.3	366 Summer Street		Somerville	MA	02144     	8B	Bank charges			False	False	False		False
 4992388	37086	1028125	0	Orange Hat Innovation LLC		2026-09-28 00:00:00	10000	10000	2615 W Ainslie St, #2E		Chicago	IL	60625     	8B	Digital Media			False	False	False		False
+4992389	25491	1028142	0	NewsBank		2024-05-10 00:00:00	1200	1200	5801 Pelican Bay Blvd, Ste 600		Naples	FL	34108     	7B	Loan Made			False	False	False		False
+4992390	22709	1028143	0	Validus		2024-10-24 00:00:00	33670	33670	1400 Patriot Boulevard	#946	Glenview	IL	60025     	8B	Advertising - television			False	False	False		False
+4992391	22709	1028147	0	Illinois Evening Republican Club		2025-04-09 00:00:00	935.49	935.49	PO Box 5041		Springfield	IL	62705     	8B	Donation			False	False	False		False
+4992392	39493	1028157	0	Decalogue Society		2026-07-13 00:00:00	275	275	10 N Dearborn St	Suite 418	Chicago	IL	60602     	8B	Donation			False	False	False		False
+4992393	39493	1028157	0	Maine Township Democrats		2026-09-22 00:00:00	250	250	790 Lee St.,	Suite 1	Des Plaines,	IL	60010     	6B	Contribution			False	False	False		False
+4992394	39493	1028157	0	Advocates Society		2026-07-13 00:00:00	150	520	400 E Randolph Street,	Suite 3115	Chicago	IL	60601     	8B	Donation			False	False	False		False
+4992395	39493	1028157	0	Advocates Society		2026-07-13 00:00:00	20	520	400 E Randolph Street,	Suite 3115	Chicago	IL	60601     	8B	Donation			False	False	False		False
+4992396	39493	1028157	0	Advocates Society		2026-09-22 00:00:00	350	520	400 E Randolph Street,	Suite 3115	Chicago	IL	60601     	8B	Donation			False	False	False		False
+4992397	33986	1028164	0	Davis	Maurice & Hollee	2026-10-19 00:00:00	2300	2300	517 Saginaw Ave		Calumet City	IL	60409     	8B	Principal payment, Davis			False	False	False		False
+4992398	41476	1028166	0	Awesome Campaigns Inc		2026-10-02 00:00:00	1500	0	1220 St. Charles St		Elgin	IL	60120-8445	9B	Lawn signs	Jerry Cook	Regional Superintendent of Schools	True	False	False		False
+4992399	40608	1028168	0	Mullen Law Firm		2026-09-08 00:00:00	7375	7375	1142 W Pratt Blvd	#3S	Chicago	IL	60626     	8B	Legal fees			False	False	False		False
+4992400	41397	1028176	0	PostNet IL133		2026-09-24 00:00:00	1687.5	2184.9	36 N. Cass Ave		Westmont	IL	60559     	8B	Yard signs			False	False	False		False
+4992401	41397	1028176	0	PostNet IL133		2026-09-29 00:00:00	497.4	2184.9	36 N. Cass Ave		Westmont	IL	60559     	8B	Printing			False	False	False		False
+4992402	40825	1028184	0	Quickbooks		2026-06-29 00:00:00	38	153.75	2700 Coast Avenue		Mountain View	CA	94043     	8B	Accounting Software			False	False	False		False
+4992403	40825	1028184	0	Wintrust Bank		2026-06-16 00:00:00	91.5	183	1145 Wilmette Avenue		Wilmette	IL	60091     	8B	Bank charges			False	False	False		False
+4992404	40825	1028184	0	Banuelos	Brauilio	2026-06-11 00:00:00	680	1060	Unknown		Sandwich	IL	60548     	8B	Contractual			False	False	False		False
+4992405	40825	1028184	0	Banuelos	Brauilio	2026-06-11 00:00:00	380	1060	Unknown		Sandwich	IL	60548     	8B	Contractual			False	False	False		False
+4992406	40825	1028184	0	Google Workspace		2026-06-06 00:00:00	134	402	1600 Amphitheatre Parkway		Mountain View	CA	94043     	8B	Computer - software			False	False	False		False
+4992407	40825	1028184	0	WXAN-AM		2026-05-28 00:00:00	240	240	603 South Kellogg Street		Galesburg	IL	61401     	8B	Advertising - radio			False	False	False		False
+4992408	40825	1028184	0	Quickbooks		2026-05-28 00:00:00	38	153.75	2700 Coast Avenue		Mountain View	CA	94043     	8B	Computer - software			False	False	False		False
+4992409	40825	1028184	0	Wintrust Bank		2026-05-15 00:00:00	91.5	183	1145 Wilmette Avenue		Wilmette	IL	60091     	8B	Bank charges			False	False	False		False
+4992410	40825	1028184	0	Google Workspace		2026-05-04 00:00:00	134	402	1600 Amphitheatre Parkway		Mountain View	CA	94043     	8B	Computer - software			False	False	False		False
+4992411	40825	1028184	0	1701 Lake LLC		2026-05-01 00:00:00	1952	1952	2835 N SHEFFIELD STE 217		CHICAGO	IL	60657     	8B	Rent			False	False	False		False
+4992412	40825	1028184	0	Uber Technologies, Inc.		2026-04-30 00:00:00	14.94	168.34	1515 3rd Street		San Francisco	CA	94158     	8B	Transportation			False	False	False		False
+4992413	40825	1028184	0	Uber Technologies, Inc.		2026-04-29 00:00:00	42.37	168.34	1515 3rd Street		San Francisco	CA	94158     	8B	Transportation			False	False	False		False
+4992414	40825	1028184	0	Uber Technologies, Inc.		2026-04-29 00:00:00	10.72	168.34	1515 3rd Street		San Francisco	CA	94158     	8B	Transportation			False	False	False		False
+4992415	40825	1028184	0	Uber Technologies, Inc.		2026-04-29 00:00:00	9.93	168.34	1515 3rd Street		San Francisco	CA	94158     	8B	Transportation			False	False	False		False
+4992416	40825	1028184	0	Quickbooks		2026-04-28 00:00:00	77.75	153.75	2700 Coast Avenue		Mountain View	CA	94043     	8B	Computer - software			False	False	False		False
+4992417	40825	1028184	0	Uber Technologies, Inc.		2026-04-28 00:00:00	12.99	168.34	1515 3rd Street		San Francisco	CA	94158     	8B	Transportation			False	False	False		False
+4992418	40825	1028184	0	Uber Technologies, Inc.		2026-04-28 00:00:00	2	168.34	1515 3rd Street		San Francisco	CA	94158     	8B	Transportation			False	False	False		False
+4992419	40825	1028184	0	Uber Technologies, Inc.		2026-04-28 00:00:00	2	168.34	1515 3rd Street		San Francisco	CA	94158     	8B	Transportation			False	False	False		False
+4992420	40825	1028184	0	Uber Technologies, Inc.		2026-04-27 00:00:00	19.96	168.34	1515 3rd Street		San Francisco	CA	94158     	8B	Transportation			False	False	False		False
+4992421	40825	1028184	0	Uber Technologies, Inc.		2026-04-27 00:00:00	19.95	168.34	1515 3rd Street		San Francisco	CA	94158     	8B	Transportation			False	False	False		False
+4992422	40825	1028184	0	Uber Technologies, Inc.		2026-04-27 00:00:00	16.97	168.34	1515 3rd Street		San Francisco	CA	94158     	8B	Transportation			False	False	False		False
+4992423	40825	1028184	0	Uber Technologies, Inc.		2026-04-27 00:00:00	12.51	168.34	1515 3rd Street		San Francisco	CA	94158     	8B	Transportation			False	False	False		False
+4992424	40825	1028184	0	Uber Technologies, Inc.		2026-04-27 00:00:00	4	168.34	1515 3rd Street		San Francisco	CA	94158     	8B	Transportation			False	False	False		False
+4992425	40825	1028184	0	Encore AV Rentals		2026-04-24 00:00:00	8761.92	8761.92	38167 Airport Parkway		Willoughby	OH	44094     	8B	Audio-visual rental			False	False	False		False
+4992426	40825	1028184	0	Schmidt	Julie	2026-05-11 00:00:00	2000	4000	8458 Gardens Cir	Apt. 9	Sarasota	FL	34243     	8B	Accounting Services			False	False	False		False
+4992427	40825	1028184	0	Siwicki	Brian	2026-04-21 00:00:00	1000	1000	572 Clark St		Hinkley	IL	60520     	8B	Contractual			False	False	False		False
+4992428	40825	1028184	0	Klingner	John	2026-04-22 00:00:00	6000	13400	1484 Quaker Ln		Prospect Heights	IL	60070     	8B	Campaign staff			False	False	False		False
+4992429	40825	1028184	0	Anderson	Desi	2026-04-22 00:00:00	5500	13000	233 Denman Rd.		Carlock	IL	61725     	8B	Campaign staff			False	False	False		False
+4992430	40825	1028184	0	Amazon.com, Inc.		2026-04-01 00:00:00	899.51	899.51	410 Terry Avenue North		Seattle	WA	98109     	8B	Promotional items			False	False	False		False
+4992431	40825	1028184	0	Westin O'Hare Hotel		2026-04-01 00:00:00	1187.29	1187.29	6100 N River Rd		Rosemont	IL	60018     	8B	Party - staff			False	False	False		False
+4992432	40825	1028184	0	Trump Hotel		2026-04-01 00:00:00	586.25	586.25	401 N. Wabash Avenue		Chicago	IL	60611     	8B	Various			False	False	False		False
+4992433	40825	1028184	0	Hexatrope Creative Studios		2026-04-22 00:00:00	650	650	979 Hodgins Rd		Van Alstyne	TX	75495     	8B	Computer - services			False	False	False		False
+4992434	40825	1028184	0	Anderson	Desi	2026-04-01 00:00:00	7500	13000	233 Denman Rd.		Carlock	IL	61725     	8B	Campaign staff			False	False	False		False
+4992435	40825	1028184	0	EG Strategies		2026-04-01 00:00:00	5000	5000	21 E. Huron Street	Unit 1201	Chicago,	IL	60611     	8B	Fundraising Consulting			False	False	False		False
+4992436	40825	1028184	0	Sweeney	Susan	2026-04-01 00:00:00	3123.14	3123.14	1747 Park Ridge Pointe		Park Ridge	IL	60068     	8B	Campaign staff			False	False	False		False
+4992437	40825	1028184	0	Schmidt	Julie	2026-04-01 00:00:00	2000	4000	8458 Gardens Cir	Apt. 9	Sarasota	FL	34243     	8B	Accounting Services			False	False	False		False
+4992438	40825	1028184	0	Rotkis	Colleen	2026-04-01 00:00:00	5374.5	5374.5	13203 Ione St.		Plainfield	IL	60585     	8B	Campaign staff			False	False	False		False
+4992439	40825	1028184	0	Schnek	Cynthia	2026-04-01 00:00:00	3712.12	3712.12	2416 N IL 23		Marengo	IL	60152     	8B	Campaign staff			False	False	False		False
+4992440	40825	1028184	0	Heinz	Otto	2026-04-01 00:00:00	2500	2500	2S764 Timber Drive		Warrenville	IL	60555     	8B	Campaign staff			False	False	False		False
+4992441	40825	1028184	0	McEleney	Conner	2026-04-01 00:00:00	880	880	7117 Agatite Ave		Norridge	IL	60706     	8B	Field Work			False	False	False		False
+4992442	40825	1028184	0	Kearney	Tracy	2026-04-01 00:00:00	6400	6400	816 E Glenwood Rd.		Glenview	IL	60025     	8B	Campaign staff			False	False	False		False
+4992443	40825	1028184	0	Klingner	John	2026-04-01 00:00:00	7400	13400	1484 Quaker Ln		Prospect Heights	IL	60070     	8B	Campaign staff			False	False	False		False
+4992444	40825	1028184	0	Korte	Jennifer	2026-04-01 00:00:00	3697.2	3697.2	15 Primrose Ln		Trenton	IL	62293     	8B	Campaign staff			False	False	False		False
+4992445	40825	1028184	0	Bresnahan	John	2026-04-01 00:00:00	3283.39	3283.39	1131 Vernon Dr.		Glenview	IL	60025     	8B	Campaign staff			False	False	False		False
+4992446	40825	1028184	0	Partington	Brady	2026-04-01 00:00:00	690	690	685 Partridge Place		Dixon	IL	61021     	8B	Field Work			False	False	False		False
+4992447	40825	1028184	0	Nextsulting, LLC		2026-04-02 00:00:00	900	900	222 W Merchandise Mart Plaza	Ste 1212	Chicago	IL	60654     	8B	Campaign Consulting			False	False	False		False
+4992448	40825	1028184	0	Google Workspace		2026-04-02 00:00:00	134	402	1600 Amphitheatre Parkway		Mountain View	CA	94043     	8B	Productivity Software			False	False	False		False
+4992449	40825	1028184	0	McVey	Traeton	2026-04-03 00:00:00	360	360	1121 IL 167		Oneida	IL	61467     	8B	Field Work			False	False	False		False
+4992450	40825	1028184	0	News Reporting, Inc.		2026-04-10 00:00:00	900	900	20 N. Clark Street	Suite 3300	Chicago	IL	60602     	8B	Advertising - newspaper			False	False	False		False
+4992451	40825	1028184	0	i360		2026-04-10 00:00:00	1852.42	1852.42	2300 Clarendon Blvd, Suite 800		Arlington	VA	22201     	8B	Voter Data			False	False	False		False
+4992452	40825	1028184	0	McGinn	Christopher	2026-04-16 00:00:00	4140	4140	252 Nordic Rd		Bloomingdale	IL	60108     	8B	Field Work			False	False	False		False
+4992453	40825	1028184	0	North Shore Community Bank & Trust		2026-04-16 00:00:00	1763.75	1763.75	1145 Wilmette Ave		Wilmette	IL	60091     	8B	Bank charges			False	False	False		False
+4992454	40825	1028184	0	Mendoza	Carrie	2026-04-23 00:00:00	10563.82	10563.82	756 Glencoe dr		Glencoe	IL	60022     	8B	Expenses - Mileage, Meals, Transportation, Lodging, Tolls			False	False	False		False
+4992455	40825	1028185	0	Google Workspace		2026-07-02 00:00:00	134	402	1600 Amphitheatre Parkway		Mountain View	CA	94043     	8B	Computer - software			False	False	False		False
+4992456	40825	1028185	0	Wintrust Bank		2026-07-16 00:00:00	91.5	194.5	1145 Wilmette Avenue		Wilmette	IL	60091     	8B	Bank charges			False	False	False		False
+4992457	40825	1028185	0	Google Workspace		2026-08-03 00:00:00	134	402	1600 Amphitheatre Parkway		Mountain View	CA	94043     	8B	Computer - software			False	False	False		False
+4992458	40825	1028185	0	Wintrust Bank		2026-08-17 00:00:00	51.5	194.5	1145 Wilmette Avenue		Wilmette	IL	60091     	8B	Bank charges			False	False	False		False
+4992459	40825	1028185	0	Google Workspace		2026-09-02 00:00:00	134	402	1600 Amphitheatre Parkway		Mountain View	CA	94043     	8B	Computer - software			False	False	False		False
+4992460	40825	1028185	0	Wintrust Bank		2026-09-16 00:00:00	51.5	194.5	1145 Wilmette Avenue		Wilmette	IL	60091     	8B	Bank charges			False	False	False		False
+4992461	40825	1028185	0	Dabrowski	Ted	2026-07-08 00:00:00	8000	8000	901 Oakwood Ave.		Wilmette	IL	60091     	8B	Expenses - Mileage, Meals, Transportation, Lodging, Tolls			False	False	False		False
+4992462	41204	1028228	0	Link Media Outdoor		2026-08-10 00:00:00	1042.72	1042.72	2050 S MacArthur		Springfield	IL	62704     	8B	Billboard			False	False	False		False
+4992463	41288	1028241	0	Navigate Campaigns		2026-10-21 00:00:00	11458.22	0	1328 Florida Ave NW		Washington	DC	20009     	9B	Direct mail	Marc Parker	Circuit Judge Madison 3rd Judicial Circuit	True	False	False		False
+4992464	177	1028249	0	Digital Copy Systems		2025-07-25 00:00:00	344.86	526.99	1619 W. Altorfer Dr.		Peoria	IL	61615     	8B	Printing			False	False	False		False
+4992465	177	1028249	0	Digital Copy Systems		2025-08-26 00:00:00	58.54	526.99	1619 W. Altorfer Dr.		Peoria	IL	61615     	8B	Printing			False	False	False		False
+4992466	177	1028249	0	Digital Copy Systems		2025-09-26 00:00:00	123.59	526.99	1619 W. Altorfer Dr.		Peoria	IL	61615     	8B	Printing			False	False	False		False
+4992467	177	1028249	0	Comcast		2025-07-10 00:00:00	475.94	1344.92	3517 N. Dries Lane		Peoria	IL	61604     	8B	Internet access			False	False	False		False
+4992468	177	1028249	0	Comcast		2025-08-11 00:00:00	424.26	1344.92	3517 N. Dries Lane		Peoria	IL	61604     	8B	Internet access			False	False	False		False
+4992469	177	1028249	0	Comcast		2025-09-10 00:00:00	444.72	1344.92	3517 N. Dries Lane		Peoria	IL	61604     	8B	Internet access			False	False	False		False
+4992470	177	1028249	0	Ameren Illinois		2025-07-14 00:00:00	233.29	791.23	PO Box 66884		StLouis	MO	63166     	8B	Utilities			False	False	False		False
+4992471	177	1028249	0	Ameren Illinois		2025-08-11 00:00:00	210.57	791.23	PO Box 66884		StLouis	MO	63166     	8B	Utilities			False	False	False		False
+4992472	177	1028249	0	Ameren Illinois		2025-09-15 00:00:00	347.37	791.23	PO Box 66884		StLouis	MO	63166     	8B	Utilities			False	False	False		False
+4992473	177	1028249	0	SurusDH LLC		2025-07-10 00:00:00	1478.33	4434.99	10 E. Scranton Avenue	Suite 302	Lake Bluff	IL	60044     	8B	Contractual			False	False	False		False
+4992474	177	1028249	0	SurusDH LLC		2025-08-11 00:00:00	1478.33	4434.99	10 E. Scranton Avenue	Suite 302	Lake Bluff	IL	60044     	8B	Contractual			False	False	False		False
+4992475	177	1028249	0	SurusDH LLC		2025-09-10 00:00:00	1478.33	4434.99	10 E. Scranton Avenue	Suite 302	Lake Bluff	IL	60044     	8B	Contractual			False	False	False		False
+4992476	177	1028249	0	Walmart		2025-07-02 00:00:00	228.43	263.44	3315 N University		Peoria	IL	61604     	8B	Food			False	False	False		False
+4992477	177	1028249	0	Walmart		2025-09-19 00:00:00	22.28	263.44	3315 N University		Peoria	IL	61604     	8B	Office supplies			False	False	False		False
+4992478	177	1028249	0	Walmart		2025-09-19 00:00:00	12.73	263.44	3315 N University		Peoria	IL	61604     	8B	Office supplies			False	False	False		False
+4992479	177	1028249	0	NationBuilder		2025-09-04 00:00:00	35.98	304.01	PO Box 811428		Los Angeles	CA	90081     	8B	Accounting fees			False	False	False		False
+4992480	177	1028249	0	NationBuilder		2025-09-10 00:00:00	37.74	304.01	PO Box 811428		Los Angeles	CA	90081     	8B	Accounting fees			False	False	False		False
+4992481	177	1028249	0	NationBuilder		2025-07-08 00:00:00	58.3	304.01	PO Box 811428		Los Angeles	CA	90081     	8B	Accounting fees			False	False	False		False
+4992482	177	1028249	0	NationBuilder		2025-09-17 00:00:00	7.26	304.01	PO Box 811428		Los Angeles	CA	90081     	8B	Accounting fees			False	False	False		False
+4992483	177	1028249	0	NationBuilder		2025-08-27 00:00:00	120	304.01	PO Box 811428		Los Angeles	CA	90081     	8B	Accounting fees			False	False	False		False
+4992484	177	1028249	0	NationBuilder		2025-09-08 00:00:00	44.73	304.01	PO Box 811428		Los Angeles	CA	90081     	8B	Accounting fees			False	False	False		False
+4992485	177	1028249	0	D. Joseph Sons & Associates Real Estate Co.		2025-09-01 00:00:00	800	2400	5001 N. University		Peoria	IL	61614     	8B	Rent			False	False	False		False
+4992486	177	1028249	0	D. Joseph Sons & Associates Real Estate Co.		2025-07-01 00:00:00	800	2400	5001 N. University		Peoria	IL	61614     	8B	Rent			False	False	False		False
+4992487	177	1028249	0	D. Joseph Sons & Associates Real Estate Co.		2025-08-01 00:00:00	800	2400	5001 N. University		Peoria	IL	61614     	8B	Rent			False	False	False		False
+4992488	177	1028250	0	U. S. Postal Service		2025-11-04 00:00:00	195.2	195.2	95 State Street		Peoria	IL	61601-9900	8B	Postage			False	False	False		False
+4992489	177	1028250	0	Digital Copy Systems		2025-11-20 00:00:00	84.37	238.63	1619 W. Altorfer Dr.		Peoria	IL	61615     	8B	Printing			False	False	False		False
+4992490	177	1028250	0	Digital Copy Systems		2025-10-24 00:00:00	69.93	238.63	1619 W. Altorfer Dr.		Peoria	IL	61615     	8B	Printing			False	False	False		False
+4992491	177	1028250	0	Digital Copy Systems		2025-12-22 00:00:00	84.33	238.63	1619 W. Altorfer Dr.		Peoria	IL	61615     	8B	Printing			False	False	False		False
+4992492	177	1028250	0	Comcast		2025-11-10 00:00:00	445.55	1493.14	3517 N. Dries Lane		Peoria	IL	61604     	8B	Internet access			False	False	False		False
+4992493	177	1028250	0	Comcast		2025-10-10 00:00:00	444.72	1493.14	3517 N. Dries Lane		Peoria	IL	61604     	8B	Internet access			False	False	False		False
+4992494	177	1028250	0	Comcast		2025-12-10 00:00:00	602.87	1493.14	3517 N. Dries Lane		Peoria	IL	61604     	8B	Internet access			False	False	False		False
+4992495	177	1028250	0	Ameren Illinois		2025-11-12 00:00:00	270.23	831.73	PO Box 66884		StLouis	MO	63166     	8B	Utilities			False	False	False		False
+4992496	177	1028250	0	Ameren Illinois		2025-10-14 00:00:00	304.55	831.73	PO Box 66884		StLouis	MO	63166     	8B	Utilities			False	False	False		False
+4992497	177	1028250	0	Ameren Illinois		2025-12-12 00:00:00	256.95	831.73	PO Box 66884		StLouis	MO	63166     	8B	Utilities			False	False	False		False
+4992498	177	1028250	0	SurusDH LLC		2025-11-10 00:00:00	1478.33	5684.99	10 E. Scranton Avenue	Suite 302	Lake Bluff	IL	60044     	8B	Contractual			False	False	False		False
+4992499	177	1028250	0	SurusDH LLC		2025-10-10 00:00:00	1478.33	5684.99	10 E. Scranton Avenue	Suite 302	Lake Bluff	IL	60044     	8B	Contractual			False	False	False		False
+4992500	177	1028250	0	SurusDH LLC		2025-12-10 00:00:00	1478.33	5684.99	10 E. Scranton Avenue	Suite 302	Lake Bluff	IL	60044     	8B	Contractual			False	False	False		False
+4992501	177	1028250	0	SurusDH LLC		2025-12-12 00:00:00	1250	5684.99	10 E. Scranton Avenue	Suite 302	Lake Bluff	IL	60044     	8B	Campaign Work			False	False	False		False
+4992502	177	1028250	0	T-Mobile		2025-12-03 00:00:00	164.25	235.85	PO Box 742596		Cincinnati	OH	45274-2596	8B	Phone			False	False	False		False
+4992503	177	1028250	0	T-Mobile		2025-12-17 00:00:00	71.6	235.85	PO Box 742596		Cincinnati	OH	45274-2596	8B	Internet access			False	False	False		False
+4992504	177	1028250	0	Garber Heating & Cooling		2025-10-29 00:00:00	182.27	182.27	310 Detroit Ave		Morton	IL	61550     	8B	Equipment - maintenance			False	False	False		False
+4992505	177	1028250	0	Simmons Little Johnnies		2025-11-24 00:00:00	490.5	490.5	10534 Churchill Drive		Peoria	IL	61615     	8B	Equipment - rental			False	False	False		False
+4992506	177	1028250	0	Sam's Club		2025-11-20 00:00:00	325.17	325.17	4100 W Willow Knolls Drive		Peoria	IL	61615     	8B	Supplies			False	False	False		False
+4992507	177	1028250	0	D. Joseph Sons & Associates Real Estate Co.		2025-11-01 00:00:00	500	1500	5001 N. University		Peoria	IL	61614     	8B	Rent			False	False	False		False
+4992508	177	1028250	0	D. Joseph Sons & Associates Real Estate Co.		2025-10-01 00:00:00	500	1500	5001 N. University		Peoria	IL	61614     	8B	Rent			False	False	False		False
+4992509	177	1028250	0	D. Joseph Sons & Associates Real Estate Co.		2025-12-01 00:00:00	500	1500	5001 N. University		Peoria	IL	61614     	8B	Rent			False	False	False		False
+4992510	177	1028251	0	Digital Copy Systems		2026-01-20 00:00:00	28.65	272.99	1619 W. Altorfer Dr.		Peoria	IL	61615     	8B	Printing			False	False	False		False
+4992511	177	1028251	0	Digital Copy Systems		2026-02-23 00:00:00	45.95	272.99	1619 W. Altorfer Dr.		Peoria	IL	61615     	8B	Printing			False	False	False		False
+4992512	177	1028251	0	Digital Copy Systems		2026-03-20 00:00:00	198.39	272.99	1619 W. Altorfer Dr.		Peoria	IL	61615     	8B	Printing			False	False	False		False
+4992513	177	1028251	0	Ameren Illinois		2026-01-12 00:00:00	252.21	1081.34	PO Box 66884		StLouis	MO	63166     	8B	Utilities			False	False	False		False
+4992514	177	1028251	0	Ameren Illinois		2026-02-10 00:00:00	407.45	1081.34	PO Box 66884		StLouis	MO	63166     	8B	Utilities			False	False	False		False
+4992515	177	1028251	0	Ameren Illinois		2026-03-16 00:00:00	421.68	1081.34	PO Box 66884		StLouis	MO	63166     	8B	Utilities			False	False	False		False
+4992516	177	1028251	0	Illinois Freedom Alliance		2026-03-10 00:00:00	449	449	1529 46th Ave		Moline	IL	61201     	6B	Reimbursement			False	False	False		False
+4992517	177	1028251	0	SurusDH LLC		2026-03-10 00:00:00	1478.33	8434.99	10 E. Scranton Avenue	Suite 302	Lake Bluff	IL	60044     	8B	Contractual			False	False	False		False
+4992518	177	1028251	0	SurusDH LLC		2026-01-12 00:00:00	1478.33	8434.99	10 E. Scranton Avenue	Suite 302	Lake Bluff	IL	60044     	8B	Contractual			False	False	False		False
+4992519	177	1028251	0	SurusDH LLC		2026-01-07 00:00:00	4000	8434.99	10 E. Scranton Avenue	Suite 302	Lake Bluff	IL	60044     	8B	Campaign Work			False	False	False		False
+4992520	177	1028251	0	SurusDH LLC		2026-02-10 00:00:00	1478.33	8434.99	10 E. Scranton Avenue	Suite 302	Lake Bluff	IL	60044     	8B	Contractual			False	False	False		False
+4992521	177	1028251	0	T-Mobile		2026-01-20 00:00:00	61.6	424.53	PO Box 742596		Cincinnati	OH	45274-2596	8B	Internet access			False	False	False		False
+4992522	177	1028251	0	T-Mobile		2026-01-05 00:00:00	119.1	424.53	PO Box 742596		Cincinnati	OH	45274-2596	8B	Utilities			False	False	False		False
+4992523	177	1028251	0	T-Mobile		2026-02-03 00:00:00	59.54	424.53	PO Box 742596		Cincinnati	OH	45274-2596	8B	Phone			False	False	False		False
+4992524	177	1028251	0	T-Mobile		2026-02-17 00:00:00	61.6	424.53	PO Box 742596		Cincinnati	OH	45274-2596	8B	Internet access			False	False	False		False
+4992525	177	1028251	0	T-Mobile		2026-03-17 00:00:00	62.1	424.53	PO Box 742596		Cincinnati	OH	45274-2596	8B	Phone			False	False	False		False
+4992526	177	1028251	0	T-Mobile		2026-03-03 00:00:00	60.59	424.53	PO Box 742596		Cincinnati	OH	45274-2596	8B	Internet access			False	False	False		False
+4992527	177	1028251	0	Google "GSuite"		2026-03-23 00:00:00	252	252	1600 Amphitheatre Parkway		Mountain VIEW	CA	94043     	8B	Subscription			False	False	False		False
+4992528	177	1028251	0	D. Joseph Sons & Associates Real Estate Co.		2026-03-01 00:00:00	500	1500	5001 N. University		Peoria	IL	61614     	8B	Rent			False	False	False		False
+4992529	177	1028251	0	D. Joseph Sons & Associates Real Estate Co.		2026-01-01 00:00:00	500	1500	5001 N. University		Peoria	IL	61614     	8B	Rent			False	False	False		False
+4992530	177	1028251	0	D. Joseph Sons & Associates Real Estate Co.		2026-02-01 00:00:00	500	1500	5001 N. University		Peoria	IL	61614     	8B	Rent			False	False	False		False
+4992531	177	1028255	0	Digital Copy Systems		2026-04-20 00:00:00	87.75	196.66	1619 W. Altorfer Dr.		Peoria	IL	61615     	8B	Printing			False	False	False		False
+4992532	177	1028255	0	Digital Copy Systems		2026-05-20 00:00:00	65.46	196.66	1619 W. Altorfer Dr.		Peoria	IL	61615     	8B	Printing			False	False	False		False
+4992533	177	1028255	0	Digital Copy Systems		2026-06-22 00:00:00	43.45	196.66	1619 W. Altorfer Dr.		Peoria	IL	61615     	8B	Printing			False	False	False		False
+4992534	177	1028255	0	Ameren Illinois		2026-04-14 00:00:00	527.41	1255.55	PO Box 66884		StLouis	MO	63166     	8B	Utilities			False	False	False		False
+4992535	177	1028255	0	Ameren Illinois		2026-05-15 00:00:00	381.07	1255.55	PO Box 66884		StLouis	MO	63166     	8B	Utilities			False	False	False		False
+4992536	177	1028255	0	Ameren Illinois		2026-06-15 00:00:00	347.07	1255.55	PO Box 66884		StLouis	MO	63166     	8B	Utilities			False	False	False		False
+4992537	177	1028255	0	SurusDH LLC		2026-04-10 00:00:00	1458.33	3541.66	10 E. Scranton Avenue	Suite 302	Lake Bluff	IL	60044     	8B	Contractual			False	False	False		False
+4992538	177	1028255	0	SurusDH LLC		2026-05-11 00:00:00	1458.33	3541.66	10 E. Scranton Avenue	Suite 302	Lake Bluff	IL	60044     	8B	Contractual			False	False	False		False
+4992539	177	1028255	0	SurusDH LLC		2026-06-10 00:00:00	625	3541.66	10 E. Scranton Avenue	Suite 302	Lake Bluff	IL	60044     	8B	Contractual			False	False	False		False
+4992540	177	1028255	0	T-Mobile		2026-04-03 00:00:00	60.59	367.83	PO Box 742596		Cincinnati	OH	45274-2596	8B	Internet access			False	False	False		False
+4992541	177	1028255	0	T-Mobile		2026-04-17 00:00:00	62.1	367.83	PO Box 742596		Cincinnati	OH	45274-2596	8B	Phone			False	False	False		False
+4992542	177	1028255	0	T-Mobile		2026-05-04 00:00:00	60.59	367.83	PO Box 742596		Cincinnati	OH	45274-2596	8B	Internet access			False	False	False		False
+4992543	177	1028255	0	T-Mobile		2026-05-18 00:00:00	62.1	367.83	PO Box 742596		Cincinnati	OH	45274-2596	8B	Phone			False	False	False		False
+4992544	177	1028255	0	T-Mobile		2026-06-03 00:00:00	60.35	367.83	PO Box 742596		Cincinnati	OH	45274-2596	8B	Internet access			False	False	False		False
+4992545	177	1028255	0	T-Mobile		2026-06-17 00:00:00	62.1	367.83	PO Box 742596		Cincinnati	OH	45274-2596	8B	Phone			False	False	False		False
+4992546	177	1028255	0	Prompt.io Inc.		2026-04-28 00:00:00	740	740	14419 Greenwood Ave N	A-373	Seattle	WA	98133     	8B	Phone bank			False	False	False		False
+4992547	177	1028255	0	D. Joseph Sons & Associates Real Estate Co.		2026-04-01 00:00:00	500	1500	5001 N. University		Peoria	IL	61614     	8B	Rent			False	False	False		False
+4992548	177	1028255	0	D. Joseph Sons & Associates Real Estate Co.		2026-05-01 00:00:00	500	1500	5001 N. University		Peoria	IL	61614     	8B	Rent			False	False	False		False
+4992549	177	1028255	0	D. Joseph Sons & Associates Real Estate Co.		2026-06-01 00:00:00	500	1500	5001 N. University		Peoria	IL	61614     	8B	Rent			False	False	False		False
+4992550	177	1028259	0	Digital Copy Systems		2026-07-20 00:00:00	74.24	212.81	1619 W. Altorfer Dr.		Peoria	IL	61615     	8B	Printing			False	False	False		False
+4992551	177	1028259	0	Digital Copy Systems		2026-08-20 00:00:00	11.92	212.81	1619 W. Altorfer Dr.		Peoria	IL	61615     	8B	Printing			False	False	False		False
+4992552	177	1028259	0	Digital Copy Systems		2026-09-21 00:00:00	126.65	212.81	1619 W. Altorfer Dr.		Peoria	IL	61615     	8B	Printing			False	False	False		False
+4992553	177	1028259	0	Ameren Illinois		2026-07-13 00:00:00	203.01	662.94	PO Box 66884		StLouis	MO	63166     	8B	Utilities			False	False	False		False
+4992554	177	1028259	0	Ameren Illinois		2026-08-11 00:00:00	198.02	662.94	PO Box 66884		StLouis	MO	63166     	8B	Utilities			False	False	False		False
+4992555	177	1028259	0	Ameren Illinois		2026-09-14 00:00:00	261.91	662.94	PO Box 66884		StLouis	MO	63166     	8B	Utilities			False	False	False		False
+4992556	177	1028259	0	American Family Insurance		2026-09-08 00:00:00	651	651	PO Box 0001		Madison	WI	53777-0001	8B	Insurance			False	False	False		False
+4992557	177	1028259	0	Kroger's		2026-07-10 00:00:00	98.97	190.75	9419 N. Lindbergh		Peoria	IL	61615     	8B	Food			False	False	False		False
+4992558	177	1028259	0	Kroger's		2026-07-10 00:00:00	75.34	190.75	9419 N. Lindbergh		Peoria	IL	61615     	8B	Food			False	False	False		False
+4992559	177	1028259	0	Kroger's		2026-07-13 00:00:00	8.88	190.75	9419 N. Lindbergh		Peoria	IL	61615     	8B	Food			False	False	False		False
+4992560	177	1028259	0	Kroger's		2026-07-13 00:00:00	7.56	190.75	9419 N. Lindbergh		Peoria	IL	61615     	8B	Food			False	False	False		False
+4992561	177	1028259	0	Peoria Tazewell Lincoln Day Dinner PAC		2026-07-29 00:00:00	1075	2875	8835 Knoxville Ave Suite 8		Peoria	IL	61615     	6B	Contribution			False	False	False		False
+4992562	177	1028259	0	Peoria Tazewell Lincoln Day Dinner PAC		2026-09-08 00:00:00	1800	2875	8835 Knoxville Ave Suite 8		Peoria	IL	61615     	6B	Contribution			False	False	False		False
+4992563	177	1028259	0	SurusDH LLC		2026-07-10 00:00:00	625	1875	10 E. Scranton Avenue	Suite 302	Lake Bluff	IL	60044     	8B	Contractual			False	False	False		False
+4992564	177	1028259	0	SurusDH LLC		2026-08-10 00:00:00	625	1875	10 E. Scranton Avenue	Suite 302	Lake Bluff	IL	60044     	8B	Contractual			False	False	False		False
+4992565	177	1028259	0	SurusDH LLC		2026-09-10 00:00:00	625	1875	10 E. Scranton Avenue	Suite 302	Lake Bluff	IL	60044     	8B	Contractual			False	False	False		False
+4992566	177	1028259	0	Coleman Printing Company		2026-09-11 00:00:00	157.31	157.31	1105 E War Memorial Dr.		Peoria Heights	IL	61616     	8B	Printing			False	False	False		False
+4992567	177	1028259	0	T-Mobile		2026-07-03 00:00:00	60.35	367.59	PO Box 742596		Cincinnati	OH	45274-2596	8B	Internet access			False	False	False		False
+4992568	177	1028259	0	T-Mobile		2026-07-17 00:00:00	62.1	367.59	PO Box 742596		Cincinnati	OH	45274-2596	8B	Phone			False	False	False		False
+4992569	177	1028259	0	T-Mobile		2026-08-03 00:00:00	60.35	367.59	PO Box 742596		Cincinnati	OH	45274-2596	8B	Internet access			False	False	False		False
+4992570	177	1028259	0	T-Mobile		2026-08-17 00:00:00	62.1	367.59	PO Box 742596		Cincinnati	OH	45274-2596	8B	Phone			False	False	False		False
+4992571	177	1028259	0	T-Mobile		2026-09-03 00:00:00	60.59	367.59	PO Box 742596		Cincinnati	OH	45274-2596	8B	Internet access			False	False	False		False
+4992572	177	1028259	0	T-Mobile		2026-09-17 00:00:00	62.1	367.59	PO Box 742596		Cincinnati	OH	45274-2596	8B	Phone			False	False	False		False
+4992573	177	1028259	0	NationBuilder		2026-08-31 00:00:00	1.75	180.73	PO Box 811428		Los Angeles	CA	90081     	8B	Accounting fees			False	False	False		False
+4992574	177	1028259	0	NationBuilder		2026-07-02 00:00:00	0.59	180.73	PO Box 811428		Los Angeles	CA	90081     	8B	Accounting fees			False	False	False		False
+4992575	177	1028259	0	NationBuilder		2026-07-03 00:00:00	0.88	180.73	PO Box 811428		Los Angeles	CA	90081     	8B	Accounting fees			False	False	False		False
+4992576	177	1028259	0	NationBuilder		2026-07-06 00:00:00	1.18	180.73	PO Box 811428		Los Angeles	CA	90081     	8B	Accounting fees			False	False	False		False
+4992577	177	1028259	0	NationBuilder		2026-07-08 00:00:00	4.11	180.73	PO Box 811428		Los Angeles	CA	90081     	8B	Accounting fees			False	False	False		False
+4992578	177	1028259	0	NationBuilder		2026-07-21 00:00:00	0.88	180.73	PO Box 811428		Los Angeles	CA	90081     	8B	Accounting fees			False	False	False		False
+4992579	177	1028259	0	NationBuilder		2026-07-22 00:00:00	1.18	180.73	PO Box 811428		Los Angeles	CA	90081     	8B	Accounting fees			False	False	False		False
+4992580	177	1028259	0	NationBuilder		2026-07-27 00:00:00	0.59	180.73	PO Box 811428		Los Angeles	CA	90081     	8B	Accounting fees			False	False	False		False
+4992581	177	1028259	0	NationBuilder		2026-07-28 00:00:00	0.88	180.73	PO Box 811428		Los Angeles	CA	90081     	8B	Accounting fees			False	False	False		False
+4992582	177	1028259	0	NationBuilder		2026-08-03 00:00:00	0.59	180.73	PO Box 811428		Los Angeles	CA	90081     	8B	Accounting fees			False	False	False		False
+4992583	177	1028259	0	NationBuilder		2026-08-05 00:00:00	2.06	180.73	PO Box 811428		Los Angeles	CA	90081     	8B	Accounting fees			False	False	False		False
+4992584	177	1028259	0	NationBuilder		2026-08-06 00:00:00	3.78	180.73	PO Box 811428		Los Angeles	CA	90081     	8B	Accounting fees			False	False	False		False
+4992585	177	1028259	0	NationBuilder		2026-08-07 00:00:00	1.76	180.73	PO Box 811428		Los Angeles	CA	90081     	8B	Accounting fees			False	False	False		False
+4992586	177	1028259	0	NationBuilder		2026-08-10 00:00:00	2.35	180.73	PO Box 811428		Los Angeles	CA	90081     	8B	Accounting fees			False	False	False		False
+4992587	177	1028259	0	NationBuilder		2026-08-12 00:00:00	7.26	180.73	PO Box 811428		Los Angeles	CA	90081     	8B	Accounting fees			False	False	False		False
+4992588	177	1028259	0	NationBuilder		2026-08-18 00:00:00	0.88	180.73	PO Box 811428		Los Angeles	CA	90081     	8B	Accounting fees			False	False	False		False
+4992589	177	1028259	0	NationBuilder		2026-08-19 00:00:00	1.47	180.73	PO Box 811428		Los Angeles	CA	90081     	8B	Accounting fees			False	False	False		False
+4992590	177	1028259	0	NationBuilder		2026-08-24 00:00:00	0.59	180.73	PO Box 811428		Los Angeles	CA	90081     	8B	Accounting fees			False	False	False		False
+4992591	177	1028259	0	NationBuilder		2026-08-25 00:00:00	3.78	180.73	PO Box 811428		Los Angeles	CA	90081     	8B	Accounting fees			False	False	False		False
+4992592	177	1028259	0	NationBuilder		2026-08-26 00:00:00	6.28	180.73	PO Box 811428		Los Angeles	CA	90081     	8B	Accounting fees			False	False	False		False
+4992593	177	1028259	0	NationBuilder		2026-08-28 00:00:00	5.14	180.73	PO Box 811428		Los Angeles	CA	90081     	8B	Accounting fees			False	False	False		False
+4992594	177	1028259	0	NationBuilder		2026-09-01 00:00:00	1.75	180.73	PO Box 811428		Los Angeles	CA	90081     	8B	Accounting fees			False	False	False		False
+4992595	177	1028259	0	NationBuilder		2026-09-02 00:00:00	6.71	180.73	PO Box 811428		Los Angeles	CA	90081     	8B	Accounting fees			False	False	False		False
+4992596	177	1028259	0	NationBuilder		2026-09-03 00:00:00	35.98	180.73	PO Box 811428		Los Angeles	CA	90081     	8B	Accounting fees			False	False	False		False
+4992597	177	1028259	0	NationBuilder		2026-09-04 00:00:00	0.59	180.73	PO Box 811428		Los Angeles	CA	90081     	8B	Accounting fees			False	False	False		False
+4992598	177	1028259	0	NationBuilder		2026-09-09 00:00:00	15.7	180.73	PO Box 811428		Los Angeles	CA	90081     	8B	Accounting fees			False	False	False		False
+4992599	177	1028259	0	NationBuilder		2026-09-10 00:00:00	48.54	180.73	PO Box 811428		Los Angeles	CA	90081     	8B	Accounting fees			False	False	False		False
+4992600	177	1028259	0	NationBuilder		2026-09-11 00:00:00	8.15	180.73	PO Box 811428		Los Angeles	CA	90081     	8B	Accounting fees			False	False	False		False
+4992601	177	1028259	0	NationBuilder		2026-09-15 00:00:00	0.59	180.73	PO Box 811428		Los Angeles	CA	90081     	8B	Accounting fees			False	False	False		False
+4992602	177	1028259	0	NationBuilder		2026-09-16 00:00:00	10.92	180.73	PO Box 811428		Los Angeles	CA	90081     	8B	Accounting fees			False	False	False		False
+4992603	177	1028259	0	NationBuilder		2026-09-21 00:00:00	0.88	180.73	PO Box 811428		Los Angeles	CA	90081     	8B	Accounting fees			False	False	False		False
+4992604	177	1028259	0	NationBuilder		2026-09-23 00:00:00	0.59	180.73	PO Box 811428		Los Angeles	CA	90081     	8B	Accounting fees			False	False	False		False
+4992605	177	1028259	0	NationBuilder		2026-09-25 00:00:00	0.59	180.73	PO Box 811428		Los Angeles	CA	90081     	8B	Accounting fees			False	False	False		False
+4992606	177	1028259	0	NationBuilder		2026-09-28 00:00:00	0.88	180.73	PO Box 811428		Los Angeles	CA	90081     	8B	Accounting fees			False	False	False		False
+4992607	177	1028259	0	NationBuilder		2026-07-16 00:00:00	0.88	180.73	PO Box 811428		Los Angeles	CA	90081     	8B	Accounting fees			False	False	False		False
+4992608	177	1028259	0	D. Joseph Sons & Associates Real Estate Co.		2026-07-01 00:00:00	500	1500	5001 N. University		Peoria	IL	61614     	8B	Rent			False	False	False		False
+4992609	177	1028259	0	D. Joseph Sons & Associates Real Estate Co.		2026-08-01 00:00:00	500	1500	5001 N. University		Peoria	IL	61614     	8B	Rent			False	False	False		False
+4992610	177	1028259	0	D. Joseph Sons & Associates Real Estate Co.		2026-09-01 00:00:00	500	1500	5001 N. University		Peoria	IL	61614     	8B	Rent			False	False	False		False
+4992611	177	1028259	0	Signarama		2026-09-28 00:00:00	347.15	347.15	710 Western Ave		Lombard	IL	60148     	8B	Signs			False	False	False		False
+4992612	177	1028259	0	Enlow	John	2026-09-21 00:00:00	700	700	109 Cypress Ave		Morton	IL	61550     	8B	Fund raising - entertainment			False	False	False		False
+4992613	41012	1028263	0	Thematic Campaigns		2026-10-19 00:00:00	395521.43	0	1720 W Division St		Chicago	IL	60622     	9B	Digital Ad	Hilario Dominguez	Chicago Board of Education President	False	True	False		False
+4992614	41012	1028263	0	Thematic Campaigns		2026-10-19 00:00:00	395521.43	0	1720 W Division St		Chicago	IL	60622     	9B	Digital Ad	Jessica Biggs	Chicago Board of Education President	True	False	False		False
+4992615	41012	1028263	0	Thematic Campaigns		2026-10-19 00:00:00	20000	0	1720 W Division St		Chicago	IL	60622     	9B	Digital Ad	Carlos Rivas	Chicago Board of Education 3B	True	False	False		False
+4992616	41012	1028263	0	Thematic Campaigns		2026-10-19 00:00:00	14074.5	0	1720 W Division St		Chicago	IL	60622     	9B	Digital Ad	Kyna Lenhof	Chicago Board of Education 2B	True	False	False		False
+4992617	41012	1028263	0	Thematic Campaigns		2026-10-19 00:00:00	14074.5	0	1720 W Division St		Chicago	IL	60622     	9B	Digital Ad	Patrick Watson	Chicago Board of Education 10B	True	False	False		False
+4992618	41012	1028263	0	Thematic Campaigns		2026-10-19 00:00:00	24000	0	1720 W Division St		Chicago	IL	60622     	9B	Digital Ad	LaPamela Williams	Chicago Board of Education 5A	True	False	False		False
+4992619	41012	1028263	0	Thematic Campaigns		2026-10-19 00:00:00	34000	0	1720 W Division St		Chicago	IL	60622     	9B	Digital Ad	Isaiah White	Chicago Board of Education 6A	True	False	False		False
+4992620	41012	1028263	0	TKO Buying LLC		2026-10-19 00:00:00	15000	0	2800 Abilene Drive		Chevy Chase	MD	20815     	9B	Digital Ad	Ed Bannon	Chicago Board of Education 1A	False	True	False		False
+4992621	41012	1028263	0	TKO Buying LLC		2026-10-19 00:00:00	8670	0	2800 Abilene Drive		Chevy Chase	MD	20815     	9B	Digital Ad	Michelle Pierre	Chicago Board of Education 1B	True	False	False		False
+4992622	41012	1028263	0	TKO Buying LLC		2026-10-19 00:00:00	16830	0	2800 Abilene Drive		Chevy Chase	MD	20815     	9B	Digital Ad	Claudia Peralta	Chicago Board of Education 1B	False	True	False		False
+4992623	41012	1028263	0	TKO Buying LLC		2026-10-19 00:00:00	8670	0	2800 Abilene Drive		Chevy Chase	MD	20815     	9B	Digital Ad	Pete Gonzales	Chicago Board of Education 3A	True	False	False		False
+4992624	41012	1028263	0	TKO Buying LLC		2026-10-19 00:00:00	16830	0	2800 Abilene Drive		Chevy Chase	MD	20815     	9B	Digital Ad	Norma Rios-Sierra	Chicago Board of Education 3A	False	True	False		False
+4992625	41012	1028263	0	TKO Buying LLC		2026-10-19 00:00:00	8670	0	2800 Abilene Drive		Chevy Chase	MD	20815     	9B	Digital Ad	Anthony Hargrove	Chicago Board of Education 5B	True	False	False		False
+4992626	41012	1028263	0	TKO Buying LLC		2026-10-19 00:00:00	16830	0	2800 Abilene Drive		Chevy Chase	MD	20815     	9B	Digital Ad	Michilla Blaise	Chicago Board of Education 5B	False	True	False		False
+4992627	41012	1028263	0	TKO Buying LLC		2026-10-19 00:00:00	8670	0	2800 Abilene Drive		Chevy Chase	MD	20815     	9B	Digital Ad	Jesus Ayala	Chicago Board of Education 7A	True	False	False		False
+4992628	41012	1028263	0	TKO Buying LLC		2026-10-19 00:00:00	16830	0	2800 Abilene Drive		Chevy Chase	MD	20815     	9B	Digital Ad	Emma Lozano	Chicago Board of Education 7A	False	True	False		False
+4992629	41012	1028263	0	TKO Buying LLC		2026-10-19 00:00:00	15000	0	2800 Abilene Drive		Chevy Chase	MD	20815     	9B	Digital Ad	Therese Boyle	Chicago Board of Education 9B	True	False	False		False
+4992630	38952	1028274	0	American Stewardship Initiative		2026-09-10 00:00:00	2061.08	2061.08	613 S Fairview Ave		Park Ridge	IL	60068     	6B	final transfer to non-profit			False	False	False		False
+4992631	39901	1028278	0	Validus		2026-10-19 00:00:00	3146.53	0	1400 Patriot Blvd		Glenview	IL	60025     	9B	MMS Text Messaging	Margie Luczak	Chicago School Board	True	False	False		False
+4992632	39901	1028278	0	Validus		2026-10-19 00:00:00	2495.21	0	1400 Patriot Blvd		Glenview	IL	60025     	9B	MMS Text M	Michelle Pierre	Chicago School Board	True	False	False		False
+4992633	39901	1028278	0	Validus		2026-10-19 00:00:00	2280.87	0	1400 Patriot Blvd		Glenview	IL	60025     	9B	MMS Text Messaging	Peter Gonzales	Chicago School Board	True	False	False		False
+4992634	39901	1028278	0	Validus		2026-10-19 00:00:00	2240.84	0	1400 Patriot Blvd		Glenview	IL	60025     	9B	MMS Text Messaging	Anthony Hargrove	Chicago School Board	True	False	False		False
+4992635	39901	1028278	0	Validus		2026-10-19 00:00:00	2835.26	0	1400 Patriot Blvd		Glenview	IL	60025     	9B	MMS Text Messaging	Isaiah White	Chicago School Board	True	False	False		False
+4992636	39901	1028278	0	Validus		2026-10-19 00:00:00	2349.95	0	1400 Patriot Blvd		Glenview	IL	60025     	9B	MMS Text Messaging	Jesus Ayala, Jr.	Chicago School Board	True	False	False		False
+4992637	39901	1028278	0	Validus		2026-10-19 00:00:00	2695.1	0	1400 Patriot Blvd		Glenview	IL	60025     	9B	MMS Text Messaging	Erika Diaz-Chavez	Chicago School Board	True	False	False		False
+4992638	39901	1028278	0	Validus		2026-10-19 00:00:00	2485.29	0	1400 Patriot Blvd		Glenview	IL	60025     	9B	MMS Text Messaging	Patrick Watson	Chicago School Board	True	False	False		False
+4992639	39901	1028278	0	Validus		2026-10-20 00:00:00	23250	0	1400 Patriot Blvd		Glenview	IL	60025     	9B	Digital Adversiting	Margie Luczak	Chicago School Board	True	False	False		False
+4992640	39901	1028278	0	Validus		2026-10-20 00:00:00	33500	0	1400 Patriot Blvd		Glenview	IL	60025     	9B	Digitial Advertising	Erika Diaz-Chavez	Chicago School Board	True	False	False		False
+4992641	39901	1028278	0	Validus		2026-10-20 00:00:00	23250	0	1400 Patriot Blvd		Glenview	IL	60025     	9B	Digital Advertising	Ed Bannon	Chicago School Board	False	True	False		False
+4992642	39901	1028278	0	Validus		2026-10-20 00:00:00	33500	0	1400 Patriot Blvd		Glenview	IL	60025     	9B	Digital Advertising	Yesenia Lopez	Chicago School Board	False	True	False		False
+4992643	39901	1028278	0	Validus		2026-10-19 00:00:00	2004.25	0	1400 Patriot Blvd		Glenview	IL	60025     	9B	MMS Text Messaging	Carlos Rivas	Chicago School Board	True	False	False		False
+4992644	39901	1028278	0	Validus		2026-10-19 00:00:00	2165.4	0	1400 Patriot Blvd		Glenview	IL	60025     	9B	MMS Text Messaging	LaPamela Williams	Chicago School Board	True	False	False		False
+4992645	279	1028280	0	Illinois Democratic County Chairmen's Assn		2026-07-23 00:00:00	105	2105	PO Box 3445		Springfield	IL	62704     	6B	purchase of 3 seats at IDCCA brunch			False	False	False		False
+4992646	279	1028280	0	Illinois Democratic County Chairmen's Assn		2026-07-23 00:00:00	100	2105	PO Box 3445		Springfield	IL	62704     	6B	Purchase 2 50/50 raffle sales			False	False	False		False
+4992647	279	1028280	0	Illinois Democratic County Chairmen's Assn		2026-08-24 00:00:00	1500	2105	PO Box 3445		Springfield	IL	62704     	8B	Contribution			False	False	False		False
+4992648	279	1028280	0	Illinois Democratic County Chairmen's Assn		2026-09-03 00:00:00	400	2105	PO Box 3445		Springfield	IL	62704     	8B	Purchase of 200 vote blue signs			False	False	False		False
+4992649	279	1028280	0	Journal Publications		2026-07-17 00:00:00	50	774.5	PO Box 100		Hillsboro	IL	62049     	8B	America's 250 ad buy			False	False	False		False
+4992650	279	1028280	0	Journal Publications		2026-07-24 00:00:00	50	774.5	PO Box 100		Hillsboro	IL	62049     	8B	Local campaign ad for newspaper			False	False	False		False
+4992651	279	1028280	0	Journal Publications		2026-08-19 00:00:00	238.5	774.5	PO Box 100		Hillsboro	IL	62049     	8B	Campaign ad for newspaper			False	False	False		False
+4992652	279	1028280	0	Journal Publications		2026-08-21 00:00:00	436	774.5	PO Box 100		Hillsboro	IL	62049     	8B	Campaign ad for newspaper			False	False	False		False
+4992653	279	1028280	0	AB Compuprint		2026-08-18 00:00:00	1560	1560	550 S. Dirksen Parkway		Springfield	IL	62703     	8B	Campaign materials			False	False	False		False
+4992654	279	1028280	0	Oriental Trading		2026-08-11 00:00:00	174.83	174.83	5455 S 90th St		Omaha	NE	68137     	8B	Purchase  of parade candy			False	False	False		False
+4992655	279	1028280	0	DeLuca	Bill	2026-07-21 00:00:00	500	500	2505 Court Street		Pekin	IL	61554     	8B	July raffle winner			False	False	False		False
+4992656	279	1028280	0	Burgess	Sally	2026-08-24 00:00:00	500	500	6366 Cedar Lane		Edwardsville	IL	62025     	8B	August raffle winner			False	False	False		False
+4992657	279	1028280	0	Macoupin County Democrats		2026-09-16 00:00:00	300	300	PO Box 8		Bunker Hill	IL	62014     	6B	Unity Dinner			False	False	False		False
+4992658	279	1028280	0	Matthews	Joyce	2026-09-16 00:00:00	500	500	PO Box 189		Nokomis	IL	62025     	8B	September raffle winner			False	False	False		False

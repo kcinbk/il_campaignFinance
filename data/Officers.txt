@@ -17932,6 +17932,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 16153	Eldridge	Debbie L	624 Buchanan St		Benton	IL	62812     	Treasurer	                    	False
 23837	Eldridge	Glenda			Jacksonville	IL	62650     	Treasurer	NONE                	False
 23838	Eldridge	Glenda			Jacksonville	IL	62650     	Chair	NONE                	False
+100614	Eldridge	Kimberly	4747 Lincoln Mall Drive	Ste 501	Matteson	IL	60443     	Chair	224.224.2798        	False
 29079	Eldridge	Steve	12844 Cold Springs		Huntley	IL	60142     	Co-Chair	847/515-7575        	False
 1262	Eldridge	Thelma	R.R.1 Box 101-a		Greenview	IL	62642     	Treasurer	                    	False
 13168	Eli	Stephen	Route 1   Box 543		Johnston City	IL	62951     	Chair	618/983-8250        	False
@@ -19642,6 +19643,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 9239	Fischer	Mary	1627 Vollbrecht Drive		S Holland	IL	60473     	Chair	                    	False
 9240	Fischer	Mary	1627 Vollbrecht Drive		S Holland	IL	60473     	Treasurer	                    	False
 98415	Fischer	Matthew	PO Box 20		Morton	IL	61550     	Treasurer	309.251.6642        	False
+100611	Fischer	Melissa	1931 W. Melrose St.		Chicago	IL	60657     	Treasurer	312.860.8142        	False
 48837	Fischer	Nicole	26026 W Laurel Ave		Wauconda	IL	60084     	Treasurer	847/415-4419        	False
 15119	Fischer	Patricia	7704 S. Menard		Burbank	IL	60459     	Treasurer	(708)424-2431       	False
 97821	Fischer	Robert	303 N. County Line Road		Hinsdale	IL	60521     	Chair	630.536.4121        	False
@@ -25850,7 +25852,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 24966	Hankison	Linda	777 Markland		Salem	IL	62881     	Chair	548-8202            	False
 12113	Hankley	Robert	Rr 2, Box292		Athens	IL	62613     	Treasurer	636-8045            	False
 48378	Hanks	David A	1791 E 223rd Pl		Sauk Village	IL	60411     	Chair	                    	False
-99716	Hanks	Jenny	201 East City Limits Rd		Brighton	IL	62012     	Treasurer	618-541-4247        	False
+99716	Hanks	Jenny	6669 Miles Station Rd		Shipman	IL	62685     	Treasurer	618-541-4247        	False
 11657	Hanks	Ron	708 W. Buttersweet		Chicago	IL	60613     	Chair	(312)477-7923       	False
 77217	Hanley	Charles	909 South 17th Street		Pekin	IL	61554     	Chair	309.613.0447        	False
 77218	Hanley	Charles	909 South 17th Street		Pekin	IL	61554     	Treasurer	309.613.0447        	False
@@ -27655,6 +27657,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 28873	Henrici	Ron	8638 Callie Ave		Morton Grove	IL	60053     	Chair		False
 3211	Henrickson	Lance	611 S. Milwaukee		Libertyville	IL	60048     	Treasurer	(708)362-9195       	False
 23729	Henriksen	John C	1115 S Second St		Springfield	IL	62704     	Treasurer	217/241-1639        	False
+100609	Henrikson	Johan	33 Allens Ave.		Galesburg	IL	61401     	Treasurer	309.335.5232        	False
 80415	Henry	Ann	6842 N Stonecrest Ct		Peoria	IL	61615     	Chair	309.361.4844        	False
 29601	Henry	Beryl	22336 Ridgeway Ave		Richton Park	Il	60471     	Chair	(708)747-5075       	False
 100089	Henry	Bill	2944 120th Ave.		Viola	IL	61486     	Chair	309.507.3134        	False
@@ -29723,6 +29726,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 86492	Hudson	Bonnie	2103 Creek Court		De Kalb	IL	60115     	Treasurer	815.756.9302        	False
 10560	Hudson	Caroline J.	4842 South Drexel		Chicago	IL	60615     	Treasurer	493-3609/624-8336   	False
 19152	Hudson	Erika R	441 5th St		Lincoln	IL	62656     	Treasurer	                    	False
+100615	Hudson	Francita	4747 Lincoln Mall Drive	Ste 501	Matteson	IL	60443     	Treasurer	708.374.4520        	False
 24230	Hudson	George Ray	8112 Woodcreek Ct		Downers Grove	IL	60516     	Chair	630/285-2299        	False
 83353	Hudson	Jason	611 Roosevelt Dr		Oswego	IL	60543     	Chair	630.346.6194        	False
 37453	Hudson	Jim	537 Sumner St		Carlingville	IL	62626     	Chair	217/854-3133        	False
@@ -44805,6 +44809,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 27833	Moffitt	Donald L	1006 Knox Hwy 17		Gilson	IL	61436     	Chair	309/289-6521        	False
 48467	Moffitt	Ron	702 SW 2nd St		Aledo	IL	61231     	Chair	309.582.7453        	False
 19878	Moga	Robert	49 W 330 Scott Rd.		Big Rock	IL	60511     	Chair	                    	False
+100616	Mogan	Michael	3440 N. Elston Ave., Unit G3		Chicago	IL	60618     	Chair	773.799.8477        	False
+100617	Mogan	Michael	3440 N. Elston Ave., Unit G3		Chicago	IL	60618     	Treasurer	773.799.8477        	False
 48986	Mogge	Patrick	850 W Jackson Blvd, Ste 330		Chicago	IL	60607-3025	Chair	312/626-2596        	False
 17566	Mogged	Jan	5201 37th Ave Ct		Moline	IL	61265     	Treasurer	                    	False
 33704	Mogged	Patricia	130 E Walnut	Box 61	Piper City	IL	60959     	Treasurer	815-686-2335        	False
@@ -45442,6 +45448,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 4928	Morgan	Donald R.	New Rt 13 East		Murphysboro	IL	62966     	Treasurer	687-3762            	False
 17955	Morgan	General	1400 E 55th St	Apt 808S	Chicago	IL	60637     	Treasurer		False
 21130	Morgan	George	2249 Highland Park		Joliet	IL	60435     	Treasurer	                    	False
+100612	Morgan	James	2016 N. Nordica Ave.		Chicago	IL	60707     	Chair	773.551.5509        	False
+100613	Morgan	James	2016 N. Nordica Ave.		Chicago	IL	60707     	Treasurer	773.551.5509        	False
 82485	Morgan	Jennifer	115 East Greenwood		Woodstock	IL	60098     	Chair	815.701.6458        	False
 82486	Morgan	Jennifer	115 East Greenwood		Woodstock	IL	60098     	Treasurer	815.701.6458        	False
 39883	Morgan	John	600 13th St, NW	# 790	Washington	DC	20005     	Chair	202.464.5170        	False
@@ -47074,6 +47082,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 29477	Nellis	Jay	7434 Temple Ct		Rockford	IL	61108     	Treasurer	815/397-5942        	False
 85887	Nellis	Kendall	50 Ridgedale Dr.		Decatur	IL	62521     	Treasurer	217.454.0978        	False
 29759	Nellis	Linda	7434 Temple Ct		Rockford	IL	61108     	Chair	815/397-5104        	False
+100610	Nellis	Michael	3838 N. Ravenswood Ave.	Suite 100, #3027	Chicago	IL	60613     	Chair	402.214.1484        	False
 99216	Nelms	Kaden	1515 S 5th St		Pekin	IL	61554     	Treasurer	309-840-1445        	False
 48153	Nelsen	Matthew D	425 W Edgewood Ct		Morton	IL	61550     	Chair	309.266.7144        	False
 16174	Nelson	Alison	Po Box 36		Groveland	IL	61535     	Chair	309/387-6863        	False
@@ -68396,6 +68405,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 33050	Voss	Priscilla	232 S Oak St		Hinckley	IL	60520     	Chair		False
 52737	Voss	Terri	501 W Hawthorne Blvd		Mundelein	IL	60060     	Chair	847-566-4002        	False
 25331	Voss	Tom	17108 Highbridge		Union	IL	          	Chair	815/923-4135        	False
+100608	Voss	Trish	2212 Knox Rd, 1600 E		Victoria	IL	61485     	Chair	309.335.5811        	False
 7149	Voss	Viola	913 Illinois Avenue		Red Bud	IL	62278     	Treasurer	                    	False
 7199	Voss	Virgil	R.R. 1, Box 62d		Breese	IL	62230     	Treasurer	                    	False
 7148	Voss	Wayne	913 Illinois Avenue		Red Bud	IL	62278     	Chair	                    	False

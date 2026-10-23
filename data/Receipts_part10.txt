@@ -396998,41 +396998,41 @@ Chicago	IL	60607     	2A							  	          	False		False
 6332875	17385	960316		Illinois Restaurant Association		2024-12-27 00:00:00	500	500	0			33 W Monroe	STE 250	Chicago	IL	60603     	1A							  	          	True		False
 6332876	17385	960318		DaVita		2025-01-10 00:00:00	10000	0	0			P.O. Box 4328		Federal Way	WA	98063-4328	1A							  	          	True		False
 6332877	17385	960318		ABBVIE PAC		2025-01-10 00:00:00	1500	0	0			1 North Waukegan Road Dept 0312	Bldg. AP6D-2	N. Chicago	IL	60064     	2A							  	          	True	USA	False
-6332878	12713	960320		Tracy	Don & Wanda	2024-10-29 00:00:00	250	250	0			1429 E. Lake Shore Dr.		Springfield	IL	62712     	1A							  	          	False		False
-6332879	12713	960320		Pieper	Collins and Mary Ann	2024-10-29 00:00:00	100	200	0			4605 Lily Lane		Springfield	IL	62703     	1A							  	          	False		False
-6332880	12713	960320		Sangamon County Republican  Central Committee		2024-10-03 00:00:00	7174	87174	0			1132 Sangamon Avenue		Springfield	IL	62702     	2A							  	          	False		False
-6332881	12713	960320		Sangamon County Republican  Central Committee		2024-10-15 00:00:00	60000	87174	0			1132 Sangamon Avenue		Springfield	IL	62702     	2A							  	          	False		False
-6332882	12713	960320		Joyner	Courtney	2024-10-18 00:00:00	1000	1000	0	President	Joyner Construction	4003 Yucan Dr.		Springfield	IL	62711     	1A							  	          	False		False
-6332883	12713	960320		Sangamon County Republican  Central Committee		2024-10-22 00:00:00	20000	87174	0			1132 Sangamon Avenue		Springfield	IL	62702     	2A							  	          	False		False
-6332884	12713	960320		Iams	Jerry and Debra	2024-10-03 00:00:00	125	165	0			2379 Grinnell Drive		Springfield	IL	62704     	1A							  	          	False		False
-6332885	12713	960320		Local Union 193 IBEW Committee for Responsible Government		2024-10-03 00:00:00	250	250	0			3150 Wide Track Drive		Springfield	IL	62703     	2A							  	          	False		False
-6332886	12713	960320		Heat & Frost Insulators & Allied Workers Local No 1 Illinois Political		2024-10-03 00:00:00	100	200	0			3325 Hollenburg Drive		Bridgeton	MO	63044     	2A							  	          	False		False
-6332887	12713	960320		Heat & Frost Insulators & Allied Workers Local No 1 Illinois Political		2024-10-03 00:00:00	100	200	0			3325 Hollenburg Drive		Bridgeton	MO	63044     	2A							  	          	False		False
-6332888	12713	960320		Downstate IL Laborers' District Council PAC Fund		2024-10-03 00:00:00	500	500	0			20 Bronze Pointe North		Swansea	IL	62226     	2A							  	          	False		False
-6332889	12713	960320		Pieper	Collins and Mary Ann	2024-10-15 00:00:00	100	200	0			4605 Lily Lane		Springfield	IL	62703     	1A							  	          	False		False
-6332890	12713	960320		Allmon	James	2024-10-15 00:00:00	175	175	0			1598 S. Spring Creek Rd.		Pleasant Plains	IL	62677     	1A							  	          	False		False
-6332891	12713	960320		Bruso	Randy and Jolinda	2024-10-15 00:00:00	200	200	0			107 Laconwood Dr.		Springfield	IL	62712     	1A							  	          	False		False
-6332892	12713	960320		Sangamon County Republican Foundation		2024-10-29 00:00:00	10000	10000	0			PO Box 1495		Springfield	IL	62705     	2A							  	          	False		False
-6332893	12713	960320		Friends for Redpath		2024-10-29 00:00:00	250	250	0			4121 Blair Street		Springfield	IL	62712     	2A							  	          	False		False
-6332894	12713	960320		Miller	Brian	2024-10-29 00:00:00	250	500	0			1990 Outer Park Drive		Springfield	IL	62704     	1A							  	          	False		False
-6332895	12713	960320		Friends of Colleen Redpath Feger		2024-10-29 00:00:00	500	500	0			3005 Laxford Dr		Springfield	IL	62712     	2A							  	          	False		False
-6332896	12713	960320		Friends for Poe		2024-10-29 00:00:00	500	500	0			P.O. Box 8862		Springfield	IL	62791     	2A							  	          	False		False
-6332897	12713	960320		Goleman	Andrew	2024-10-29 00:00:00	1000	1500	0	Auditor	Sangamon County	1248 E Divernon Road		Divernon	IL	62530     	1A							  	          	False		False
-6332898	12713	960320		Goleman	Andrew	2024-10-29 00:00:00	500	1500	0	Auditor	Sangamon County	1248 E Divernon Road		Divernon	IL	62530     	1A							  	          	False		False
-6332899	12713	960320		Selvaggio Steel		2024-10-29 00:00:00	500	500	0			1119 W Dorlan Avenue		Springfield	IL	62702     	1A							  	          	False		False
-6332900	12713	960320		Gonet	Phil & Catherine	2024-10-29 00:00:00	250	250	0			1616 Cressa Court		Springfield	IL	62704     	1A							  	          	False		False
-6332901	12713	960320		Iams	Jerry and Debra	2024-10-29 00:00:00	40	165	0			2379 Grinnell Drive		Springfield	IL	62704     	1A							  	          	False		False
-6332902	12713	960320		LaHood for Congress		2024-11-06 00:00:00	2500	5000	0			PO Box 10735		Peoria	IL	61612     	2A							  	          	False		False
-6332903	12713	960320		Always on Consulting, LLC		2024-11-06 00:00:00	500	500	0			15444 Magnolia Dr.		Girard	IL	62640     	1A							  	          	False		False
-6332904	12713	960320		Friends of Ralph Hanauer		2024-11-06 00:00:00	500	500	0			4400 Lavender Dr		Springfield	IL	62711     	2A							  	          	False		False
-6332905	12713	960320		Miller	Brian	2024-11-06 00:00:00	250	500	0			1990 Outer Park Drive		Springfield	IL	62704     	1A							  	          	False		False
-6332906	12713	960320		J & J Ventures Gaming, LLC		2024-11-06 00:00:00	500	500	0			PO Box 1709		Effingham	IL	62401     	1A							  	          	False		False
-6332907	12713	960320		Bruner	James	2024-11-06 00:00:00	1000	1000	0	Construction	Retired	502 Chatsworth Ct		Springfield	IL	62711     	1A							  	          	False		False
-6332908	12713	960320		Laurent	Bob	2024-11-06 00:00:00	200	200	0			15 Wind Fall Lane		Cantrall	IL	62625     	1A							  	          	False		False
-6332909	12713	960320		Martin Engineering Company of Illinois		2024-11-06 00:00:00	200	200	0			3695 S. 6th Str. Frontage Rd. West	Suite B	Springfield	IL	62703     	1A							  	          	False		False
-6332910	12713	960320		Stone	Christopher	2024-11-12 00:00:00	3000	3000	0	President	Governmental Consulting Solutions	1312 Fayette Ave		Springfield	IL	62704     	1A							  	          	False		False
-6332911	12713	960320		Hasara	Karen	2024-11-12 00:00:00	200	200	0			22 Glen Eagle Dr		Springfield	IL	62704     	1A							  	          	False		False
-6332912	12713	960320		LaHood for Congress		2024-12-17 00:00:00	2500	5000	0			PO Box 10735		Peoria	IL	61612     	2A							  	          	False		False
+6332878	12713	960320		Tracy	Don & Wanda	2024-10-29 00:00:00	250	250	0			1429 E. Lake Shore Dr.		Springfield	IL	62712     	1A							  	          	True		False
+6332879	12713	960320		Pieper	Collins and Mary Ann	2024-10-29 00:00:00	100	200	0			4605 Lily Lane		Springfield	IL	62703     	1A							  	          	True		False
+6332880	12713	960320		Sangamon County Republican  Central Committee		2024-10-03 00:00:00	7174	87174	0			1132 Sangamon Avenue		Springfield	IL	62702     	2A							  	          	True		False
+6332881	12713	960320		Sangamon County Republican  Central Committee		2024-10-15 00:00:00	60000	87174	0			1132 Sangamon Avenue		Springfield	IL	62702     	2A							  	          	True		False
+6332882	12713	960320		Joyner	Courtney	2024-10-18 00:00:00	1000	1000	0	President	Joyner Construction	4003 Yucan Dr.		Springfield	IL	62711     	1A							  	          	True		False
+6332883	12713	960320		Sangamon County Republican  Central Committee		2024-10-22 00:00:00	20000	87174	0			1132 Sangamon Avenue		Springfield	IL	62702     	2A							  	          	True		False
+6332884	12713	960320		Iams	Jerry and Debra	2024-10-03 00:00:00	125	165	0			2379 Grinnell Drive		Springfield	IL	62704     	1A							  	          	True		False
+6332885	12713	960320		Local Union 193 IBEW Committee for Responsible Government		2024-10-03 00:00:00	250	250	0			3150 Wide Track Drive		Springfield	IL	62703     	2A							  	          	True		False
+6332886	12713	960320		Heat & Frost Insulators & Allied Workers Local No 1 Illinois Political		2024-10-03 00:00:00	100	200	0			3325 Hollenburg Drive		Bridgeton	MO	63044     	2A							  	          	True		False
+6332887	12713	960320		Heat & Frost Insulators & Allied Workers Local No 1 Illinois Political		2024-10-03 00:00:00	100	200	0			3325 Hollenburg Drive		Bridgeton	MO	63044     	2A							  	          	True		False
+6332888	12713	960320		Downstate IL Laborers' District Council PAC Fund		2024-10-03 00:00:00	500	500	0			20 Bronze Pointe North		Swansea	IL	62226     	2A							  	          	True		False
+6332889	12713	960320		Pieper	Collins and Mary Ann	2024-10-15 00:00:00	100	200	0			4605 Lily Lane		Springfield	IL	62703     	1A							  	          	True		False
+6332890	12713	960320		Allmon	James	2024-10-15 00:00:00	175	175	0			1598 S. Spring Creek Rd.		Pleasant Plains	IL	62677     	1A							  	          	True		False
+6332891	12713	960320		Bruso	Randy and Jolinda	2024-10-15 00:00:00	200	200	0			107 Laconwood Dr.		Springfield	IL	62712     	1A							  	          	True		False
+6332892	12713	960320		Sangamon County Republican Foundation		2024-10-29 00:00:00	10000	10000	0			PO Box 1495		Springfield	IL	62705     	2A							  	          	True		False
+6332893	12713	960320		Friends for Redpath		2024-10-29 00:00:00	250	250	0			4121 Blair Street		Springfield	IL	62712     	2A							  	          	True		False
+6332894	12713	960320		Miller	Brian	2024-10-29 00:00:00	250	500	0			1990 Outer Park Drive		Springfield	IL	62704     	1A							  	          	True		False
+6332895	12713	960320		Friends of Colleen Redpath Feger		2024-10-29 00:00:00	500	500	0			3005 Laxford Dr		Springfield	IL	62712     	2A							  	          	True		False
+6332896	12713	960320		Friends for Poe		2024-10-29 00:00:00	500	500	0			P.O. Box 8862		Springfield	IL	62791     	2A							  	          	True		False
+6332897	12713	960320		Goleman	Andrew	2024-10-29 00:00:00	1000	1500	0	Auditor	Sangamon County	1248 E Divernon Road		Divernon	IL	62530     	1A							  	          	True		False
+6332898	12713	960320		Goleman	Andrew	2024-10-29 00:00:00	500	1500	0	Auditor	Sangamon County	1248 E Divernon Road		Divernon	IL	62530     	1A							  	          	True		False
+6332899	12713	960320		Selvaggio Steel		2024-10-29 00:00:00	500	500	0			1119 W Dorlan Avenue		Springfield	IL	62702     	1A							  	          	True		False
+6332900	12713	960320		Gonet	Phil & Catherine	2024-10-29 00:00:00	250	250	0			1616 Cressa Court		Springfield	IL	62704     	1A							  	          	True		False
+6332901	12713	960320		Iams	Jerry and Debra	2024-10-29 00:00:00	40	165	0			2379 Grinnell Drive		Springfield	IL	62704     	1A							  	          	True		False
+6332902	12713	960320		LaHood for Congress		2024-11-06 00:00:00	2500	5000	0			PO Box 10735		Peoria	IL	61612     	2A							  	          	True		False
+6332903	12713	960320		Always on Consulting, LLC		2024-11-06 00:00:00	500	500	0			15444 Magnolia Dr.		Girard	IL	62640     	1A							  	          	True		False
+6332904	12713	960320		Friends of Ralph Hanauer		2024-11-06 00:00:00	500	500	0			4400 Lavender Dr		Springfield	IL	62711     	2A							  	          	True		False
+6332905	12713	960320		Miller	Brian	2024-11-06 00:00:00	250	500	0			1990 Outer Park Drive		Springfield	IL	62704     	1A							  	          	True		False
+6332906	12713	960320		J & J Ventures Gaming, LLC		2024-11-06 00:00:00	500	500	0			PO Box 1709		Effingham	IL	62401     	1A							  	          	True		False
+6332907	12713	960320		Bruner	James	2024-11-06 00:00:00	1000	1000	0	Construction	Retired	502 Chatsworth Ct		Springfield	IL	62711     	1A							  	          	True		False
+6332908	12713	960320		Laurent	Bob	2024-11-06 00:00:00	200	200	0			15 Wind Fall Lane		Cantrall	IL	62625     	1A							  	          	True		False
+6332909	12713	960320		Martin Engineering Company of Illinois		2024-11-06 00:00:00	200	200	0			3695 S. 6th Str. Frontage Rd. West	Suite B	Springfield	IL	62703     	1A							  	          	True		False
+6332910	12713	960320		Stone	Christopher	2024-11-12 00:00:00	3000	3000	0	President	Governmental Consulting Solutions	1312 Fayette Ave		Springfield	IL	62704     	1A							  	          	True		False
+6332911	12713	960320		Hasara	Karen	2024-11-12 00:00:00	200	200	0			22 Glen Eagle Dr		Springfield	IL	62704     	1A							  	          	True		False
+6332912	12713	960320		LaHood for Congress		2024-12-17 00:00:00	2500	5000	0			PO Box 10735		Peoria	IL	61612     	2A							  	          	True		False
 6332913	1154	960321		ULLICO Management Company		2025-01-09 00:00:00	5000	0	0			8403 Colesville Rd		Silver Spring	MD	20910     	2A							  	          	True		False
 6332914	17150	960323		MB Financial Investments		2024-11-07 00:00:00	5000	5000	0			PO Box 283		St. Cloud	MN	56302     	4A	Investment sale, MB Financial Investments						  	          	True		False
 6332915	23385	960324		Chicago Police Sergeants' Association		2025-01-10 00:00:00	3864	0	0			1616 W. Pershing Rd		Chicago	IL	60609-2301	2A							  	          	True		False
@@ -487953,9 +487953,9 @@ Chicago	IL	60607     	2A							  	          	False		False
 6423833	17218	976944		Citizens for Amy Elik		2025-07-02 00:00:00	3500	0	0			PO Box 205		Alton	IL	62002     	2A							  	          	True		False
 6423834	17218	976944		Citizens for Jackie Haas		2025-07-02 00:00:00	3500	0	0			Redaction Requested					2A							  	          	True		True
 6423835	17218	976944		Citizens for Tipsword		2025-07-03 00:00:00	1250	0	0			Redaction Requested					2A							  	          	True		True
-6423836	12713	976945		Springfield Partners LLC		2025-06-17 00:00:00	5000	5000	0			524 S 2nd St. Ste. 200		Springfield	IL	62701     	1A							  	          	False		False
-6423837	12713	976945		LaHood for Congress		2025-06-17 00:00:00	500	500	0			PO Box 10735		Peoria	IL	61612     	2A							  	          	False		False
-6423838	12713	976945		True Commercial Real Estate Services		2025-05-31 00:00:00	250	250	0			2815 Old Jacksonville Rd. Ste 105		Springfield	IL	62704     	1A							  	          	False		False
+6423836	12713	976945		Springfield Partners LLC		2025-06-17 00:00:00	5000	5000	0			524 S 2nd St. Ste. 200		Springfield	IL	62701     	1A							  	          	True		False
+6423837	12713	976945		LaHood for Congress		2025-06-17 00:00:00	500	500	0			PO Box 10735		Peoria	IL	61612     	2A							  	          	True		False
+6423838	12713	976945		True Commercial Real Estate Services		2025-05-31 00:00:00	250	250	0			2815 Old Jacksonville Rd. Ste 105		Springfield	IL	62704     	1A							  	          	True		False
 6423839	40178	976946		Democratic Party of Illinois		2025-04-10 00:00:00	31.96	166.54	0			PO Box 641466		Chicago	IL	60664     	5A	Telephone polling	Scale to Win		13742 Harper Street		Santa Ana	CA	92703     	False		False
 6423840	40178	976946		Democratic Party of Illinois		2025-04-02 00:00:00	134.58	166.54	0			PO Box 641466		Chicago	IL	60664     	5A	Mailing	Deliver Strategies, Inc.		PO Box 100970		Arlington	VA	22210     	False		False
 6423841	19152	976947		Durkin	Robert G	2025-04-09 00:00:00	300	300	0			172 Barrypoint Rd		Riverside	IL	60546-2231	1A							  	          	False		False
@@ -529854,8 +529854,8 @@ Chicago	IL	60607     	2A							  	          	False		False
 6465734	40644	985283		DITORE	SAMANTHA	2025-09-25 00:00:00	1000	0	0	SELF EMPLOYED	SELF	640 NORTH KENSINGTON AVE		LAGRANGE PARK	IL	60526     	1A							  	          	True		False
 6465735	40644	985283		OKEEFE	JOHN	2025-09-25 00:00:00	1000	0	0	RESTAURANTEUR	SELF	2 TIFFANY CIRCLE		SOUTH BARRINGTON	IL	60010     	1A							  	          	True		False
 6465736	40644	985283		DITORE	MICHAEL	2025-09-25 00:00:00	1977.7	0	0	ATTORNEY	CORBOY & DEMETRIO	640 NORTH KENSINGTON AVE		LAGRANGE PARK	IL	60526     	5A	Fund raising - food	CHICAGO BARTENDING COMPANY		332 S MICHIGAN AVE	SUITE 121	CHICAGO	IL	60604     	True		False
-6465737	12713	985284		Bruner	James P	2025-09-24 00:00:00	1000	1000	0	Retired	United Contractors Midwest Inc.	140 Riviera Dunes Way	Unit 1501	Palmetto	FL	34221     	1A							  	          	False		False
-6465738	12713	985284		Bruso	Randy and Jolinda	2025-09-08 00:00:00	200	200	0			107 Laconwood Dr.		Springfield	IL	62712     	1A							  	          	False		False
+6465737	12713	985284		Bruner	James P	2025-09-24 00:00:00	1000	1000	0	Retired	United Contractors Midwest Inc.	140 Riviera Dunes Way	Unit 1501	Palmetto	FL	34221     	1A							  	          	True		False
+6465738	12713	985284		Bruso	Randy and Jolinda	2025-09-08 00:00:00	200	200	0			107 Laconwood Dr.		Springfield	IL	62712     	1A							  	          	True		False
 6465739	40812	985286	985286-1	Rice	Judith C.	2025-09-26 00:00:00	2500	0	2500	Judge	Cook Couty Circuit Court	839 Forest Avenue		River Forest	IL	60305     	3A		Rice	Judith C.	839 Forest Avenue		River Forest	IL	60305     	True		False
 6465740	35499	985287		Cervantez	Joseph	2025-07-25 00:00:00	550	750	0	candidate	Self employed	1622 Venable		Carterville	IL	62918     	1A							  	          	False		False
 6465741	35499	985287		Cervantez	Joseph	2025-09-30 00:00:00	200	750	0	candidate	Self employed	1622 Venable		Carterville	IL	62918     	1A							  	          	False		False
@@ -533195,47 +533195,47 @@ Chicago	IL	60607     	2A							  	          	False		False
 6469075	18261	986271		Carpentry Advancement Political Action Committee		2025-09-30 00:00:00	7800	7800	0			12 E Erie St		Chicago	IL	60611-2795	2A							  	          	True		False
 6469076	18261	986271		Illinois Federation of Teachers COPE		2025-09-30 00:00:00	10000	18000	0			700 S College St		Springfield	IL	62704-2524	2A							  	          	True		False
 6469077	18261	986271		Illinois Hospital Association PAC		2025-09-30 00:00:00	3500	3500	0			700 S 2nd St		Springfield	IL	62704-2516	2A							  	          	True		False
-6469078	177	986272		NationBuilder		2025-07-02 00:00:00	38.24	1650.96	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	False		False
-6469079	177	986272		Citizen Farmers Combine PAC		2025-07-07 00:00:00	833.33	2499.99	0			P. O. Box 261		Lake Bluff	IL	60044     	2A							  	          	False		False
-6469080	177	986272		Friends of Ryan Spain		2025-07-08 00:00:00	2000	2000	0			PO Box 1575		Peoria	IL	61655     	2A							  	          	False		False
-6469081	177	986272		NationBuilder		2025-07-09 00:00:00	38.24	1650.96	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	False		False
-6469082	177	986272		Friends of Travis Weaver		2025-07-17 00:00:00	2000	2000	0			6221 US Route 150		Edwards	IL	61528     	2A							  	          	False		False
-6469083	177	986272		NationBuilder		2025-07-21 00:00:00	19.12	1650.96	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	False		False
-6469084	177	986272		NationBuilder		2025-07-23 00:00:00	19.12	1650.96	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	False		False
-6469085	177	986272		NationBuilder		2025-07-30 00:00:00	116.22	1650.96	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	False		False
-6469086	177	986272		NationBuilder		2025-07-31 00:00:00	19.12	1650.96	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	False		False
-6469087	177	986272		NationBuilder		2025-08-04 00:00:00	19.12	1650.96	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	False		False
-6469088	177	986272		Citizen Farmers Combine PAC		2025-08-05 00:00:00	833.33	2499.99	0			P. O. Box 261		Lake Bluff	IL	60044     	2A							  	          	False		False
-6469089	177	986272		NationBuilder		2025-08-08 00:00:00	57.36	1650.96	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	False		False
-6469090	177	986272		Weaver	Laurie and Chuck	2025-08-20 00:00:00	2000	2000	0	Entrepreneur	Self	6000 W War Memorial Drive		Peoria	IL	61615     	1A							  	          	False		False
-6469091	177	986272		Peoria Tazewell Lincoln Day Dinner PAC		2025-08-20 00:00:00	16500.33	16500.33	0			8835 Knoxville Ave Suite 8		Peoria	IL	61615     	2A							  	          	False		False
-6469092	177	986272		Rieker	Steven and Cecilia	2025-08-20 00:00:00	200	1200	0	Retired	Retired	10723 N Lauraline Ct.		Peoria	IL	61615     	1A							  	          	False		False
-6469093	177	986272		Wigginton	Matthew	2025-08-20 00:00:00	380	380	0			1 Brockway Avenue		Peoria Heights	IL	61616     	1A							  	          	False		False
-6469094	177	986272		NationBuilder		2025-08-20 00:00:00	19.12	1650.96	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	False		False
-6469095	177	986272		NationBuilder		2025-08-22 00:00:00	28.53	1650.96	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	False		False
-6469096	177	986272		NationBuilder		2025-08-25 00:00:00	232.44	1650.96	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	False		False
-6469097	177	986272		NationBuilder		2025-09-03 00:00:00	116.22	1650.96	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	False		False
-6469098	177	986272		McClelland	Gregg and Kris	2025-09-04 00:00:00	1200	1200	0	Project Engineer	Caterpillar	1515 W. Grandridge Dr.		Dunlap	IL	61525     	1A							  	          	False		False
-6469099	177	986272		NationBuilder		2025-09-04 00:00:00	20	1650.96	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	False		False
-6469100	177	986272		NationBuilder		2025-09-05 00:00:00	236.69	1650.96	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	False		False
-6469101	177	986272		Citizen Farmers Combine PAC		2025-09-05 00:00:00	833.33	2499.99	0			P. O. Box 261		Lake Bluff	IL	60044     	2A							  	          	False		False
-6469102	177	986272		NationBuilder		2025-09-08 00:00:00	250	1650.96	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	False		False
-6469103	177	986272		Martin III	Bobby	2025-09-08 00:00:00	500	500	0			6 Wisteria Way		Washington	IL	61571     	1A							  	          	False		False
-6469104	177	986272		Baietto	Sandra	2025-09-08 00:00:00	240	240	0			522 Denver Ct		Peoria	IL	61607     	1A							  	          	False		False
-6469105	177	986272		Brown	Garret	2025-09-08 00:00:00	240	240	0			21711 W. Laura Road		Laura	IL	61451     	1A							  	          	False		False
-6469106	177	986272		Hubbard	Renee	2025-09-08 00:00:00	240	240	0			5615 N Lorraine Dr		Peoria	IL	61614     	1A							  	          	False		False
-6469107	177	986272		NationBuilder		2025-09-09 00:00:00	294.65	1650.96	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	False		False
-6469108	177	986272		Sydnor, Jr.	James W.	2025-09-10 00:00:00	1200	1200	0	Farmer	Self-employed	PO BOX 9193		Peoria	IL	61612     	1A							  	          	False		False
-6469109	177	986272		NationBuilder		2025-09-10 00:00:00	60	1650.96	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	False		False
-6469110	177	986272		Rieker	Steven and Cecilia	2025-09-17 00:00:00	1000	1200	0	Retired	Retired	10723 N Lauraline Ct.		Peoria	IL	61615     	1A							  	          	False		False
-6469111	177	986272		Hoerr	Tania	2025-09-17 00:00:00	1000	1000	0	Owner	Kelly Ornamental	1520 W. Holly Hedges Dr		Peoria	IL	61614     	1A							  	          	False		False
-6469112	177	986272		Drake	Patricia	2025-09-17 00:00:00	1200	1200	0	President	Fidelity on Call	8412 Trigger Road		Edwards	IL	61528     	1A							  	          	False		False
-6469113	177	986272		Steinwedel	John & Cynthia	2025-09-17 00:00:00	240	240	0			219 W. Aspen Way		Peoria	IL	61614-2175	1A							  	          	False		False
-6469114	177	986272		NationBuilder		2025-09-19 00:00:00	19.12	1650.96	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	False		False
-6469115	177	986272		NationBuilder		2025-09-24 00:00:00	28.53	1650.96	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	False		False
-6469116	177	986272		NationBuilder		2025-09-25 00:00:00	19.12	1650.96	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	False		False
-6469117	177	986272		Tracy	Don	2025-09-29 00:00:00	500	500	0			1429 E Lake Shore Dr		Springfield	IL	62712     	1A							  	          	False		False
-6469118	177	986272		Advanced Strategic Consulting LLC		2025-09-29 00:00:00	500	500	0			2302 W Chandler CT		Peoria	IL	61615     	1A							  	          	False		False
+6469078	177	986272		NationBuilder		2025-07-02 00:00:00	38.24	1650.96	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	True		False
+6469079	177	986272		Citizen Farmers Combine PAC		2025-07-07 00:00:00	833.33	2499.99	0			P. O. Box 261		Lake Bluff	IL	60044     	2A							  	          	True		False
+6469080	177	986272		Friends of Ryan Spain		2025-07-08 00:00:00	2000	2000	0			PO Box 1575		Peoria	IL	61655     	2A							  	          	True		False
+6469081	177	986272		NationBuilder		2025-07-09 00:00:00	38.24	1650.96	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	True		False
+6469082	177	986272		Friends of Travis Weaver		2025-07-17 00:00:00	2000	2000	0			6221 US Route 150		Edwards	IL	61528     	2A							  	          	True		False
+6469083	177	986272		NationBuilder		2025-07-21 00:00:00	19.12	1650.96	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	True		False
+6469084	177	986272		NationBuilder		2025-07-23 00:00:00	19.12	1650.96	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	True		False
+6469085	177	986272		NationBuilder		2025-07-30 00:00:00	116.22	1650.96	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	True		False
+6469086	177	986272		NationBuilder		2025-07-31 00:00:00	19.12	1650.96	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	True		False
+6469087	177	986272		NationBuilder		2025-08-04 00:00:00	19.12	1650.96	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	True		False
+6469088	177	986272		Citizen Farmers Combine PAC		2025-08-05 00:00:00	833.33	2499.99	0			P. O. Box 261		Lake Bluff	IL	60044     	2A							  	          	True		False
+6469089	177	986272		NationBuilder		2025-08-08 00:00:00	57.36	1650.96	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	True		False
+6469090	177	986272		Weaver	Laurie and Chuck	2025-08-20 00:00:00	2000	2000	0	Entrepreneur	Self	6000 W War Memorial Drive		Peoria	IL	61615     	1A							  	          	True		False
+6469091	177	986272		Peoria Tazewell Lincoln Day Dinner PAC		2025-08-20 00:00:00	16500.33	16500.33	0			8835 Knoxville Ave Suite 8		Peoria	IL	61615     	2A							  	          	True		False
+6469092	177	986272		Rieker	Steven and Cecilia	2025-08-20 00:00:00	200	1200	0	Retired	Retired	10723 N Lauraline Ct.		Peoria	IL	61615     	1A							  	          	True		False
+6469093	177	986272		Wigginton	Matthew	2025-08-20 00:00:00	380	380	0			1 Brockway Avenue		Peoria Heights	IL	61616     	1A							  	          	True		False
+6469094	177	986272		NationBuilder		2025-08-20 00:00:00	19.12	1650.96	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	True		False
+6469095	177	986272		NationBuilder		2025-08-22 00:00:00	28.53	1650.96	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	True		False
+6469096	177	986272		NationBuilder		2025-08-25 00:00:00	232.44	1650.96	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	True		False
+6469097	177	986272		NationBuilder		2025-09-03 00:00:00	116.22	1650.96	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	True		False
+6469098	177	986272		McClelland	Gregg and Kris	2025-09-04 00:00:00	1200	1200	0	Project Engineer	Caterpillar	1515 W. Grandridge Dr.		Dunlap	IL	61525     	1A							  	          	True		False
+6469099	177	986272		NationBuilder		2025-09-04 00:00:00	20	1650.96	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	True		False
+6469100	177	986272		NationBuilder		2025-09-05 00:00:00	236.69	1650.96	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	True		False
+6469101	177	986272		Citizen Farmers Combine PAC		2025-09-05 00:00:00	833.33	2499.99	0			P. O. Box 261		Lake Bluff	IL	60044     	2A							  	          	True		False
+6469102	177	986272		NationBuilder		2025-09-08 00:00:00	250	1650.96	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	True		False
+6469103	177	986272		Martin III	Bobby	2025-09-08 00:00:00	500	500	0			6 Wisteria Way		Washington	IL	61571     	1A							  	          	True		False
+6469104	177	986272		Baietto	Sandra	2025-09-08 00:00:00	240	240	0			522 Denver Ct		Peoria	IL	61607     	1A							  	          	True		False
+6469105	177	986272		Brown	Garret	2025-09-08 00:00:00	240	240	0			21711 W. Laura Road		Laura	IL	61451     	1A							  	          	True		False
+6469106	177	986272		Hubbard	Renee	2025-09-08 00:00:00	240	240	0			5615 N Lorraine Dr		Peoria	IL	61614     	1A							  	          	True		False
+6469107	177	986272		NationBuilder		2025-09-09 00:00:00	294.65	1650.96	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	True		False
+6469108	177	986272		Sydnor, Jr.	James W.	2025-09-10 00:00:00	1200	1200	0	Farmer	Self-employed	PO BOX 9193		Peoria	IL	61612     	1A							  	          	True		False
+6469109	177	986272		NationBuilder		2025-09-10 00:00:00	60	1650.96	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	True		False
+6469110	177	986272		Rieker	Steven and Cecilia	2025-09-17 00:00:00	1000	1200	0	Retired	Retired	10723 N Lauraline Ct.		Peoria	IL	61615     	1A							  	          	True		False
+6469111	177	986272		Hoerr	Tania	2025-09-17 00:00:00	1000	1000	0	Owner	Kelly Ornamental	1520 W. Holly Hedges Dr		Peoria	IL	61614     	1A							  	          	True		False
+6469112	177	986272		Drake	Patricia	2025-09-17 00:00:00	1200	1200	0	President	Fidelity on Call	8412 Trigger Road		Edwards	IL	61528     	1A							  	          	True		False
+6469113	177	986272		Steinwedel	John & Cynthia	2025-09-17 00:00:00	240	240	0			219 W. Aspen Way		Peoria	IL	61614-2175	1A							  	          	True		False
+6469114	177	986272		NationBuilder		2025-09-19 00:00:00	19.12	1650.96	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	True		False
+6469115	177	986272		NationBuilder		2025-09-24 00:00:00	28.53	1650.96	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	True		False
+6469116	177	986272		NationBuilder		2025-09-25 00:00:00	19.12	1650.96	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	True		False
+6469117	177	986272		Tracy	Don	2025-09-29 00:00:00	500	500	0			1429 E Lake Shore Dr		Springfield	IL	62712     	1A							  	          	True		False
+6469118	177	986272		Advanced Strategic Consulting LLC		2025-09-29 00:00:00	500	500	0			2302 W Chandler CT		Peoria	IL	61615     	1A							  	          	True		False
 6469119	34545	986273		Burns	Shannon	2025-09-15 00:00:00	500	500	0			30W109 Fairfax Ct		Warrenville	IL	60555     	1A							  	          	False		False
 6469120	18261	986274		Austriaco	Aurora N.	2025-10-03 00:00:00	1500	1500	0	Attorney	Valentine Austriaco and Bueschel PC	105 W Adams St		Chicago	IL	60603-4109	1A							  	          	True		False
 6469121	18261	986274		Castro	Cristina	2025-10-03 00:00:00	3500	3500	0	Commissioner	Kane County	PO Box 1506		Elgin	IL	60121-1506	1A							  	          	True		False
@@ -581886,35 +581886,35 @@ Chicago	IL	60607     	2A							  	          	False		False
 6517766	23778	994533		Madha	Ali	2025-12-29 00:00:00	2992	2992	0	Healthcare consultant	Self Employed	4800 S Saginaw St	Ste 1898	Flint	MI	48507-2677	1A							  	          	True		False
 6517767	23778	994533		Shah	Jawad	2025-12-29 00:00:00	2500	2500	0	Physician	Insight	4800 S Saginaw St		Flint	MI	48507-2677	1A							  	          	True		False
 6517768	23778	994533		Illinois Trial Lawyers Association PAC		2025-12-29 00:00:00	1000	2000	0			401 W Edwards St		Springfield	IL	62704-1917	2A							  	          	True		False
-6517769	177	994535		NationBuilder		2025-10-02 00:00:00	28.53	1012.26	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	False		False
-6517770	177	994535		NationBuilder		2025-10-06 00:00:00	213.02	1012.26	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	False		False
-6517771	177	994535		Citizen Farmers Combine PAC		2025-10-06 00:00:00	833.33	2499.99	0			P. O. Box 261		Lake Bluff	IL	60044     	2A							  	          	False		False
-6517772	177	994535		York	David	2025-10-08 00:00:00	240	240	0			5529 E.Knox St		Chillecothe	IL	61523     	1A							  	          	False		False
-6517773	177	994535		NationBuilder		2025-10-08 00:00:00	90	1012.26	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	False		False
-6517774	177	994535		NationBuilder		2025-10-09 00:00:00	116.22	1012.26	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	False		False
-6517775	177	994535		NationBuilder		2025-10-21 00:00:00	135.34	1012.26	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	False		False
-6517776	177	994535		NationBuilder		2025-10-22 00:00:00	28.53	1012.26	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	False		False
-6517777	177	994535		NationBuilder		2025-10-28 00:00:00	19.12	1012.26	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	False		False
-6517778	177	994535		NationBuilder		2025-11-03 00:00:00	9.41	1012.26	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	False		False
-6517779	177	994535		NationBuilder		2025-11-04 00:00:00	19.12	1012.26	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	False		False
-6517780	177	994535		Citizen Farmers Combine PAC		2025-11-05 00:00:00	833.33	2499.99	0			P. O. Box 261		Lake Bluff	IL	60044     	2A							  	          	False		False
-6517781	177	994535		NationBuilder		2025-11-07 00:00:00	28.53	1012.26	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	False		False
-6517782	177	994535		NationBuilder		2025-11-10 00:00:00	57.36	1012.26	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	False		False
-6517783	177	994535		NationBuilder		2025-11-18 00:00:00	19.12	1012.26	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	False		False
-6517784	177	994535		NationBuilder		2025-11-19 00:00:00	19.12	1012.26	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	False		False
-6517785	177	994535		NationBuilder		2025-11-24 00:00:00	28.53	1012.26	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	False		False
-6517786	177	994535		NationBuilder		2025-11-26 00:00:00	19.12	1012.26	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	False		False
-6517787	177	994535		NationBuilder		2025-12-03 00:00:00	28.53	1012.26	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	False		False
-6517788	177	994535		Citizen Farmers Combine PAC		2025-12-05 00:00:00	833.33	2499.99	0			P. O. Box 261		Lake Bluff	IL	60044     	2A							  	          	False		False
-6517789	177	994535		NationBuilder		2025-12-09 00:00:00	28.53	1012.26	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	False		False
-6517790	177	994535		NationBuilder		2025-12-10 00:00:00	57.36	1012.26	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	False		False
-6517791	177	994535		NationBuilder		2025-12-17 00:00:00	19.12	1012.26	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	False		False
-6517792	177	994535		NationBuilder		2025-12-19 00:00:00	19.12	1012.26	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	False		False
-6517793	177	994535		CYR Financial Group		2025-12-20 00:00:00	1000	1000	0			2405 W Cornerstone Ct		Peoria	IL	61614     	1A							  	          	False		False
-6517794	177	994535		Oyler	Zachary	2025-12-20 00:00:00	1500	1500	0	Employee	Caterpillar	3015 N Bigelow Court		Peoria	IL	61604     	1A							  	          	False		False
-6517795	177	994535		Peoria County Republican Women		2025-12-20 00:00:00	1200	1200	0			8835 N Knoxville	Suite 8	Peoria	IL	61614     	2A							  	          	False		False
-6517796	177	994535		NationBuilder		2025-12-24 00:00:00	9.41	1012.26	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	False		False
-6517797	177	994535		NationBuilder		2025-12-29 00:00:00	19.12	1012.26	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	False		False
+6517769	177	994535		NationBuilder		2025-10-02 00:00:00	28.53	1012.26	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	True		False
+6517770	177	994535		NationBuilder		2025-10-06 00:00:00	213.02	1012.26	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	True		False
+6517771	177	994535		Citizen Farmers Combine PAC		2025-10-06 00:00:00	833.33	2499.99	0			P. O. Box 261		Lake Bluff	IL	60044     	2A							  	          	True		False
+6517772	177	994535		York	David	2025-10-08 00:00:00	240	240	0			5529 E.Knox St		Chillecothe	IL	61523     	1A							  	          	True		False
+6517773	177	994535		NationBuilder		2025-10-08 00:00:00	90	1012.26	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	True		False
+6517774	177	994535		NationBuilder		2025-10-09 00:00:00	116.22	1012.26	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	True		False
+6517775	177	994535		NationBuilder		2025-10-21 00:00:00	135.34	1012.26	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	True		False
+6517776	177	994535		NationBuilder		2025-10-22 00:00:00	28.53	1012.26	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	True		False
+6517777	177	994535		NationBuilder		2025-10-28 00:00:00	19.12	1012.26	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	True		False
+6517778	177	994535		NationBuilder		2025-11-03 00:00:00	9.41	1012.26	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	True		False
+6517779	177	994535		NationBuilder		2025-11-04 00:00:00	19.12	1012.26	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	True		False
+6517780	177	994535		Citizen Farmers Combine PAC		2025-11-05 00:00:00	833.33	2499.99	0			P. O. Box 261		Lake Bluff	IL	60044     	2A							  	          	True		False
+6517781	177	994535		NationBuilder		2025-11-07 00:00:00	28.53	1012.26	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	True		False
+6517782	177	994535		NationBuilder		2025-11-10 00:00:00	57.36	1012.26	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	True		False
+6517783	177	994535		NationBuilder		2025-11-18 00:00:00	19.12	1012.26	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	True		False
+6517784	177	994535		NationBuilder		2025-11-19 00:00:00	19.12	1012.26	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	True		False
+6517785	177	994535		NationBuilder		2025-11-24 00:00:00	28.53	1012.26	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	True		False
+6517786	177	994535		NationBuilder		2025-11-26 00:00:00	19.12	1012.26	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	True		False
+6517787	177	994535		NationBuilder		2025-12-03 00:00:00	28.53	1012.26	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	True		False
+6517788	177	994535		Citizen Farmers Combine PAC		2025-12-05 00:00:00	833.33	2499.99	0			P. O. Box 261		Lake Bluff	IL	60044     	2A							  	          	True		False
+6517789	177	994535		NationBuilder		2025-12-09 00:00:00	28.53	1012.26	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	True		False
+6517790	177	994535		NationBuilder		2025-12-10 00:00:00	57.36	1012.26	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	True		False
+6517791	177	994535		NationBuilder		2025-12-17 00:00:00	19.12	1012.26	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	True		False
+6517792	177	994535		NationBuilder		2025-12-19 00:00:00	19.12	1012.26	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	True		False
+6517793	177	994535		CYR Financial Group		2025-12-20 00:00:00	1000	1000	0			2405 W Cornerstone Ct		Peoria	IL	61614     	1A							  	          	True		False
+6517794	177	994535		Oyler	Zachary	2025-12-20 00:00:00	1500	1500	0	Employee	Caterpillar	3015 N Bigelow Court		Peoria	IL	61604     	1A							  	          	True		False
+6517795	177	994535		Peoria County Republican Women		2025-12-20 00:00:00	1200	1200	0			8835 N Knoxville	Suite 8	Peoria	IL	61614     	2A							  	          	True		False
+6517796	177	994535		NationBuilder		2025-12-24 00:00:00	9.41	1012.26	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	True		False
+6517797	177	994535		NationBuilder		2025-12-29 00:00:00	19.12	1012.26	0			PO Box 811428		Los Angeles	CA	90081     	1A							  	          	True		False
 6517798	40660	994536		SEIU IL Council PAC FUND		2026-01-05 00:00:00	5000	0	0			2229 S Halsted St		Chicago	IL	60608     	2A							  	          	True		False
 6517799	23112	994537		Associated Bank N.A.		2025-12-31 00:00:00	3114.06	0	0			743 E 47th St		Chicago	IL	60653     	4A	Interest/Dividends received						  	          	True		False
 6517800	23112	994537		Associated Bank N.A.		2025-12-31 00:00:00	4498.11	0	0			743 E 47th St		Chicago	IL	60653     	4A	Interest/Dividends received						  	          	True		False
@@ -598004,22 +598004,22 @@ Chicago	IL	60607     	2A							  	          	False		False
 6533884	25649	997214		Chicago Land Operators Joint Labor-Management PAC		2025-12-23 00:00:00	1000	1500	0			6200 Joliet Road		Countryside	IL	60525     	2A							  	          	False		False
 6533885	25649	997214		Chicago Land Operators Joint Labor-Management PAC		2025-12-23 00:00:00	500	1500	0			6200 Joliet Road		Countryside	IL	60525     	2A							  	          	False		False
 6533886	25649	997214		T-Mobile USA Inc		2025-12-29 00:00:00	500	500	0			4705 Pelican Nest		Springfield	IL	62711     	1A							  	          	False		False
-6533887	12713	997215		Citizens for Bomke		2025-10-21 00:00:00	250	250	0			PO Box 7538		Springfield	IL	62791     	2A							  	          	False		False
-6533888	12713	997215		Tracy	Don & Wanda	2025-10-23 00:00:00	250	250	0			1429 E. Lake Shore Dr.		Springfield	IL	62712     	1A							  	          	False		False
-6533889	12713	997215		Daniels	David & Michelle	2025-10-24 00:00:00	500	525	0	Retired	Retired	65 Horseshoe Drive		Springfield	IL	62702     	1A							  	          	False		False
-6533890	12713	997215		Bedolli	Blaine & Kelly	2025-10-24 00:00:00	250	250	0			856 S English Ave		Springfield	IL	62704     	1A							  	          	False		False
-6533891	12713	997215		Hurley	Mark & Susan	2025-10-24 00:00:00	1000	1000	0	Retired	Retired	9 Williamsburg Road		Sherman	IL	62684     	1A							  	          	False		False
-6533892	12713	997215		Kuhn & Trello Consulting Engineers, LLC		2025-10-24 00:00:00	250	250	0			109 N. 7th St.	3rd Floor	Springfield	IL	62701     	1A							  	          	False		False
-6533893	12713	997215		Daniels	David & Michelle	2025-10-24 00:00:00	25	525	0	Retired	Retired	65 Horseshoe Drive		Springfield	IL	62702     	1A							  	          	False		False
-6533894	12713	997215		Friends of Steve McClure		2025-10-24 00:00:00	1000	1000	0			1713 Plover Rd.		Springfield	IL	62711     	2A							  	          	False		False
-6533895	12713	997215		Watts Copy Systems		2025-11-10 00:00:00	1000	1000	0			2860 Stanton Avenue		Springfield	IL	62703     	1A							  	          	False		False
-6533896	12713	997215		Ray	Daniel or Nancy	2025-11-10 00:00:00	350	350	0			2001 N. 8th St.		Springfield	IL	62702     	1A							  	          	False		False
-6533897	12713	997215		Caulkins	Daniel	2025-11-10 00:00:00	1000	1000	0	Retired	Retired	57 Southside Country Club		Decatur	IL	62521     	1A							  	          	False		False
-6533898	12713	997215		Regan for Illinois		2025-11-10 00:00:00	250	250	0			PO Box 922		Decatur	IL	62525     	2A							  	          	False		False
-6533899	12713	997215		Friends of Sally Turner		2025-11-10 00:00:00	250	250	0			PO Box 124		Elkhart	IL	62634     	2A							  	          	False		False
-6533900	12713	997215		Moore	Timothy & Donna	2025-11-26 00:00:00	250	250	0			2226 Celtic Ln		Springfield	IL	62704     	1A							  	          	False		False
-6533901	12713	997215		Iams	Jerry and Debra	2025-11-26 00:00:00	250	250	0			2379 Grinnell Drive		Springfield	IL	62704     	1A							  	          	False		False
-6533902	12713	997215		Heffernan	Daniel & Brenna	2025-11-26 00:00:00	320	320	0			1938 S Glenwood Avenue		Springfield	IL	62704     	1A							  	          	False		False
+6533887	12713	997215		Citizens for Bomke		2025-10-21 00:00:00	250	250	0			PO Box 7538		Springfield	IL	62791     	2A							  	          	True		False
+6533888	12713	997215		Tracy	Don & Wanda	2025-10-23 00:00:00	250	250	0			1429 E. Lake Shore Dr.		Springfield	IL	62712     	1A							  	          	True		False
+6533889	12713	997215		Daniels	David & Michelle	2025-10-24 00:00:00	500	525	0	Retired	Retired	65 Horseshoe Drive		Springfield	IL	62702     	1A							  	          	True		False
+6533890	12713	997215		Bedolli	Blaine & Kelly	2025-10-24 00:00:00	250	250	0			856 S English Ave		Springfield	IL	62704     	1A							  	          	True		False
+6533891	12713	997215		Hurley	Mark & Susan	2025-10-24 00:00:00	1000	1000	0	Retired	Retired	9 Williamsburg Road		Sherman	IL	62684     	1A							  	          	True		False
+6533892	12713	997215		Kuhn & Trello Consulting Engineers, LLC		2025-10-24 00:00:00	250	250	0			109 N. 7th St.	3rd Floor	Springfield	IL	62701     	1A							  	          	True		False
+6533893	12713	997215		Daniels	David & Michelle	2025-10-24 00:00:00	25	525	0	Retired	Retired	65 Horseshoe Drive		Springfield	IL	62702     	1A							  	          	True		False
+6533894	12713	997215		Friends of Steve McClure		2025-10-24 00:00:00	1000	1000	0			1713 Plover Rd.		Springfield	IL	62711     	2A							  	          	True		False
+6533895	12713	997215		Watts Copy Systems		2025-11-10 00:00:00	1000	1000	0			2860 Stanton Avenue		Springfield	IL	62703     	1A							  	          	True		False
+6533896	12713	997215		Ray	Daniel or Nancy	2025-11-10 00:00:00	350	350	0			2001 N. 8th St.		Springfield	IL	62702     	1A							  	          	True		False
+6533897	12713	997215		Caulkins	Daniel	2025-11-10 00:00:00	1000	1000	0	Retired	Retired	57 Southside Country Club		Decatur	IL	62521     	1A							  	          	True		False
+6533898	12713	997215		Regan for Illinois		2025-11-10 00:00:00	250	250	0			PO Box 922		Decatur	IL	62525     	2A							  	          	True		False
+6533899	12713	997215		Friends of Sally Turner		2025-11-10 00:00:00	250	250	0			PO Box 124		Elkhart	IL	62634     	2A							  	          	True		False
+6533900	12713	997215		Moore	Timothy & Donna	2025-11-26 00:00:00	250	250	0			2226 Celtic Ln		Springfield	IL	62704     	1A							  	          	True		False
+6533901	12713	997215		Iams	Jerry and Debra	2025-11-26 00:00:00	250	250	0			2379 Grinnell Drive		Springfield	IL	62704     	1A							  	          	True		False
+6533902	12713	997215		Heffernan	Daniel & Brenna	2025-11-26 00:00:00	320	320	0			1938 S Glenwood Avenue		Springfield	IL	62704     	1A							  	          	True		False
 6533903	15334	997216		Metropolitan Life Insurance Company		2025-10-31 00:00:00	279.33	838	0			200 Park Avenue		New York	NY	10166     	5A	Corp Admin support						  	          	False		False
 6533904	15334	997216		Metropolitan Life Insurance Company		2025-11-30 00:00:00	279.33	838	0			200 Park Avenue		New York	NY	10166     	5A	Corp admin support						  	          	False		False
 6533905	15334	997216		Metropolitan Life Insurance Company		2025-12-31 00:00:00	279.34	838	0			200 Park Avenue		New York	NY	10166     	5A	Corp admin support						  	          	False		False
@@ -625997,4 +625997,5 @@ Chicago	IL	60607     	2A							  	          	False		False
 6561877	36733	1000649		Chicago Land Operators Joint Labor-Management PAC		2026-02-18 00:00:00	250000	0	0			6200 Joliet Road		Countryside	IL	60525     	2A							  	          	True		False
 6561878	36733	1000649		One Future Illinois PAC		2026-02-19 00:00:00	75000	0	0			111 W Jackson Blvd	Suite 1700	Chicago	IL	60604     	2A							  	          	True		False
 6561879	36733	1000649		Iron Workers District Council of Chicago & Vicinity		2026-02-19 00:00:00	5000	0	0			2700 S River Rd Ste 118		Des Plaines	IL	60018     	2A							  	          	True		False
-6561880	36733	1000649		Berkshire Refrigerated Warehousing LLC		2026-02-19 00:
+6561880	36733	1000649		Berkshire Refrigerated Warehousing LLC		2026-02-19 00:00:00	1000	0	0			4550 S Packers Ave	PO Box 09284	Chicago	IL	60609     	1A							  	          	True		False
+6561881	36733	10006
