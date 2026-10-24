@@ -521752,7 +521752,7 @@
 1850807	15101	402353		Corinne Pierog Committee to Elect		2010-03-05 00:00:00	500	500	P.O. Box 3501		St. Charles	IL	60174     	6B	contribution			False	False	False		False
 1850808	15101	402353		Preckwinkle for President		2010-04-09 00:00:00	500	500	4659 S. Cottage Grove Avenue	Ste 205	Chicago	IL	60653     	6B	ticket purchase			False	False	False		False
 1850809	15101	402353		Taxpayers for Quinn		2010-04-10 00:00:00	1000	1000	1248 West Altgeld		Chicago	IL	60614     	6B	contribution			False	False	False		False
-1850810	15101	402353		Friends of Michelle Mussman		2010-06-14 00:00:00	300	300	217 Tudor Lane		Schaumburg	IL	60193     	6B	contribution			False	False	False		False
+1850810	15101	402353		Friends of Michelle Mussman		2010-06-14 00:00:00	300	300	Redaction Requested					6B	contribution			False	False	False		True
 1850811	15101	402353		Nolan Citzens for		2010-06-23 00:00:00	400	400	P.O. Box 1025		Elgin	IL	60121     	6B	contribution			False	False	False		False
 1850812	15101	402353		Busto	Lisa	2010-01-07 00:00:00	275	275	1482 Polo Court		Bartlett	IL	60103     	8B	accounting fees			False	False	False		False
 1850813	15101	402353		Goodfella's		2010-01-26 00:00:00	1260	1260	1188 N. McLean		Elgin	IL	60123     	8B	election day - expenses			False	False	False		False
@@ -534405,8 +534405,8 @@
 1863460	2865	403955		Citizens for Hertz		2010-06-10 00:00:00	250	250	P.O. Box 229		Wood River	IL	62095     	6B	Contribution (transfer to PAC)			False	False	False		False
 1863461	2865	403955		Citizens for Jesse White		2010-03-31 00:00:00	500	500	25 Oak Knoll		Belleville	IL	62223     	6B	Contribution (transfer to PAC)			False	False	False		False
 1863462	2865	403955		COCA's Summer Golf Outing		2010-06-10 00:00:00	980	980	P.O. Box 596		Maryville	IL	62062     	6B	Contribution (transfer to PAC)			False	False	False		False
-1863463	2865	403955		Committee to Elect Jeremy R. Walker		2010-01-14 00:00:00	250	1250	914 Thomas Dr.		Red Bud	IL	62278-2302	6B	Contribution (transfer to PAC)			False	False	False		False
-1863464	2865	403955		Committee to Elect Jeremy R. Walker		2010-06-10 00:00:00	1000	1250	914 Thomas Dr.		Red Bud	IL	62278-2302	6B	Contribution (transfer to PAC)			False	False	False		False
+1863463	2865	403955		Committee to Elect Jeremy R. Walker		2010-01-14 00:00:00	250	1250	Redaction Requested					6B	Contribution (transfer to PAC)			False	False	False		True
+1863464	2865	403955		Committee to Elect Jeremy R. Walker		2010-06-10 00:00:00	1000	1250	Redaction Requested					6B	Contribution (transfer to PAC)			False	False	False		True
 1863465	2865	403955		Committee to Re-Elect Charles Suarez		2010-04-15 00:00:00	500	500	Bank of America Building	23 Public Square Ste. 440	Belleville	IL	62220     	6B	Contribution (transfer to PAC)			False	False	False		False
 1863466	2865	403955		Donna Hildebrand-Veile for Regional Superintendent		2010-03-11 00:00:00	200	200	1640 E. 1320th St.		Fowler	IL	62338-2109	6B	Contribution (transfer to PAC)			False	False	False		False
 1863467	2865	403955		Friends of Bill Haine		2010-02-11 00:00:00	2000	3500	P.O. Box 5191		Godfrey	IL	62035     	6B	Contribution (transfer to PAC)			False	False	False		False
@@ -558193,8 +558193,8 @@
 1887264	18993	405814		Canning	Christopher	2010-06-30 00:00:00	41.25	467.38	1015 Cherokee Road		Wilmette	IL	60091     	8B	interest			False	False	False		False
 1887265	4657	405816		Maurie's Table Restaurant		2010-04-21 00:00:00	204.09	204.09	2360 Glenwood Avenue		Joliet	IL	60435     	8B	Food/Meeting			False	False	True		False
 1887266	4657	405816		Will-Grundy Counties Central Trades and Labor Council AFL-CIO		2010-02-23 00:00:00	800	800	724 Railroad Street		Joliet	IL	60436     	8B	Tickets to Annual Dinner			False	False	True		False
-1887267	21290	405817		Committee to Elect Jeremy R. Walker		2010-01-21 00:00:00	100	200	914 Thomas Dr.		Red Bud	IL	62278     	6B	contribution			False	False	False		False
-1887268	21290	405817		Committee to Elect Jeremy R. Walker		2010-06-24 00:00:00	100	200	914 Thomas Dr.		Red Bud	IL	62278     	6B	contribution			False	False	False		False
+1887267	21290	405817		Committee to Elect Jeremy R. Walker		2010-01-21 00:00:00	100	200	Redaction Requested					6B	contribution			False	False	False		True
+1887268	21290	405817		Committee to Elect Jeremy R. Walker		2010-06-24 00:00:00	100	200	Redaction Requested					6B	contribution			False	False	False		True
 1887269	21290	405817		Haida/Cook for Judge		2010-06-29 00:00:00	250	250	PO Box 67		Belleville	IL	62222     	6B	contribution			False	False	False		False
 1887270	22114	405818		Breaker Press		2010-01-23 00:00:00	937.5	937.5	2421 S. Western Avenue		Chicago	IL	60707     	8B	printing			False	False	True		False
 1887271	22114	405818		Connect 2Market		2010-01-30 00:00:00	150	339.95	1730 Washington Avenue		Wilmette	IL	60091     	8B	computer - services			False	False	True		False
@@ -601203,7 +601203,7 @@
 1930296	21056	409205		Friends of Cty Board Chairman J. Moustis		2010-08-20 00:00:00	500	500	PO Box 1047		New Lenox	IL	60451     	6B	Direct Contribution			False	False	True		False
 1930297	21056	409205		Friends of Mulroe		2010-09-27 00:00:00	500	500	6687 N Northwest Hwy		Chicago	IL	60631     	6B	Direct Contribution			False	False	True		False
 1930298	21056	409205		Citizens for Matt Murphy		2010-07-19 00:00:00	500	500	c/o Debbie Dietz	36 W. Randolph St Suite 400	Chicago	IL	60601     	6B	Direct Contribution			False	False	True		False
-1930299	21056	409205		Friends of Michelle Mussman		2010-09-27 00:00:00	500	500	217 Tudor Ln		Schaumburg	IL	60193     	6B	Direct Contribution			False	False	True		False
+1930299	21056	409205		Friends of Michelle Mussman		2010-09-27 00:00:00	500	500	Redaction Requested					6B	Direct Contribution			False	False	True		True
 1930300	21056	409205		Citizens for Elaine Nekritz		2010-09-27 00:00:00	500	500	3 The Court of Island Point		Northbrook	IL	60062     	6B	Direct Contribution			False	False	True		False
 1930301	21056	409205		Citizens for Chris Nybo		2010-09-27 00:00:00	250	250	444 S Mitchell Ave		Elmhurst	IL	60126     	6B	Direct Contribution			False	False	True		False
 1930302	21056	409205		Citizens for Osmond		2010-09-27 00:00:00	2500	2500	PO Box 635		Antioch	IL	60002     	6B	Direct Contribution			False	False	True		False
@@ -601329,7 +601329,7 @@
 1930422	20835	409286		Friends of Lisa Dugan		2010-09-22 00:00:00	1800	1800	1489 Armour Rd		Bradley	IL	60915-1350	6B				False	False	True		False
 1930423	20835	409286		Friends Of Michael J Madigan		2010-09-22 00:00:00	22000	30750	P.O. Box 3188		Chicago	IL	60654-3188	6B				False	False	True		False
 1930424	20835	409286		Friends Of Michael J Madigan		2010-09-29 00:00:00	8750	30750	P.O. Box 3188		Chicago	IL	60654-3188	6B				False	False	True		False
-1930425	20835	409286		Friends of Michelle Mussman		2010-09-22 00:00:00	2350	2350	217 Tudor Ln.		Schaumburg	IL	60193-1724	6B				False	False	True		False
+1930425	20835	409286		Friends of Michelle Mussman		2010-09-22 00:00:00	2350	2350	Redaction Requested					6B				False	False	True		True
 1930426	20835	409286		Friends of Robert Rita		2010-09-22 00:00:00	1600	1600	2030 High St		Blue Island	IL	60406-2502	6B				False	False	True		False
 1930427	20835	409286		Friends of Robyn Gabel		2010-09-27 00:00:00	500	500	P.O. Box 6453		Evanston	IL	60204-6453	6B				False	False	True		False
 1930428	20835	409286		Senate Democratic Victory Fund		2010-07-23 00:00:00	2640	2640	29 S LaSalle St. Suite 936		Chicago	IL	60603     	6B				False	False	True		False
@@ -602354,7 +602354,7 @@
 1931447	639	409729	0	38TH WARD REGULAR DEMOCRATIC ORGANIZATION		2010-09-15 00:00:00	200	200	5815 WEST IRVING ROAD		CHICAGO	IL	60634     	6B	Ticket purchase			False	False	True		False
 1931448	639	409729	0	FRIENDS OF JEFFREY TOBOLSKI		2010-09-15 00:00:00	250	250	521 SOUTH LA GRANGE ROAD		LA GRANGE	IL	60525-6700	6B	Contribution			False	False	True		False
 1931449	639	409729	0	TAXPAYERS FOR BRENDAN F. HOULIHAN		2010-09-16 00:00:00	400	400	P.O. BOX 534		PALOS HEIGHTS	IL	60463     	6B	Contribution			False	False	True		False
-1931450	639	409729	0	FRIENDS OF MICHELLE MUSSMAN		2010-09-22 00:00:00	250	250	217 TUDOR LANE		SCHAUMBURG	IL	60193-1724	6B	Ticket purchase			False	False	True		False
+1931450	639	409729	0	FRIENDS OF MICHELLE MUSSMAN		2010-09-22 00:00:00	250	250	Redaction Requested					6B	Ticket purchase			False	False	True		True
 1931451	639	409729	0	DEMOCRATIC PARTY OF ILLINOIS		2010-09-22 00:00:00	500	500	P.O. BOX 518		SPRINGFIELD	IL	62705-0518	6B	Contribution			False	False	True		False
 1931452	639	409729	0	COMMITTEE TO ELECT JAY C. HOFFMAN		2010-09-28 00:00:00	250	500	P.O. BOX 134		COLLINSVILLE	IL	62234     	6B	SILVER SPONSOR			False	False	True		False
 1931453	639	409729	0	FRIENDS OF ROBIN KELLY		2010-09-28 00:00:00	200	200	P.O. BOX 6953		CHICAGO	IL	60680     	6B	Contribution			False	False	True		False
@@ -602958,7 +602958,7 @@
 1932051	1170	409974		Citizens for Thaddeus Jones		2010-09-24 00:00:00	2000	2000	289 Paxton Avenue		Calumet City	IL	60409     	6B	contribution			False	False	True		False
 1932052	1170	409974		Citizens to Elect Keith Farnham		2010-09-24 00:00:00	5000	5000	P.O. Box 1040		Elgin	IL	60121     	6B	contribution			False	False	True		False
 1932053	1170	409974		Daniel Biss for State Representative		2010-09-17 00:00:00	2000	2000	P.O. Box 7026		Evanston	IL	60204     	6B	contribution			False	False	True		False
-1932054	1170	409974		Friends for Michelle Mussman		2010-09-24 00:00:00	5000	5000	217 Tudor Lane		Schaumburg	IL	60193     	6B	contribution			False	False	True		False
+1932054	1170	409974		Friends for Michelle Mussman		2010-09-24 00:00:00	5000	5000	Redaction Requested					6B	contribution			False	False	True		True
 1932055	1170	409974		Friends of Bill Cunningham		2010-09-24 00:00:00	2500	2500	10402 S. Western Ave.		Chicago	IL	60643     	6B	contribution			False	False	True		False
 1932056	1170	409974		Friends of Carol Sente		2010-09-24 00:00:00	2000	2000	1152 Georgetown Way		Vernon Hills	IL	60061-3163	6B	contribution			False	False	True		False
 1932057	1170	409974		Friends of Deborah Conroy		2010-09-24 00:00:00	2500	2500	385 N. Highland Ave.		Elmhurst	IL	60126     	6B	contribution			False	False	True		False
@@ -604659,7 +604659,7 @@
 1933752	639	410439	0	38TH WARD REGULAR DEMOCRATIC ORGANIZATION		2010-09-15 00:00:00	200	200	5815 WEST IRVING ROAD		CHICAGO	IL	60634     	6B	Ticket purchase			False	False	True		False
 1933753	639	410439	0	FRIENDS OF JEFFREY TOBOLSKI		2010-09-15 00:00:00	250	250	521 SOUTH LA GRANGE ROAD		LA GRANGE	IL	60525-6700	6B	Contribution			False	False	True		False
 1933754	639	410439	0	TAXPAYERS FOR BRENDAN F. HOULIHAN		2010-09-16 00:00:00	400	400	P.O. BOX 534		PALOS HEIGHTS	IL	60463     	6B	Contribution			False	False	True		False
-1933755	639	410439	0	FRIENDS OF MICHELLE MUSSMAN		2010-09-22 00:00:00	250	250	217 TUDOR LANE		SCHAUMBURG	IL	60193-1724	6B	Ticket purchase			False	False	True		False
+1933755	639	410439	0	FRIENDS OF MICHELLE MUSSMAN		2010-09-22 00:00:00	250	250	Redaction Requested					6B	Ticket purchase			False	False	True		True
 1933756	639	410439	0	DEMOCRATIC PARTY OF ILLINOIS		2010-09-22 00:00:00	500	500	P.O. BOX 518		SPRINGFIELD	IL	62705-0518	6B	Contribution			False	False	True		False
 1933757	639	410439	0	COMMITTEE TO ELECT JAY C. HOFFMAN		2010-09-28 00:00:00	250	500	P.O. BOX 134		COLLINSVILLE	IL	62234     	6B	SILVER SPONSOR			False	False	True		False
 1933758	639	410439	0	FRIENDS OF ROBIN KELLY		2010-09-28 00:00:00	200	200	P.O. BOX 6953		CHICAGO	IL	60680     	6B	Contribution			False	False	True		False
@@ -605381,7 +605381,7 @@
 1934474	2865	410635		Citizens for Hertz		2010-08-12 00:00:00	500	500	P.O. Box 229		Wood River	IL	62095     	6B	Contribution (transfer to PAC)			False	False	True		False
 1934475	2865	410635		Citizens for Lisa Madigan		2010-08-12 00:00:00	500	500	500 N. Dearborn St.	Suite 510	Chicago	IL	60654     	6B	Contribution (transfer to PAC)			False	False	True		False
 1934476	2865	410635		Committee to Elect Jay Hoffman		2010-07-19 00:00:00	1000	1000	P.O. Box 134		Collinsville	IL	62234     	6B	Contribution (transfer to PAC)			False	False	True		False
-1934477	2865	410635		Committee to Elect Jeremy R. Walker		2010-09-21 00:00:00	2500	2500	914 Thomas Dr.		Red Bud	IL	62278-2302	6B	Contribution (transfer to PAC)			False	False	True		False
+1934477	2865	410635		Committee to Elect Jeremy R. Walker		2010-09-21 00:00:00	2500	2500	Redaction Requested					6B	Contribution (transfer to PAC)			False	False	True		True
 1934478	2865	410635		Committee to Elect Robert Trentman		2010-08-12 00:00:00	250	250	2601 Old Collinsville Road		Belleville	IL	62226-2404	6B	Contribution (transfer to PAC)			False	False	True		False
 1934479	2865	410635		Committee to Elect Tom Holbrook		2010-08-12 00:00:00	5000	5000	230 Summers Trace		Belleville	IL	62220     	6B	Contribution (transfer to PAC)			False	False	True		False
 1934480	2865	410635		Democratic Party of Illinois		2010-08-12 00:00:00	150	1150	P.O. Box 518		Springfield	IL	62705     	6B	Contribution (transfer to PAC)			False	False	True		False
@@ -606843,7 +606843,7 @@
 1935936	13309	411252	0	Friends of Dave Koehler		2010-08-03 00:00:00	1000	1000	1413 NE Madison Ave.		Peoria	IL	61603     	6B	Contribution			False	False	True		False
 1935937	13309	411252	0	Friends of Dan Reitz		2010-08-03 00:00:00	1000	1000	P.O. Box 356		Sparta	IL	62286     	6B	Contribution			False	False	True		False
 1935938	13309	411252	0	The 218 Club of Alton		2010-08-03 00:00:00	500	500	P.O. Box 5152		Godfrey	IL	62035     	6B	Contribution			False	False	True		False
-1935939	13309	411252	0	Friends of Michelle Mussman		2010-08-03 00:00:00	1000	2000	217 Tudor Lane		Schaumburg	IL	60193     	6B	Contribution			False	False	True		False
+1935939	13309	411252	0	Friends of Michelle Mussman		2010-08-03 00:00:00	1000	2000	Redaction Requested					6B	Contribution			False	False	True		True
 1935940	13309	411252	0	Friends of John Bradley, Inc.		2010-08-13 00:00:00	1500	1500	1714 Melmar Drive		Marion	IL	62959     	6B	Contribution			False	False	True		False
 1935941	13309	411252	0	IL Democratic County Chairmen's Assn		2010-08-13 00:00:00	2500	2500	P.O. Box 3445		Springfield	IL	62708-3445	6B	Contribution			False	False	True		False
 1935942	13309	411252	0	Citizens for Michael P. McAuliffe		2010-08-13 00:00:00	2000	2000	7818 West Higgins		Chicago	IL	60631     	6B	Contribution			False	False	True		False
@@ -606886,7 +606886,7 @@
 1935979	13309	411252	0	Citizens for Noland		2010-09-16 00:00:00	5000	5000	100 East Chicago Street	Suite 301	Elgin	IL	60120     	6B	Contribution			False	False	True		False
 1935980	13309	411252	0	Committee to Elect Jeremy Walker		2010-09-16 00:00:00	5000	5000	P.O. Box 98		Red Bud	IL	62278     	6B	Contribution			False	False	True		False
 1935981	13309	411252	0	Friends of Kelly M. Burke		2010-09-16 00:00:00	500	500	9543 S Central Park Ave		Evergreen Park	IL	60805     	6B	Contribution			False	False	True		False
-1935982	13309	411252	0	Friends of Michelle Mussman		2010-09-16 00:00:00	1000	2000	217 Tudor Lane		Schaumburg	IL	60193     	6B	Contribution			False	False	True		False
+1935982	13309	411252	0	Friends of Michelle Mussman		2010-09-16 00:00:00	1000	2000	Redaction Requested					6B	Contribution			False	False	True		True
 1935983	13309	411252	0	Friends of Bob Flider		2010-09-20 00:00:00	7500	15000	P.O. Box 232		Mt. Zion	IL	62549     	6B	Contribution			False	False	True		False
 1935984	13309	411252	0	The Senator Demuzio Committee		2010-09-21 00:00:00	500	15500	4 Valley Lane		Carlinville	IL	62626     	6B	Contribution			False	False	True		False
 1935985	13309	411252	0	Joseph Lyons Campaign Committee		2010-09-21 00:00:00	1000	1000	5441 West Giddings Street		Chicago	IL	60630     	6B	Contribution			False	False	True		False
@@ -607104,7 +607104,7 @@
 1936197	924	411416		Flider Friends of		2010-09-22 00:00:00	1000	1000	P.O. Box 232		Mt. Zion	IL	62549     	6B	contribution			False	False	True		False
 1936198	924	411416		House Republican Organization		2010-09-27 00:00:00	4000	4000	P.O. Box 409		Plainfield	IL	60544     	6B	contribution			False	False	True		False
 1936199	924	411416		Madigan Friends of		2010-09-22 00:00:00	1000	1000	P.O. Box 3188		Chicago	IL	60654     	6B	contribution			False	False	True		False
-1936200	924	411416		Mussman Friends for Michelle		2010-09-22 00:00:00	1000	1000	217 Tudor Lane		Schaumburg	IL	60193     	6B	contribution			False	False	True		False
+1936200	924	411416		Mussman Friends for Michelle		2010-09-22 00:00:00	1000	1000	Redaction Requested					6B	contribution			False	False	True		True
 1936201	924	411416		Nekritz Citizens for Elaine		2010-08-05 00:00:00	500	500	P.O. Box 2563		Glenview	IL	60025     	6B	contribution			False	False	True		False
 1936202	924	411416		Sente Friends of Carol		2010-09-22 00:00:00	1000	1000	1152 Georgetown Way		Vernon Hills	IL	60061     	6B	contribution			False	False	True		False
 1936203	924	411416		Smith/Citizens for Mike		2010-09-22 00:00:00	1000	1000	P.O. Box 186		Canton	IL	61520     	6B	contribution			False	False	True		False
@@ -607499,7 +607499,7 @@
 1936592	16468	411557		Friends of Emily Klunk-McAsey		2010-10-01 00:00:00	10000	10000	920 S. State St.		Lockport	IL	60441-3436	6B	contribution			False	False	True		False
 1936593	16468	411557		Friends of Jehan Gordon		2010-10-01 00:00:00	10000	10000	P.O. Box 6591		Peoria	IL	61601-6591	6B	contribution			False	False	True		False
 1936594	16468	411557		Friends of Lisa Dugan		2010-10-01 00:00:00	10000	10000	1495 Armour Rd		Bradley	IL	60915     	6B	contribution			False	False	True		False
-1936595	16468	411557		Friends of Michelle Mussman		2010-10-01 00:00:00	15000	15000	217 Tudor Lane		Schaumburg	IL	60193     	6B	contribution			False	False	True		False
+1936595	16468	411557		Friends of Michelle Mussman		2010-10-01 00:00:00	15000	15000	Redaction Requested					6B	contribution			False	False	True		True
 1936596	16468	411557		Jakobsson for State Representative		2010-10-01 00:00:00	5000	5000	Box 273		Champaign	IL	61824     	6B	contribution			False	False	True		False
 1936597	16461	411558		Citizens for Bill Brady		2010-08-09 00:00:00	1000	1000	P O Box 5314		Bloomington	IL	61702     	6B	contribution			False	False	True		False
 1936598	16461	411558		Citizens for Kyle McCarter		2010-09-22 00:00:00	3000	3000	912 Indian Springs Road		O'Fallon	IL	62269     	6B	contribution			False	False	True		False
@@ -610892,7 +610892,7 @@
 1939985	18574	413242		Friends of John J. Millner		2010-07-26 00:00:00	1000	1000	P.O. Box 88801		Carol Stream	IL	60188     	6B	contribution			False	False	True		False
 1939986	18574	413242		Friends of Maggie Crotty		2010-07-26 00:00:00	1000	1000	P.O. Box 203		Oak Forest	IL	60452     	6B	contribution			False	False	True		False
 1939987	18574	413242		Friends of Michael J. Madigan		2010-09-28 00:00:00	40000	40000	P.O. Box 3188		Chicago	IL	60654-3188	6B	contribution			False	False	True		False
-1939988	18574	413242		Friends of Michelle Mussman		2010-07-26 00:00:00	750	750	217 Tudor  Lane		Schaumburg	IL	60193     	6B	contribution			False	False	True		False
+1939988	18574	413242		Friends of Michelle Mussman		2010-07-26 00:00:00	750	750	Redaction Requested					6B	contribution			False	False	True		True
 1939989	18574	413242		Friends of Rita Mayfield		2010-09-28 00:00:00	750	750	649 S. Fulton Avenue		Waukegan	IL	60085     	6B	contribution			False	False	True		False
 1939990	18574	413242		Friends of Robert Rita		2010-09-28 00:00:00	10000	10000	2030 High Street		Blue Island	IL	60406     	6B	contribution			False	False	True		False
 1939991	18574	413242		Friends of Robyn Gabel		2010-07-26 00:00:00	750	750	P.O. Box 6453		Evanston	IL	60204-6453	6B	contribution			False	False	True		False
@@ -612384,8 +612384,8 @@
 1941477	21671	413563		Friends of Maggy Crotty		2010-08-03 00:00:00	1000	1000	PO Box 203		Oak Forest	IL	60452     	6B	contribution			False	False	True		False
 1941478	21671	413563		Friends of Mary Flowers		2010-08-03 00:00:00	500	500	7712 S Paulina St		Chicago	IL	60620     	6B	contribution			False	False	True		False
 1941479	21671	413563		Friends of Mattie Hunter		2010-09-01 00:00:00	500	500	11604 S Church Street		Chicago	IL	60643     	6B	contribution			False	False	True		False
-1941480	21671	413563		Friends of Michelle Mussman		2010-08-06 00:00:00	5000	35000	217 Tudor Lane		Schaumburg	IL	60193     	6B	contribution			False	False	True		False
-1941481	21671	413563		Friends of Michelle Mussman		2010-09-23 00:00:00	30000	35000	217 Tudor Lane		Schaumburg	IL	60193     	6B	contribution			False	False	True		False
+1941480	21671	413563		Friends of Michelle Mussman		2010-08-06 00:00:00	5000	35000	Redaction Requested					6B	contribution			False	False	True		True
+1941481	21671	413563		Friends of Michelle Mussman		2010-09-23 00:00:00	30000	35000	Redaction Requested					6B	contribution			False	False	True		True
 1941482	21671	413563		Friends of Mike Jacobs		2010-07-26 00:00:00	500	1000	409 25th Ave Court		East Moline	IL	61244     	6B	contribution			False	False	True		False
 1941483	21671	413563		Friends of Mike Jacobs		2010-09-01 00:00:00	500	1000	409 25th Ave Court		East Moline	IL	61244     	6B	contribution			False	False	True		False
 1941484	21671	413563		Friends of Monique D Davis		2010-07-26 00:00:00	500	500	2147 W 107th Street		Chicago	IL	60643     	6B	contribution			False	False	True		False
@@ -623118,7 +623118,7 @@
 1952211	16459	418140	0	Daniel Biss for State Representative		2010-10-21 00:00:00	750	750	P. O. Box 7026		Evanston	IL	60204     	6B	Contribution			False	False	True		False
 1952212	16459	418140	0	Citizens for Mark Walker		2010-10-21 00:00:00	750	750	P. O. Box 1373		Arlington Heights	IL	60006     	6B	Contribution			False	False	True		False
 1952213	16459	418140	0	Citizens to Elect Keith Farnham		2010-10-21 00:00:00	750	850	P. O. Box 1040		Elgin	IL	60121     	6B	Contribution			False	False	True		False
-1952214	16459	418140	0	Friends of Michelle Mussman		2010-10-21 00:00:00	750	750	217 Tudor Lane		Schaumburg	IL	60193     	6B	Contribution			False	False	True		False
+1952214	16459	418140	0	Friends of Michelle Mussman		2010-10-21 00:00:00	750	750	Redaction Requested					6B	Contribution			False	False	True		True
 1952215	16459	418140	0	Citizens for Fred Crespo		2010-10-21 00:00:00	750	750	P. O. Box 95628		Hoffman Estates	IL	60195     	6B	Contribution			False	False	True		False
 1952216	16459	418140	0	Citizens for Mike Smith		2010-10-21 00:00:00	750	1000	P.O. Box 186		Canton	IL	61520     	6B	Contribution			False	False	True		False
 1952217	16459	418140	0	Friends of Carol Sente		2010-10-21 00:00:00	500	750	680 Barclay Blvd.		Lincolnshire	IL	60069     	6B	Contribution			False	False	True		False
@@ -628730,8 +628730,8 @@
 1957823	451	418906		Friends of Chapin Rose		2010-10-27 00:00:00	500	500	P.O. Box 435		Charleston	IL	61920     	6B	contribution			False	False	False		False
 1957824	451	418906		Friends of Frerichs		2010-10-26 00:00:00	1500	1500	P.O. Box 504		Gifford	IL	61847-0504	6B	contribution			False	False	False		False
 1957825	451	418906		Friends of Marla Wilson		2010-10-27 00:00:00	1000	1000	631 N. Longwood Street		Rockford	IL	61107-4263	6B	contribution			False	False	False		False
-1957826	451	418906		Friends of Michelle Mussman		2010-10-12 00:00:00	500	1000	217 Tudor Lane		Schaumburg	IL	60193     	6B	contribution			False	False	False		False
-1957827	451	418906		Friends of Michelle Mussman		2010-10-27 00:00:00	500	1000	217 Tudor Lane		Schaumburg	IL	60193     	6B	contribution			False	False	False		False
+1957826	451	418906		Friends of Michelle Mussman		2010-10-12 00:00:00	500	1000	Redaction Requested					6B	contribution			False	False	False		True
+1957827	451	418906		Friends of Michelle Mussman		2010-10-27 00:00:00	500	1000	Redaction Requested					6B	contribution			False	False	False		True
 1957828	451	418906		Friends of Wayne Rosenthal		2010-10-26 00:00:00	1000	1000	423 North State Street		Litchfield	IL	62056     	6B	contribution			False	False	False		False
 1957829	451	418906		Mulroe for Senator		2010-10-12 00:00:00	500	500	6687 W. Northwest Hwy.		Chicago	IL	60631     	6B	contribution			False	False	False		False
 1957830	451	418906		Senator Vince Demuzio Cmte.		2010-10-12 00:00:00	500	1500	4 Valley Lane		Carlinville	IL	62626     	6B	contribution			False	False	False		False
@@ -630508,7 +630508,7 @@
 1959603	16468	419149		Friends of Emily Klunk-McAsey		2010-10-01 00:00:00	10000	10000	920 S. State St.		Lockport	IL	60441-3436	6B	contribution			False	False	False		False
 1959604	16468	419149		Friends of Jehan Gordon		2010-10-01 00:00:00	10000	10000	P.O. Box 6591		Peoria	IL	61601-6591	6B	contribution			False	False	False		False
 1959605	16468	419149		Friends of Lisa Dugan		2010-10-01 00:00:00	10000	10000	1495 Armour Rd		Bradley	IL	60915     	6B	contribution			False	False	False		False
-1959606	16468	419149		Friends of Michelle Mussman		2010-10-01 00:00:00	15000	15000	217 Tudor Lane		Schaumburg	IL	60193     	6B	contribution			False	False	False		False
+1959606	16468	419149		Friends of Michelle Mussman		2010-10-01 00:00:00	15000	15000	Redaction Requested					6B	contribution			False	False	False		True
 1959607	16468	419149		Jakobsson for State Representative		2010-10-01 00:00:00	5000	5000	Box 273		Champaign	IL	61824     	6B	contribution			False	False	False		False
 1959608	21378	419157		Citizens for Luke Parr		2010-09-27 00:00:00	250	250	1541 County Road 1200N		Greenup	IL	62428     	6B	contribution			False	False	True		False
 1959609	21378	419157		Committee to Elect Sue Kemp-Guillemette as County Clerk		2010-09-29 00:00:00	250	250	8500 N Grand Turn Rd		Marshall	IL	62441     	6B	contribution			False	False	True		False
@@ -633196,7 +633196,7 @@
 1962291	21056	419368		Friends of Cty Board Chairman J. Moustis		2010-08-20 00:00:00	500	500	PO Box 1047		New Lenox	IL	60451     	6B	Direct Contribution			False	False	False		False
 1962292	21056	419368		Friends of Mulroe		2010-09-27 00:00:00	500	500	6687 N Northwest Hwy		Chicago	IL	60631     	6B	Direct Contribution			False	False	False		False
 1962293	21056	419368		Citizens for Matt Murphy		2010-07-19 00:00:00	500	500	c/o Debbie Dietz	36 W. Randolph St Suite 400	Chicago	IL	60601     	6B	Direct Contribution			False	False	False		False
-1962294	21056	419368		Friends of Michelle Mussman		2010-09-27 00:00:00	500	500	217 Tudor Ln		Schaumburg	IL	60193     	6B	Direct Contribution			False	False	False		False
+1962294	21056	419368		Friends of Michelle Mussman		2010-09-27 00:00:00	500	500	Redaction Requested					6B	Direct Contribution			False	False	False		True
 1962295	21056	419368		Citizens for Elaine Nekritz		2010-09-27 00:00:00	500	500	3 The Court of Island Point		Northbrook	IL	60062     	6B	Direct Contribution			False	False	False		False
 1962296	21056	419368		Citizens for Chris Nybo		2010-09-27 00:00:00	250	250	444 S Mitchell Ave		Elmhurst	IL	60126     	6B	Direct Contribution			False	False	False		False
 1962297	21056	419368		Citizens for Osmond		2010-09-27 00:00:00	2500	2500	PO Box 635		Antioch	IL	60002     	6B	Direct Contribution			False	False	False		False
@@ -636206,7 +636206,7 @@
 1965301	639	419661	0	38TH WARD REGULAR DEMOCRATIC ORGANIZATION		2010-09-15 00:00:00	200	200	5815 WEST IRVING ROAD		CHICAGO	IL	60634     	6B	Ticket purchase			False	False	False		False
 1965302	639	419661	0	FRIENDS OF JEFFREY TOBOLSKI		2010-09-15 00:00:00	250	250	521 SOUTH LA GRANGE ROAD		LA GRANGE	IL	60525-6700	6B	Contribution			False	False	False		False
 1965303	639	419661	0	TAXPAYERS FOR BRENDAN F. HOULIHAN		2010-09-16 00:00:00	400	400	P.O. BOX 534		PALOS HEIGHTS	IL	60463     	6B	Contribution			False	False	False		False
-1965304	639	419661	0	FRIENDS OF MICHELLE MUSSMAN		2010-09-22 00:00:00	250	250	217 TUDOR LANE		SCHAUMBURG	IL	60193-1724	6B	Ticket purchase			False	False	False		False
+1965304	639	419661	0	FRIENDS OF MICHELLE MUSSMAN		2010-09-22 00:00:00	250	250	Redaction Requested					6B	Ticket purchase			False	False	False		True
 1965305	639	419661	0	DEMOCRATIC PARTY OF ILLINOIS		2010-09-22 00:00:00	500	500	P.O. BOX 518		SPRINGFIELD	IL	62705-0518	6B	Contribution			False	False	False		False
 1965306	639	419661	0	COMMITTEE TO ELECT JAY C. HOFFMAN		2010-09-28 00:00:00	250	750	P.O. BOX 134		COLLINSVILLE	IL	62234     	6B	SILVER SPONSOR			False	False	False		False
 1965307	639	419661	0	FRIENDS OF ROBIN KELLY		2010-09-28 00:00:00	200	200	P.O. BOX 6953		CHICAGO	IL	60680     	6B	Contribution			False	False	False		False
@@ -638763,7 +638763,7 @@
 1967858	20835	420003	0	Citizens For lou Lang		2010-09-22 00:00:00	2750	8250	P.O Box 1815		Skokie	IL	60076-1815	6B				False	False	False		False
 1967859	20835	420003	0	Friends of Robert Rita		2010-09-22 00:00:00	1600	5100	2030 High St		Blue Island	IL	60406-2502	6B				False	False	False		False
 1967860	20835	420003	0	Citizens to elect Keith Farnham		2010-09-22 00:00:00	1200	5450	P.O. Box  1040		Elgin	IL	60121-1040	6B				False	False	False		False
-1967861	20835	420003	0	Friends of Michelle Mussman		2010-09-22 00:00:00	2350	4600	217 Tudor Ln.		Schaumburg	IL	60193-1724	6B				False	False	False		False
+1967861	20835	420003	0	Friends of Michelle Mussman		2010-09-22 00:00:00	2350	4600	Redaction Requested					6B				False	False	False		True
 1967862	20835	420003	0	Citizens for Mark Walker		2010-09-22 00:00:00	2850	4550	P.O.Box 1373		Arlington Heights	IL	60006-1373	6B				False	False	False		False
 1967863	20835	420003	0	Committee for Frank J Mautino		2010-09-22 00:00:00	5000	9000	P.O. Box 36		Spring Valley	IL	61362-0036	6B				False	False	False		False
 1967864	20835	420003	0	Friends of Lisa Dugan		2010-09-22 00:00:00	1800	3050	1489 Armour Rd		Bradley	IL	60915-1350	6B				False	False	False		False
@@ -638780,7 +638780,7 @@
 1967875	20835	420003	0	Friends of Robert Rita		2010-10-05 00:00:00	3500	5100	2030 High St		Blue Island	IL	60406-2502	6B	Contribution			False	False	False		False
 1967876	20835	420003	0	Citizens to elect Keith Farnham		2010-10-05 00:00:00	4250	5450	P.O. Box  1040		Elgin	IL	60121-1040	6B	Contribution			False	False	False		False
 1967877	20835	420003	0	Citizens For Fred Crespo		2010-10-05 00:00:00	2500	3950	940 S Frontage Rd., Suite 1600		Woodridge	IL	60517     	6B	Contribution			False	False	False		False
-1967878	20835	420003	0	Friends of Michelle Mussman		2010-10-05 00:00:00	2250	4600	217 Tudor Ln.		Schaumburg	IL	60193-1724	6B	Contribution			False	False	False		False
+1967878	20835	420003	0	Friends of Michelle Mussman		2010-10-05 00:00:00	2250	4600	Redaction Requested					6B	Contribution			False	False	False		True
 1967879	20835	420003	0	Citizens for Mark Walker		2010-10-05 00:00:00	1700	4550	P.O.Box 1373		Arlington Heights	IL	60006-1373	6B	Contribution			False	False	False		False
 1967880	20835	420003	0	Committee for Frank J Mautino		2010-10-05 00:00:00	4000	9000	P.O. Box 36		Spring Valley	IL	61362-0036	6B	Contribution			False	False	False		False
 1967881	20835	420003	0	Friends of Lisa Dugan		2010-10-05 00:00:00	1250	3050	1489 Armour Rd		Bradley	IL	60915-1350	6B	Contribution			False	False	False		False
@@ -642843,4 +642843,7 @@
 1971938	4481	420372		Roselle Chamber of Commerce		2010-02-22 00:00:00	25	485	8 E. Devon Ave.		Roselle	IL	60172     	8B	ticket purchase			False	False	True		False
 1971939	4481	420372		Roselle Chamber of Commerce		2010-04-15 00:00:00	150	485	8 E. Devon Ave.		Roselle	IL	60172     	8B	golf outing			False	False	True		False
 1971940	4481	420372		Roselle Chamber of Commerce		2010-05-02 00:00:00	150	485	8 E. Devon Ave.		Roselle	IL	60172     	8B	ticket purchase			False	False	True		False
-1971941	4481	420372		Roselle Chamber of Commerce		2010-05-12 00:00:00	125	485	8 E. 
+1971941	4481	420372		Roselle Chamber of Commerce		2010-05-12 00:00:00	125	485	8 E. Devon Ave.		Roselle	IL	60172     	8B	golf outing			False	False	True		False
+1971942	4481	420372		Roselle Chamber of Commerce		2010-05-15 00:00:00	35	485	8 E. Devon Ave.		Roselle	IL	60172     	8B	golf outing			False	False	True		False
+1971943	4481	420372		Run for the Roses		2010-05-26 00:00:00	500	500	384 E. Irving Park Rd.		Roselle	IL	60172     	8B	donation			False	False	True		False
+1971944	4481	420372		Sams Club		2010-04-17 00:00:00	35.05	27

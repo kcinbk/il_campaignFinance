@@ -4688,6 +4688,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 521	Chapman	Charles W						Judge	Circuit Court	3	Madison	Democratic	False
 3955	Chapman	Charles W	6105 Old Carpenter Road		Edwardsville	IL	62025	Judge	Supreme Court	5	Madison	Democratic	False
 42268	Chapman	Colby	121 E. 155th St		Harvey	IL	60426	Alderperson	Ward	Harvey 2	Cook	Democratic	False
+54400	Chapman	Colby M.	15144 Center Ave.	PO Box 1087	Harvey	IL	60426     	Mayor	City	Harvey	Cook	Non Partisan	False
 3739	Chapman	Fanton			East St Louis	IL	62203	Member	School	189	St Clair	Non Partisan	False
 21568	Chapman	Gerald	PO Box 1305		Palatine	IL	60068	Member	School	15	Cook	Independent	False
 43545	Chapman	Jean	8301 7th St. West		Rock Island	IL	61201	Clerk	Township	Blackhawk	Rock Island	Democratic	False
@@ -13138,6 +13139,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 2480	Huels	Patrick M	3243 S Emerald		Chicago	IL		Alderperson	Ward	Chicago 11 	Cook	Non Partisan	False
 53033	Huelsman	Kimberly	8912 Kinvara Ave.		Mokena	IL	60448     	Trustee	Village	Mokena	Whiteside	Non Partisan	False
 23374	Huemann	John J	2610 Tivoli Terrace		Johnsburg	IL	60051	Trustee	Village	Johnsburg	McHenry	Independent	False
+54399	Huerta	Juan	3024 Summerwood Dr.		Springfield	IL	62712     	Alderperson	Ward	1	Sangamon	Non Partisan	False
 19826	Huette	Kevin	2511 Garlington Ln		Bloomington	IL	61704	Councilman	City	Bloomington	McLean		False
 46566	Huff	Jason	7864 S. Kedvale Ave		Chicago	Il	60652	Police District Council	City	8	Cook	Democratic	False
 54222	Huff	Jason	6107 W. 64th Place		Chicago	IL	60638     	Councilman	City	Chicago	Cook	Non Partisan	False
@@ -21767,6 +21769,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 4300	Orsolini	Alexander	8918 Route 12		Richmond	IL	60071	Member	County Board	McHenry 5  	McHenry	Republican	False
 14951	Ortale	Carl F	4938 Sassafras		Carterville	IL	62918	State Representative	Representative	117	Williamson	Democratic	False
 43767	Ortega	Melissa	2204 W. Nichols Rd. Apt E		Arlington Heights	IL	60004	Supervisor	Township	Palatine	Cook	Democratic	False
+54401	Ortega	Melissa	107 S. Greeley		Palatine	IL	60067     	Councilperson	Village	Palatine	Cook	Non Partisan	False
 48709	Ortega	Ruth	1347 Home Avenue		Berwyn	IL	60402	Alderperson	Ward	Berwyn 8	Cook	Democratic	False
 52928	Orth	Charles	1655 Orchard Lane		Northfield	IL	60093     	President	Village	Northfield	Cook	Non Partisan	False
 8978	Orthwein	William C	Po Box 3332		Carbondale	IL	62902	Treasurer	County	Jackson 	Jackson	Republican	False

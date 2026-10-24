@@ -1,43 +1,4 @@
-B	Fundraiser			False	False	False		False
-3932331	185	786596	0	Jones, Citizens for Thaddeus		2019-06-20 00:00:00	1000	1000	PO Box 1936		Calumet City	IL	60409     	6B	Fundraiser			False	False	False		False
-3932332	185	786596	0	Kifowit, Friends of Stephanie		2019-06-20 00:00:00	1000	1000	P.O. Box 1414		Aurora	IL	60507     	6B	Fundraiser			False	False	False		False
-3932333	185	786596	0	Mayfield, Friends of Rita		2019-06-20 00:00:00	1000	1000	649 S. Fulton Ave.		Waukegan	IL	60085     	6B	Fundraiser			False	False	False		False
-3932334	185	786596	0	Mah, Friends of Theresa		2019-06-20 00:00:00	1000	1000	c/o Barry Aldridge	3500 N Lakewood Ave.	Chicago	IL	60657     	6B	Fundraiser			False	False	False		False
-3932335	185	786596	0	Southwest Area Council		2019-06-20 00:00:00	7693.35	22526.7	Joe Eble, President	59 Magnolia Dr.	Belleville	IL	62221     	8B	Cope rebate			False	False	False		False
-3932338	185	786596	0	Walker, Citizens for Mark		2019-06-20 00:00:00	500	500	645 S. Burton Pl.		Arlington Hgts.	IL	60005     	6B	Fundraiser			False	False	False		False
-3932339	185	786596	0	Ford, Citizens to Elect La Shawn K.		2019-06-27 00:00:00	1000	1000	5104 W Chicago Ave., 2nd Floor		Chicago	IL	60651     	6B	Fundraiser			False	False	False		False
-3932340	185	786596	0	Fowler (Dale) for Senate		2019-06-27 00:00:00	1000	1000	PO Box 404		Harrisburg	IL	62946     	6B	Fundraiser			False	False	False		False
-3932341	185	786596	0	Reitz, Friends of Nathan		2019-06-06 00:00:00	1000	1000	PO Box 95		Steeleville	IL	62288     	6B	Fundraiser			False	False	False		False
-3932342	185	786596	0	Chicago Teachers Union, IFT Local 1		2019-06-20 00:00:00	168084.7	279493.55	Jesse Sharkey, President	1901 W. Carroll Ave.	Chicago	IL	60612     	8B	Cope rebate			False	False	False		False
-3932343	185	786596	0	Lake County Fed. of Teachers, IFT Local 504		2019-06-20 00:00:00	13580.35	54534.55	Mike McGue, Pres.	248 Ambrogio Dr.	Gurnee	IL	60031     	8B	Cope rebate			False	False	False		False
-3932344	185	786596	0	West Suburban Teachers Union, IFT Local 571		2019-06-20 00:00:00	9117.5	27364.75	Jane Russell, President	500 Oakmont Ln.	Westmont	IL	60559     	8B	Cope rebate			False	False	False		False
-3932345	185	786596	0	AFT Local 604		2019-06-20 00:00:00	25957.75	77910	William Briggs, Pres.	1520 N. Rock Run Dr., #1	Crest Hill	IL	60403-3153	8B	Cope rebate			False	False	False		False
-3932346	185	786596	0	Peoria Fed. of Teachers, IFT Local 780		2019-06-20 00:00:00	504	1504.65	Jeffrey Adkins Dutro, Pres.	1104 N Edgehill Ct	West Peoria	IL	61604     	8B	Cope rebate			False	False	False		False
-3932347	185	786596	0	Southwest Suburban Teachers Union, IFT Local 943		2019-06-20 00:00:00	3388.35	10159.8	Elaine Barlos, President	9613 Kedvale Ave Apt 101	Oak Lawn	IL	60453     	8B	Cope rebate			False	False	False		False
-3932348	185	786596	0	Northwest Suburban Teachers Union, Local 1211		2019-06-20 00:00:00	5804.05	17409.7	John Braglia, Pres.	2010 E Algonquin Rd Ste 214	Schaumburg	IL	60173-4191	8B	Cope rebate			False	False	False		False
-3932349	185	786596	0	North Suburban Teachers Union, IFT Local 1274		2019-06-20 00:00:00	4370.8	13021.75	Steve Grossman, Pres.	9933 N Lawler #222	Skokie	IL	60077-3703	8B	Cope rebate			False	False	False		False
-3932350	185	786596	0	Villa, Citizens for Karina		2019-05-16 00:00:00	2000	2000	PO Box 457		West Chicago	IL	60186     	6B	Fundraiser			False	False	False		False
-3932351	185	786596	0	AFT Local 604		2019-05-16 00:00:00	25974.9	77910	William Briggs, Pres.	1520 N. Rock Run Dr., #1	Crest Hill	IL	60403-3153	8B	Cope rebate			False	False	False		False
-3932352	185	786596	0	Bertino-Tarrant, Committee to Elect Jennifer		2019-06-06 00:00:00	2500	2500	900 Plainfield Rd.		Joliet	IL	60435     	6B	Fundraiser			False	False	False		False
-3932353	185	786596	0	Bryant, Committee to Elect Terri		2019-06-06 00:00:00	1000	1000	P.O. Box 363		Murphysboro	IL	62966     	6B	Fundraiser			False	False	False		False
-3932354	185	786596	0	Castro, Citizens for Cristina		2019-06-06 00:00:00	1000	1000	PO Box 1506		Elgin	IL	60121     	6B	Fundraiser			False	False	False		False
-3932355	185	786596	0	D'Amico, Friends of John C.		2019-06-06 00:00:00	1000	1000	4406 W. Lawrence Ave.		Chicago	IL	60630-2511	6B	Fundraiser			False	False	False		False
-3932356	185	786596	0	DeLuca, Friends for State Rep. Anthony		2019-06-06 00:00:00	1000	1000	852 Macker Dr.		Chicago Heights	IL	60411     	6B	Fundraiser			False	False	False		False
-3932357	185	786596	0	Davidsmeyer, Citizens for C.D.		2019-06-06 00:00:00	500	500	P.O. Box 401		Jacksonville	IL	62651-0401	6B	Fundraiser			False	False	False		False
-3932358	185	786596	0	Greenwood, Friends of LaToya N.		2019-06-06 00:00:00	1000	1000	5111 W. Main St.		Belleville	IL	62226     	6B	Fundraiser			False	False	False		False
-3932359	185	786596	0	Gillespie, Citizens for Ann		2019-06-06 00:00:00	1000	1000	PO Box 94		Mt. Prospect	IL	60056     	6B	Fundraiser			False	False	False		False
-3932360	185	786596	0	Glowiak, Friends of Suzy		2019-06-06 00:00:00	500	1000	PO Box 3454		Oak Brook	IL	60522     	6B	Fundraiser			False	False	False		False
-3932361	185	786596	0	House Republican Organization		2019-06-06 00:00:00	500	1500	16W281 83rd St.	Suite D	Burr Ridge	IL	60527     	6B	Fundraiser			False	False	False		False
-3932362	185	786596	0	Link, Friends of Terry		2019-06-06 00:00:00	1000	1000	P.O. Box 611		Lincolnshire	IL	60069     	6B	Fundraiser			False	False	False		False
-3932363	185	786596	0	Munoz, Citizens for Antonio		2019-06-06 00:00:00	1600	1600	P.O. Box 1926		Springfield	IL	62705-1926	6B	Fundraiser			False	False	False		False
-3932364	185	786596	0	Republican State Senate Campaign Committee		2019-06-06 00:00:00	500	500	2731 S. MacArthur Blvd.	Suite 200	Springfield	IL	62704     	6B	Fundraiser			False	False	False		False
-3932365	185	786596	0	West, Citizens for Maurice		2019-06-06 00:00:00	500	500	PO Box 4303		Rockford	IL	61110     	6B	Fundraiser			False	False	False		False
-3932366	185	786596	0	Hernandez, Citizens for Lisa (Elizabeth)		2019-06-27 00:00:00	1000	1000	2137 S Lombard Ave., #204		Cicero	IL	60804     	6B	Fundraiser			False	False	False		False
-3932367	185	786596	0	Halpin, Friends of Mike		2019-06-27 00:00:00	1000	1000	PO Box 6937		Rock Island	IL	61204-6937	6B	Fundraiser			False	False	False		False
-3932368	185	786596	0	Morrison (Julie) for State Senate		2019-06-27 00:00:00	500	500	P.O. Box 646		Deerfield	IL	60015-0646	6B	Fundraiser			False	False	False		False
-3932369	185	786596	0	Villivalam, Friends of Ram		2019-06-27 00:00:00	2500	2500	4640 N. Kilbourn Ave.	Unit 1	Chicago	IL	60630-4024	6B	Fundraiser			False	False	False		False
-3932370	185	786596	0	Rita, Friends of Robert		2019-06-27 00:00:00	1000	1000	13541 Cicero Ave.		Crestwood	IL	60445     	6B	Fundraiser			False	False	False		False
-3932371	185	786596	0	Sims, Friends of Elgie		2019-06-27 00:00:00	1000	1000	8142A S. Prairie Park Pl.		Chicago	IL	60619-4800	6B	Fundraiser			False	False	False		False
+ndraiser			False	False	False		False
 3932372	185	786596	0	Illinois Federation of Teachers		2019-05-16 00:00:00	105	535.5	500 Oakmont Ln.		Westmont	IL	60559-5520	8B	Reimbursement for overpayment of COPE dues			False	False	False		False
 3932373	185	786596	0	Smith, Friends of Nicholas		2019-04-04 00:00:00	500	500	PO Box 286152		Chicago	IL	60628     	6B	Fundraiser			False	False	False		False
 3932374	185	786596	0	Schimpf, Citizens for Paul		2019-04-04 00:00:00	1000	1000	PO Box 16		Waterloo	IL	62298     	6B	Fundraiser			False	False	False		False
@@ -3976,7 +3937,7 @@ B	Fundraiser			False	False	False		False
 3937304	5345	789683	0	Rogers Kirk Campaign Committee		2020-09-16 00:00:00	250	250	1730 Elmwood Ct		Bettendorf	IA	52722     	6B	Contribution			False	False	False		False
 3937305	909	789712	0	Friends of Deborah Conroy		2016-10-03 00:00:00	500	500	PO Box 6721		Villa Park	IL	60181     	6B	Contribution			False	False	False		False
 3937306	909	789712	0	Friends for Marty Moylan for State Rep		2016-10-03 00:00:00	500	500	PO Box 204		Des Plaines	IL	60016-0204	6B	Contribution			False	False	False		False
-3937307	909	789712	0	Friends of Michelle Mussman		2016-10-03 00:00:00	500	500	217 Tudor Ln		Schaumburg	IL	60193-1724	6B	Contribution			False	False	False		False
+3937307	909	789712	0	Friends of Michelle Mussman		2016-10-03 00:00:00	500	500	Redaction Requested					6B	Contribution			False	False	False		True
 3937308	909	789712	0	Friends of Sam Yingling		2016-10-03 00:00:00	500	500	1919 Illinois Route 83		Round Lake Beach	IL	60073     	6B	Contribution			False	False	False		False
 3937309	909	789712	0	Smiddy for State Representative		2016-10-03 00:00:00	500	500	PO Box 171		Hillsdale	IL	61257     	6B	Contribution			False	False	False		False
 3937310	909	789712	0	Friends of Mike Halpin		2016-10-03 00:00:00	500	500	PO Box 6937		Rock Island	IL	61204-6937	6B	Contribution			False	False	False		False
@@ -4048,7 +4009,7 @@ B	Fundraiser			False	False	False		False
 3937378	909	789713	0	Friends of Litesa Wallace		2017-03-29 00:00:00	250	250	4208 Middlebury Ave Apt 3		Rockford	IL	61109-8308	6B	Contribution			False	False	False		False
 3937379	909	789713	0	Fowler for Senate		2017-03-29 00:00:00	150	300	P.O. Box 404		Harrisburg	IL	62946     	6B	Contribution			False	False	False		False
 3937380	909	789713	0	Citizens for Schimpf		2017-03-29 00:00:00	150	300	937 White Oak Dr		Waterloo	IL	62298-6007	6B	Contribution			False	False	False		False
-3937381	909	789713	0	Friends of Michelle Mussman		2017-03-29 00:00:00	200	200	217 Tudor Ln		Schaumburg	IL	60193-1724	6B	Contribution			False	False	False		False
+3937381	909	789713	0	Friends of Michelle Mussman		2017-03-29 00:00:00	200	200	Redaction Requested					6B	Contribution			False	False	False		True
 3937382	909	789713	0	Friends of Tabares		2017-03-29 00:00:00	200	200	5524 S Nordica Ave		Chicago	IL	60638-2212	6B	Contribution			False	False	False		False
 3937383	909	789713	0	Friends of Jaime M Andrade Jr		2017-03-29 00:00:00	200	200	3655 N Kedzie Ave		Chicago	IL	60618-4513	6B	Contribution			False	False	False		False
 3937384	909	789713	0	Team Demmer		2017-03-29 00:00:00	250	250	PO Box 192		Dixon	IL	61021     	6B	Contribution			False	False	False		False
@@ -4418,7 +4379,7 @@ B	Fundraiser			False	False	False		False
 3937746	909	789719	0	Olsen for IL		2018-08-20 00:00:00	250	250	P.O. Box 582		Downers Grove	IL	60515     	6B	Contribution			False	False	False		False
 3937747	909	789719	0	Winger for Rep		2018-08-20 00:00:00	250	250	336 S Dominion Dr		Wood Dale	IL	60191-2304	6B	Contribution			False	False	False		False
 3937748	909	789719	0	Friends for Anna Moeller		2018-08-20 00:00:00	500	500	PO Box 1086		Elgin	IL	60121     	6B	Contribution			False	False	False		False
-3937749	909	789719	0	Friends of Michelle Mussman		2018-08-20 00:00:00	500	500	217 Tudor Ln		Schaumburg	IL	60193-1724	6B	Contribution			False	False	False		False
+3937749	909	789719	0	Friends of Michelle Mussman		2018-08-20 00:00:00	500	500	Redaction Requested					6B	Contribution			False	False	False		True
 3937750	909	789719	0	Friends of Deborah Conroy		2018-08-20 00:00:00	500	500	PO Box 6721		Villa Park	IL	60181     	6B	Contribution			False	False	False		False
 3937751	909	789719	0	Citizens for Mark Walker		2018-08-20 00:00:00	250	250	PO Box 1373		Arlington Heights	IL	60006     	6B	Contribution			False	False	False		False
 3937752	909	789719	0	Friends of Daniel Didech		2018-08-20 00:00:00	250	250	PO Box 4959		Buffalo Grove	IL	60089     	6B	Contribution			False	False	False		False
@@ -4705,7 +4666,7 @@ B	Fundraiser			False	False	False		False
 3938034	909	789723	0	Friends of LaToya N. Greenwood		2019-08-16 00:00:00	250	250	5111 W. Main St		Belleville	IL	62226     	6B	Contribution			False	False	False		False
 3938035	909	789723	0	Citizens to Elect John Connor		2019-08-16 00:00:00	250	250	2106 Lawrence Ave		Lockport	IL	60441     	6B	Contribution			False	False	False		False
 3938036	909	789723	0	Citizens for Michael E Hastings		2019-07-02 00:00:00	1000	1000	PO Box 162		Tinley Park	IL	60477-0162	6B	Contribution			False	False	False		False
-3938037	909	789723	0	Friends of Michelle Mussman		2019-07-02 00:00:00	500	500	217 Tudor Ln		Schaumburg	IL	60193-1724	6B	Contribution			False	False	False		False
+3938037	909	789723	0	Friends of Michelle Mussman		2019-07-02 00:00:00	500	500	Redaction Requested					6B	Contribution			False	False	False		True
 3938038	909	789723	0	Citizens for Fred Crespo		2019-07-02 00:00:00	500	500	PO Box 95628		Hoffman Estates	IL	60195-0628	6B	Contribution			False	False	False		False
 3938039	909	789723	0	Friends of Diane Pappas		2019-07-02 00:00:00	500	500	242 S Maple St		Itasca	IL	60143     	6B	Contribution			False	False	False		False
 3938040	909	789723	0	Friends of Robyn Gabel		2019-07-02 00:00:00	500	500	PO Box 6453		Evanston	IL	60204-6453	6B	Contribution			False	False	False		False
@@ -6847,7 +6808,7 @@ B	Fundraiser			False	False	False		False
 3940178	1085	790923	0	Meier/Citizens for Charlie Meier		2020-10-02 00:00:00	750	750	203 S. Abby Road		Okawville	IL	62271     	6B	Contribution			False	False	False	usa	False
 3940179	1085	790923	0	Moylan/Friends of Martin Moylan		2020-10-02 00:00:00	500	500	Box 204		Des Plaines	IL	60016     	6B	Contribution			False	False	False		False
 3940180	1085	790923	0	Murphy/Friends of Mike Murphy		2020-10-02 00:00:00	500	500	PO Box 6721		Springfield	IL	62705     	6B	Contribution			False	False	False		False
-3940181	1085	790923	0	Mussman/Friends of Michelle Mussman		2020-10-02 00:00:00	500	500	217 Tudor Lane		Schaumburg	IL	60193     	6B	Contribution			False	False	False		False
+3940181	1085	790923	0	Mussman/Friends of Michelle Mussman		2020-10-02 00:00:00	500	500	Redaction Requested					6B	Contribution			False	False	False		True
 3940182	1085	790923	0	Pappas/Friends of diane Pappas		2020-10-02 00:00:00	750	750	242 S. Maple Street		Itasca	IL	60143     	6B	Contribution			False	False	False		False
 3940183	1085	790923	0	Reick/Committee to Elect Steven Reick		2020-10-02 00:00:00	1000	1000	PO Box 27		Howard	IL	60033     	6B	Contribution			False	False	False		False
 3940184	1085	790923	0	Rita/Friends of Bob Rita	Bob	2020-10-02 00:00:00	1000	1000	2040 High Street		Blue Island	IL	60406     	6B	Contribution			False	False	False		False
@@ -7022,7 +6983,7 @@ B	Fundraiser			False	False	False		False
 3940350	35695	790985	0	Friends of Tom Bennett		2020-10-13 00:00:00	250	250	PO Box 505		Gibson City	IL	60936     	6B	Contribution			False	False	False		False
 3940351	35695	790985	0	Citizens for Gregory Harris		2020-10-13 00:00:00	250	250	PO Box 180176		Chicago	IL	60618     	6B	Contribution			False	False	False		False
 3940352	35695	790985	0	Committee to Elect John Connor		2020-10-15 00:00:00	250	250	2106 Lawrence Ave.		Lockport	IL	60411     	6B	Contribution			False	False	False		False
-3940353	35695	790985	0	Friends of Michelle Mussman		2020-10-16 00:00:00	250	250	217 Tudor Lane		Schaumburg	IL	60193     	6B	Contribution			False	False	False		False
+3940353	35695	790985	0	Friends of Michelle Mussman		2020-10-16 00:00:00	250	250	Redaction Requested					6B	Contribution			False	False	False		True
 3940354	35695	790985	0	Citizens for Durkin		2020-10-20 00:00:00	1250	1250	16W281 83rd Street, Ste. D		Burr Ridge	IL	60527     	6B	Contribution			False	False	False		False
 3940355	35695	790985	0	Citizens for Charlie Meier		2020-10-20 00:00:00	250	250	203 S. Abby Road		Okawville	IL	62271     	6B	Contribution			False	False	False		False
 3940356	35695	790985	0	Laura Hois for State Rep		2020-10-23 00:00:00	250	250	P.O. Box 982		Downers Grove	IL	60515     	6B	Contribution			False	False	False		False
@@ -9025,7 +8986,7 @@ B	Fundraiser			False	False	False		False
 3942353	10371	791760	0	Neuhoff Media Springfield		2020-11-24 00:00:00	500	500	PO Box 6493		Springfield	IL	62708     	8B	Advertising - radio			False	False	False		False
 3942354	10371	791760	0	South County Publications		2020-12-15 00:00:00	100	900	PO Box 50		Auburn	IL	62615     	8B	Advertising - newspaper			False	False	False		False
 3942355	22889	791762	0	Citizens for Maggie Trevor		2020-09-24 00:00:00	5000	10000	3905 Redwing Ct.		Rolling Meadows	IL	60008     	6B	Contribution			False	False	True		False
-3942356	22889	791762	0	Friends for Michelle Mussman		2020-09-15 00:00:00	2000	2000	217 Tudor Ln.		Schaumburg	IL	60193     	6B	Contribution			False	False	True		False
+3942356	22889	791762	0	Friends for Michelle Mussman		2020-09-15 00:00:00	2000	2000	Redaction Requested					6B	Contribution			False	False	True		True
 3942357	22889	791762	0	Friends of Nathan Reitz		2020-08-24 00:00:00	5000	5000	PO Box 95		Steeleville	IL	62288     	6B	Contribution			False	False	True		False
 3942358	22889	791762	0	People for Mark Luft		2020-08-19 00:00:00	5000	7500	1917 Highwood Ave		Pekin	IL	61554-6423	6B	Contribution			False	False	True		False
 3942359	22889	791762	0	Anderson for Illinois		2020-09-24 00:00:00	2000	2000	4343 16th St.	#300	Moline	IL	61265     	6B	Contribution			False	False	True		False
@@ -16394,7 +16355,7 @@ B	Fundraiser			False	False	False		False
 3949722	23247	793411	0	SunTrust Bank		2020-10-21 00:00:00	2.5	550.5	1445 New York Avenue, N.W.		Washington	DC	20036     	8B	Bank charges			False	False	False		False
 3949723	23247	793411	0	SunTrust Bank		2020-12-18 00:00:00	2.5	550.5	1445 New York Avenue, N.W.		Washington	DC	20036     	8B	Bank charges			False	False	False		False
 3949724	23247	793411	0	SunTrust Bank		2020-11-20 00:00:00	2.5	550.5	1445 New York Avenue, N.W.		Washington	DC	20036     	8B	Bank charges			False	False	False		False
-3949725	31771	793413	0	Friends of Michelle Mussman		2016-09-22 00:00:00	53900	53900	217 Tudor Lane		Schaumburg	IL	60193     	8B	Non-federal contribution			False	False	False		False
+3949725	31771	793413	0	Friends of Michelle Mussman		2016-09-22 00:00:00	53900	53900	Redaction Requested					8B	Non-federal contribution			False	False	False		True
 3949726	31771	793413	0	Committee to Elect Jennifer Bertino-Tarrant		2016-07-07 00:00:00	125	3875	900 Plainfield Rd		Joliet	IL	60435     	8B	Non-federal contribution			False	False	False		False
 3949727	31771	793413	0	Bennett For Senate		2016-07-13 00:00:00	2000	2000	PO Box 1383		Champaign	IL	61824     	8B	Non-federal contribution			False	False	False		False
 3949728	31771	793413	0	Friends of John Bradley, Inc.		2016-08-02 00:00:00	5000	52400	PO Box 488		Marion	IL	62959     	8B	Non-federal contribution			False	False	False		False
@@ -16498,10 +16459,10 @@ B	Fundraiser			False	False	False		False
 3949827	31771	793422	0	Friends of Robert Martwick		2017-11-29 00:00:00	6325	55400	PO Box 64298		Chicago	IL	60664     	8B	Non-Federal Contribution			False	False	False		False
 3949828	31771	793422	0	Friends of Tabares		2017-11-29 00:00:00	55400	55400	5300 S. Normandy		Chicago	IL	60638     	8B	Non-Federal Contribution			False	False	False		False
 3949830	31771	793422	0	Friends of Robert Rita		2017-11-29 00:00:00	55400	55400	2355 York Street		Blue Island	IL	60406     	8B	Non-Federal Contribution			False	False	False		False
-3949832	31771	793422	0	Friends of Michelle Mussman		2017-11-29 00:00:00	12625	55400	217 Tudor Lane		Schaumburg	IL	60193     	8B	Non-Federal Contribution			False	False	False		False
+3949832	31771	793422	0	Friends of Michelle Mussman		2017-11-29 00:00:00	12625	55400	Redaction Requested					8B	Non-Federal Contribution			False	False	False		True
 3949833	31771	793422	0	Friends for Marty Moylan		2017-11-29 00:00:00	51000	51000	PO Box 204		Des Plaines	IL	60016     	8B	Non-Federal Contribution			False	False	False		False
-3949834	31771	793422	0	Friends of Michelle Mussman		2017-11-29 00:00:00	9475	55400	217 Tudor Lane		Schaumburg	IL	60193     	8B	Non-Federal Contribution			False	False	False		False
-3949835	31771	793422	0	Friends of Michelle Mussman		2017-11-29 00:00:00	33300	55400	217 Tudor Lane		Schaumburg	IL	60193     	8B	Non-Federal Contribution			False	False	False		False
+3949834	31771	793422	0	Friends of Michelle Mussman		2017-11-29 00:00:00	9475	55400	Redaction Requested					8B	Non-Federal Contribution			False	False	False		True
+3949835	31771	793422	0	Friends of Michelle Mussman		2017-11-29 00:00:00	33300	55400	Redaction Requested					8B	Non-Federal Contribution			False	False	False		True
 3949836	31771	793422	0	Friends of Mike Halpin		2017-11-29 00:00:00	55400	55400	PO Box 6937		Rock Island	IL	61204     	8B	Non-Federal Contribution			False	False	False		False
 3949837	31771	793422	0	Friends to Elect Kathleen Willis		2017-11-29 00:00:00	55400	55400	611 Holly Court		Addison	IL	60101     	8B	Non-Federal Contribution			False	False	False		False
 3949838	31771	793422	0	Friends of Natalie Manley		2017-11-29 00:00:00	54400	54400	1927 Timbers Edge Circle		Joliet	IL	60431     	8B	Non-Federal Contribution			False	False	False		False
@@ -16742,14 +16703,14 @@ B	Fundraiser			False	False	False		False
 3950071	31771	793428	0	Democratic Party of Illinois		2018-08-27 00:00:00	5000	55400	1201 S. Veterans Parkway	Ste C	Springfield	IL	62704     	8B	Non-Federal Contribution			False	False	False		False
 3950072	31771	793428	0	Friends of Ann Dempsey		2018-09-25 00:00:00	10000	10000	PO Box 4565		Rockford	IL	61110     	8B	Non-federal contribution			False	False	False		False
 3950073	31771	793428	0	Pulaski County Democrats		2018-09-25 00:00:00	500	500	500 Illinois Avenue		Mound City	IL	62963     	8B	Non-federal contribution			False	False	False		False
-3950074	31771	793428	0	Friends of Michelle Mussman		2018-09-26 00:00:00	36581	55400	217 Tudor Lane		Schaumburg	IL	60193     	8B	Non-federal contribution			False	False	False		False
+3950074	31771	793428	0	Friends of Michelle Mussman		2018-09-26 00:00:00	36581	55400	Redaction Requested					8B	Non-federal contribution			False	False	False		True
 3950076	31771	793428	0	Friends of Monica Bristow		2018-09-26 00:00:00	20896	55400	PO Box 172		Alton	IL	62002     	8B	Non-federal contribution			False	False	False		False
 3950077	31771	793428	0	Friends of Natalie Phelps Finnie		2018-09-26 00:00:00	14840	50400	RR 2 Box 127		Elizabethtown	IL	62931     	8B	Non-federal contribution			False	False	False		False
 3950078	31771	793428	0	Friends of Michael J. Madigan		2018-09-26 00:00:00	124329	637700	PO Box 3188		Chicago	IL	60654     	8B	Non-federal contribution			False	False	False		False
 3950079	31771	793428	0	Friends of Monica Bristow		2018-09-26 00:00:00	4480	55400	PO Box 172		Alton	IL	62002     	8B	Non-federal contribution			False	False	False		False
 3950080	31771	793428	0	Friends for Katie Stuart		2018-09-26 00:00:00	12273	55400	PO Box 591		Edwardsville	IL	62025     	8B	Non-federal contribution			False	False	False		False
 3950081	31771	793428	0	Zalewski for State Representative		2018-09-26 00:00:00	17865	50400	437 Repton Road		Riverside	IL	60546     	8B	Non-federal contribution			False	False	False		False
-3950082	31771	793428	0	Friends of Michelle Mussman		2018-09-26 00:00:00	18819	55400	217 Tudor Lane		Schaumburg	IL	60193     	8B	Non-federal contribution			False	False	False		False
+3950082	31771	793428	0	Friends of Michelle Mussman		2018-09-26 00:00:00	18819	55400	Redaction Requested					8B	Non-federal contribution			False	False	False		True
 3950083	31771	793428	0	Zalewski for State Representative		2018-09-26 00:00:00	32535	50400	437 Repton Road		Riverside	IL	60546     	8B	Non-federal contribution			False	False	False		False
 3950084	31771	793428	0	Friends for Katie Stuart		2018-09-26 00:00:00	23520	55400	PO Box 591		Edwardsville	IL	62025     	8B	Non-federal contribution			False	False	False		False
 3950085	31771	793428	0	Friends for Marty Moylan		2018-09-26 00:00:00	21036	47104	PO Box 204		Des Plaines	IL	60016     	8B	Non-federal contribution			False	False	False		False
@@ -22537,7 +22498,7 @@ B	Fundraiser			False	False	False		False
 3955865	1334	794298	0	Friends for Jennifer		2020-10-20 00:00:00	1000	1000	PO Box 3042		Glenview	IL	60025     	6B	donation			False	False	False		False
 3955866	1334	794298	0	Friends of Diane Pappas		2020-10-20 00:00:00	1000	1000	242 S. Maple St.		Itasca	IL	60143     	6B	donation			False	False	False		False
 3955867	1334	794298	0	Mary for Illinois		2020-10-20 00:00:00	1000	1000	PO Box 6506		Libertyville	IL	60048     	6B	donation			False	False	False		False
-3955868	1334	794298	0	Friends of Michelle Mussman		2020-10-20 00:00:00	1000	1000	217 Tudor Lane		Schaumburg	IL	60193     	6B	donation			False	False	False		False
+3955868	1334	794298	0	Friends of Michelle Mussman		2020-10-20 00:00:00	1000	1000	Redaction Requested					6B	donation			False	False	False		True
 3955869	1334	794298	0	Friends of Sam Yingling		2020-10-20 00:00:00	2000	2000	1919 IL Route 83		Round Lake Beach	IL	60073     	6B	donation			False	False	False		False
 3955870	1334	794298	0	Friends of Camille Lilly		2020-10-20 00:00:00	1000	1000	7115 W North Ave		Oak Park	IL	60302     	6B	donation			False	False	False		False
 3955871	1334	794298	0	Friends of Barbara Hernandez		2020-10-20 00:00:00	1000	1000	PO Box 7263		Aurora	IL	60507     	6B	donation			False	False	False		False
@@ -23594,7 +23555,7 @@ B	Fundraiser			False	False	False		False
 3956922	1169	794348	0	McCombie for Illinois		2020-10-07 00:00:00	50000	50000	PO Box 71		Savanna	IL	61074     	6B	Direct Contribution			False	False	False		False
 3956923	1169	794348	0	Friends for Susana Mendoza		2020-12-22 00:00:00	15000	15000	6351 W Montrose Ave, #301		Chicago	IL	60634-1536	6B	Direct Contribution			False	False	False		False
 3956924	1169	794348	0	Julie Morrison for State Senate		2020-10-14 00:00:00	10000	10000	P.O. Box 646		Deerfield	IL	60015     	6B	Direct Contribution			False	False	False		False
-3956926	1169	794348	0	Friends of Michelle Mussman		2020-10-14 00:00:00	10000	10000	217 Tudor Ln.		Schaumburg	IL	60193     	6B	Direct Contribution			False	False	False		False
+3956926	1169	794348	0	Friends of Michelle Mussman		2020-10-14 00:00:00	10000	10000	Redaction Requested					6B	Direct Contribution			False	False	False		True
 3956927	1169	794348	0	Citizens for Suzanne Ness		2020-10-09 00:00:00	3000	3000	20 S. Grove St.		Carpentersville	IL	60110     	6B	Direct Contribution			False	False	False		False
 3956928	1169	794348	0	Friends of Diane Pappas		2020-10-01 00:00:00	55000	55000	242 S. Maple St.		Itasca	IL	60143     	6B	Direct Contribution			False	False	False		False
 3956929	1169	794348	0	friends of Nathan Reitz		2020-10-07 00:00:00	15000	15000	PO Box 95		Steeleville	IL	62288     	6B	Direct Contribution			False	False	False		False
@@ -48096,7 +48057,7 @@ B	Fundraiser			False	False	False		False
 3982411	1035	802810	0	CITIZENS TO ELECT FELIX CARDONA JR.		2021-02-08 00:00:00	250	250	P.O. BOX 411256		CHICAGO	IL	60641-1256	6B	Contribution			False	False	True		False
 3982412	1035	802810	0	FRIENDS OF MICHAEL D. RODRIGUEZ		2021-02-08 00:00:00	250	250	2500 S. ST. LOUIS		CHICAGO	IL	60623     	6B	Contribution			False	False	True		False
 3982413	1035	802810	0	NEIGHBORS FOR ANDRE VASQUEZ		2021-02-08 00:00:00	250	250	6115 N. RAVENSWOOD		CHICAGO	IL	60660     	6B	Contribution			False	False	True		False
-3982414	1035	802810	0	MARIA HADDEN FOR THE 49TH WARD		2021-02-08 00:00:00	250	250	6807 N. ASHLAND BLVD,	APT. GN	CHICAGO	IL	60626-3697	6B	Contribution			False	False	True		False
+3982414	1035	802810	0	MARIA HADDEN FOR THE 49TH WARD		2021-02-08 00:00:00	250	250	Redaction Requested					6B	Contribution			False	False	True		True
 3982415	1035	802810	0	FRIENDS OF SAMANTHA NUGENT		2021-02-08 00:00:00	250	250	6121 N. FOREST GLEN AVE.		CHICAGO	IL	60646     	6B	Contribution			False	False	True		False
 3982416	1035	802810	0	FRIENDS OF PAUL ESPOSITO		2021-02-12 00:00:00	500	500	P.O. BOX 7314		VILLA PARK	IL	60181     	6B	Contribution			False	False	True		False
 3982417	1035	802810	0	CITIZENS FOR SAVIANO		2021-03-12 00:00:00	500	500				IL	          	6B	Contribution			False	False	True		False
@@ -49114,7 +49075,7 @@ B	Fundraiser			False	False	False		False
 3983435	1127	803050	0	Michael Zalewski for State Representative		2021-03-26 00:00:00	800	800	437 Repton Rd.		Riverside	IL	60546     	6B	Contribution			False	False	False		False
 3983436	1127	803050	0	Friends of Robyn Gabel		2021-03-26 00:00:00	200	200	P.O. Box 6453		Evanston	IL	60204-6453	6B	Contribution			False	False	False		False
 3983437	1127	803050	0	Friends of Rita Mayfield		2021-03-26 00:00:00	300	300	P.O. Box 344		Waukegan	IL	60079     	6B	Contribution			False	False	False		False
-3983438	1127	803050	0	Friends of Michelle Mussman		2021-03-26 00:00:00	300	300	217 Tudor Lane		Schaumburg	IL	60193-1724	6B	Contribution			False	False	False		False
+3983438	1127	803050	0	Friends of Michelle Mussman		2021-03-26 00:00:00	300	300	Redaction Requested					6B	Contribution			False	False	False		True
 3983439	1127	803050	0	Citizens for Michael Hastings		2021-03-26 00:00:00	400	400	P.O. Box 162		Tinley Park	IL	60477-0162	6B	Contribution			False	False	False		False
 3983440	1127	803050	0	Friends of Patricia Van Pelt		2021-03-26 00:00:00	400	400	934 Lake Destiny, Unit D		Altamonte Springs	FL	32714-6924	6B	Contribution			False	False	False		False
 3983441	1127	803050	0	Citizens for C.D. Davidsmeyer		2021-03-26 00:00:00	300	300	P.O. Box 401		Jacksonville	IL	62651-0401	6B	Contribution			False	False	False		False
@@ -65277,7 +65238,7 @@ B	Fundraiser			False	False	False		False
 3999592	23798	805790	0	Cochran	Justin	2021-02-02 00:00:00	580	1740	Redaction Requested					8B	Staff salaries			False	False	True		True
 3999593	23798	805790	0	GM Financial Co. Inc.		2021-02-19 00:00:00	730.49	2191.47	4100 Embarcadero Dr.		Arlington	TX	76014     	8B	Car lease payment			False	False	True		False
 3999594	23798	805790	0	Khan	Fatima	2021-02-11 00:00:00	500	500	2853 W Glenlake Ave		Chicago	IL	60659     	8B	Staff salaries			False	False	True		False
-3999595	23798	805790	0	Friends of Justin Cochran		2021-02-26 00:00:00	500	500	933 Graceland Ave	Apt 101	Des Plaines	IL	60016     	6B	Contribution			False	False	True		False
+3999595	23798	805790	0	Friends of Justin Cochran		2021-02-26 00:00:00	500	500	Redaction Requested					6B	Contribution			False	False	True		True
 3999596	23798	805790	0	Cochran	Justin	2021-01-05 00:00:00	580	1740	Redaction Requested					8B	Staff salaries			False	False	True		True
 3999597	23798	805790	0	GM Financial Co. Inc.		2021-01-19 00:00:00	730.49	2191.47	4100 Embarcadero Dr.		Arlington	TX	76014     	8B	Car lease payment			False	False	True		False
 3999598	23798	805790	0	DrewPark Building LLC		2021-01-19 00:00:00	1950	1950	690 1st Ave		Des Plaines	IL	60016     	8B	Rent			False	False	True		False
@@ -103226,7 +103187,7 @@ B	Fundraiser			False	False	False		False
 4037541	22889	813120	0	Hayes	Courtney	2020-09-01 00:00:00	99	157.5	828 South 2nd St		Springfield	IL	62704     	8B	Mileage			False	False	False		False
 4037542	22889	813120	0	Citizens for Jennifer Zordani		2020-08-18 00:00:00	2500	7500	312 Park Ave	#78	Clarendon Hills	IL	60514     	6B	Contribution			False	False	False		False
 4037543	22889	813120	0	Citizens for Maggie Trevor		2020-09-24 00:00:00	5000	10000	3905 Redwing Ct.		Rolling Meadows	IL	60008     	6B	Contribution			False	False	False		False
-4037544	22889	813120	0	Friends for Michelle Mussman		2020-09-15 00:00:00	2000	2000	217 Tudor Ln.		Schaumburg	IL	60193     	6B	Contribution			False	False	False		False
+4037544	22889	813120	0	Friends for Michelle Mussman		2020-09-15 00:00:00	2000	2000	Redaction Requested					6B	Contribution			False	False	False		True
 4037545	22889	813120	0	Friends of Nathan Reitz		2020-08-24 00:00:00	5000	5000	PO Box 95		Steeleville	IL	62288     	6B	Contribution			False	False	False		False
 4037546	22889	813120	0	People for Mark Luft		2020-08-19 00:00:00	5000	7500	1917 Highwood Ave		Pekin	IL	61554-6423	6B	Contribution			False	False	False		False
 4037547	22889	813120	0	Anderson for Illinois		2020-09-24 00:00:00	2000	2000	4343 16th St.	#300	Moline	IL	61265     	6B	Contribution			False	False	False		False
@@ -108560,7 +108521,7 @@ B	Fundraiser			False	False	False		False
 4042875	23798	813636	0	AT&T Services Inc.		2021-03-22 00:00:00	85	1101.45	225 W. Randolph	27 B	Chicago	IL	60606     	8B	Campaign office phone and internet.			False	False	True	USA	False
 4042876	23798	813636	0	GM Financial Co. Inc.		2021-02-19 00:00:00	730.49	2191.47	4100 Embarcadero Dr.		Arlington	TX	76014     	8B	Car lease payment			False	False	True		False
 4042877	23798	813636	0	Khan	Fatima	2021-02-11 00:00:00	500	500	2853 W Glenlake Ave		Chicago	IL	60659     	8B	Staff salaries			False	False	True		False
-4042878	23798	813636	0	Friends of Justin Cochran		2021-02-26 00:00:00	500	500	933 Graceland Ave	Apt 101	Des Plaines	IL	60016     	6B	Contribution			False	False	True		False
+4042878	23798	813636	0	Friends of Justin Cochran		2021-02-26 00:00:00	500	500	Redaction Requested					6B	Contribution			False	False	True		True
 4042879	23798	813636	0	Cochran	Justin	2021-01-05 00:00:00	580	1740	Redaction Requested					8B	Staff salaries			False	False	True		True
 4042880	23798	813636	0	GM Financial Co. Inc.		2021-01-19 00:00:00	730.49	2191.47	4100 Embarcadero Dr.		Arlington	TX	76014     	8B	Car lease payment			False	False	True		False
 4042881	23798	813636	0	DrewPark Building LLC		2021-01-19 00:00:00	1950	1950	690 1st Ave		Des Plaines	IL	60016     	8B	Rent			False	False	True		False
@@ -108587,7 +108548,7 @@ B	Fundraiser			False	False	False		False
 4042902	23798	813638	0	GM Financial Co. Inc.		2021-04-19 00:00:00	730.49	730.49	4100 Embarcadero Dr.		Arlington	TX	76014     	8B	Car lease payment			False	False	True		False
 4042903	23798	813638	0	Golf Mill Ford		2021-04-19 00:00:00	2771.28	3812.09	9401 North Milwaukee Ave		Niles	IL	60714     	8B	Payment on new leased auto			False	False	True		False
 4042904	23798	813638	0	Sanders	Mathew	2021-04-24 00:00:00	500	500	1110 W. Newport Ave.		Chicago	IL	60657     	8B	Campaign Work			False	False	True		False
-4042905	23798	813638	0	Friends of Justin Cochran		2021-04-29 00:00:00	500	500	933 Graceland Ave	Apt 101	Des Plaines	IL	60016     	6B	Contribution			False	False	True		False
+4042905	23798	813638	0	Friends of Justin Cochran		2021-04-29 00:00:00	500	500	Redaction Requested					6B	Contribution			False	False	True		True
 4042906	23798	813638	0	Cochran	Justin	2021-05-04 00:00:00	580	1740	Redaction Requested					8B	Staff salaries			False	False	True		True
 4042907	23798	813638	0	Ford Motor Credit Company LLC		2021-05-19 00:00:00	771.28	1542.56	One American Road		Dearborn	MI	48126     	8B	Car lease payment			False	False	True		False
 4042908	23798	813638	0	Cochran	Justin	2021-06-02 00:00:00	580	1740	Redaction Requested					8B	Staff salaries			False	False	True		True
@@ -117261,7 +117222,7 @@ B	Fundraiser			False	False	False		False
 4051576	36876	817702	0	Friends of Janet Yang Rohr		2021-08-12 00:00:00	59900	59900	909 Watercress Drive		Naperville	IL	60540     	6B	Contribution			False	False	False		False
 4051577	36876	817702	0	Friends of Maura Hirschauer		2021-08-12 00:00:00	59900	59900	551 Viking Drive		Batavia	IL	60510     	6B	Contribution			False	False	False		False
 4051578	36876	817702	0	Citizens for Mark Walker		2021-08-12 00:00:00	59900	59900	1310 W. Northwest Hwy.		Arlington Heights	IL	60004     	6B	Contribution			False	False	False		False
-4051579	36876	817702	0	Friends of Michelle Mussman		2021-08-12 00:00:00	59900	59900	217 Tudor Lane		Schaumburg	IL	60193     	6B	Contribution			False	False	False		False
+4051579	36876	817702	0	Friends of Michelle Mussman		2021-08-12 00:00:00	59900	59900	Redaction Requested					6B	Contribution			False	False	False		True
 4051580	36876	817702	0	Citizens for Suzanne Ness		2021-08-12 00:00:00	59900	59900	1056 Bennington Drive		Crystal Lake	IL	60014     	6B	Contribution			False	False	False		False
 4051581	36876	817702	0	Friends of Dave Vella		2021-08-12 00:00:00	58900	58900	3235 Windsong Ct		Rockford	IL	61114     	6B	Contribution			False	False	False		False
 4051582	36876	817702	0	Friends of Lance Yednock		2021-08-12 00:00:00	59900	59900	2441 Circle Drive		Ottawa	IL	61350     	6B	Contribution			False	False	False		False
@@ -120226,7 +120187,7 @@ B	Fundraiser			False	False	False		False
 4054542	23646	818657	0	FRIENDS OF AARON ORTIZ		2021-08-25 00:00:00	500	500	P.O. BOX 32213		CHICAGO	IL	60632     	6B	Contribution			False	False	False		False
 4054543	23646	818657	0	FRIENDS OF MATT O'SHEA		2021-09-02 00:00:00	850	850	10402 S. WESTERN AVE.		CHICAGO	IL	60643     	6B	Contribution			False	False	False		False
 4054544	23646	818657	0	FRIENDS OF CABONARGI		2021-09-02 00:00:00	500	500	4350 N. BROADWAY, #1106	C/O BLUEPRINT CAMPAIGN CONS.	CHICAGO	IL	60613     	6B	Contribution			False	False	False		False
-4054545	23646	818657	0	FRIENDS OF MICHELLE MUSSMAN		2021-09-02 00:00:00	500	500	217 TUDOR LN.		SCHAUMBURG	IL	60193     	6B	Contribution			False	False	False		False
+4054545	23646	818657	0	FRIENDS OF MICHELLE MUSSMAN		2021-09-02 00:00:00	500	500	Redaction Requested					6B	Contribution			False	False	False		True
 4054548	23646	818657	0	FRIENDS FOR ANNA VALENCIA		2021-09-09 00:00:00	5000	5000	P.O. BOX 641362		CHICAGO	IL	60664-1362	6B	Contribution			False	False	False		False
 4054549	23646	818657	0	FRIENDS TO ELECT KATHLEEN WILLIS		2021-09-30 00:00:00	500	500	611 HOLLY CT.		ADDISON	IL	60101-2900	6B	Contribution			False	False	False		False
 4054550	23646	818657	0	CITIZENS FOR MARCUS C. EVANS JR.		2021-09-30 00:00:00	1000	1000	180 N. LASALLE, SUITE 3700		CHICAGO	IL	60601     	6B	Contribution			False	False	False		False
@@ -120868,7 +120829,7 @@ B	Fundraiser			False	False	False		False
 4055185	23609	818870	0	Friends for Barbara Hernandez		2021-08-03 00:00:00	250	250	PO Box 7263		Aurora	IL	60507     	6B	Contribution			False	False	False		False
 4055186	23609	818870	0	Democratic Party of DuPage County		2021-08-10 00:00:00	600	600	PO Box 185		Lombard	IL	60148     	6B	Contribution			False	False	False		False
 4055187	23609	818870	0	Friends of Adriene Johnson		2021-08-19 00:00:00	250	250	2033 N. Milwaukee Ave.		Riverwoods	IL	60015     	6B	Contribution			False	False	False		False
-4055188	23609	818870	0	Friends of Michelle Mussman		2021-09-02 00:00:00	500	500	217 Tudor Lane		Schaumburg	IL	60193     	6B	Contribution			False	False	False		False
+4055188	23609	818870	0	Friends of Michelle Mussman		2021-09-02 00:00:00	500	500	Redaction Requested					6B	Contribution			False	False	False		True
 4055166	23609	818870	0	The People for Emanuel Chris Welch		2021-09-20 00:00:00	250	250	Redaction Requested					6B	Contribution			False	False	False		True
 4055175	23609	818870		Team Stava Murray		2021-09-02 00:00:00	500	500	Redaction Requested					6B				False	False	False		True
 4055189	5001	818876	0	United States Postal Service		2021-08-26 00:00:00	165	165	po box 1		Belvidere	IL	61008     	8B	Office supplies			False	False	False		False
@@ -121761,7 +121722,7 @@ B	Fundraiser			False	False	False		False
 4056076	16459	819021	0	ISDF		2021-08-11 00:00:00	5000	5000	941-A W. North Ave.		Oak Park	IL	60302     	6B	Ticket purchase			False	False	True		False
 4056077	16459	819021	0	Friends of Camille Y. Lilly		2021-09-21 00:00:00	500	500	PO Box 260		Oak Park	IL	60302     	6B	Ticket purchase			False	False	True		False
 4056078	16459	819021	0	Friends of Dave Koehler		2021-08-11 00:00:00	250	250	1020 NE Glen Oak		Peoria	IL	61603     	6B	Ticket purchase			False	False	True		False
-4056079	16459	819021	0	Friends of Michelle Mussman		2021-08-11 00:00:00	500	500	217 Tudor Lane		Schaumburg	IL	60193     	6B	Ticket purchase			False	False	True		False
+4056079	16459	819021	0	Friends of Michelle Mussman		2021-08-11 00:00:00	500	500	Redaction Requested					6B	Ticket purchase			False	False	True		True
 4056080	16459	819021	0	Friends to Elect Kathleen Willis		2021-09-21 00:00:00	500	500	611 Holly Court		Addison	IL	60101     	6B	Ticket purchase			False	False	True		False
 4056081	16459	819021	0	Friends to Elect Terra Costa Howard		2021-08-11 00:00:00	250	250	490 Pennsylvania Ave		Glen Ellyn	IL	60137     	6B	Ticket purchase			False	False	True		False
 4056082	16459	819021	0	Friends of Adriane Johnson		2021-08-11 00:00:00	250	250	2033 N. Milwaukee Ave	#214	Riverwoods	IL	60015     	6B	Ticket purchase			False	False	True		False
@@ -121815,7 +121776,7 @@ B	Fundraiser			False	False	False		False
 4056130	16459	819023	0	ISDF		2021-08-11 00:00:00	5000	5000	941-A W. North Ave.		Oak Park	IL	60302     	6B	Ticket purchase			False	False	False		False
 4056131	16459	819023	0	Friends of Camille Y. Lilly		2021-09-21 00:00:00	500	500	PO Box 260		Oak Park	IL	60302     	6B	Ticket purchase			False	False	False		False
 4056132	16459	819023	0	Friends of Dave Koehler		2021-08-11 00:00:00	250	250	1020 NE Glen Oak		Peoria	IL	61603     	6B	Ticket purchase			False	False	False		False
-4056133	16459	819023	0	Friends of Michelle Mussman		2021-08-11 00:00:00	500	500	217 Tudor Lane		Schaumburg	IL	60193     	6B	Ticket purchase			False	False	False		False
+4056133	16459	819023	0	Friends of Michelle Mussman		2021-08-11 00:00:00	500	500	Redaction Requested					6B	Ticket purchase			False	False	False		True
 4056134	16459	819023	0	Friends to Elect Kathleen Willis		2021-09-21 00:00:00	500	500	611 Holly Court		Addison	IL	60101     	6B	Ticket purchase			False	False	False		False
 4056135	16459	819023	0	Friends to Elect Terra Costa Howard		2021-08-11 00:00:00	250	250	490 Pennsylvania Ave		Glen Ellyn	IL	60137     	6B	Ticket purchase			False	False	False		False
 4056136	16459	819023	0	Friends of Adriane Johnson		2021-08-11 00:00:00	250	250	2033 N. Milwaukee Ave	#214	Riverwoods	IL	60015     	6B	Ticket purchase			False	False	False		False
@@ -122014,7 +121975,7 @@ B	Fundraiser			False	False	False		False
 4056331	1127	819073	0	Team Tom Demmer		2021-08-27 00:00:00	400	400	P.O. Box 192		Dixon	IL	61021-0192	6B	Contribution			False	False	False		False
 4056332	1127	819073	0	Friends of Omar Aquino		2021-08-27 00:00:00	400	400	1000 N. Rockwell Street		Chicago	IL	60622     	6B	Contribution			False	False	False		False
 4056333	1127	819073	0	House Republican Organization		2021-08-27 00:00:00	5000	5000	16W281 83rd Street	Suite D	Burr Ridge	IL	60527-7967	6B	Contribution			False	False	False		False
-4056334	1127	819073	0	Friends of Michelle Mussman		2021-08-27 00:00:00	300	300	217 Tudor Lane		Schaumburg	IL	60193-1724	6B	Contribution			False	False	False		False
+4056334	1127	819073	0	Friends of Michelle Mussman		2021-08-27 00:00:00	300	300	Redaction Requested					6B	Contribution			False	False	False		True
 4056335	1127	819073	0	Friends of Robert Martwick		2021-08-27 00:00:00	500	500	P.O. Box 64298		Chicago	IL	60664-0298	6B	Contribution			False	False	False		False
 4056336	1127	819073	0	Steven Stadelman for State Senate		2021-08-27 00:00:00	300	300	P.O. Box 1551		Rockford	IL	61110     	6B	Contribution			False	False	False		False
 4056337	1127	819073	0	Friends of Natalie Manley		2021-08-27 00:00:00	1000	1000	1927 Timbers Edge Circle		Joliet	IL	60431-1626	6B	Contribution			False	False	False		False
@@ -123392,7 +123353,7 @@ B	Fundraiser			False	False	False		False
 4058261	21616	820344	0	Friends of State Rep. Anthony DeLuca		2021-09-03 00:00:00	250	250	852 Mackler Dr		Chicago Heights	IL	60411     	6B	Contribution			False	False	False		False
 4058262	21616	820344	0	Citizens for Donald E. Puchalski		2021-09-03 00:00:00	500	500	1029 Compton		Addison	IL	60101     	6B	Contribution			False	False	False		False
 4058263	21616	820344	0	The People for Emanuel "Chris Welch"		2021-09-14 00:00:00	3000	3000	10055 W. Roosevelt Rd	Suite D	Westchester	IL	60154     	6B	Contribution			False	False	False		False
-4058264	21616	820344	0	Friends of Michelle Mussman		2021-09-15 00:00:00	500	500	217 Tudor Lane		Schaumburg	IL	60193     	6B	Contribution			False	False	False		False
+4058264	21616	820344	0	Friends of Michelle Mussman		2021-09-15 00:00:00	500	500	Redaction Requested					6B	Contribution			False	False	False		True
 4058265	21616	820344	0	Friends of Janet Yang Rohr		2021-09-15 00:00:00	500	500	909 Watercress Dr		Naperville	IL	60540     	6B	Contribution			False	False	False		False
 4058267	21616	820344	0	Friends of Joyce Mason		2021-09-15 00:00:00	500	500	Redaction Requested					6B	Contribution			False	False	False		True
 4058266	21616	820344		Team Stava-Murray		2021-09-15 00:00:00	500	500	Redaction Requested					6B				False	False	False		True
@@ -125566,7 +125527,7 @@ B	Fundraiser			False	False	False		False
 4060435	20563	820675	0	Committee to Elect Jennifer Bertino-Tarrant		2021-08-03 00:00:00	500	500	903 Valencia Dr		Shorewood	IL	60404     	6B	Ticket purchase			False	False	False		False
 4060436	20563	820675	0	Friends of Mike Halpin		2021-08-03 00:00:00	500	650	PO Box 6937		Rock Island	IL	61204     	6B	Ticket purchase			False	False	False		False
 4060437	20563	820675	0	Friends of Mike Halpin		2021-09-20 00:00:00	150	650	PO Box 6937		Rock Island	IL	61204     	6B	Ticket purchase			False	False	False		False
-4060438	20563	820675	0	Friends of Michelle Mussman		2021-09-13 00:00:00	250	250	217 Tudor Lane		Schaumburg	IL	60193     	6B	Ticket purchase			False	False	False		False
+4060438	20563	820675	0	Friends of Michelle Mussman		2021-09-13 00:00:00	250	250	Redaction Requested					6B	Ticket purchase			False	False	False		True
 4060439	20563	820675	0	Friends of Natalie Manley		2021-08-03 00:00:00	250	250	1927 Timbers Edge Circle		Joliet	IL	60431     	6B	Ticket purchase			False	False	False		False
 4060440	20563	820675	0	Citizens for Hammond		2021-09-14 00:00:00	500	500	PO Box 694		Macomb	IL	61455     	6B	Ticket purchase			False	False	False		False
 4060441	20563	820675	0	Friends of Jason Barickman		2021-08-03 00:00:00	500	500	202 N. Center St.		Bloomington	IL	61701     	6B	Ticket purchase			False	False	False		False
@@ -125786,7 +125747,7 @@ B	Fundraiser			False	False	False		False
 4060657	675	820684	0	Friends of Bob Morgan		2021-09-17 00:00:00	2000	2000	PO Box 1074		Deerfield	IL	60015     	6B	CONTRIBUTION			False	False	False		False
 4060658	675	820684	0	Citizens for Laura M. Murphy		2021-08-11 00:00:00	2500	2500	PO Box 13		Des Plaines	IL	60016     	6B	CONTRIBUTION			False	False	False		False
 4060659	675	820684	0	Friends of Mike Murphy		2021-09-02 00:00:00	500	500	PO Box 672		Springfield	IL	62705     	6B	CONTRIBUTION			False	False	False		False
-4060660	675	820684	0	Friends of Michelle Mussman		2021-09-02 00:00:00	500	500	217 Tudor Lane		Schaumburg	IL	60193-1724	6B	CONTRIBUTION			False	False	False		False
+4060660	675	820684	0	Friends of Michelle Mussman		2021-09-02 00:00:00	500	500	Redaction Requested					6B	CONTRIBUTION			False	False	False		True
 4060661	675	820684	0	Friends of Matt O'Shea		2021-09-16 00:00:00	1000	1000	10402 S. Western Ave.		Chicago	IL	60643-2508	6B	CONTRIBUTION			False	False	False		False
 4060662	675	820684	0	Ozinga for Illinois		2021-07-14 00:00:00	500	500	PO Box 1011		Mokena	IL	60448     	6B	CONTRIBUTION			False	False	False		False
 4060663	675	820684	0	Preckwinkle for President		2021-07-22 00:00:00	5000	5000	5035 S. East End Ave., Unit 3509 No		Chicago	IL	60615     	6B	CONTRIBUTION			False	False	False		False
@@ -128116,7 +128077,7 @@ B	Fundraiser			False	False	False		False
 4062986	1169	821248	0	Friends of Rita Mayfield		2021-08-31 00:00:00	2500	2500	PO Box 344		Waukegan	IL	60079     	6B	Fundraiser 8/27/21			False	False	False		False
 4062987	1169	821248	0	Citizens for Charlie Meier		2021-08-05 00:00:00	15000	15000	14 Magnolia Dr.		New Baden	IL	62265     	6B	Fundraiser 8/20/21			False	False	False		False
 4062988	1169	821248	0	Julie Morrison for State Senate		2021-08-31 00:00:00	5000	5000	P.O. Box 646		Deerfield	IL	60015     	6B	Fundraiser 9/7/21			False	False	False		False
-4062990	1169	821248	0	Friends of Michelle Mussman		2021-09-10 00:00:00	5000	5000	217 Tudor Ln.		Schaumburg	IL	60193     	6B	Fundraiser 9/15/21			False	False	False		False
+4062990	1169	821248	0	Friends of Michelle Mussman		2021-09-10 00:00:00	5000	5000	Redaction Requested					6B	Fundraiser 9/15/21			False	False	False		True
 4062991	1169	821248	0	Citizens for Suzanne Ness		2021-09-22 00:00:00	5000	5000	PO Box 2633		Crystal Lake	IL	60014     	6B	Fundraiser 10/2/21			False	False	False		False
 4062992	1169	821248	0	Raoul for Illinois		2021-09-15 00:00:00	59900	59900	70 W Hubbard, Suite 210		Chicago	IL	60654     	6B	Direct Contribution			False	False	False		False
 4062993	1169	821248	0	Friends of Bob Rita		2021-07-26 00:00:00	2500	2500	2030 High St.		Blue Island	IL	60406     	6B	Fundraiser 7/22/21			False	False	False		False
@@ -132809,7 +132770,7 @@ B	Fundraiser			False	False	False		False
 4067679	23344	821779	0	Chicago Aldermanic Black Caucus Foundation		2021-07-01 00:00:00	2500	2500	220 N. Green Street	c/o NCC, LLC	Chicago	IL	60607     	6B	Contribution			False	False	False		False
 4067680	23344	821779	0	Martin McLaughlin for State Rep		2021-09-20 00:00:00	1000	1000	P.O. Box 452	106 Barrington Commons Court	Barrington	IL	60010     	6B	Contribution			False	False	False		False
 4067681	23344	821779	0	Friends of Janet Yang Rohr		2021-08-16 00:00:00	2500	2500	909 Watercress Dr.		Naperville	IL	60540     	6B	Contribution			False	False	False		False
-4067682	23344	821779	0	Friends of Michelle Mussman		2021-09-20 00:00:00	1000	1000	217 Tudor Lane		Schaumburg	IL	60031     	6B	Contribution			False	False	False		False
+4067682	23344	821779	0	Friends of Michelle Mussman		2021-09-20 00:00:00	1000	1000	Redaction Requested					6B	Contribution			False	False	False		True
 4067683	23344	821779	0	Friends of Lakesia		2021-08-16 00:00:00	2500	2500	1501 N. Clybourn Ave, Unit D.		Chicago	IL	60610     	6B	Contribution			False	False	False		False
 4067685	23344	821779	0	Committee to Elect Howard B. Brookins Jr.		2021-08-16 00:00:00	1000	1000	500 N. Dearborn Street	Suite No.1000	Chicago	IL	60654     	6B	Contribution			False	False	False		False
 4067686	23344	821779	0	Representative Anthony DeLuca		2021-09-20 00:00:00	1000	1000	66 E. 24th Street		Chicago Heights	IL	60411     	6B	Contribution			False	False	False		False
@@ -133202,7 +133163,7 @@ B	Fundraiser			False	False	False		False
 4068071	21671	821869	0	Friends of Bill Cunningham		2021-07-07 00:00:00	1000	1000	10402 S Western Ave		Chicago	IL	60643-2508	6B	Contribution			False	False	False		False
 4068072	21671	821869	0	Friends for Marty Moylan for State Representative	Marty	2021-07-07 00:00:00	500	500	P O Box 204		Des Plaines	IL	60016     	6B	Contribution			False	False	False		False
 4068073	21671	821869	0	Friends of Melinda Bush		2021-07-07 00:00:00	1000	1000	240 N. Lake Street		Grayslake	IL	60030     	6B	Contribution			False	False	False		False
-4068074	21671	821869	0	Friends of Michelle Mussman		2021-07-07 00:00:00	750	750	217 Tudor Lane		Schaumburg	IL	60193     	6B	Contribution			False	False	False		False
+4068074	21671	821869	0	Friends of Michelle Mussman		2021-07-07 00:00:00	750	750	Redaction Requested					6B	Contribution			False	False	False		True
 4068075	21671	821869	0	Citizens for Castro		2021-07-07 00:00:00	2000	2000	PO Box 1506		Elgin	IL	60121     	6B	Contribution			False	False	False		False
 4068076	21671	821869	0	Daniel Didech Campaign Committee		2021-07-07 00:00:00	1000	1000	PO Box 4959		Buffalo Grove	IL	60089     	6B	Contribution			False	False	False		False
 4068077	21671	821869	0	Friends of Joyce Mason		2021-07-07 00:00:00	1000	1000	PO Box 34		Gurnee	IL	60031     	6B	Contribution			False	False	False		False
@@ -134610,7 +134571,7 @@ B	Fundraiser			False	False	False		False
 4069479	22986	822015	0	Friends of Lakesia		2021-09-01 00:00:00	1000	1000	1501 N Clybourn Ave	Unit D	Chicago	IL	60610     	6B	Contribution			False	False	True		False
 4069480	22986	822015	0	Friends of Jeff Deppe		2021-08-03 00:00:00	2500	2500	213 37th Ave		East Moline	IL	61244     	6B	Contribution			False	False	True		False
 4069481	22986	822015	0	Citizens for Reboyras		2021-09-01 00:00:00	1000	1000	4614 W Montana St		Chicago	IL	60639     	6B	Contribution			False	False	True		False
-4069482	22986	822015	0	Friends of Michelle Mussman		2021-09-01 00:00:00	1000	1000	217 Tudor Lane		Schaumburg	IL	60193     	6B	Contribution			False	False	True		False
+4069482	22986	822015	0	Friends of Michelle Mussman		2021-09-01 00:00:00	1000	1000	Redaction Requested					6B	Contribution			False	False	True		True
 4069483	22986	822015	0	Friends of Natalie Manley		2021-07-22 00:00:00	5000	7500	3107 ingalls Ave	3A	Joliet	IL	60435     	6B	Contribution			False	False	True		False
 4069484	22986	822015	0	Friends of Natalie Manley		2021-08-03 00:00:00	2500	7500	3107 ingalls Ave	3A	Joliet	IL	60435     	6B	Contribution			False	False	True		False
 4069485	22986	822015	0	Friends to Elect Kathleen Willis		2021-09-17 00:00:00	1000	1000	611 Holly Ct		Addison	IL	60101     	6B	Contribution			False	False	True		False
@@ -136268,7 +136229,7 @@ B	Fundraiser			False	False	False		False
 4071137	23798	822099	0	Cochran	Justin	2021-04-02 00:00:00	580	1740	Redaction Requested					8B	Staff salaries			False	False	True		True
 4071138	23798	822099	0	Cochran	Justin	2021-05-04 00:00:00	580	1740	Redaction Requested					8B	Staff salaries			False	False	True		True
 4071139	23798	822099	0	Cochran	Justin	2021-06-02 00:00:00	580	1740	Redaction Requested					8B	Staff salaries			False	False	True		True
-4071140	23798	822099	0	Friends of Justin Cochran		2021-04-29 00:00:00	500	500	933 Graceland Ave	Apt 101	Des Plaines	IL	60016     	6B	Contribution			False	False	True		False
+4071140	23798	822099	0	Friends of Justin Cochran		2021-04-29 00:00:00	500	500	Redaction Requested					6B	Contribution			False	False	True		True
 4071141	23798	822099	0	The Daily Line		2021-06-09 00:00:00	395	395	1747 W Grace St		Chicago	IL	60613     	8B	Subscription			False	False	True		False
 4071142	23798	822099	0	Shred First Inc.		2021-06-29 00:00:00	400	400	1283 Elmhurst Rd		Des Plaines	IL	60018     	8B	Shredding Services			False	False	True		False
 4071143	23798	822099	0	Daily Herald media group		2021-05-03 00:00:00	134	398.8	POBox 3204		Arlington Heights	IL	60006     	8B	Subscription			False	False	True	USA	False
@@ -152594,7 +152555,7 @@ B	Fundraiser			False	False	False		False
 4088340	23915	827787	0	Citizens for Gillespie		2021-11-15 00:00:00	100	350	PO Box 94		Mount Prospect	IL	60056     	6B	Contribution			False	False	False		False
 4088341	23915	827787	0	Citizens for Gillespie		2021-11-15 00:00:00	250	350	PO Box 94		Mount Prospect	IL	60056     	6B	Contribution			False	False	False		False
 4088343	23915	827787	0	Citizens for Suzanne Ness		2021-12-07 00:00:00	5000	5000	P.O. 2633		Crystal Lake	IL	60014     	6B	Contribution			False	False	False		False
-4088344	23915	827787	0	Friends of Michelle Mussman		2021-12-07 00:00:00	5000	5000	217 Tudor Lane		Schaumburg	IL	60193     	6B	Contribution			False	False	False		False
+4088344	23915	827787	0	Friends of Michelle Mussman		2021-12-07 00:00:00	5000	5000	Redaction Requested					6B	Contribution			False	False	False		True
 4088345	23915	827787	0	Friends of Roderick T Sawyer		2021-11-29 00:00:00	700	700	PO Box 19511		Chicago	IL	60619     	6B	Contribution			False	False	False		False
 4088342	23915	827787	0	Friends of Anna Moeller		2021-12-07 00:00:00	5000	5000	Redaction Requested					6B	Contribution			False	False	False		True
 4088346	31905	827788	0	Subway		2019-04-01 00:00:00	1104.72	1193.1	4032 W. 26th St.		Chicago	IL	60623     	8B	Meals			False	False	False		False
@@ -153895,7 +153856,7 @@ B	Fundraiser			False	False	False		False
 4089641	23199	828246	0	Friends of Stephanie Kifowit		2021-11-15 00:00:00	1000	2000	P.O. Box 1414		Aurora	IL	60507     	6B	Contribution			False	False	False		False
 4089642	23199	828246	0	Friends of LaPointe		2021-11-15 00:00:00	1000	1000	P.O. Box 30161		Chicago	IL	60630     	6B	Contribution			False	False	False		False
 4089644	23199	828246	0	Friends of Bob Morgan		2021-11-15 00:00:00	1000	1000	P.O. Box 1074		Deerfield	IL	60015     	6B	Contribution			False	False	False		False
-4089645	23199	828246	0	Friends of Michelle Mussman		2021-11-15 00:00:00	1000	2000	217 Tudor Ln.		Schaumburg	IL	60193     	6B	Contribution			False	False	False		False
+4089645	23199	828246	0	Friends of Michelle Mussman		2021-11-15 00:00:00	1000	2000	Redaction Requested					6B	Contribution			False	False	False		True
 4089647	23199	828246	0	Maurice West for Illinois		2021-11-15 00:00:00	1000	1000	P.O. Box 4303		Rockford	IL	61110     	6B	Contribution			False	False	False		False
 4089648	23199	828246	0	Friends of Ann M. Williams		2021-11-15 00:00:00	1000	1000	4044 N. Lincoln Ave., #266		Chicago	IL	60618     	6B	Contribution			False	False	False		False
 4089649	23199	828246	0	Friends of Sam Yingling		2021-11-15 00:00:00	1000	1000	1919 Rt 83		Round Lake Beach	IL	60073     	6B	Contribution			False	False	False		False
@@ -153924,7 +153885,7 @@ B	Fundraiser			False	False	False		False
 4089673	23199	828246	0	Friends of Stephanie Kifowit		2021-12-06 00:00:00	1000	2000	P.O. Box 1414		Aurora	IL	60507     	6B	Contribution			False	False	False		False
 4089674	23199	828246	0	Friends of Janet Yang Rohr		2021-12-06 00:00:00	1000	58900	909 Watercress Dr.		Naperville	IL	60540     	6B	Contribution			False	False	False		False
 4089675	23199	828246	0	Friends to Elect Kathleen Willis		2021-12-06 00:00:00	1000	2000	611 Holly Court		Addison	IL	60101     	6B	Contribution			False	False	False		False
-4089677	23199	828246	0	Friends of Michelle Mussman		2021-12-06 00:00:00	1000	2000	217 Tudor Ln.		Schaumburg	IL	60193     	6B	Contribution			False	False	False		False
+4089677	23199	828246	0	Friends of Michelle Mussman		2021-12-06 00:00:00	1000	2000	Redaction Requested					6B	Contribution			False	False	False		True
 4089678	23199	828246	0	27th Ward Regular Democratic Organization		2021-12-13 00:00:00	1000	1000	1452 N. Sedgwick		Chicago	IL	60610     	6B	Contribution			False	False	False		False
 4089679	23199	828246	0	Friends of Jeanette B Taylor		2021-12-13 00:00:00	1000	1000	6454 S.Maryland		Chicago	IL	60637     	6B	Contribution			False	False	False		False
 4089680	23199	828246	0	28th Ward Democratic Organization		2021-12-13 00:00:00	3000	3000	c/o NCC, LLC	500 N. Dearborn, Suite 1000	Chicago	IL	60654     	6B	Contribution			False	False	False		False
@@ -154594,7 +154555,7 @@ B	Fundraiser			False	False	False		False
 4090341	560	828457	0	Citizens for Mazzochi		2021-11-18 00:00:00	250	250	156 S. Sunnyside		Elmhurst	IL	60126     	6B	Deanne Mazzochi, STATE HOUSE 47th IL			False	False	False		False
 4090342	560	828457	0	McCombie for Illinois		2021-11-18 00:00:00	250	250	PO Box 71		Savanna	IL	61074     	6B	Tony McCombie, STATE HOUSE 71st IL			False	False	False		False
 4090343	560	828457	0	Elect Dan McConchie		2021-11-18 00:00:00	1000	1000	PO Box 243		Lake Zurich	IL	60047     	6B	Dan McConchie, STATE SENATE 26th IL			False	False	False		False
-4090344	560	828457	0	Friends of Michelle Mussman		2021-12-03 00:00:00	250	250	217  Tudor Lane		Schaumburg	IL	60193     	6B	Michelle Mussman, STATE HOUSE 56th IL			False	False	False		False
+4090344	560	828457	0	Friends of Michelle Mussman		2021-12-03 00:00:00	250	250	Redaction Requested					6B	Michelle Mussman, STATE HOUSE 56th IL			False	False	False		True
 4090345	560	828457	0	Friends of Aaron Ortiz		2021-11-18 00:00:00	250	250	PO Box 32213		Chicago	IL	60632     	6B	Aaron Ortiz, STATE HOUSE 1st IL			False	False	False		False
 4090346	560	828457	0	United with Delia		2021-10-06 00:00:00	500	500	PO Box 47026		Chicago	IL	60647     	6B	Delia Ramirez, STATE HOUSE 4th IL			False	False	False		False
 4090347	560	828457	0	Raoul for Illinois		2021-12-03 00:00:00	500	500	70 W. Hubbard, Suite 210		Chicago	IL	60654     	6B	Kwame Raoul, ATTORNEY GENERAL  IL			False	False	False		False
@@ -155412,7 +155373,7 @@ B	Fundraiser			False	False	False		False
 4091159	22859	828789	0	ISDF		2021-11-23 00:00:00	2500	2500	6939 W. North Avenue		Oak Park	IL	60302     	6B	Contribution			False	False	False		False
 4091160	22859	828789	0	Friends of Deborah Conroy		2021-11-23 00:00:00	500	500	P.O. Box 6721		Villa Park	IL	60181     	6B	Contribution			False	False	False		False
 4091161	22859	828789	0	Friends of Maura Hirschauer		2021-11-23 00:00:00	500	500	551 Viking Drive		Batavia	IL	60510     	6B	Contribution			False	False	False		False
-4091162	22859	828789	0	Friends of Michelle Mussman		2021-11-23 00:00:00	500	500	217 Tudor Lane		Schaumburg	IL	60193     	6B	Contribution			False	False	False		False
+4091162	22859	828789	0	Friends of Michelle Mussman		2021-11-23 00:00:00	500	500	Redaction Requested					6B	Contribution			False	False	False		True
 4091163	22859	828789	0	Friends to Elect Kathleen Willis		2021-11-23 00:00:00	500	500	611 Holly Court		Addison	IL	60101     	6B	Contribution			False	False	False		False
 4091155	22859	828789	0	Friends of Janice Marie Anderson		2021-10-26 00:00:00	500	500	Redaction Requested					6B	Contribution			False	False	False		True
 4091164	1059	828792	0	Corrective Entry		2022-01-10 00:00:00	64844.47	64844.47				IL	          	8B	Corrective Entry			False	False	False		False
@@ -155949,7 +155910,7 @@ B	Fundraiser			False	False	False		False
 4091695	21616	828939	0	Mavis Bates for Kane		2021-12-02 00:00:00	500	500	60 S. Harrison Avenue		Aurora	IL	60506     	6B	Contribution			False	False	False		False
 4091696	21616	828939	0	Friends of Laura Fine		2021-12-02 00:00:00	1000	1000	1700 Constitution Dr.		Glenview	IL	60026     	6B	Contribution			False	False	False		False
 4091697	21616	828939	0	Friends of Stephanie Kifowit		2021-12-02 00:00:00	1000	1000	P.O. Box 1414		Aurora	IL	60507     	6B	Contribution			False	False	False		False
-4091698	21616	828939	0	Friends of Michelle Mussman		2021-12-02 00:00:00	1000	1000	217 Tudor Lane		Schaumburg	IL	60193     	6B	Contribution			False	False	False		False
+4091698	21616	828939	0	Friends of Michelle Mussman		2021-12-02 00:00:00	1000	1000	Redaction Requested					6B	Contribution			False	False	False		True
 4091700	21616	828939	0	Friends to Elect Kathleen Willis		2021-12-02 00:00:00	1000	1000	611 Holly Court		Addison	IL	60101     	6B	Contribution			False	False	False		False
 4091701	21616	828939	0	Friends of Janet Yang Rohr		2021-12-02 00:00:00	500	500	909 Watercress Dr		Naperville	IL	60540     	6B	Contribution			False	False	False		False
 4091702	21616	828939	0	Friends of Roderick T. Sawyer		2021-12-07 00:00:00	1000	1000	P.O. Box 19511		Chicago	IL	60619     	6B	Contribution			False	False	False		False
@@ -156006,7 +155967,7 @@ B	Fundraiser			False	False	False		False
 4091752	5175	828948	0	Friends of Deborah Conroy		2021-11-29 00:00:00	250	250	30 S. Villa Avenue		Villa Park	IL	60181     	6B	Contribution			False	False	False		False
 4091753	5175	828948	0	FRIENDS OF MAURA HIRSCHAUER		2021-11-29 00:00:00	250	250	551 Viking Drive		Batavia	IL	60510     	6B	Contribution			False	False	False		False
 4091754	5175	828948	0	Friends of Stephanie A. Kifowit		2021-11-29 00:00:00	250	250	P.O. Box 1414		Aurora	IL	60507     	6B	Contribution			False	False	False		False
-4091755	5175	828948	0	FRIENDS OF MICHELLE MUSSMAN		2021-11-29 00:00:00	250	250	217 TUDOR LN		SCHAUMBURG	IL	60193     	6B	Contribution			False	False	False		False
+4091755	5175	828948	0	FRIENDS OF MICHELLE MUSSMAN		2021-11-29 00:00:00	250	250	Redaction Requested					6B	Contribution			False	False	False		True
 4091757	5175	828948	0	FRIENDS TO ELECT KATHLEEN WILLIS		2021-11-29 00:00:00	250	250	611 HOLLY CT		ADDISON	IL	60101     	6B	Contribution			False	False	False		False
 4091758	5175	828948	0	FRIENDS OF JANET YANG ROHR		2021-11-29 00:00:00	250	250	909 WATERCRESS DR		NAPERVILLE	IL	60540-7660	6B	Contribution			False	False	False		False
 4091759	5175	828948	0	Committee to Elect Meg Loughran Cappel		2021-12-09 00:00:00	500	500	529 Northgate Lane		Shorewood	IL	60404     	6B	Contribution			False	False	False		False
@@ -157408,7 +157369,7 @@ B	Fundraiser			False	False	False		False
 4093155	18030	829387	0	Friends of Bill Cunningham		2021-10-26 00:00:00	4000	4000	10402 S Western Ave		Chicago	IL	60643     	8B	Contribution			False	False	False		False
 4093156	18030	829387	0	Citizens for Lightford		2021-10-26 00:00:00	4000	4000	P.O. Box 7824		Westchester	IL	60154-7824	8B	Contribution			False	False	False		False
 4093157	18030	829387	0	Citizens for Michael E Hastings		2021-10-26 00:00:00	4000	4000	PO Box 162		Tinley park	IL	60477     	8B	Contribution			False	False	False		False
-4093158	18030	829387	0	Friends of Michelle Mussman		2021-10-26 00:00:00	2000	2000	217 Tudor Ln		Schaumburg	IL	60193     	8B	Contribution			False	False	False		False
+4093158	18030	829387	0	Friends of Michelle Mussman		2021-10-26 00:00:00	2000	2000	Redaction Requested					8B	Contribution			False	False	False		True
 4093159	18030	829387	0	Friends of Avery Bourne		2021-10-26 00:00:00	2000	2000	PO Box 123		Farmersville	IL	62533     	8B	Contribution			False	False	False		False
 4093160	18030	829387	0	Stripe		2021-12-31 00:00:00	246.4	246.4	185 Berry Street	Suite 550	San Francisco	CA	94107     	8B	CC Fees			False	False	False		False
 4093153	18030	829387	0	The People for Emanuel "Chris" Welch		2021-10-26 00:00:00	10000	10000	Redaction Requested					8B	Contribution			False	False	False		True
@@ -158878,7 +158839,7 @@ B	Fundraiser			False	False	False		False
 4094624	29490	829708	0	Citizens for Castro		2021-12-10 00:00:00	500	1500	P.O. Box 1506		Elgin	IL	60121     	6B	Contribution			False	False	False		False
 4094625	29490	829708	0	Friends of Stephanie Kifowit		2021-11-19 00:00:00	250	750	PO Box 1414		Aurora	IL	60507     	6B	Contribution			False	False	False		False
 4094626	29490	829708	0	Friends to Elect Terra Costa Howard		2021-11-19 00:00:00	250	250	490 Pennsylvania		Glen Ellyn	IL	60137     	6B	Contribution			False	False	False		False
-4094627	29490	829708	0	Friends of Michelle Mussman		2021-11-19 00:00:00	250	250	217 Tudor Lane		Schaumburg	IL	60193     	6B	Contribution			False	False	False		False
+4094627	29490	829708	0	Friends of Michelle Mussman		2021-11-19 00:00:00	250	250	Redaction Requested					6B	Contribution			False	False	False		True
 4094628	29490	829708	0	Friends of Maura Hirschauer		2021-11-19 00:00:00	250	500	551 Viking Drive		Batavia	IL	60510     	6B	Contribution			False	False	False		False
 4094629	29490	829708	0	Friends of Janet Yang Rohr		2021-11-19 00:00:00	250	250	909 Watercress Dr.		Naperville	IL	60540     	6B	Contribution			False	False	False		False
 4094630	29490	829708	0	Friends to elect Kathleen Willis		2021-11-19 00:00:00	250	250	611 Holly Ct		Addison	IL	60101     	6B	Contribution			False	False	False		False
@@ -160735,7 +160696,7 @@ B	Fundraiser			False	False	False		False
 4096483	1169	829969	0	Friends of Steve McClure		2021-10-22 00:00:00	500	500	PO Box 83		Springfield	IL	62705     	6B	Direct Contribution			False	False	False		False
 4096485	1169	829969	0	Julie Morrison for State Senate		2021-11-18 00:00:00	10000	10000	P.O. Box 646		Deerfield	IL	60015     	6B	Fundraiser 12/6/21			False	False	False		False
 4096486	1169	829969	0	Friends for Marty Moylan for State Representative		2021-12-02 00:00:00	5000	5000	PO Box 204		Des Plaines	IL	60016-0204	6B	Direct Contribution			False	False	False		False
-4096488	1169	829969	0	Friends of Michelle Mussman		2021-12-02 00:00:00	20000	20000	217 Tudor Ln.		Schaumburg	IL	60193     	6B	Direct Contribution			False	False	False		False
+4096488	1169	829969	0	Friends of Michelle Mussman		2021-12-02 00:00:00	20000	20000	Redaction Requested					6B	Direct Contribution			False	False	False		True
 4096489	1169	829969	0	Citizens for Suzanne Ness		2021-12-02 00:00:00	20000	20000	1056 Benningten Dr.		Crystal Lake	IL	60014-8890	6B	Direct Contribution			False	False	False		False
 4096490	1169	829969	0	Friends of Aaron Ortiz		2021-10-22 00:00:00	5000	5000	PO Box 32213		Chicago	IL	60632-0213	6B	Direct Contribution			False	False	False		False
 4096491	1169	829969	0	Peters for Illinois		2021-11-18 00:00:00	20000	20000	PO Box 15118		Chicago	IL	60615-5139	6B	Direct Contribution			False	False	False		False
@@ -160926,7 +160887,7 @@ B	Fundraiser			False	False	False		False
 4096672	1157	829993	0	Friends of Dart		2021-10-14 00:00:00	1000	1000	47 W Polk Street, Suite 235		Chicago	IL	60605     	6B	Contribution			False	False	False		False
 4096673	1157	829993	0	Friends of Kelly M Burke		2021-10-06 00:00:00	1000	1000	9543 S Central Park Ave		Evergreen Park	IL	60805     	6B	Contribution			False	False	False		False
 4096674	1157	829993	0	Friends Of Matt O'Shea		2021-10-14 00:00:00	2500	2500	10402 S. Western Ave.		Chicago	IL	60643     	6B	Contribution			False	False	False	United States	False
-4096675	1157	829993	0	Friends of Michelle Mussman		2021-12-06 00:00:00	500	500	217 Tudor Lane		Schaumburg	IL	60193     	6B	Sponsor			False	False	False		False
+4096675	1157	829993	0	Friends of Michelle Mussman		2021-12-06 00:00:00	500	500	Redaction Requested					6B	Sponsor			False	False	False		True
 4096676	1157	829993	0	Friends Of Roderick T. Sawyer		2021-12-06 00:00:00	500	500	PO BOX 19511		Chicago	IL	60619     	6B	Ticket purchase			False	False	False		False
 4096677	1157	829993	0	Friends of Stephanie Kifowit		2021-12-06 00:00:00	500	500	PO BOX 1414		Aurora	IL	60507     	6B	Sponsor			False	False	False		False
 4096678	1157	829993	0	Friends to Elect Kathleen Willis		2021-12-06 00:00:00	500	1000	611 E. Holly Ct		Addison	IL	60101     	6B	Sponsor			False	False	False		False
@@ -161242,7 +161203,7 @@ B	Fundraiser			False	False	False		False
 4096988	23646	830017	0	FRIENDS OF MELINDA BUSH		2021-12-06 00:00:00	500	500	240 N. LAKE ST.		GRAYSLAKE	IL	60030     	6B	Contribution			False	False	False		False
 4096989	23646	830017	0	FRIENDS OF PAUL O'GRADY		2021-11-03 00:00:00	500	500	10702 OLDE MILLE DR.		ORLAND PARK	IL	60467     	6B	Contribution			False	False	False		False
 4096990	23646	830017	0	FRIENDS OF STEPHANIE KIFOWIT		2021-11-03 00:00:00	1000	1000	P.O. BOX 1414		AURORA	IL	60507     	6B	Contribution			False	False	False		False
-4096991	23646	830017	0	FRIENDS OF MICHELLE MUSSMAN		2021-12-06 00:00:00	500	500	217 TUDOR LN.		SCHAUMBURG	IL	60193     	6B	Contribution			False	False	False		False
+4096991	23646	830017	0	FRIENDS OF MICHELLE MUSSMAN		2021-12-06 00:00:00	500	500	Redaction Requested					6B	Contribution			False	False	False		True
 4096992	23646	830017	0	CITIZENS FOR LAURA M. MURPHY		2021-12-06 00:00:00	500	500	P.O. BOX 13		DES PLAINES	IL	60016     	6B	Contribution			False	False	False		False
 4096993	23646	830017	0	FRIENDS OF MONICA SILVA		2021-11-18 00:00:00	750	750	15 N. EDGELAWN DR.		AURORA	IL	60506     	6B	Contribution			False	False	False		False
 4096994	23646	830017	0	FRIENDS OF KEVIN MORRISON		2021-12-03 00:00:00	500	500	P.O. BOX 59652		SCHAUMBURG	IL	60159     	6B	Contribution			False	False	False		False
@@ -161416,7 +161377,7 @@ B	Fundraiser			False	False	False		False
 4097162	24941	830031	0	Kurth Lampe Worldwide		2021-10-15 00:00:00	2500	2500	211 E Ohio St		Chicago	IL	60611     	8B	Consulting			False	False	False		False
 4097163	24941	830031	0	The Royko Group		2021-10-15 00:00:00	2500	2500	300 South Wacker Drive		Chicago	IL	60606     	8B	Legal fees			False	False	False		False
 4097164	11349	830032	0	Friends of Stephanie Kifowit		2021-12-07 00:00:00	500	500	P.O. Box 1414		Aurora	IL	60507     	6B	Contribution			False	False	False		False
-4097165	11349	830032	0	Friends of Michelle Mussman		2021-12-07 00:00:00	500	500	217 Tudor Lane		Schaumburg	IL	60193     	6B	Contribution			False	False	False		False
+4097165	11349	830032	0	Friends of Michelle Mussman		2021-12-07 00:00:00	500	500	Redaction Requested					6B	Contribution			False	False	False		True
 4097166	11349	830032	0	Citizens to Elect Jim Zay		2021-10-12 00:00:00	500	500	1205 Brookstone Drive		Carol Stream	IL	60188     	6B	Contribution			False	False	False		False
 4097167	11349	830032	0	Citizens to Elect Eckhoff		2021-10-12 00:00:00	500	500	211 N. Erie Street		Wheaton	IL	60187     	6B	Contribution			False	False	False		False
 4097168	11349	830032	0	Friends of Deborah Conroy		2021-12-07 00:00:00	500	500	P.O. Box 6721		Villa Park	IL	60181     	6B	Contribution			False	False	False		False
@@ -162996,7 +162957,7 @@ B	Fundraiser			False	False	False		False
 4098742	23354	830258	0	Citizens for Ann Gillespie		2021-12-06 00:00:00	25000	25000	P.O. Box 94		Mount Prospect	IL	60056     	8B	Contribution			False	False	False		False
 4098743	23354	830258	0	Citizens for Linda Holmes		2021-12-06 00:00:00	12500	12500	P.O. Box 6374		Aurora	IL	60598     	8B	Contribution			False	False	False		False
 4098744	23354	830258	0	Citizens for Mark Walker		2021-12-06 00:00:00	25000	25000	1310 W. Northwest Hwy		Arlington Heights	IL	60004     	8B	Contribution			False	False	False		False
-4098745	23354	830258	0	Friends of Michelle Mussman		2021-12-06 00:00:00	25000	25000	217 Tudor Lane		Schaumburg	IL	60193     	8B	Contribution			False	False	False		False
+4098745	23354	830258	0	Friends of Michelle Mussman		2021-12-06 00:00:00	25000	25000	Redaction Requested					8B	Contribution			False	False	False		True
 4098746	23354	830258	0	Friends of Theresa Mah		2021-12-06 00:00:00	6665	6665	3500 N. Lakewood Ave		Chicago	IL	60657     	8B	Contribution			False	False	False		False
 4098747	23354	830258	0	Citizens for Gregory Harris		2021-12-06 00:00:00	6665	6665	P.O. Box 180176 Finance Station T		Chicago	IL	60618     	8B	Contribution			False	False	False		False
 4098748	23354	830258	0	Zalewski for State Representative		2021-12-06 00:00:00	6665	6665	437 Repton Road		Riverside	IL	60546     	8B	Contribution			False	False	False		False
@@ -168539,7 +168500,7 @@ B	Fundraiser			False	False	False		False
 4104286	12604	830930	0	Friends of Theresa Mah		2021-12-02 00:00:00	500	500	3500 N Lakewood 3S		Chicago	IL	60657     	6B	Contribution			False	False	False		False
 4104287	12604	830930	0	Elect Dan Mcconchie		2021-11-04 00:00:00	1000	1000	PO Box 243		Lake Zurich	IL	60047     	6B	Contribution			False	False	False		False
 4104289	12604	830930	0	Citizens for Antonio Munoz		2021-11-04 00:00:00	500	500	2021 W 35th St		Chicago	IL	60608     	6B	Contribution			False	False	False		False
-4104290	12604	830930	0	Friends of Michelle Mussman		2021-12-04 00:00:00	500	500	217 Tudor Lane		Schaumburg	IL	60193     	6B	Contribution			False	False	False		False
+4104290	12604	830930	0	Friends of Michelle Mussman		2021-12-04 00:00:00	500	500	Redaction Requested					6B	Contribution			False	False	False		True
 4104291	12604	830930	0	Friends of Chapin Rose		2021-12-04 00:00:00	500	500	PO Box 838		Mahomet	IL	61853-083 	6B	Contribution			False	False	False		False
 4104292	12604	830930	0	Dave Syverson for Senate		2021-12-04 00:00:00	500	500	555S Perryville Road		Rockford	IL	61108-2522	6B	Contribution			False	False	False		False
 4104293	12604	830930	0	Friends of Ryan Spain		2021-12-04 00:00:00	500	500	P O Box 1575		Peoria	IL	61655     	6B	Contribution			False	False	False		False
@@ -175979,7 +175940,7 @@ B	Fundraiser			False	False	False		False
 4111734	22986	831580	0	Friends of Mattie Hunter		2021-11-13 00:00:00	6000	6000	11604 S Church St		Chicago	IL	60643     	6B	Contribution			False	False	True		False
 4111735	22986	831580	0	Friends of Maura Hirschauer		2021-11-13 00:00:00	5000	6000	551 Viking Drive		Batavia	IL	60510     	6B	Contribution			False	False	True		False
 4111736	22986	831580	0	Friends of Melinda Bush		2021-11-13 00:00:00	6000	7000	240 N Lake St		Grayslake	IL	60030     	6B	Contribution			False	False	True		False
-4111737	22986	831580	0	Friends of Michelle Mussman		2021-11-13 00:00:00	6000	6000	217 Tudor Lane		Schaumburg	IL	60193     	6B	Contribution			False	False	True		False
+4111737	22986	831580	0	Friends of Michelle Mussman		2021-11-13 00:00:00	6000	6000	Redaction Requested					6B	Contribution			False	False	True		True
 4111738	22986	831580	0	Friends of Mike Halpin		2021-11-13 00:00:00	6000	6000	4350 N. Broadway	#1106	Chicago	IL	60613     	6B	Contribution			False	False	True		False
 4111739	22986	831580	0	Friends of Mike Simmons		2021-11-13 00:00:00	5000	5000	826 W Windsor Ave	#2W	Chicago	IL	60640     	6B	Contribution			False	False	True		False
 4111740	22986	831580	0	Friends of Napoleon Harris		2021-11-13 00:00:00	6000	6000	P O Box 429		Flossmoor	IL	60422     	6B	Contribution			False	False	True		False
@@ -182681,7 +182642,7 @@ B	Fundraiser			False	False	False		False
 4118429	22986	833396	0	Friends of Josina Morita		2021-09-01 00:00:00	1000	1000	5340 Main St		Skokie	IL	60077     	6B	Contribution			False	False	False		False
 4118430	22986	833396	0	Friends of Joyce Mason		2021-09-01 00:00:00	1000	1000	PO Box 34		Gurnee	IL	60031     	6B	Contribution			False	False	False		False
 4118431	22986	833396	0	Friends of Lakesia		2021-09-01 00:00:00	1000	1000	1501 N Clybourn Ave	Unit D	Chicago	IL	60610     	6B	Contribution			False	False	False		False
-4118432	22986	833396	0	Friends of Michelle Mussman		2021-09-01 00:00:00	1000	1000	217 Tudor Lane		Schaumburg	IL	60193     	6B	Contribution			False	False	False		False
+4118432	22986	833396	0	Friends of Michelle Mussman		2021-09-01 00:00:00	1000	1000	Redaction Requested					6B	Contribution			False	False	False		True
 4118433	22986	833396	0	Friends of Ram		2021-09-01 00:00:00	5000	7500	4640 N Kilbourn Ave	Unit One	Chicago	IL	60630     	6B	Contribution			False	False	False		False
 4118435	22986	833396	0	Friends of Sue Rezin		2021-09-01 00:00:00	5000	6500	5395 Crescent Green Street		Morris	IL	60450     	6B	Contribution			False	False	False		False
 4118436	22986	833396	0	Friends of Theresa Mah		2021-09-01 00:00:00	1000	1000	3500 N Lakewood Ave		Chicago	IL	60657     	6B	Contribution			False	False	False		False
@@ -182893,7 +182854,7 @@ B	Fundraiser			False	False	False		False
 4118643	22986	833397	0	Friends of Mattie Hunter		2021-11-13 00:00:00	6000	6000	11604 S Church St		Chicago	IL	60643     	6B	Contribution			False	False	False		False
 4118644	22986	833397	0	Friends of Maura Hirschauer		2021-11-13 00:00:00	5000	6000	551 Viking Drive		Batavia	IL	60510     	6B	Contribution			False	False	False		False
 4118645	22986	833397	0	Friends of Melinda Bush		2021-11-13 00:00:00	6000	7000	240 N Lake St		Grayslake	IL	60030     	6B	Contribution			False	False	False		False
-4118646	22986	833397	0	Friends of Michelle Mussman		2021-11-13 00:00:00	6000	6000	217 Tudor Lane		Schaumburg	IL	60193     	6B	Contribution			False	False	False		False
+4118646	22986	833397	0	Friends of Michelle Mussman		2021-11-13 00:00:00	6000	6000	Redaction Requested					6B	Contribution			False	False	False		True
 4118647	22986	833397	0	Friends of Mike Halpin		2021-11-13 00:00:00	6000	6000	4350 N. Broadway	#1106	Chicago	IL	60613     	6B	Contribution			False	False	False		False
 4118648	22986	833397	0	Friends of Mike Simmons		2021-11-13 00:00:00	5000	5000	826 W Windsor Ave	#2W	Chicago	IL	60640     	6B	Contribution			False	False	False		False
 4118649	22986	833397	0	Friends of Napoleon Harris		2021-11-13 00:00:00	6000	6000	P O Box 429		Flossmoor	IL	60422     	6B	Contribution			False	False	False		False
@@ -187119,7 +187080,7 @@ B	Fundraiser			False	False	False		False
 4122867	1127	836691	0	Friends of Camille Lilly		2022-02-14 00:00:00	300	300	7061 W. North Avenue	UPS #260	Oak Park	IL	60302     	6B	Contribution			False	False	False		False
 4122868	1127	836691	0	Friends of Ann Williams		2022-02-14 00:00:00	300	300	4044 N Lincoln Avenue #266		Chicago	IL	60618-3038	6B	Contribution			False	False	False		False
 4122869	1127	836691	0	Friends of Rita Mayfield		2022-02-14 00:00:00	300	300	P.O. Box 344		Waukegan	IL	60085     	6B	Contribution			False	False	False		False
-4122870	1127	836691	0	Friends of Michelle Mussman		2022-02-14 00:00:00	300	300	217 Tudor Lane		Schaumburg	IL	60193-1724	6B	Contribution			False	False	False		False
+4122870	1127	836691	0	Friends of Michelle Mussman		2022-02-14 00:00:00	300	300	Redaction Requested					6B	Contribution			False	False	False		True
 4122871	1127	836691	0	Friends of Mark Batinick		2022-02-14 00:00:00	300	300	13707 S. Lake Drive		Plainfield	IL	60544-8113	6B	Contribution			False	False	False		False
 4122872	1127	836691	0	Friends of Laura Fine		2022-02-14 00:00:00	300	300	c/o Michael Kreloff	3710 Commercial Ave, Ste 5	Northbrook	IL	60062-1843	6B	Contribution			False	False	False		False
 4122873	1127	836691	0	Citizens for Laura Murphy		2022-02-14 00:00:00	300	300	P.O. Box 13		Des Plaines	IL	60016     	6B	Contribution			False	False	False		False
@@ -189332,7 +189293,7 @@ B	Fundraiser			False	False	False		False
 4125079	31771	837451	0	Friends for Larry Walsh Jr.		2022-03-16 00:00:00	5000	6500	PO Box 69		Elwood	IL	60421     	8B	Non-Federal Contribution			False	False	False		False
 4125080	31771	837451	0	Committee to Elect Jay C. Hoffman		2022-03-16 00:00:00	5000	6500	PO Box 23738		Belleville	IL	62223     	8B	Non-Federal Contribution			False	False	False		False
 4125082	31771	837451	0	Illinois Democratic County Chairs Association (ILDCCA)		2022-03-21 00:00:00	2500	2500	PO Box 3445		Springfield	IL	62708     	8B	Non-Federal Contribution			False	False	False		False
-4125083	31771	837451	0	Friends of Michelle Mussman		2022-03-28 00:00:00	59900	59900	217 Tudor Lane		Schaumburg	IL	60193     	8B	Non-Federal Contribution			False	False	False		False
+4125083	31771	837451	0	Friends of Michelle Mussman		2022-03-28 00:00:00	59900	59900	Redaction Requested					8B	Non-Federal Contribution			False	False	False		True
 4125084	31771	837451	0	Friends of Lance Yednock		2022-03-28 00:00:00	25000	25000	2441 Circle Drive		Ottawa	IL	61350     	8B	Non-Federal Contribution			False	False	False		False
 4125085	31771	837451	0	Friends of Dave Vella		2022-03-28 00:00:00	25000	25000	3235 Windsong Ct.		Rockford	IL	61114     	8B	Non-Federal Contribution			False	False	False		False
 4125086	31771	837451	0	Citizens for Mark Walker		2022-03-28 00:00:00	59900	59900	2 E. Northwest Highway		Mt. Prospect	IL	60056     	8B	Non-Federal Contribution			False	False	False		False
@@ -194440,7 +194401,7 @@ B	Fundraiser			False	False	False		False
 4130186	18574	838536	0	The People for Emanuel "Chris" Welch		2022-03-31 00:00:00	59900	59900	10055 West Roosevelt Rd Ste D		Westchester	IL	60154     	6B	Contribution			False	False	False		False
 4130187	18574	838536	0	Democratic Party of Illinois		2022-03-31 00:00:00	59900	59900	P.O. Box 641466		Chicago	IL	60664     	6B	Contribution			False	False	False		False
 4130188	18574	838536	0	Friends for Katie Stuart		2022-03-29 00:00:00	35500	35500	PO Box 591		Edwardsville	IL	62025     	6B	Contribution			False	False	False		False
-4130189	18574	838536	0	Friends of Michelle Mussman		2022-03-29 00:00:00	35000	35000	217 Tudor  Lane		Schaumburg	IL	60193     	6B	Contribution			False	False	False		False
+4130189	18574	838536	0	Friends of Michelle Mussman		2022-03-29 00:00:00	35000	35000	Redaction Requested					6B	Contribution			False	False	False		True
 4130190	1132	838538	0	Internal Revenue Service		2022-01-13 00:00:00	42	893.46	3101 Constitution Drive		Springfield	IL	62711     	8B	Taxes - federal			False	False	False		False
 4130191	1132	838538	0	Tarter	Julie	2022-01-03 00:00:00	1964.74	1964.74	3408 Embassy Dr.		Springfield	IL	62711     	8B	Staff salaries			False	False	False		False
 4130192	1132	838538	0	Papa John's Pizza		2022-02-25 00:00:00	178	271.11	121 East North Grand Avenue		Springfield	IL	62702     	8B	Food			False	False	False		False
@@ -197802,7 +197763,7 @@ B	Fundraiser			False	False	False		False
 4133548	34414	838991	0	First Bank Merchant Services		2022-03-21 00:00:00	172.19	439.34	PO Box 407066		Fort Lauderdale	FL	33340-7066	8B	Credit Card Processing Fee			False	False	True		False
 4133549	34414	838991	0	Friends of Cabonargi		2022-01-23 00:00:00	250	250	PO Box 833		Chicago	IL	60690-0833	6B	Contribution			False	False	True		False
 4133550	34414	838991	0	Friends of Donna Miller		2022-02-21 00:00:00	1000	1000	20340 Joy Dr		Lynwood	IL	60411-8506	6B	Contribution			False	False	True		False
-4133551	34414	838991	0	Friends of Yasmeen Bankole		2022-02-22 00:00:00	250	250	5717 Unit Ct		Hanover Park	IL	60133-5323	6B	Contribution			False	False	True		False
+4133551	34414	838991	0	Friends of Yasmeen Bankole		2022-02-22 00:00:00	250	250	Redaction Requested					6B	Contribution			False	False	True		True
 4133552	34414	838991	0	Gueringer Johnson	Anne F.	2022-03-29 00:00:00	1000	1000	26454 S Harvest Ln		Crete	IL	60417-4355	8B	Strategic Consulting Services			False	False	True		False
 4133553	34414	838991	0	Karen Bass for Mayor 2022		2022-02-22 00:00:00	1500	1500	777 S Figueroa St	Ste 4050	Los Angeles	CA	90017-5864	6B	Contribution			False	False	True		False
 4133554	34414	838991	0	NGP Van		2022-03-29 00:00:00	850.2	850.2	1101 15th St NW	Ste 500	Washington	DC	20005-5006	8B	Database Services			False	False	True		False
@@ -205859,7 +205820,7 @@ B	Fundraiser			False	False	False		False
 4141606	22986	839866	0	Friends of Jeff Deppe		2022-01-04 00:00:00	2500	2500	213 37th Ave		East Moline	IL	61244     	6B	Contribution			False	False	False		False
 4141607	22986	839866	0	Martin McLaughlin for State Representative		2022-02-03 00:00:00	1000	1000	34 Ridge Road		Barrington Hills	IL	60010     	6B	Contribution			False	False	False		False
 4141608	22986	839866	0	Tulchin Research		2022-03-23 00:00:00	27000	27000	220 Sansome St Ste 1360		San Francisco	CA	94104     	8B	Survey			False	False	False		False
-4141609	22986	839866	0	Friends of Michelle Mussman		2022-01-18 00:00:00	52900	52900	217 Tudor Lane		Schaumburg	IL	60193     	6B	Contribution			False	False	False		False
+4141609	22986	839866	0	Friends of Michelle Mussman		2022-01-18 00:00:00	52900	52900	Redaction Requested					6B	Contribution			False	False	False		True
 4141610	22986	839866	0	Friends of Jaime Andrade		2022-03-10 00:00:00	5000	5000	3655 N. Kedzie Ave.		Chicago	IL	60618     	6B	Contribution			False	False	False		False
 4141611	22986	839866	0	Committee to Elect Keith Wheeler		2022-02-03 00:00:00	2000	2000	320 W Washington St		Oswego	IL	60543-7551	6B	Contribution			False	False	False		False
 4141612	22986	839866	0	Friends of Sue Rezin		2022-02-03 00:00:00	3000	3000	5395 Crescent Green Street		Morris	IL	60450     	6B	Contribution			False	False	False		False
@@ -209340,7 +209301,7 @@ B	Fundraiser			False	False	False		False
 4145087	36236	840087	0	Friends of Lakesia		2022-03-01 00:00:00	2000	2000	1501 N Clybourn Ave	Unit D	Chicago	IL	60610-1041	8B				False	False	False		False
 4145088	36236	840087	0	Friends of Lance Yednock		2022-03-01 00:00:00	2000	2000	2441 Circle Dr		Ottawa	IL	61350-1219	6B				False	False	False		False
 4145089	36236	840087	0	Friends of LaPointe		2022-03-01 00:00:00	2000	2000	PO Box 30161		Chicago	IL	60630-0105	6B				False	False	False		False
-4145090	36236	840087	0	Friends of Michelle Mussman		2022-03-01 00:00:00	2000	2000	217 Tudor Ln		Schaumburg	IL	60193-1724	6B				False	False	False		False
+4145090	36236	840087	0	Friends of Michelle Mussman		2022-03-01 00:00:00	2000	2000	Redaction Requested					6B				False	False	False		True
 4145091	36236	840087	0	Friends of Mike Kelly		2022-03-01 00:00:00	2000	2000	4200 W Lawrence Ave	Ste B	Chicago	IL	60630-2729	6B				False	False	False		False
 4145092	36236	840087	0	Friends of Rita Mayfield		2022-03-01 00:00:00	2000	2000	649 S Fulton Ave		Waukegan	IL	60085-7246	6B				False	False	False		False
 4145093	36236	840087	0	Friends of Robert 'Bob' Rita		2022-03-01 00:00:00	2000	2000	2030 High St		Blue Island	IL	60406-2502	6B				False	False	False		False
@@ -272932,12 +272893,12 @@ B	Fundraiser			False	False	False		False
 4209727	35953	857166	0	William Tarver Campaign Fund		2022-09-02 00:00:00	250	250	70 Cottonwood Circle		Batavia	IL	60510     	6B	Contribution			False	False	False		False
 4209728	25267	857172	0	OGLE COUNTY REPUBLICAN CENTRAL COMMITTEE		2022-08-03 00:00:00	400	400	618 S GRANDVIEW TERRACE		OREGON	IL	61061     	8B	Donation			False	False	False		False
 4209729	23915	857176	0	Mary Beth Canty for Illinois		2022-08-18 00:00:00	500	10500	909 W. Euclid Ave		Arlington Heights	IL	60006     	6B	Contribution			False	False	False		False
-4209730	23915	857176	0	Friends of Michelle Mussman		2022-08-23 00:00:00	150	5150	217 Tudor Lane		Schaumburg	IL	60193     	6B	Contribution			False	False	False		False
+4209730	23915	857176	0	Friends of Michelle Mussman		2022-08-23 00:00:00	150	5150	Redaction Requested					6B	Contribution			False	False	False		True
 4209731	23915	857176	0	Citizens for Mark Walker		2022-08-23 00:00:00	150	5150	2 E Northwest Hwy		Mount Prospect	IL	60056     	6B	Contribution			False	False	False		False
 4209732	23915	857176	0	Citizens for Gillespie		2022-09-11 00:00:00	10000	10000	PO Box 94		Mount Prospect	IL	60056     	6B	Contribution			False	False	False		False
 4209733	23915	857176	0	Mary Beth Canty for Illinois		2022-09-11 00:00:00	10000	10500	909 W. Euclid Ave		Arlington Heights	IL	60006     	6B	Contribution			False	False	False		False
 4209734	23915	857176	0	Friends of Nabeela Syed		2022-09-11 00:00:00	10000	10000			Palatine	IL	60067     	6B	Contribution			False	False	False		False
-4209735	23915	857176	0	Friends of Michelle Mussman		2022-09-11 00:00:00	5000	5150	217 Tudor Lane		Schaumburg	IL	60193     	6B	Contribution			False	False	False		False
+4209735	23915	857176	0	Friends of Michelle Mussman		2022-09-11 00:00:00	5000	5150	Redaction Requested					6B	Contribution			False	False	False		True
 4209736	23915	857176	0	Citizens for Mark Walker		2022-09-11 00:00:00	5000	5150	2 E Northwest Hwy		Mount Prospect	IL	60056     	6B	Contribution			False	False	False		False
 4209737	23915	857176	0	People for Emanuel "Chris" Welch		2022-09-09 00:00:00	500	500	10055 W. Roosevelt Rd.		Westchester	IL	60154     	6B	Contribution			False	False	False		False
 4209738	23915	857176	0	Citizens for Kelly Cassidy		2022-09-09 00:00:00	300	300	5533 N. Broadway.		Chicago	IL	60640     	6B	Contribution			False	False	False		False
@@ -274633,7 +274594,7 @@ B	Fundraiser			False	False	False		False
 4211432	1127	857784	0	Friends of Kelly Burke		2022-07-26 00:00:00	400	400	10161 S. Albany Avenue		Evergreen Park	IL	60805     	6B	Contribution			False	False	False		False
 4211433	1127	857784	0	Friends of Lindsey LaPointe		2022-07-26 00:00:00	200	200	P.O. Box 30161		Chicago	IL	60630-0105	6B	Contribution			False	False	False		False
 4211434	1127	857784	0	Friends of Mary Flowers		2022-07-26 00:00:00	200	200	7712 S Paulina St		Chicago	IL	60620-4417	6B	Contribution			False	False	False		False
-4211435	1127	857784	0	Friends of Michelle Mussman		2022-07-26 00:00:00	300	300	217 Tudor Lane		Schaumburg	IL	60193-1724	6B	Contribution			False	False	False		False
+4211435	1127	857784	0	Friends of Michelle Mussman		2022-07-26 00:00:00	300	300	Redaction Requested					6B	Contribution			False	False	False		True
 4211436	1127	857784	0	Friends of Rita Mayfield		2022-07-26 00:00:00	300	300	P.O. Box 344		Waukegan	IL	60085     	6B	Contribution			False	False	False		False
 4211437	1127	857784	0	Friends of Robert "Bob" Rita		2022-07-26 00:00:00	800	800	2030 High St		Blue Island	IL	60406-2502	6B	Contribution			False	False	False		False
 4211438	1127	857784	0	Friends of Ryan Spain		2022-07-26 00:00:00	300	300	P.O. Box 1575		Peoria	IL	61655-1575	6B	Contribution			False	False	False		False
@@ -275312,7 +275273,7 @@ B	Fundraiser			False	False	False		False
 4212112	675	857979	0	McCombie for Illinois		2022-07-12 00:00:00	1000	1000	PO Box 71		Savanna	IL	61074     	6B	CONTRIBUTION			False	False	False		False
 4212113	675	857979	0	Elect Dan McConchie		2022-09-08 00:00:00	12000	12000	PO Box 243		Lake Zurich	IL	60047     	6B	CONTRIBUTION.			False	False	False		False
 4212114	675	857979	0	Citizens for Charlie Meier		2022-08-04 00:00:00	2000	2000	C/O Jeff Rabenort, Treas.	203 S. Abby Road	Okawville	IL	62271-2152	6B	CONTRIBUTION			False	False	False		False
-4212115	675	857979	0	Friends of Michelle Mussman		2022-08-24 00:00:00	1000	1000	217 Tudor Lane		Schaumburg	IL	60193-1724	6B	CONTRIBUTION			False	False	False		False
+4212115	675	857979	0	Friends of Michelle Mussman		2022-08-24 00:00:00	1000	1000	Redaction Requested					6B	CONTRIBUTION			False	False	False		True
 4212116	675	857979	0	People for Cristina		2022-09-13 00:00:00	500	500	2711 N. Mozart		Chicago	IL	60647     	6B	CONTRIBUTION			False	False	False		False
 4212117	675	857979	0	People for Cristina		2022-09-22 00:00:00	500	1000	2711 N. Mozart		Chicago	IL	60647     	6B	CONTRIBUTION			False	False	False		False
 4212118	675	857979	0	Preckwinkle for President		2022-07-19 00:00:00	2500	2500	5035 S. East End Ave., Unit 3509 No		Chicago	IL	60615     	6B	CONTRIBUTION			False	False	False		False
@@ -275858,7 +275819,7 @@ B	Fundraiser			False	False	False		False
 4212654	560	858129	0	Elect Dan McConchie		2022-09-06 00:00:00	500	500	PO Box 243		Lake Zurich	IL	60047     	6B	Dan McConchie, STATE SENATE 26th IL			False	False	False		False
 4212655	560	858129	0	Citizens for Charlie Meier		2022-07-15 00:00:00	500	500	203 S Abby St.		Okawville	IL	62271     	6B	Charles Meier, STATE HOUSE 108th IL			False	False	False		False
 4212656	560	858129	0	Friends for Anna Moeller		2022-08-16 00:00:00	250	250	PO Box 1086		Elgin	IL	60121-1086	6B	Anna Moeller, STATE HOUSE 43rd IL			False	False	False		False
-4212657	560	858129	0	Friends of Michelle Mussman		2022-09-06 00:00:00	500	500	217  Tudor Lane		Schaumburg	IL	60193     	6B	Michelle Mussman, STATE HOUSE 56th IL			False	False	False		False
+4212657	560	858129	0	Friends of Michelle Mussman		2022-09-06 00:00:00	500	500	Redaction Requested					6B	Michelle Mussman, STATE HOUSE 56th IL			False	False	False		True
 4212658	560	858129	0	Ozinga for Illinois		2022-07-11 00:00:00	500	500	PO Box 1011		Mokena	IL	60448     	6B	Tim Ozinga, STATE HOUSE 37th IL			False	False	False		False
 4212659	560	858129	0	People for Cristina		2022-09-06 00:00:00	500	500	PO Box 47474		Chicago	IL	60647     	6B	Cristina Pacione-Zayas, STATE SENATE 20th IL			False	False	False		False
 4212660	560	858129	0	Plummer for Illinois		2022-07-25 00:00:00	1000	1000	PO Box 5		Troy	IL	62294-0005	6B	Jason Plummer, STATE SENATE 54th IL			False	False	False		False
@@ -277040,7 +277001,7 @@ B	Fundraiser			False	False	False		False
 4213835	16903	858445	0	Illinois State Conference of IBEW PAC		2022-09-07 00:00:00	1951.6	1951.6	6820 Mill Road		Rockford	IL	61108     	6B	Contribution			False	False	True		False
 4213836	16903	858445	0	Citizens for Maurice West II		2022-08-17 00:00:00	1000	1000	PO Box 4303		Rockford	IL	61110     	6B	Contribution			False	False	True		False
 4213837	16903	858445	0	Friends of Joyce Mason		2022-08-17 00:00:00	500	500	PO Box 34		Gurnee	IL	60031     	6B	Contribution			False	False	True		False
-4213838	16903	858445	0	Friends of Michelle Mussman		2022-08-17 00:00:00	500	500	217 Tudor Lane		Schaumburg	IL	60193     	6B	Contribution			False	False	True		False
+4213838	16903	858445	0	Friends of Michelle Mussman		2022-08-17 00:00:00	500	500	Redaction Requested					6B	Contribution			False	False	True		True
 4213839	16903	858445	0	Friends of Jonathan Carroll		2022-08-17 00:00:00	500	500	PO Box 173		Northbrook	IL	60065     	6B	Contribution			False	False	True		False
 4213840	16903	858445	0	Friends for Marty Moylan		2022-08-17 00:00:00	500	500	P. O. Box 204		Des Plaines	IL	60016     	6B	Contribution			False	False	True		False
 4213841	16903	858445	0	Citizens for Mark Walker		2022-08-17 00:00:00	500	500	PO Box1373		Arlington Heights	IL	60006     	6B	Contribution			False	False	True		False
@@ -277564,7 +277525,7 @@ B	Fundraiser			False	False	False		False
 4214362	36876	858611	0	Committee to Elect Jay C Hoffman		2022-09-08 00:00:00	2500	5000	PO Box 23738		Belleville	IL	62223     	6B	Contribution			False	False	False		False
 4214363	36876	858611	0	Friends & Family of Nabeela Syed		2022-09-08 00:00:00	2000	2000	PO Box 1128		Palatine	IL	60078     	6B	Contribution			False	False	False		False
 4214364	36876	858611	0	Friends of Nicholas Smith		2022-09-08 00:00:00	2500	2500	PO Box 286152		Chicago	IL	60628     	6B	Contribution			False	False	False		False
-4214366	36876	858611	0	Friends of Michelle Mussman		2022-09-08 00:00:00	2000	2000	217 Tudor Lane		Schaumburg	IL	60193     	6B	Contribution			False	False	False		False
+4214366	36876	858611	0	Friends of Michelle Mussman		2022-09-08 00:00:00	2000	2000	Redaction Requested					6B	Contribution			False	False	False		True
 4214367	36876	858611	0	Friends of Curtis Tarver II		2022-09-08 00:00:00	1000	1000	1 E Wacker Dr Ste 510		Chicago	IL	60601     	6B	Contribution			False	False	False		False
 4214368	36876	858611	0	Friends of Willie Preston		2022-09-08 00:00:00	2500	2500	7706 S Wood		Chicago	IL	60620     	6B	Contribution			False	False	False		False
 4214369	36876	858611	0	Friends for State Rep Anthony DeLuca		2022-09-08 00:00:00	1500	1500	852 Mackler Dr		Chicago Heights	IL	60411     	6B	Contribution			False	False	False		False
@@ -282072,7 +282033,7 @@ B	Fundraiser			False	False	False		False
 4218867	31901	859746	0	The Andrew Weishar Foundation		2022-08-24 00:00:00	250	250	1245 S Michigan Ave		Chicago	IL	60605     	6B	Contribution			False	False	False		False
 4218868	31901	859746	0	Citizens to Elect Mark W Szula		2022-08-24 00:00:00	250	250	PO Box 1131		Roscoe	IL	61073     	6B	Contribution			False	False	False		False
 4218869	31901	859746	0	Citizens for Mark Walker		2022-08-24 00:00:00	500	500	126 E Wing Street #149		Arlington Heights	IL	60004     	6B	Contribution			False	False	False		False
-4218870	31901	859746	0	Friends of Michelle Mussman		2022-08-27 00:00:00	500	500	217 Tudor Lane		Schaumburg	IL	60193     	6B	Contribution			False	False	False		False
+4218870	31901	859746	0	Friends of Michelle Mussman		2022-08-27 00:00:00	500	500	Redaction Requested					6B	Contribution			False	False	False		True
 4218871	31901	859746	0	Friends for Ted Mesiacos		2022-09-14 00:00:00	1000	1000	466 Jackson St		Aurora	IL	60505     	6B	Contribution			False	False	False		False
 4218872	31901	859746	0	Friends of Chris Kious		2022-09-14 00:00:00	500	500	PO Box 315		Algonquin	IL	60102     	6B	Contribution			False	False	False		False
 4218873	31901	859746	0	Lee County Democratic Central Committee		2022-09-14 00:00:00	200	200	662 Palmyra Rd		Dixon	IL	61021     	6B	Contribution			False	False	False		False
@@ -289990,7 +289951,7 @@ B	Fundraiser			False	False	False		False
 4226785	24484	861011	0	Friends of Kelly Burke		2022-08-05 00:00:00	250	250	10161 S. Albany		Evergreen Park	IL	60805     	6B	Contribution			False	False	False		False
 4226786	24484	861011	0	Friends of Deborah Conroy		2022-08-05 00:00:00	250	250	PO Box 6721		Villa Park	IL	60181     	6B	Contribution			False	False	False		False
 4226787	24484	861011	0	Friends to Elect Terra Costa Howard		2022-08-05 00:00:00	500	500	PO Box 3085		Glen Ellyn	IL	60138-3085	6B	Contribution			False	False	False		False
-4226788	24484	861011	0	Friends of Michelle Mussman		2022-08-05 00:00:00	250	250	217 Tudor Ln.		Schaumburg	IL	60193-1724	6B	Contribution			False	False	False		False
+4226788	24484	861011	0	Friends of Michelle Mussman		2022-08-05 00:00:00	250	250	Redaction Requested					6B	Contribution			False	False	False		True
 4226789	24484	861011	0	Friends of Aaron Ortiz		2022-08-05 00:00:00	250	250	PO Box 32213		Chicago	IL	60632-0213	6B	Contribution			False	False	False		False
 4226790	24484	861011	0	Friends of Robert "Bob" Rita		2022-08-05 00:00:00	250	250	2030 High St.		Blue Island	IL	60406-2502	6B	Contribution			False	False	False		False
 4226791	24484	861011	0	Friends of Ann M Williams		2022-08-05 00:00:00	250	250	4044 N Lincoln Ave.	#266	Chicago	IL	60618-3038	6B	Contribution			False	False	False		False
@@ -306527,7 +306488,7 @@ B	Fundraiser			False	False	False		False
 4243323	1157	862461	0	Friends for Brandon Johnson		2022-08-31 00:00:00	500	500	6610 W North Avenue		Chicago	IL	60707     	6B	Supporter			False	False	False		False
 4243324	1157	862461	0	Committee to Elect Will Guzzardi		2022-08-31 00:00:00	500	500	2934 N Milwaukee Ave., Unit D		Chicago	IL	60618     	6B	Supporter			False	False	False		False
 4243325	1157	862461	0	Citizens for Mark Walter		2022-08-31 00:00:00	2500	2500	126 E Wing Street #149		Arlington Heights	IL	60004     	6B	Gold Sponsor			False	False	False		False
-4243326	1157	862461	0	Friends of Michelle Mussman		2022-08-31 00:00:00	1000	1000	217 Tudor Lane		Schaumburg	IL	60193     	6B	Silver Sponsor			False	False	False		False
+4243326	1157	862461	0	Friends of Michelle Mussman		2022-08-31 00:00:00	1000	1000	Redaction Requested					6B	Silver Sponsor			False	False	False		True
 4243327	1157	862461	0	Friends of Suzy Glowiak		2022-07-27 00:00:00	1000	1000	PO BOX 3454		Oak Brook	IL	60522     	6B	Contribution			False	False	False		False
 4243328	1157	862461	0	Friends of Robyn Gabel		2022-07-27 00:00:00	1000	1000	PO BOX 6453		Evanston	IL	60204     	6B	Contribution			False	False	False		False
 4243329	1157	862461	0	Citizens for Mark Walker		2022-07-27 00:00:00	2500	2500	1310 W Northwest Hwy		Arlington Heights	IL	60004     	6B	Contribution			False	False	False		False
@@ -308669,7 +308630,7 @@ B	Fundraiser			False	False	False		False
 4245469	23354	862621	0	Citizens for Fred Crespo		2022-09-09 00:00:00	1000	1000	313 Ronnie Drive		Buffalo Grove	IL	60089     	8B	Contribution			False	False	False		False
 4245470	23354	862621	0	Friends of Barbara Hernandez		2022-09-09 00:00:00	2000	2000	940 Walter Ave		Aurora	IL	60505     	8B	Contribution			False	False	False		False
 4245471	23354	862621	0	Friends for Marty Moylan for State Representative		2022-09-09 00:00:00	2000	2000	PO Box 1613		Des Plaines	IL	60018     	8B	Contribution			False	False	False		False
-4245472	23354	862621	0	Friends of Michelle Mussman		2022-09-09 00:00:00	2000	2000	217 Tudor Lane		Schaumburg	IL	60193     	8B	Contribution			False	False	False		False
+4245472	23354	862621	0	Friends of Michelle Mussman		2022-09-09 00:00:00	2000	2000	Redaction Requested					8B	Contribution			False	False	False		True
 4245473	23354	862621	0	Friends of Jonathon Carroll		2022-09-09 00:00:00	2000	2000	PO Box 712		Northbrook	IL	60065     	8B	Contribution			False	False	False		False
 4245474	23354	862621	0	Daniel Didech Campaign Committee		2022-09-09 00:00:00	2000	2000	PO Box 4959		Buffalo Grove	IL	60089     	8B	Contribution			False	False	False		False
 4245475	23354	862621	0	Peter Janko for Illinois		2022-09-09 00:00:00	1000	1000	18719 River Road		Marengo	IL	60152     	8B	Contribution			False	False	False		False
@@ -312078,7 +312039,7 @@ B	Fundraiser			False	False	False		False
 4248873	34208	862767	0	Democratic Party of Illinois		2022-07-25 00:00:00	1000	1000	PO Box 518		Springfield	IL	62705-0518	8B	Voter File			False	False	False		False
 4248874	34208	862767	0	Edgar Fellows Program		2022-08-18 00:00:00	287.78	287.78	1007 W Nevada St		Urbana	IL	61801-3812	8B	Ticket for Dinner Event			False	False	False		False
 4248875	34208	862767	0	Forest Printing Company		2022-07-14 00:00:00	745.65	745.65	7214 Madison St		Forest Park	IL	60130-3105	8B	Printing- Walk Literature			False	False	False		False
-4248876	34208	862767	0	Friends of Michelle Mussman		2022-09-13 00:00:00	750	750	217 Tudor Ln		Schaumburg	IL	60193-1724	6B	Rent for Campaign Office			False	False	False		False
+4248876	34208	862767	0	Friends of Michelle Mussman		2022-09-13 00:00:00	750	750	Redaction Requested					6B	Rent for Campaign Office			False	False	False		True
 4248877	34208	862767	0	Grace Printing & Mailing		2022-08-19 00:00:00	438.82	438.82	3425 Cleveland St		Skokie	IL	60076-2915	8B	Buttons			False	False	False		False
 4248878	34208	862767	0	Jones	Evan	2022-08-02 00:00:00	2750	11088.31	1662 W Bryn Mawr Ave	Apt 2	Chicago	IL	60660-4107	8B	Salary			False	False	False		False
 4248879	34208	862767	0	Jones	Evan	2022-08-16 00:00:00	2750	11088.31	1662 W Bryn Mawr Ave	Apt 2	Chicago	IL	60660-4107	8B	Salary			False	False	False		False
@@ -333454,7 +333415,7 @@ B	Fundraiser			False	False	False		False
 4271107	22913	871250	0	Bulthuis Galvin	Aimee	2022-10-19 00:00:00	391.1	3303.02	22 W. Washington Street	Suite 1500	Chicago	IL	60602     	8B	Principal payment, Bulthuis Galvin			False	False	False		False
 4271108	22913	871250	0	Bulthuis Galvin	Aimee	2022-11-16 00:00:00	2514.14	3303.02	22 W. Washington Street	Suite 1500	Chicago	IL	60602     	8B	Staff salaries			False	False	False		False
 4271109	22913	871250	0	Bulthuis Galvin	Aimee	2022-12-15 00:00:00	397.78	3303.02	22 W. Washington Street	Suite 1500	Chicago	IL	60602     	8B	Staff salaries			False	False	False		False
-4271110	22913	871250	0	Friends of Michelle Mussman		2022-10-13 00:00:00	5000	5000	217 Tudor Lane		Schaumburg	IL	60193     	6B	Contribution			False	False	False		False
+4271110	22913	871250	0	Friends of Michelle Mussman		2022-10-13 00:00:00	5000	5000	Redaction Requested					6B	Contribution			False	False	False		True
 4271111	22913	871250	0	Mary for Illinois		2022-10-13 00:00:00	5000	5000	P.O. Box 6506		Libertyville	IL	60048     	6B	Contribution			False	False	False		False
 4271112	22913	871250	0	Elect Dan McConchie		2022-10-13 00:00:00	10000	10000	P.O. Box 243		Lake Zurich	IL	60047     	6B	Contribution			False	False	False		False
 4271113	22913	871250	0	Daniel Didech Campaign Committee		2022-10-13 00:00:00	2500	2500	P.O. Box 4959		Buffalo Grove	IL	60089     	6B	Contribution			False	False	False		False
@@ -340395,7 +340356,7 @@ B	Fundraiser			False	False	False		False
 4278050	23199	872356	0	Citizens for Giannoulias		2022-10-10 00:00:00	65000	65000	c/o P2 Consulting	22 W. Washington St., Ste.1500	Chicago	IL	60602     	6B	Contribution			False	False	False		False
 4278051	23199	872356	0	Friends of Mike Simmons		2022-10-10 00:00:00	3000	3000	826 W. Windsor Ave., #2W		Chicago	IL	60640     	6B	Contribution			False	False	False		False
 4278052	23199	872356	0	Hoskins for Mayor		2022-10-10 00:00:00	1000	1000	P.O. Box 608		Forest Park	IL	60130     	6B	Contribution			False	False	False		False
-4278053	23199	872356	0	Friends of Michelle Mussman		2022-10-10 00:00:00	3000	3000	217 Tudor Ln.		Schaumburg	IL	60193     	6B	Contribution			False	False	False		False
+4278053	23199	872356	0	Friends of Michelle Mussman		2022-10-10 00:00:00	3000	3000	Redaction Requested					6B	Contribution			False	False	False		True
 4278054	23199	872356	0	Friends of Natalie Manley		2022-10-10 00:00:00	5000	5000	3107 Ingalls Ave., #3A		Joliet	IL	60435     	6B	Contribution			False	False	False		False
 4278055	23199	872356	0	Friends of Patricia Van Pelt Watkins		2022-10-10 00:00:00	3000	3000	2826 W. Washington Blvd		Chicago	IL	60612     	6B	Contribution			False	False	False		False
 4278056	23199	872356	0	Friends of Rita Mayfield		2022-10-10 00:00:00	3000	3000	649 S. Fulton Ave.		Waukegan	IL	60085     	6B	Contribution			False	False	False		False
@@ -341178,7 +341139,7 @@ B	Fundraiser			False	False	False		False
 4278830	20563	872400	0	Friends of Stephanie Kifowit		2022-10-05 00:00:00	1000	1000	PO BOX 1414		Aurora	IL	60507     	6B	Contribution			False	False	False		False
 4278831	20563	872400	0	Friends of Robyn Gabel		2022-10-05 00:00:00	1000	1000	PO Box 6453		Evanston	IL	60204     	6B	Contribution			False	False	False		False
 4278832	20563	872400	0	Citizens for Amy Grant		2022-10-05 00:00:00	600	600	1023 Wheaton Place		Wheaton	IL	60187     	6B	Contribution			False	False	False		False
-4278833	20563	872400	0	Friends of Michelle Mussman		2022-10-05 00:00:00	1000	1000	217 Tudor Lane		Schaumburg	IL	60193     	6B	Contribution			False	False	False		False
+4278833	20563	872400	0	Friends of Michelle Mussman		2022-10-05 00:00:00	1000	1000	Redaction Requested					6B	Contribution			False	False	False		True
 4278834	20563	872400	0	Friends of Fran Hurley		2022-10-05 00:00:00	600	600	3207 W. 111th St.		Chicago	IL	60655     	6B	Contribution			False	False	False		False
 4278835	20563	872400	0	SUAA		2022-12-20 00:00:00	32.49	13782.49	217 E. Monroe	Suite 100	Springfield	IL	62701     	8B	Postage for Q4 2022			False	False	False		False
 4278836	20563	872400	0	SUAA		2022-12-20 00:00:00	13750	13782.49	217 E. Monroe	Suite 100	Springfield	IL	62701     	8B	Contractual - Q4 Contract with SUAA			False	False	False		False
@@ -352468,7 +352429,7 @@ B	Fundraiser			False	False	False		False
 4290119	16903	873665	0	Illinois State Conference of IBEW PAC		2022-09-07 00:00:00	1951.6	1951.6	6820 Mill Road		Rockford	IL	61108     	6B	Contribution			False	False	True		False
 4290120	16903	873665	0	Citizens for Maurice West II		2022-08-17 00:00:00	1000	1000	PO Box 4303		Rockford	IL	61110     	6B	Contribution			False	False	True		False
 4290121	16903	873665	0	Friends of Joyce Mason		2022-08-17 00:00:00	500	500	PO Box 34		Gurnee	IL	60031     	6B	Contribution			False	False	True		False
-4290122	16903	873665	0	Friends of Michelle Mussman		2022-08-17 00:00:00	500	500	217 Tudor Lane		Schaumburg	IL	60193     	6B	Contribution			False	False	True		False
+4290122	16903	873665	0	Friends of Michelle Mussman		2022-08-17 00:00:00	500	500	Redaction Requested					6B	Contribution			False	False	True		True
 4290123	16903	873665	0	Friends of Jonathan Carroll		2022-08-17 00:00:00	500	500	PO Box 173		Northbrook	IL	60065     	6B	Contribution			False	False	True		False
 4290124	16903	873665	0	Friends for Marty Moylan		2022-08-17 00:00:00	500	500	P. O. Box 204		Des Plaines	IL	60016     	6B	Contribution			False	False	True		False
 4290125	16903	873665	0	Citizens for Mark Walker		2022-08-17 00:00:00	500	500	PO Box1373		Arlington Heights	IL	60006     	6B	Contribution			False	False	True		False
@@ -356265,7 +356226,7 @@ B	Fundraiser			False	False	False		False
 4293917	16903	873913	0	Illinois State Conference of IBEW PAC		2022-09-07 00:00:00	1951.6	1951.6	6820 Mill Road		Rockford	IL	61108     	6B	Contribution			False	False	False		False
 4293918	16903	873913	0	Citizens for Maurice West II		2022-08-17 00:00:00	1000	1000	PO Box 4303		Rockford	IL	61110     	6B	Contribution			False	False	False		False
 4293919	16903	873913	0	Friends of Joyce Mason		2022-08-17 00:00:00	500	500	PO Box 34		Gurnee	IL	60031     	6B	Contribution			False	False	False		False
-4293920	16903	873913	0	Friends of Michelle Mussman		2022-08-17 00:00:00	500	500	217 Tudor Lane		Schaumburg	IL	60193     	6B	Contribution			False	False	False		False
+4293920	16903	873913	0	Friends of Michelle Mussman		2022-08-17 00:00:00	500	500	Redaction Requested					6B	Contribution			False	False	False		True
 4293921	16903	873913	0	Friends of Jonathan Carroll		2022-08-17 00:00:00	500	500	PO Box 173		Northbrook	IL	60065     	6B	Contribution			False	False	False		False
 4293922	16903	873913	0	Friends for Marty Moylan		2022-08-17 00:00:00	500	500	P. O. Box 204		Des Plaines	IL	60016     	6B	Contribution			False	False	False		False
 4293923	16903	873913	0	Citizens for Mark Walker		2022-08-17 00:00:00	500	500	PO Box1373		Arlington Heights	IL	60006     	6B	Contribution			False	False	False		False
@@ -358964,7 +358925,7 @@ B	Fundraiser			False	False	False		False
 4296619	22986	874045	0	Friends of LaToya N Greenwood		2022-10-17 00:00:00	5000	5000	5111 W Main St		Belleville	IL	62226     	6B	Contribution			False	False	False		False
 4296620	22986	874045	0	Friends of Martin McLaughlin		2022-10-17 00:00:00	2000	2000	34 Ridge Rd		Barrington	IL	60010     	6B	Contribution			False	False	False		False
 4296621	22986	874045	0	Friends of Mary Flowers		2022-10-17 00:00:00	5000	5000	7712 South Paulina St		Chicago	IL	60620     	6B	Contribution			False	False	False		False
-4296622	22986	874045	0	Friends of Michelle Mussman		2022-10-17 00:00:00	5000	5000	217 Tudor Lane		Schaumburg	IL	60193     	6B	Contribution			False	False	False		False
+4296622	22986	874045	0	Friends of Michelle Mussman		2022-10-17 00:00:00	5000	5000	Redaction Requested					6B	Contribution			False	False	False		True
 4296623	22986	874045	0	Friends of Mike Kelly		2022-10-17 00:00:00	2000	2000	4200 W Lawrence Ave	Suite B	Chicago	IL	60630     	6B	Contribution			False	False	False		False
 4296624	22986	874045	0	Friends of Natalie Manley		2022-10-17 00:00:00	5000	5000	3107 ingalls Ave	3A	Joliet	IL	60435     	6B	Contribution			False	False	False		False
 4296625	22986	874045	0	Friends of Nicholas Smith		2022-10-17 00:00:00	5000	5000	PO Box 286152		Chicago	IL	60628     	6B	Contribution			False	False	False		False
@@ -376566,7 +376527,7 @@ B	Fundraiser			False	False	False		False
 4314218	35556	874581	0	Friends of Holly Kim		2022-10-03 00:00:00	7000	7000	PO Box 1032		Mundelein	IL	60060-8032	6B	Contribution			False	False	True		False
 4314219	35556	874581	0	Friends of Janet Yang Rohr		2022-10-03 00:00:00	1000	1000	909 Watercress Dr		Naperville	IL	60540-7660	6B	Contribution			False	False	True		False
 4314220	35556	874581	0	Friends of Josina Morita		2022-11-06 00:00:00	5000	5000	5340 Main Street		Skokie	IL	60077     	6B	Contribution			False	False	True		False
-4314221	35556	874581	0	Aileen Bhandari For Judge		2022-10-20 00:00:00	500	500	4126 N. Lavergne		Chicago	IL	60641     	6B	Contribution			False	False	True		False
+4314221	35556	874581	0	Aileen Bhandari For Judge		2022-10-20 00:00:00	500	500	Redaction Requested					6B	Contribution			False	False	True		True
 4314216	35556	874581	0	Friends & Family of Nabeela Syed		2022-10-03 00:00:00	1000	1000	Redaction Requested					6B	Contribution			False	False	True		True
 4314222	37221	874582	0	Constant Contact		2022-10-17 00:00:00	123.5	370.5	1601 Trapelo Rd.		Waltham	IL	02451     	8B	Email management.			False	False	False		False
 4314223	37221	874582	0	Constant Contact		2022-11-18 00:00:00	123.5	370.5	1601 Trapelo Rd.		Waltham	IL	02451     	8B	Email management.			False	False	False		False
@@ -377634,7 +377595,7 @@ B	Fundraiser			False	False	False		False
 4315286	35556	874650	0	Friends of Holly Kim		2022-10-03 00:00:00	7000	7000	PO Box 1032		Mundelein	IL	60060-8032	6B	Contribution			False	False	True		False
 4315287	35556	874650	0	Friends of Janet Yang Rohr		2022-10-03 00:00:00	1000	1000	909 Watercress Dr		Naperville	IL	60540-7660	6B	Contribution			False	False	True		False
 4315288	35556	874650	0	Friends of Josina Morita		2022-11-06 00:00:00	5000	5000	5340 Main Street		Skokie	IL	60077     	6B	Contribution			False	False	True		False
-4315289	35556	874650	0	Aileen Bhandari For Judge		2022-10-20 00:00:00	500	500	4126 N. Lavergne		Chicago	IL	60641     	6B	Contribution			False	False	True		False
+4315289	35556	874650	0	Aileen Bhandari For Judge		2022-10-20 00:00:00	500	500	Redaction Requested					6B	Contribution			False	False	True		True
 4315284	35556	874650	0	Friends & Family of Nabeela Syed		2022-10-03 00:00:00	1000	1000	Redaction Requested					6B	Contribution			False	False	True		True
 4315290	38742	874651	0	Breaker Press		2022-10-18 00:00:00	2275	2750	2421 S Western Ave		Chicago	IL	60608     	8B	Mailing			False	False	False		False
 4315291	38742	874651	0	Breaker Press		2022-10-28 00:00:00	475	2750	2421 S Western Ave		Chicago	IL	60608     	8B	Yard signs			False	False	False		False
@@ -392918,7 +392879,7 @@ B	Fundraiser			False	False	False		False
 4330578	1127	881042	0	Friends of Emil Jones, III		2023-03-02 00:00:00	800	800	11357 S Lowe Ave		Chicago	IL	60628-4714	6B	Contribution			False	False	False		False
 4330579	1127	881042	0	Friends of Mary Flowers		2023-03-02 00:00:00	200	200	7712 S Paulina St		Chicago	IL	60620-4417	6B	Contribution			False	False	False		False
 4330580	1127	881042	0	Friends of Mattie Hunter		2023-03-02 00:00:00	300	300	P.O. Box 439430		Chicago	IL	60643-9430	6B	Contribution			False	False	False		False
-4330581	1127	881042	0	Friends of Michelle Mussman		2023-03-02 00:00:00	300	300	217 Tudor Lane		Schaumburg	IL	60193-1724	6B	Contribution			False	False	False		False
+4330581	1127	881042	0	Friends of Michelle Mussman		2023-03-02 00:00:00	300	300	Redaction Requested					6B	Contribution			False	False	False		True
 4330582	1127	881042	0	Friends of Natalie Manley		2023-03-02 00:00:00	1000	1000	1927 Timbers Edge Circle		Joliet	IL	60431-1626	6B	Contribution			False	False	False		False
 4330583	1127	881042	0	Friends of Rita Mayfield		2023-03-02 00:00:00	300	300	P.O. Box 344		Waukegan	IL	60085     	6B	Contribution			False	False	False		False
 4330584	1127	881042	0	Friends of Robert Martwick		2023-03-02 00:00:00	500	500	P.O. Box 64298		Chicago	IL	60664-0298	6B	Contribution			False	False	False		False
@@ -440638,7 +440599,7 @@ B	Fundraiser			False	False	False		False
 4378299	1085	887202	0	Didech/Daniel Didech Campaign Committee		2022-09-29 00:00:00	500	500	PO Box 4959		Buffalo Grove	IL	60089     	6B	Contribution			False	False	True		False
 4378300	1085	887202	0	Reick/Committee to Elect Steven Reick		2022-09-29 00:00:00	1000	1000	PO Box 27		Howard	IL	60033     	6B	Contribution			False	False	True		False
 4378301	1085	887202	0	Ugaste/Citizens for Dan Ugaste		2022-09-29 00:00:00	1000	1000	299 Southampton Drive		Geneva	IL	60134     	6B	Contribution			False	False	True		False
-4378302	1085	887202	0	Mussman/Friends of Michelle Mussman		2022-09-29 00:00:00	500	500	217 Tudor Lane		Schaumburg	IL	60193     	6B	Contribution			False	False	True		False
+4378302	1085	887202	0	Mussman/Friends of Michelle Mussman		2022-09-29 00:00:00	500	500	Redaction Requested					6B	Contribution			False	False	True		True
 4378303	1085	887202	0	Morgan/Friends of Bob Morgan		2022-09-29 00:00:00	500	500	PO Box 1074		Deerfield	IL	60015     	6B	Contribution			False	False	True		False
 4378304	1085	887202	0	Grant/Citizens for Amy Grant		2022-09-29 00:00:00	1000	1000	1023 Wheaton Place		Wheaton	IL	60187     	6B	Contribution			False	False	True		False
 4378305	1085	887202	0	McLaughlin/Friends of Martin McLaughlin		2022-09-29 00:00:00	1000	1000	34 Ridge Rd		Barrington	IL	60010     	6B	Contribution			False	False	True		False
@@ -444192,7 +444153,7 @@ B	Fundraiser			False	False	False		False
 4381889	1085	887890	0	Halpin/Friends of Mike Halpin		2022-09-29 00:00:00	750	750	PO Box 6937		Rock Island	IL	61204     	6B	Contribution			False	False	False		False
 4381890	1085	887890	0	Keicher/Friends of Jeff Keicher		2022-09-29 00:00:00	500	500	PO Box 477		Sycamore	IL	60178     	6B	Contribution			False	False	False		False
 4381891	1085	887890	0	Morgan/Friends of Bob Morgan		2022-09-29 00:00:00	500	500	PO Box 1074		Deerfield	IL	60015     	6B	Contribution			False	False	False		False
-4381892	1085	887890	0	Mussman/Friends of Michelle Mussman		2022-09-29 00:00:00	500	500	217 Tudor Lane		Schaumburg	IL	60193     	6B	Contribution			False	False	False		False
+4381892	1085	887890	0	Mussman/Friends of Michelle Mussman		2022-09-29 00:00:00	500	500	Redaction Requested					6B	Contribution			False	False	False		True
 4381893	1085	887890	0	Stuart/Friends of Katie Stuart		2022-09-29 00:00:00	500	500	PO Box 591		Edwardsville	IL	62025     	6B	Contribution			False	False	False		False
 4381894	1085	887890	0	Ugaste/Citizens for Dan Ugaste		2022-09-29 00:00:00	1000	1000	299 Southampton Drive		Geneva	IL	60134     	6B	Contribution			False	False	False		False
 4381895	1085	887890	0	Syverson/Syverson for Senate	Dave	2022-09-29 00:00:00	1000	1000	P.O. Box 98		Rockford	IL	61105     	6B	Contribution			False	False	False		False
@@ -482318,7 +482279,7 @@ B	Fundraiser			False	False	False		False
 4420013	23609	896682	0	JACOBS, BURNS, ORLOVE & HERNANDEZ LLP		2023-08-28 00:00:00	2548	9576	ONE NORTH LA SALLE STREET	Suite 1620	Chicago	IL	60602     	8B	Legal fees			False	False	False		False
 4420014	23609	896682	0	JACOBS, BURNS, ORLOVE & HERNANDEZ LLP		2023-08-02 00:00:00	1260	9576	ONE NORTH LA SALLE STREET	Suite 1620	Chicago	IL	60602     	8B	Legal fees			False	False	False		False
 4420015	23609	896682	0	JACOBS, BURNS, ORLOVE & HERNANDEZ LLP		2023-07-03 00:00:00	5768	9576	ONE NORTH LA SALLE STREET	Suite 1620	Chicago	IL	60602     	8B	Legal fees			False	False	False		False
-4420016	23609	896682	0	Friends of Michelle Mussman		2023-08-28 00:00:00	250	250	217 Tudor Lane		Schaumburg	IL	60193     	6B	Ticket purchase			False	False	False		False
+4420016	23609	896682	0	Friends of Michelle Mussman		2023-08-28 00:00:00	250	250	Redaction Requested					6B	Ticket purchase			False	False	False		True
 4420017	23609	896682	0	Giannosa	April	2023-09-26 00:00:00	4432.29	4432.29	2919 Hawthorne St		Franklin Park	IL	60131     	8B	Legislative Breakfast			False	False	False		False
 4420006	23609	896682	0	People for Emanuel Chris Welch		2023-09-10 00:00:00	750	750	Redaction Requested					6B	Ticket purchase			False	False	False		True
 4420018	37340	896685	0	Leonard A. Unes Printing Co,		2023-08-31 00:00:00	190	582	619 Spring Street P.O Box 9573		Peoria Illinois	IL	61612-9579	8B	Promotional items			False	False	False		False
@@ -484164,7 +484125,7 @@ B	Fundraiser			False	False	False		False
 4421859	560	897410	0	Citizens for Charlie Meier		2023-07-12 00:00:00	500	500	203 S Abby St.		Okawville	IL	62271     	6B	Charles Meier, STATE HOUSE 109th IL			False	False	False		False
 4421860	560	897410	0	Friends for Anna Moeller		2023-09-25 00:00:00	500	500	PO Box 1086		Elgin	IL	60121-1086	6B	Anna Moeller, STATE HOUSE 43rd IL			False	False	False		False
 4421861	560	897410	0	Friends for Marty Moylan for State Rep		2023-09-11 00:00:00	500	500	PO Box 1613		Des Plaines	IL	60018     	6B	Martin Moylan, STATE HOUSE 55th IL			False	False	False		False
-4421862	560	897410	0	Friends of Michelle Mussman		2023-08-15 00:00:00	250	250	217  Tudor Lane		Schaumburg	IL	60193     	6B	Michelle Mussman, STATE HOUSE 56th IL			False	False	False		False
+4421862	560	897410	0	Friends of Michelle Mussman		2023-08-15 00:00:00	250	250	Redaction Requested					6B	Michelle Mussman, STATE HOUSE 56th IL			False	False	False		True
 4421863	560	897410	0	Friends of Aaron Ortiz		2023-09-19 00:00:00	250	250	PO Box 32213		Chicago	IL	60632     	6B	Aaron Ortiz, STATE HOUSE 1st IL			False	False	False		False
 4421864	560	897410	0	Ozinga for Illinois		2023-09-25 00:00:00	250	250	PO Box 1011		Mokena	IL	60448     	6B	Tim Ozinga, STATE HOUSE 37th IL			False	False	False		False
 4421865	560	897410	0	Peters for Illinois		2023-07-28 00:00:00	500	500	PO Box 15118		Chicago	IL	60615     	6B	Robert Peters, STATE SENATE 13th IL			False	False	False		False
@@ -485146,7 +485107,7 @@ B	Fundraiser			False	False	False		False
 4422842	675	897804	0	Friends for Anna Moeller		2023-09-15 00:00:00	2500	2500	PO Box 1086		Elgin	IL	60121-1086	6B	CONTRIBUTION			False	False	False		False
 4422843	675	897804	0	Citizens for Laura M. Murphy		2023-08-03 00:00:00	1000	1000	PO Box 13		Des Plaines	IL	60016     	6B	CONTRIBUTION			False	False	False		False
 4422844	675	897804	0	Citizens for Laura M. Murphy		2023-08-15 00:00:00	1000	2000	PO Box 13		Des Plaines	IL	60016     	6B	CONTRIBUTION			False	False	False		False
-4422845	675	897804	0	Friends of Michelle Mussman		2023-08-03 00:00:00	1000	1000	217 Tudor Lane		Schaumburg	IL	60193-1724	6B	CONTRIBUTION			False	False	False		False
+4422845	675	897804	0	Friends of Michelle Mussman		2023-08-03 00:00:00	1000	1000	Redaction Requested					6B	CONTRIBUTION			False	False	False		True
 4422846	675	897804	0	Citizens for Suzanne Ness		2023-09-01 00:00:00	500	500	1056 Benningten Dr.		Crystal Lake	IL	60014-8890	6B	CONTRIBUTION			False	False	False		False
 4422847	675	897804	0	Friends of Kevin Olickal		2023-07-06 00:00:00	1000	1000	PO Box 322		Skokie	IL	60077     	6B	CONTRIBUTION			False	False	False		False
 4422848	675	897804	0	Plummer for Illinois		2023-09-01 00:00:00	1000	1000	PO Box 5		Troy	IL	62294-0005	6B	CONTRIBUTION			False	False	False		False
@@ -485522,7 +485483,7 @@ B	Fundraiser			False	False	False		False
 4423216	36876	897953	0	Friends of Bob Morgan		2023-07-25 00:00:00	1000	1000	PO Box 1074		Deerfield	IL	60015     	6B	Contribution			False	False	False		False
 4423218	36876	897953	0	Legacy Professionals LLP		2023-09-14 00:00:00	2342.5	2342.5	4 Westbrook Corporate Center #700		Westchester	IL	60154     	8B	Accounting fees			False	False	False		False
 4423219	36876	897953	0	Citizens for Mark Walker		2023-08-01 00:00:00	1000	1000	1310 W. Northwest Hwy.		Arlington Heights	IL	60004     	6B	Contribution			False	False	False		False
-4423220	36876	897953	0	Friends of Michelle Mussman		2023-08-18 00:00:00	1000	1000	217 Tudor Lane		Schaumburg	IL	60193     	6B	Contribution			False	False	False		False
+4423220	36876	897953	0	Friends of Michelle Mussman		2023-08-18 00:00:00	1000	1000	Redaction Requested					6B	Contribution			False	False	False		True
 4423221	36876	897953	0	Illinois AFL-CIO COPE		2023-07-12 00:00:00	5000	5000	534 South Second Street	Ste: 200	Springfield	IL	62701     	6B	Contribution			False	False	False		False
 4423222	36876	897953	0	Citizens for Marcus C Evans Jr		2023-09-27 00:00:00	68500	68500	PO Box 641514		Chicago	IL	60664     	6B	Contribution			False	False	False		False
 4423223	36876	897953	0	Friends of Don Harmon for State Senate		2023-09-05 00:00:00	200000	200000	6939 W North Ave		Oak Park	IL	60302     	6B	Contribution			False	False	False		False
@@ -486498,7 +486459,7 @@ B	Fundraiser			False	False	False		False
 4424195	1087	898160	0	People for Laura Faver Dias		2023-08-23 00:00:00	750	750	781 West Trail North		Grayslake	IL	60030     	6B	Contribution			False	False	True		False
 4424196	1087	898160	0	Friends of Suzy Glowiak		2023-09-07 00:00:00	2500	2500	PO Box 63		Elmhurst	IL	60126     	6B	Contribution			False	False	True		False
 4424197	1087	898160	0	Friends of Stephanie Kifowit		2023-08-23 00:00:00	750	750	P.O. Box 1414		Aurora	IL	60507     	6B	Contribution			False	False	True		False
-4424198	1087	898160	0	Friends of Michelle Mussman		2023-08-23 00:00:00	750	750	217 Tudor Ln		Schaumburg	IL	60193     	6B	Contribution			False	False	True		False
+4424198	1087	898160	0	Friends of Michelle Mussman		2023-08-23 00:00:00	750	750	Redaction Requested					6B	Contribution			False	False	True		True
 4424199	1087	898160	0	Friends of Robert Rita		2023-07-05 00:00:00	2500	2500	4818 137th St # 2		Crestwood	IL	60445     	6B	Contribution			False	False	True		False
 4424200	1087	898160	0	Friends of Dan Harmon		2023-09-07 00:00:00	2500	2500	6941-A W. North Ave.		Oak Park	IL	60302     	6B	Contribution			False	False	True		False
 4424182	1087	898160	0	People for Emanuel Chris Welch		2023-08-23 00:00:00	500	3000	Redaction Requested					6B	Contribution			False	False	True		True
@@ -487185,7 +487146,7 @@ B	Fundraiser			False	False	False		False
 4424879	1330	898342	0	Friends for Joey Andrews		2023-07-26 00:00:00	500	500	1288 Vineland Rd		Saint Joseph	MI	49085-3426	6B	political donation/visa			False	False	False		False
 4424880	1330	898342	0	Friends of Barbara Hernandez		2023-07-06 00:00:00	250	250	PO Box 7263		Aurora	IL	60507-7263	6B	political donation			False	False	False		False
 4424881	1330	898342	0	Friends of Matt Hanson		2023-07-31 00:00:00	250	250	PO Box 1101		Aurora	IL	60507-1101	6B	political donation			False	False	False		False
-4424882	1330	898342	0	Friends of Michelle Mussman		2023-07-31 00:00:00	250	250	217 Tudor Ln		Schaumburg	IL	60193-1724	6B	political donation			False	False	False		False
+4424882	1330	898342	0	Friends of Michelle Mussman		2023-07-31 00:00:00	250	250	Redaction Requested					6B	political donation			False	False	False		True
 4424883	1330	898342	0	Friends of Robyn Gabel		2023-08-01 00:00:00	500	500	PO Box 6453		Evanston	IL	60204-6453	6B	political donation			False	False	False		False
 4424884	1330	898342	0	Friends of Theresa Mah		2023-07-19 00:00:00	500	500	3500 N Lakewood Ave	# 3S	Chicago	IL	60657-1488	6B	political donation			False	False	False		False
 4424885	1330	898342	0	Gene & Georgetti		2023-07-25 00:00:00	199.74	360.22	500 N Franklin St		Chicago	IL	60654-4604	8B	dining/visa			False	False	False		False
@@ -489160,7 +489121,7 @@ B	Fundraiser			False	False	False		False
 4426855	1127	898904	0	Citizens for Michael Hastings		2023-07-18 00:00:00	400	400	P.O. Box 162		Tinley Park	IL	60477-0162	6B	Contribution			False	False	False		False
 4426856	1127	898904	0	Friends of Elgie Sims		2023-07-18 00:00:00	400	400	8142A S. Prairie Park Place		Chicago	IL	60619-4800	6B	Contribution			False	False	False		False
 4426857	1127	898904	0	Friends of Omar Aquino		2023-07-18 00:00:00	400	400	1000 N. Rockwell Street		Chicago	IL	60622     	6B	Contribution			False	False	False		False
-4426858	1127	898904	0	Friends of Michelle Mussman		2023-07-18 00:00:00	300	300	217 Tudor Lane		Schaumburg	IL	60193-1724	6B	Contribution			False	False	False		False
+4426858	1127	898904	0	Friends of Michelle Mussman		2023-07-18 00:00:00	300	300	Redaction Requested					6B	Contribution			False	False	False		True
 4426859	1127	898904	0	Friends of Thomas Bennett		2023-07-18 00:00:00	400	400	c/o Martin Nuss	P.O. Box 505	Gibson City	IL	60936-0505	6B	Contribution			False	False	False		False
 4426861	1127	898904	0	Steven Stadelman for State Senate		2023-07-18 00:00:00	300	300	P.O. Box 1551		Rockford	IL	61110     	6B	Contribution			False	False	False		False
 4426862	1127	898904	0	Friends of Natalie Manley		2023-07-18 00:00:00	1000	1000	1927 Timbers Edge Circle		Joliet	IL	60431-1626	6B	Contribution			False	False	False		False
@@ -490091,7 +490052,7 @@ B	Fundraiser			False	False	False		False
 4427787	70	899027	0	Friends of Christopher Belt		2023-08-30 00:00:00	1000	1000	5111 West Main Street		Belleville	IL	62226-4728	6B	Contribution			False	False	False		False
 4427788	70	899027	0	Fowler for Senate		2023-08-14 00:00:00	2000	2000	P. O. Box 404		Harrisburg	IL	62946-0404	6B	Contribution			False	False	False		False
 4427789	70	899027	0	Neighbors for Hoan		2023-09-20 00:00:00	500	500	4756 N. Malden St. #3N		Chicago	IL	60640-8006	6B	Contribution			False	False	False		False
-4427790	70	899027	0	Friends of Michelle Mussman		2023-08-14 00:00:00	500	500	217 Tudor Lane		Schaumburg	IL	60193-1724	6B	Contribution			False	False	False		False
+4427790	70	899027	0	Friends of Michelle Mussman		2023-08-14 00:00:00	500	500	Redaction Requested					6B	Contribution			False	False	False		True
 4427791	70	899027	0	Friends of Robert Martwick		2023-07-24 00:00:00	1000	1000	P. O. Box 64298		Chicago	IL	60664-0298	6B	Contribution			False	False	False		False
 4427792	70	899027	0	Friends of Mike Halpin		2023-07-24 00:00:00	1000	1000	P. O. Box 6937		Rock Island	IL	61204-6937	6B	Contribution			False	False	False		False
 4427793	70	899027	0	Friends of Bill Cunningham		2023-07-24 00:00:00	5000	5000	10402 S. Western Ave.		Chicago	IL	60643-2508	6B	Contribution			False	False	False		False
@@ -490325,7 +490286,7 @@ B	Fundraiser			False	False	False		False
 4428020	1169	899059	0	Citizens for Charlie Meier		2023-08-16 00:00:00	10000	10000	c/o Jeff Rabenort	203 S. Abby Rd.	Okawville	IL	62271     	6B	Direct Contribution			False	False	False		False
 4428021	1169	899059	0	Friends for Marty Moylan for State Representative		2023-08-25 00:00:00	500	500	PO Box 1613		Des Plaines	IL	60018     	6B	Fundraiser 9/18/23			False	False	False		False
 4428022	1169	899059	0	Citizens for Laura Murphy		2023-08-09 00:00:00	5000	5000	PO Box 13		Des Plaines	IL	60016     	6B	Fundraiser 8/23/23			False	False	False		False
-4428023	1169	899059	0	Friends of Michelle Mussman		2023-08-09 00:00:00	10000	10000	217 Tudor Ln.		Schaumburg	IL	60193     	6B	Fundraiser 9/6/23			False	False	False		False
+4428023	1169	899059	0	Friends of Michelle Mussman		2023-08-09 00:00:00	10000	10000	Redaction Requested					6B	Fundraiser 9/6/23			False	False	False		True
 4428024	1169	899059	0	Citizens for Suzanne Ness		2023-09-11 00:00:00	20000	20000	PO Box 2633		Crystal Lake	IL	60014     	6B	Fundraiser 10/14/23			False	False	False		False
 4428025	1169	899059	0	Friends of Aaron Ortiz		2023-08-11 00:00:00	20000	20000	PO Box 32213		Chicago	IL	60632-0213	6B	Direct Contribution			False	False	False		False
 4428026	1169	899059	0	Peters for Illinois		2023-08-09 00:00:00	5000	5000	PO Box 15118		Chicago	IL	60615-5139	6B	Direct Contribution			False	False	False		False
@@ -495619,7 +495580,7 @@ B	Fundraiser			False	False	False		False
 4433314	20563	899691	0	Friends of Robyn Gabel		2023-07-26 00:00:00	750	750	PO Box 6453		Evanston	IL	60204     	6B	Ticket purchase			False	False	False		False
 4433315	20563	899691	0	Friends of Robert Rita		2023-07-26 00:00:00	200	200	2030 High Street		Blue Island	IL	60406     	6B	Ticket purchase			False	False	False		False
 4433316	20563	899691	0	Chesney for Illinois		2023-08-29 00:00:00	500	500	PO Box 633		Freeport	IL	61032     	6B	Ticket purchase			False	False	False		False
-4433317	20563	899691	0	Friends of Michelle Mussman		2023-09-06 00:00:00	500	500	217 Tudor Lane		Schaumburg	IL	60193     	6B	Ticket purchase			False	False	False		False
+4433317	20563	899691	0	Friends of Michelle Mussman		2023-09-06 00:00:00	500	500	Redaction Requested					6B	Ticket purchase			False	False	False		True
 4433318	20563	899691	0	SUAA		2023-09-29 00:00:00	15.09	13765.09	217 E. Monroe	Suite 100	Springfield	IL	62701     	8B	Postage - Q3 SUAAction Postage			False	False	False		False
 4433319	20563	899691	0	SUAA		2023-09-29 00:00:00	13750	13765.09	217 E. Monroe	Suite 100	Springfield	IL	62701     	8B	Contractual - Q3 Contract with SUAA			False	False	False		False
 4433320	20563	899691	0	Friends of Laura Fine		2023-07-26 00:00:00	350	350	1700 Constitution Dr.		Glenview	IL	60026     	6B	Ticket purchase			False	False	False		False
@@ -498688,7 +498649,7 @@ B	Fundraiser			False	False	False		False
 4436384	1157	900150	0	Home Depot Credit Services		2023-09-28 00:00:00	1069.5	1069.5	PO BOX 78011		Phoenix	AZ	85062-8011	8B	Door Prizes			False	False	False		False
 4436385	1157	900150	0	Maurice West for Illinois		2023-08-01 00:00:00	1000	1000	PO BOX 4303		Rockford	IL	61110     	6B	Ticket purchase			False	False	False		False
 4436386	1157	900150	0	Friends & Family of Nabeela Syed		2023-07-19 00:00:00	500	500	PO BOX 1128		Palatine	IL	60078     	6B	Contribution			False	False	False		False
-4436387	1157	900150	0	Friends of Michelle Mussman		2023-09-06 00:00:00	1000	1000	217 Tudor Lane		Schaumburg	IL	60193     	6B	Copper Sponsor			False	False	False		False
+4436387	1157	900150	0	Friends of Michelle Mussman		2023-09-06 00:00:00	1000	1000	Redaction Requested					6B	Copper Sponsor			False	False	False		True
 4436275	1157	900150	0	Elect Rachel Ventura		2023-09-06 00:00:00	1000	1000	Redaction Requested					6B	Sponsorship			False	False	False		True
 4436296	1157	900150	0	Committee to Elect Mary Beth Canty		2023-09-06 00:00:00	500	500	Redaction Requested					6B	Contribution			False	False	False		True
 4436388	18121	900151	0	Sanalitro, Citizens for		2023-09-13 00:00:00	250	250	P.O. Box 725232		Roselle	IL	60172     	6B	Contribution			False	False	False		False
@@ -510758,7 +510719,7 @@ B	Fundraiser			False	False	False		False
 4448453	6828	900653	0	PayPal		2023-09-19 00:00:00	2.22	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	True		False
 4448454	6828	900653	0	PayPal		2023-07-31 00:00:00	4.1	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	True		False
 4448455	6828	900653	0	PayPal		2023-08-07 00:00:00	1.69	193.08	222 Merchandise Mart PLz	Ste 300	Chicago	IL	60654     	8B	Bank charges			False	False	True		False
-4448456	6828	900653	0	Friends of Michelle Mussman		2023-08-29 00:00:00	1000	1000	217 Tudor Ln		Schaumburg	IL	60193     	8B	Donation			False	False	True		False
+4448456	6828	900653	0	Friends of Michelle Mussman		2023-08-29 00:00:00	1000	1000	Redaction Requested					8B	Donation			False	False	True		True
 4448457	6828	900653	0	Intuit Inc		2023-07-31 00:00:00	170	340	2800 E. Commerce Center Place		Tucson	AZ	85706     	8B	Accounting fees			False	False	True		False
 4448458	6828	900653	0	Intuit Inc		2023-08-31 00:00:00	85	340	2800 E. Commerce Center Place		Tucson	AZ	85706     	8B	Accounting fees			False	False	True		False
 4448459	6828	900653	0	Intuit Inc		2023-09-18 00:00:00	85	340	2800 E. Commerce Center Place		Tucson	AZ	85706     	8B	Accounting fees			False	False	True		False
@@ -517338,7 +517299,7 @@ B	Fundraiser			False	False	False		False
 4455036	22986	901230	0	Friends of Don Harmon		2023-08-07 00:00:00	10000	10000	1243 Woodbine Ave Ste 102		Oak Park	IL	60302     	6B	Contribution			False	False	True		False
 4455037	22986	901230	0	Martin McLaughlin for State Representative		2023-08-07 00:00:00	1000	1000	34 Ridge Road		Barrington Hills	IL	60010     	6B	Contribution			False	False	True		False
 4455038	22986	901230	0	Friends of marty Moylan		2023-09-13 00:00:00	5000	5000	1405 oakwood Ave		Des plaines	IL	60016     	6B	Contribution			False	False	True		False
-4455039	22986	901230	0	Friends of Michelle Mussman		2023-09-13 00:00:00	1000	1000	217 Tudor Lane		Schaumburg	IL	60193     	6B	Contribution			False	False	True		False
+4455039	22986	901230	0	Friends of Michelle Mussman		2023-09-13 00:00:00	1000	1000	Redaction Requested					6B	Contribution			False	False	True		True
 4455040	22986	901230	0	Friends of Jaime Andrade		2023-09-13 00:00:00	2500	2500	3655 N. Kedzie Ave.		Chicago	IL	60618     	6B	Contribution			False	False	True		False
 4455041	22986	901230	0	Friends of Steve McClure		2023-09-13 00:00:00	1000	1000	PO Box 83		Springfield	IL	62705     	6B	Contribution			False	False	True		False
 4455042	22986	901230	0	Friends for Jennifer		2023-08-03 00:00:00	1000	1000	PO Box 3042		Glenview	IL	60025     	6B	Contribution			False	False	True		False
@@ -519088,7 +519049,7 @@ B	Fundraiser			False	False	False		False
 4456785	21671	901347	0	Friends for Katie Stuart		2023-07-07 00:00:00	2000	2000	PO Box 591		Edwardsville	IL	62025     	6B	Contribution			False	False	False		False
 4456786	21671	901347	0	Citizens for Lightford		2023-07-07 00:00:00	3000	3000	PO Box 7824		Westchester	IL	60154     	6B	Contribution			False	False	False		False
 4456787	21671	901347	0	Friends of Theresa Mah		2023-07-07 00:00:00	3000	3000	c/o Barry Aldridge	3500 N Lakewood Ave	Chicago	IL	60657     	6B	Contribution			False	False	False		False
-4456788	21671	901347	0	Friends of Michelle Mussman		2023-07-07 00:00:00	1000	1000	217 Tudor Lane		Schaumburg	IL	60193     	6B	Contribution			False	False	False		False
+4456788	21671	901347	0	Friends of Michelle Mussman		2023-07-07 00:00:00	1000	1000	Redaction Requested					6B	Contribution			False	False	False		True
 4456789	21671	901347	0	Citizens for Castro		2023-07-07 00:00:00	1000	1000	PO Box 1506		Elgin	IL	60121     	6B	Contribution			False	False	False		False
 4456790	21671	901347	0	Daniel Didech Campaign Committee		2023-07-07 00:00:00	500	500	PO Box 4959		Buffalo Grove	IL	60089     	6B	Contribution			False	False	False		False
 4456791	21671	901347	0	Citizens For Karina Villa		2023-07-07 00:00:00	3000	3000	PO Box 457		West Chicago	IL	60186     	6B	Contribution			False	False	False		False
@@ -542548,7 +542509,7 @@ B	Fundraiser			False	False	False		False
 4481235	21616	907623	0	Committee to Reelect Larry Rogers Jr.		2023-10-18 00:00:00	1000	1000	11820 S. LaPorte Ave.		Alsip	IL	60803     	6B	Contribution			False	False	True		False
 4481236	21616	907623	0	Croke for Illinois		2023-10-18 00:00:00	1000	1000	220 N. Green Street		Chicago	IL	60607     	6B	Contribution			False	False	True		False
 4481237	21616	907623	0	Neighbors for Hoan		2023-10-18 00:00:00	1000	1000	P.O. Box 408158		Chicago	IL	60640     	6B	Contribution			False	False	True		False
-4481238	21616	907623	0	Maria Hadden for the 49th Ward		2023-10-26 00:00:00	1000	1000	6807 N. Ashland Blvd.		Chicago	IL	60626     	6B	Contribution			False	False	True		False
+4481238	21616	907623	0	Maria Hadden for the 49th Ward		2023-10-26 00:00:00	1000	1000	Redaction Requested					6B	Contribution			False	False	True		True
 4481239	21616	907623	0	Friends of Eira c/o P2 Consulting		2023-10-26 00:00:00	500	500	22 W. Washington St.	Suite 1500	Chicago	IL	60602     	6B	Contribution			False	False	True		False
 4481240	21616	907623	0	Friends of Karen A. Stukel		2023-11-06 00:00:00	250	250	26110 W. Timber Ridge Drive		Channahon	IL	60410     	6B	Contribution			False	False	True		False
 4481241	21616	907623	0	Friends for Debra Silverstein		2023-11-06 00:00:00	1000	1000	2951 W. Devon Ave		Chicago	IL	60659     	6B	Contribution			False	False	True		False
@@ -547013,7 +546974,7 @@ B	Fundraiser			False	False	False		False
 4485700	23199	908634	0	Friends of Mike Simmons		2023-11-13 00:00:00	2000	2000	826 W. Windsor Ave., #2W		Chicago	IL	60640     	6B	Contribution			False	False	False		False
 4485701	23199	908634	0	Democrats for the Illinois House		2023-12-18 00:00:00	18500	18500	10055 W. Roosevelt Rd., Ste. A		Westchester	IL	60154     	6B	Contribution			False	False	False		False
 4485702	23199	908634	0	Kendall County Democrats		2023-10-02 00:00:00	500	500	412 Park St		Yorkville	IL	60560     	6B	Contribution			False	False	False		False
-4485703	23199	908634	0	Friends of Michelle Mussman		2023-11-13 00:00:00	3000	3000	217 Tudor Ln.		Schaumburg	IL	60193     	6B	Contribution			False	False	False		False
+4485703	23199	908634	0	Friends of Michelle Mussman		2023-11-13 00:00:00	3000	3000	Redaction Requested					6B	Contribution			False	False	False		True
 4485704	23199	908634	0	Friends of Natalie Manley		2023-11-13 00:00:00	5000	5000	3107 Ingalls Ave., #3A		Joliet	IL	60435     	6B	Contribution			False	False	False		False
 4485705	23199	908634	0	Friends of Nick Sposato		2023-11-13 00:00:00	1000	1000	c/o P2 Constulting Incorporated	22 West Washington, Suite 1500	Chicago	IL	60602     	6B	Contribution			False	False	False		False
 4485706	23199	908634	0	Friends of Rita Mayfield		2023-11-13 00:00:00	3000	3000	649 S. Fulton Ave.		Waukegan	IL	60085     	6B	Contribution			False	False	False		False
@@ -565383,7 +565344,7 @@ B	Fundraiser			False	False	False		False
 4504075	22986	910448	0	LaSalle County Democrats		2023-10-11 00:00:00	1000	1000	PO Box 591		Ottawa	IL	61350     	6B	Contribution			False	False	True		False
 4504076	22986	910448	0	Citizens for Tom Klein		2023-10-11 00:00:00	2500	2500	1040 Wil's Woods		Machesney Park	IL	61103     	6B	Contribution			False	False	True		False
 4504077	22986	910448	0	Friends of marty Moylan		2023-11-10 00:00:00	6000	6000	1405 oakwood Ave		Des plaines	IL	60016     	6B	Contribution			False	False	True		False
-4504078	22986	910448	0	Friends of Michelle Mussman		2023-11-10 00:00:00	6000	6000	217 Tudor Lane		Schaumburg	IL	60193     	6B	Contribution			False	False	True		False
+4504078	22986	910448	0	Friends of Michelle Mussman		2023-11-10 00:00:00	6000	6000	Redaction Requested					6B	Contribution			False	False	True		True
 4504079	22986	910448	0	Friends of Natalie Manley		2023-11-10 00:00:00	6000	6000	3107 ingalls Ave	3A	Joliet	IL	60435     	6B	Contribution			False	False	True		False
 4504080	22986	910448	0	Friends of Elgie Sims		2023-11-10 00:00:00	6000	6000	8142 A S Prairie Pl		Chicago	IL	60619     	6B	Contribution			False	False	True		False
 4504081	22986	910448	0	Friends of Jaime Andrade		2023-11-10 00:00:00	6000	6000	3655 N. Kedzie Ave.		Chicago	IL	60618     	6B	Contribution			False	False	True		False
@@ -574472,7 +574433,7 @@ B	Fundraiser			False	False	False		False
 4513168	22986	911190	0	Midwest Operating Engineers Construction Industry Research and Service		2023-09-26 00:00:00	24366.89	73063.6	3200 joliet Road		Countryside	IL	60525-4066	8B	Accounting fees			False	False	True	US	False
 4513169	22986	911190	0	Bond Brothers and Company Printers		2023-09-28 00:00:00	435	435	7826 West 47th Street		Lyons	IL	60534     	8B	Printing			False	False	True		False
 4513170	22986	911190	0	Joe Navarro for States Attorney		2023-09-07 00:00:00	2500	2500	1891 N 3051 rd		Ottawa	IL	61350     	6B	Contribution			False	False	True		False
-4513171	22986	911190	0	Friends of Michelle Mussman		2023-09-13 00:00:00	1000	1000	217 Tudor Lane		Schaumburg	IL	60193     	6B	Contribution			False	False	True		False
+4513171	22986	911190	0	Friends of Michelle Mussman		2023-09-13 00:00:00	1000	1000	Redaction Requested					6B	Contribution			False	False	True		True
 4513173	22986	911190	0	People for Laura Faver Dias		2023-09-13 00:00:00	1000	1000	781 WEST TRAIL NORTH		GRAYSLAKE	IL	60030     	6B	Contribution			False	False	True		False
 4513174	22986	911190	0	Friends of Kari Steele		2023-09-13 00:00:00	2500	2500	PO Box 6095	433 W Harrison St	Chicago	IL	60680     	6B	Contribution			False	False	True		False
 4513175	22986	911190	0	Moline Democratic Central Committee		2023-09-13 00:00:00	250	250	PO Box 1463		moline	IL	61266     	6B	Contribution			False	False	True		False
@@ -575119,7 +575080,7 @@ B	Fundraiser			False	False	False		False
 4513820	22986	911192	0	Friends of Mary Gill		2023-11-10 00:00:00	3000	4000	10402 S western Ave		Chicago	IL	60643     	6B	Contribution			False	False	True		False
 4513821	22986	911192	0	Friends of Matt Hanson		2023-11-10 00:00:00	6000	6000	PO Box 1101		Aurora	IL	60507     	6B	Contribution			False	False	True		False
 4513822	22986	911192	0	Friends of Maura Hirschauer		2023-11-10 00:00:00	6000	6000	551 Viking Drive		Batavia	IL	60510     	6B	Contribution			False	False	True		False
-4513823	22986	911192	0	Friends of Michelle Mussman		2023-11-10 00:00:00	6000	6000	217 Tudor Lane		Schaumburg	IL	60193     	6B	Contribution			False	False	True		False
+4513823	22986	911192	0	Friends of Michelle Mussman		2023-11-10 00:00:00	6000	6000	Redaction Requested					6B	Contribution			False	False	True		True
 4513824	22986	911192	0	Citizens to Elect Mike Kelley		2023-11-10 00:00:00	6000	6000	PO Box 158		Lockport	IL	60441     	6B	Contribution			False	False	True		False
 4513825	22986	911192	0	Friends of Natalie Manley		2023-11-10 00:00:00	6000	6000	3107 ingalls Ave	3A	Joliet	IL	60435     	6B	Contribution			False	False	True		False
 4513826	22986	911192	0	Friends of Nicholas Smith		2023-11-10 00:00:00	5250	5250	PO Box 286152		Chicago	IL	60628     	6B	Contribution			False	False	True		False
@@ -578760,7 +578721,7 @@ B	Fundraiser			False	False	False		False
 4517451	22986	912690	0	Midwest Operating Engineers Construction Industry Research and Service		2023-09-26 00:00:00	24366.89	73063.6	3200 joliet Road		Countryside	IL	60525-4066	8B	Accounting fees			False	False	False	US	False
 4517452	22986	912690	0	Bond Brothers and Company Printers		2023-09-28 00:00:00	435	435	7826 West 47th Street		Lyons	IL	60534     	8B	Printing			False	False	False		False
 4517453	22986	912690	0	Joe Navarro for States Attorney		2023-09-07 00:00:00	2500	2500	1891 N 3051 rd		Ottawa	IL	61350     	6B	Contribution			False	False	False		False
-4517454	22986	912690	0	Friends of Michelle Mussman		2023-09-13 00:00:00	1000	1000	217 Tudor Lane		Schaumburg	IL	60193     	6B	Contribution			False	False	False		False
+4517454	22986	912690	0	Friends of Michelle Mussman		2023-09-13 00:00:00	1000	1000	Redaction Requested					6B	Contribution			False	False	False		True
 4517456	22986	912690	0	People for Laura Faver Dias		2023-09-13 00:00:00	1000	1000	781 WEST TRAIL NORTH		GRAYSLAKE	IL	60030     	6B	Contribution			False	False	False		False
 4517457	22986	912690	0	Friends of Kari Steele		2023-09-13 00:00:00	2500	2500	PO Box 6095	433 W Harrison St	Chicago	IL	60680     	6B	Contribution			False	False	False		False
 4517458	22986	912690	0	Moline Democratic Central Committee		2023-09-13 00:00:00	250	250	PO Box 1463		moline	IL	61266     	6B	Contribution			False	False	False		False
@@ -579340,7 +579301,7 @@ B	Fundraiser			False	False	False		False
 4518041	22986	912691	0	Friends of Mary Gill		2023-11-10 00:00:00	3000	4000	10402 S western Ave		Chicago	IL	60643     	6B	Contribution			False	False	True		False
 4518042	22986	912691	0	Friends of Matt Hanson		2023-11-10 00:00:00	6000	6000	PO Box 1101		Aurora	IL	60507     	6B	Contribution			False	False	True		False
 4518043	22986	912691	0	Friends of Maura Hirschauer		2023-11-10 00:00:00	6000	6000	551 Viking Drive		Batavia	IL	60510     	6B	Contribution			False	False	True		False
-4518044	22986	912691	0	Friends of Michelle Mussman		2023-11-10 00:00:00	6000	6000	217 Tudor Lane		Schaumburg	IL	60193     	6B	Contribution			False	False	True		False
+4518044	22986	912691	0	Friends of Michelle Mussman		2023-11-10 00:00:00	6000	6000	Redaction Requested					6B	Contribution			False	False	True		True
 4518045	22986	912691	0	Citizens to Elect Mike Kelley		2023-11-10 00:00:00	6000	6000	PO Box 158		Lockport	IL	60441     	6B	Contribution			False	False	True		False
 4518046	22986	912691	0	Friends of Natalie Manley		2023-11-10 00:00:00	6000	6000	3107 ingalls Ave	3A	Joliet	IL	60435     	6B	Contribution			False	False	True		False
 4518047	22986	912691	0	Friends of Nicholas Smith		2023-11-10 00:00:00	5250	5250	PO Box 286152		Chicago	IL	60628     	6B	Contribution			False	False	True		False
@@ -584993,7 +584954,7 @@ B	Fundraiser			False	False	False		False
 4523681	1127	915989	0	Citizens for Michael Hastings		2024-02-14 00:00:00	400	400	P.O. Box 162		Tinley Park	IL	60477-0162	6B	Contribution			False	False	False		False
 4523682	1127	915989	0	Friends of Elgie Sims		2024-02-14 00:00:00	400	400	8142A S. Prairie Park Place		Chicago	IL	60619-4800	6B	Contribution			False	False	False		False
 4523683	1127	915989	0	Friends of Omar Aquino		2024-02-14 00:00:00	400	400	1000 N. Rockwell Street		Chicago	IL	60622     	6B	Contribution			False	False	False		False
-4523684	1127	915989	0	Friends of Michelle Mussman		2024-02-14 00:00:00	300	300	217 Tudor Lane		Schaumburg	IL	60193-1724	6B	Contribution			False	False	False		False
+4523684	1127	915989	0	Friends of Michelle Mussman		2024-02-14 00:00:00	300	300	Redaction Requested					6B	Contribution			False	False	False		True
 4523685	1127	915989	0	Friends of Robert Martwick		2024-02-14 00:00:00	500	500	P.O. Box 64298		Chicago	IL	60664-0298	6B	Contribution			False	False	False		False
 4523686	1127	915989	0	Friends of Emil Jones, III		2024-02-14 00:00:00	800	800	11357 S Lowe Ave		Chicago	IL	60628-4714	6B	Contribution			False	False	False		False
 4523687	1127	915989	0	Friends of Jehan Gordon-Booth		2024-02-14 00:00:00	400	400	P.O. Box 6591		Peoria	IL	61601-6591	6B	Contribution			False	False	False		False
@@ -585855,7 +585816,7 @@ B	Fundraiser			False	False	False		False
 4524545	36876	916209	0	Friends for Larry Walsh Jr.		2024-02-15 00:00:00	2500	2500	P.O. Box 69		Elwood	IL	60421-0069	6B	Contribution			False	False	False		False
 4524546	36876	916209	0	Friends of Janet Yang Rohr		2024-03-01 00:00:00	1000	1000	909 Watercress Drive		Naperville	IL	60540     	6B	Contribution			False	False	False		False
 4524547	36876	916209	0	Friends of Maura Hirschauer		2024-03-01 00:00:00	1000	1000	551 Viking Drive		Batavia	IL	60510     	6B	Contribution			False	False	False		False
-4524548	36876	916209	0	Friends of Michelle Mussman		2024-03-01 00:00:00	1000	1000	217 Tudor Lane		Schaumburg	IL	60193     	6B	Contribution			False	False	False		False
+4524548	36876	916209	0	Friends of Michelle Mussman		2024-03-01 00:00:00	1000	1000	Redaction Requested					6B	Contribution			False	False	False		True
 4524549	36876	916209	0	Friends of Angie Guerrero Cuellar		2024-01-24 00:00:00	2000	2000	6500 S. Pulaski Road	Second Floor	Chicago	IL	60629     	6B	Contribution			False	False	False		False
 4524550	36876	916209	0	Friends of Camille Y Lilly		2024-01-24 00:00:00	2500	2500	7061 W. North Ave		Oak Park	IL	60302     	6B	Contribution			False	False	False		False
 4524551	36876	916209	0	Friends of Don Harmon for State Senate		2024-02-15 00:00:00	200000	200000	6939 W North Ave		Oak Park	IL	60302     	6B	Contribution			False	False	False		False
@@ -593187,7 +593148,7 @@ B	Fundraiser			False	False	False		False
 4531876	26030	917734	0	Friends of Lakesia		2024-03-07 00:00:00	1000	1000	1501 N. Clyborn Ave.	Unit D	Chicago	IL	60610-1041	6B	Contribution			False	False	False		False
 4531877	26030	917734	0	Peters for Illinois		2024-03-13 00:00:00	1500	1500	P.O. Box 15118		Chicago	IL	60615     	6B	Contribution			False	False	False		False
 4531878	26030	917734	0	Friends of Elgie Sims		2024-03-13 00:00:00	1500	1500	8142A S. Prairie Park Place		Chicago	IL	60619-4800	6B	Contribution			False	False	False		False
-4531880	26030	917734	0	Friends of Michelle Mussman		2024-03-20 00:00:00	1500	1500	217 Tudor Lane		Schaumburg	IL	60193-1724	6B	Contribution			False	False	False		False
+4531880	26030	917734	0	Friends of Michelle Mussman		2024-03-20 00:00:00	1500	1500	Redaction Requested					6B	Contribution			False	False	False		True
 4531881	26030	917734	0	Friends of Stephanie Kifowit		2024-03-20 00:00:00	2500	2500	P.O. Box 1414		Aurora	IL	60507-1414	6B	Contribution			False	False	False		False
 4531882	26030	917734	0	Friends for Debra Silverstein		2024-02-06 00:00:00	1000	1000	2951 W. Devon Ave.	Ste. B	Chicago	IL	60659-1555	6B	Contribution			False	False	False		False
 4531871	26030	917734	0	Friends of Michael Crawford		2024-01-22 00:00:00	5000	5000	Redaction Requested					6B	Contribution			False	False	False		True
@@ -593339,7 +593300,7 @@ B	Fundraiser			False	False	False		False
 4532026	36970	917748	0	Citizens to Elect Eckhoff		2021-10-12 00:00:00	250	250	211 N. Erie Street		Wheaton	IL	60187     	8B	Donation			False	False	False		False
 4532027	36970	917748	0	Friends of Justin Slaughter		2021-12-09 00:00:00	500	500	9204 S. Elizabeth		Chicago	IL	60620     	8B	Donation			False	False	False		False
 4532028	36970	917748	0	Citizens for Michael E. Hastings		2021-12-27 00:00:00	500	500	P. O. Box 162		Tinley Park	IL	60477     	8B	Contractual			False	False	False		False
-4532029	36970	917748	0	Friends of Janice Anderson		2021-10-28 00:00:00	500	500	522 Harlowe Lane		Naperville	IL	60565     	8B	Donation			False	False	False		False
+4532029	36970	917748	0	Friends of Janice Anderson		2021-10-28 00:00:00	500	500	Redaction Requested					8B	Donation			False	False	False		True
 4532030	36970	917748	0	Friends of Nicholas Smith		2021-11-30 00:00:00	250	250	P. O. Box 286152		Chicago	IL	60628     	8B	Donation			False	False	False		False
 4532031	36970	917748	0	Friends of Robert Martwick		2021-11-30 00:00:00	250	250	P. O. Box 64298		Chicago	IL	60664     	8B	Donation			False	False	False		False
 4532032	36970	917748	0	Southland Regional Mayoral Black Cacus		2021-12-01 00:00:00	1000	1000	P. O. Box 129		Dolton	IL	60419     	8B	Donation			False	False	False		False
@@ -593357,7 +593318,7 @@ B	Fundraiser			False	False	False		False
 4532044	36970	917750	0	Mendrick for Sheriff		2022-02-16 00:00:00	500	500	P. O. Box 5146		Woodridge	IL	60517     	8B	Donation			False	False	False		False
 4532045	36970	917750	0	Friends of Jawaharial Omarr Williams		2022-02-16 00:00:00	250	250	204 W. Madison Avenue		Chicago	IL	60612     	8B	Election day - pollwatcher			False	False	False		False
 4532046	36970	917750	0	Citizens to Elect Justice Liam Brennan		2022-02-18 00:00:00	500	500	P. O. Box 722		Wheaton	IL	60187     	8B	Donation			False	False	False		False
-4532047	36970	917750	0	Friends of Janice Anderson		2022-02-16 00:00:00	250	250	522 Harlowe Lane		Naperville	IL	60565     	8B	Donation			False	False	False		False
+4532047	36970	917750	0	Friends of Janice Anderson		2022-02-16 00:00:00	250	250	Redaction Requested					8B	Donation			False	False	False		True
 4532048	36970	917750	0	Hart for DuPage		2022-03-03 00:00:00	1000	1000	18 S. Stough Street	Suite 100	Hinsdale	IL	60521     	8B	Donation			False	False	False		False
 4532049	36970	917751	0	Committee to Elect Judge Kavita Athanikar		2022-04-04 00:00:00	500	500	P. O. Box 466		Wheaton	IL	60187     	8B	Donation			False	False	False		False
 4532050	36970	917751	0	Friends of RAM		2022-04-21 00:00:00	500	500	3849 W. Devon		Chicago	IL	60659     	8B	Donation			False	False	False		False
@@ -597873,7 +597834,7 @@ B	Fundraiser			False	False	False		False
 4536560	23609	918442	0	Joliet Slammers		2024-03-10 00:00:00	3605.71	3605.71	Duly Health and Care Field	1 Mayor Art Schultz Dr	Joliet	IL	60432     	8B	Sponsorship			False	False	True		False
 4536561	23609	918442	0	Friends of Frerichs		2024-03-11 00:00:00	2500	2500	222 S Riverside Plaza	Ste 1500	Chicago	IL	60606     	6B	Contribution			False	False	True		False
 4536562	23609	918442	0	End Homelessness		2024-03-14 00:00:00	1000	1000	1032 15th Street NW Suite 247		Washington	DC	20005     	6B	Contribution			False	False	True		False
-4536563	23609	918442	0	Friends of Michelle Mussman		2024-03-17 00:00:00	500	500	217 Tudor Lane		Schaumburg	IL	60193     	6B	Ticket purchase			False	False	True		False
+4536563	23609	918442	0	Friends of Michelle Mussman		2024-03-17 00:00:00	500	500	Redaction Requested					6B	Ticket purchase			False	False	True		True
 4536564	23609	918442	0	Friends of Theresa Mah		2024-02-04 00:00:00	1000	1000	3500 N Lakewood Ave #3-S	c/o Barry Aldridge	Chicago	IL	60657-1488	6B	Contribution			False	False	True		False
 4536566	23609	918442	0	Friends of Sonya Marie Harper		2024-02-04 00:00:00	500	750	6142 S Woods St		Chicago	IL	60636     	6B	Contribution			False	False	True		False
 4536567	23609	918442	0	Friends of Sonya Marie Harper		2024-03-14 00:00:00	250	750	6142 S Woods St		Chicago	IL	60636     	6B	Ticket purchase			False	False	True		False
@@ -601675,7 +601636,7 @@ B	Fundraiser			False	False	False		False
 4540362	19641	918756	0	Kane County Democrats		2024-02-05 00:00:00	390	390	700 E. Main St. Suite D		Saint Charles	IL	60174     	6B	Contribution			False	False	False		False
 4540363	19641	918756	0	Shaw Suburban Media		2024-02-05 00:00:00	280	829	7717 South Illinois Route 31		Crystal Lake	IL	60014     	8B	Subscription			False	False	False		False
 4540364	19641	918756	0	Shaw Suburban Media		2024-03-15 00:00:00	549	829	7717 South Illinois Route 31		Crystal Lake	IL	60014     	8B	Advertising			False	False	False		False
-4540365	1087	918758	0	Friends of Michelle Mussman		2023-08-23 00:00:00	750	750	217 Tudor Ln		Schaumburg	IL	60193     	6B	Contribution			False	False	False		False
+4540365	1087	918758	0	Friends of Michelle Mussman		2023-08-23 00:00:00	750	750	Redaction Requested					6B	Contribution			False	False	False		True
 4540366	1087	918758	0	Friends of Robert Rita		2023-07-05 00:00:00	2500	2500	4818 137th St # 2		Crestwood	IL	60445     	6B	Contribution			False	False	False		False
 4540367	1087	918758	0	Friends of Lakesia		2023-09-07 00:00:00	2500	2500	1501 N. Clybourn Ave. Unit D		Chicago	IL	60610-1041	6B	Contribution			False	False	False		False
 4540368	1087	918758	0	Neighbors for Daniel La Spata		2023-08-09 00:00:00	500	500	PO Box 221683		Chicago	IL	60622     	6B	Contribution			False	False	False		False
@@ -623048,7 +623009,7 @@ B	Fundraiser			False	False	False		False
 4561735	23609	921967	0	Joliet Slammers		2024-03-10 00:00:00	3605.71	3605.71	Duly Health and Care Field	1 Mayor Art Schultz Dr	Joliet	IL	60432     	8B	Sponsorship			False	False	False		False
 4561736	23609	921967	0	Friends of Frerichs		2024-03-11 00:00:00	2500	2500	222 S Riverside Plaza	Ste 1500	Chicago	IL	60606     	6B	Contribution			False	False	False		False
 4561737	23609	921967	0	End Homelessness		2024-03-14 00:00:00	1000	1000	1032 15th Street NW Suite 247		Washington	DC	20005     	6B	Contribution			False	False	False		False
-4561738	23609	921967	0	Friends of Michelle Mussman		2024-03-17 00:00:00	500	500	217 Tudor Lane		Schaumburg	IL	60193     	6B	Ticket purchase			False	False	False		False
+4561738	23609	921967	0	Friends of Michelle Mussman		2024-03-17 00:00:00	500	500	Redaction Requested					6B	Ticket purchase			False	False	False		True
 4561739	23609	921967	0	Friends of Theresa Mah		2024-02-04 00:00:00	1000	1000	3500 N Lakewood Ave #3-S	c/o Barry Aldridge	Chicago	IL	60657-1488	6B	Contribution			False	False	False		False
 4561741	23609	921967	0	Friends of Sonya Marie Harper		2024-03-14 00:00:00	250	750	6142 S Woods St		Chicago	IL	60636     	6B	Ticket purchase			False	False	False		False
 4561742	23609	921967	0	Friends of Sonya Marie Harper		2024-02-04 00:00:00	500	750	6142 S Woods St		Chicago	IL	60636     	6B	Contribution			False	False	False		False
@@ -645278,4 +645239,61 @@ B	Fundraiser			False	False	False		False
 4584181	10	926756	0	The Home Depot		2024-06-11 00:00:00	7.6	353.43	7200 South Cicero Avenue		Bedford Park	IL	60638     	8B	Supplies			False	False	False	United States of America	False
 4584182	10	926756	0	Amber Mechanical		2024-06-11 00:00:00	460	460	11950 South Central		Alsip	IL	60803     	8B	Maintenance			False	False	False		False
 4584183	10	926756	0	Amazon.Com, Incorporated		2024-06-11 00:00:00	1018.67	1289.53	P.O. Box 81226		Seattle	WA	98108     	8B	Supplies			False	False	False		False
-4584184	10	926756	0	City Clerk of Chicago		2024-06-11 00:00:00	235.71	394.83	5672 South Archer Avenue		Chicago	IL	60638     	8B	Registration		
+4584184	10	926756	0	City Clerk of Chicago		2024-06-11 00:00:00	235.71	394.83	5672 South Archer Avenue		Chicago	IL	60638     	8B	Registration			False	False	False		False
+4584185	10	926756	0	The Home Depot		2024-06-11 00:00:00	175.07	353.43	7200 South Cicero Avenue		Bedford Park	IL	60638     	8B	Supplies			False	False	False	United States of America	False
+4584186	10	926756	0	Good To Go #88		2024-06-11 00:00:00	53.9	1757.98	6401 West 65th Street		Bedford Park	IL	60499     	8B	Fuel			False	False	False		False
+4584187	10	926756	0	Hinckley Springs		2024-06-11 00:00:00	158.41	540.84	6055 S. Harlem		Chicago	IL	60638     	8B	Water			False	False	False		False
+4584188	10	926756	0	Akerman		2024-06-11 00:00:00	1422.68	4268.04	P.O. Box4906		Orlando	FL	32802     	8B	Fees			False	False	False		False
+4584189	10	926756	0	My Parking Permit		2024-05-07 00:00:00	414.38	414.38	300 Cadman Plaza	#1303	Brooklyn	NY	11201     	8B	Supplies			False	False	False		False
+4584190	10	926756	0	Good To Go #88		2024-05-21 00:00:00	247.16	1757.98	6401 West 65th Street		Bedford Park	IL	60499     	8B	Fuel			False	False	False		False
+4584191	10	926756	0	Local 399 Member Benefits		2024-06-17 00:00:00	600	600	2260 South Grove Street		Chicago	IL	60616     	8B	Contribution			False	False	False		False
+4584192	10	926756	0	AT&T		2024-06-24 00:00:00	181.13	1381.15	Bill Payment Center		Saginaw	MI	48663-0003	8B	Telephones			False	False	False		False
+4584193	10	926756	0	Balzekas Museum of Lithuanian Culture		2024-06-24 00:00:00	1508.82	3017.64	6500 South Pulaski Road		Chicago	IL	60629     	8B	Rent			False	False	False		False
+4584194	10	926756	0	Costco Wholesale		2024-06-24 00:00:00	153.47	153.47	7300 South Cicero Avenue		Bedford Park	IL	60638     	8B	Supplies			False	False	False		False
+4584195	10	926756	0	Hohm	Harold	2024-06-24 00:00:00	200	600	6014 South Central Avenue		Chicago	IL	60638     	8B	Rent			False	False	False		False
+4584196	10	926756	0	Good To Go #88		2024-06-24 00:00:00	69.7	1757.98	6401 West 65th Street		Bedford Park	IL	60499     	8B	Fuel			False	False	False		False
+4584197	10	926756	0	Harris Ice Incorporated		2024-06-24 00:00:00	248.05	1597.13	3927 West 5th Avenue		Chicago	IL	60624     	8B	Ice			False	False	False		False
+4584198	10	926756	0	Good To Go #88		2024-06-24 00:00:00	89.74	1757.98	6401 West 65th Street		Bedford Park	IL	60499     	8B	Fuel			False	False	False		False
+4584199	10	926756	0	Giordano's of Midway		2024-06-24 00:00:00	35.11	253.99	6314 South Cicero Avenue		Chicago	IL	60638     	8B	Food			False	False	False		False
+4584200	10	926756	0	Speedway		2024-06-24 00:00:00	61.44	553.98	1300 West Normantown		Romeoville	IL	60446     	8B	Fuel			False	False	False		False
+4584201	10	926756	0	Peerly		2024-06-24 00:00:00	359.82	1749.61	2232 Dell Range Blvd.	#287	Cheyenne	WY	82009     	8B	Texting			False	False	False		False
+4584202	10	926756	0	Lowe's Home Centers, Inc.		2024-06-24 00:00:00	154.28	154.28	7971 South Cicero Avenue		Chicago	IL	60652     	8B	Supplies			False	False	False		False
+4584203	10	926756	0	Peerly		2024-06-26 00:00:00	1029.97	1749.61	2232 Dell Range Blvd.	#287	Cheyenne	WY	82009     	8B	Texting			False	False	False		False
+4584204	10	926756	0	The Home Depot		2024-04-16 00:00:00	65.93	353.43	7200 South Cicero Avenue		Bedford Park	IL	60638     	8B	Supplies			False	False	False	United States of America	False
+4584205	10	926756	0	Solski	Jennifer	2024-04-05 00:00:00	1000	1000	4337 West 77th Place		Chicago	IL	60652     	8B	Services			False	False	False		False
+4584206	10	926756	0	Twardy	Jeff	2024-04-05 00:00:00	1000	1000	1115 Kelly Avenue		Joliet	IL	60435     	8B	Services			False	False	False		False
+4584207	10	926756	0	Tyrcha	Joseph	2024-04-05 00:00:00	500	500	9700 South Vanderpoel Avenue		Chicago	IL	60643     	8B	Services			False	False	False		False
+4584208	10	926756	0	Zahdan	Ziyadeh	2024-04-05 00:00:00	500	500	7129 South Millard Avenue		Chicago	IL	60629     	8B	Services			False	False	False	United States of America	False
+4584209	10	926756	0	Ajzyk	Edward	2024-04-05 00:00:00	500	500	5539 South Newland Avenue		Chicago	IL	60638     	8B	Services			False	False	False		False
+4584210	10	926756	0	Wajda	Brian	2024-04-05 00:00:00	500	500	3800 Warren Avenue		Bellwood	IL	60104     	8B	Services			False	False	False		False
+4584211	10	926756	0	Casey	Terry	2024-04-05 00:00:00	500	500	4600 W. 106th Street		Oak Lawn	IL	60453     	8B	Services			False	False	False		False
+4584212	10	926756	0	Hynes	John	2024-04-05 00:00:00	1000	1000	5625 South Natchez Avenue		Chicago	IL	60638     	8B	Services			False	False	False	United States of America	False
+4584213	10	926756	0	Tranowski	Paul	2024-04-05 00:00:00	250	250	6044 South Knox Avenue		Chicago	IL	60629     	8B	Services			False	False	False		False
+4584214	10	926756	0	Piccirillo	Laura	2024-04-05 00:00:00	500	500	6153 West 64th Street		Chicago	IL	60638     	8B	Services			False	False	False		False
+4584215	10	926756	0	Cokinis	George	2024-04-05 00:00:00	500	500	4931 Riverside Drive		McCook	IL	60525     	8B	Services			False	False	False		False
+4584216	10	926756	0	O'Farrell	David	2024-04-05 00:00:00	1000	1000	5165 West 64th Place		Chicago	IL	60638     	8B	Services			False	False	False	United States of America	False
+4584217	10	926756	0	Mulvihill	Jerry	2024-04-05 00:00:00	1000	1000	4817 South Leamington Avenue		Chicago	IL	60638     	8B	Services			False	False	False		False
+4584218	10	926756	0	Jimenez	Gloria	2024-04-05 00:00:00	1000	1000	4718 South Leamington Avenue		Chicago	IL	60638     	8B	Services			False	False	False		False
+4584219	10	926756	0	Lopez	Matthew	2024-04-05 00:00:00	250	250	10721 South Whipple Street		Chicago	IL	60655     	8B	Services			False	False	False		False
+4584220	10	926756	0	Tyeptanar	Paul	2024-04-05 00:00:00	1000	1000	6645 South Kilbourn Avenue		Chicago	IL	60629     	8B	Services			False	False	False		False
+4584221	10	926756	0	Whelan Jr.	Thomas A.	2024-04-05 00:00:00	500	500	3905 West 106th Lane		Crown Point	IN	46307     	8B	Services			False	False	False		False
+4584222	10	926756	0	Lai	David	2024-04-05 00:00:00	1000	1000	4110 West 58th Street		Chicago	IL	60629     	8B	Services			False	False	False	United States of America	False
+4584223	10	926756	0	Dispensa	Daniel J.	2024-04-05 00:00:00	450	450	10431 South Springfield Avenue		Chicago	IL	60655     	8B	Services			False	False	False		False
+4584224	10	926756	0	Gutierrez	Victor	2024-04-05 00:00:00	250	250	1823 North Neva Avenue		Chicago	IL	60707     	8B	Services			False	False	False		False
+4584225	10	926756	0	Gutierrez	Karen	2024-04-05 00:00:00	250	250	1823 North Neva Avenue		Chicago	IL	60707     	8B	Services			False	False	False		False
+4584226	10	926756	0	Koczwara	Christopher	2024-04-05 00:00:00	1000	1000	5568 S. Archer Ave, Unit 3C		Chicago	IL	60638     	8B	Services			False	False	False		False
+4584227	10	926756	0	Barrera	George	2024-04-05 00:00:00	250	250	7206 South Albany Avenue		Chicago	IL	60629     	8B	Services			False	False	False	United States of America	False
+4584228	10	926756	0	Hensley	Steven	2024-04-05 00:00:00	1720	1720	14138 Terry Drive		Orland Park	IL	60462     	8B	Services			False	False	False	United States of America	False
+4584229	10	926756	0	Houlihan	Terence J.	2024-04-05 00:00:00	1000	1000	12744 South Austin Avenue		Palos Heights	IL	60463-2340	8B	Services			False	False	False		False
+4584230	10	926756	0	Aderman	Ryan	2024-04-05 00:00:00	1000	1000	5824 South Natoma Avenue		Chicago	IL	60638     	8B	Services			False	False	False		False
+4584231	10	926756	0	Drabe	Jeff	2024-04-05 00:00:00	350	350	5200 South Mulligan Avenue		Chicago	IL	60638     	8B	Services			False	False	False		False
+4584232	10	926756	0	Crowley	Liam	2024-04-05 00:00:00	250	250	2541 West 109th Street		Chicago	IL	60655     	8B	Services			False	False	False		False
+4584233	10	926756	0	Sanchez	Jose L.	2024-04-05 00:00:00	500	500	6200 South Keeler Avenue		Chicago	IL	60629     	8B	Services			False	False	False	United States of America	False
+4584234	10	926756	0	Garcia	Joseph	2024-04-05 00:00:00	1000	1000	0S977 Mill Creek Circle East		Geneva	IL	60134     	8B	Services			False	False	False	United States of America	False
+4584235	10	926756	0	Liace	Anthony	2024-04-05 00:00:00	500	500	5736 South Sayre Avenue		Chicago	IL	60638     	8B	Services			False	False	False		False
+4584236	10	926756	0	Diaz	Cesar	2024-04-05 00:00:00	250	250	6407 South Kenneth Avenue		Chicago	IL	60629     	8B	Services			False	False	False		False
+4584237	10	926756	0	Cicero	Karen	2024-04-05 00:00:00	250	250	6118 South Kostner Avenue		Chicago	IL	60629     	8B	Services			False	False	False	United States of America	False
+4584238	10	926756	0	Peoples Gas		2024-04-24 00:00:00	99.38	320.4	Bill Payment Center		Chicago	IL	60687     	8B	Utility			False	False	False		False
+4584239	10	926756	0	Good To Go #88		2024-04-24 00:00:00	88	1757.98	6401 West 65th Street		Bedford Park	IL	60499     	8B	Fuel			False	False	False		False
+4584240	10	926756	0	Good To Go #88		2024-04-24 00:00:00	172.18	1757.98	6401 West 65th Street		Bedford Park	IL	60499     	8B	Fuel			False	False	False		False
+4584241	10	926756	0	Harris

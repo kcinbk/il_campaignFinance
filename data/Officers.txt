@@ -10210,6 +10210,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 11361	Cericola	Paul	9428 S. Turner		Evergreen Park	IL	60642     	Treasurer	(708)422-0940       	False
 98953	Cerkvenik	Mark	19324 Lancaster Dr.		Mokena	IL	60448     	Chair	708.263.9144        	False
 48746	Cermak	Charles	305 Tulip		Island Lake	IL	60042     	Chair	847.526.0177        	False
+100623	Cermak	Kara	431 W. Glencee Rd.		Palatine	IL	60067     	Treasurer	847.794.8648        	False
 34630	Cermak	Kathie	1044 Jamie Ln		Addison	IL	60101     	Chair		False
 755	Cernauske	Michael	143 Avon Road		Elmhurst	IL	          	Treasurer	                    	False
 19118	Cerne	Neal W	400 S Knoll St	Ste A	Wheaton	IL	60187     	Treasurer	630/690-8111        	False
@@ -10368,6 +10369,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 41661	Chapman	Cheryl	1004 Western Ave		Joliet	IL	60435     	Co-Chair	815.723.9353        	False
 79546	Chapman	Colby M	121 E. 155th St		Harvey	IL	60426     	Chair	618-303-2786        	False
 79547	Chapman	Colby M	121 E. 155th St		Harvey	IL	60426     	Treasurer	618-303-2786        	False
+100620	Chapman	Colby M.	15144 Center Ave.	PO Box 1087	Harvey	IL	60426     	Chair	708.320.9214        	False
 89123	Chapman	Corin	3609 Connie Kay Way		Bloomington	IL	61704     	Chair	309.287.9317        	False
 9799	Chapman	David	Rr #1		Bluffs	IL	62621     	Treasurer	                    	False
 35126	Chapman	David L	4004 Old Mill Ln		Springfield	Il	62711     	Treasurer	217/546-3696        	False
@@ -29767,6 +29769,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 28581	Huemann	John	2610 N Tivoli		Johnsburg	IL	60050     	Chair	385-7232            	False
 24140	Huench	Jeannette			Barrington	IL	60010     	Treasurer	(847)381-2369       	False
 40860	Huening	Steven	212 N Prospect Ave		Park Ridge	IL	60068     	Chair	800-621-6427        	False
+100618	Huerta	Juan	3024 Summerwood Dr.		Springfield	IL	62712     	Chair	217.414.0679        	False
+100619	Huerta	Juan	3024 Summerwood Dr.		Springfield	IL	62712     	Treasurer	217.414.0679        	False
 17151	Huerta	Ramon	200 S Washington		Peoria	IL	61602     	Chair	                    	False
 56666	Hueston	Jerry	2642 W Slepp		Chicago	IL	60652     	Chair	773-793-5543        	False
 5894	Huetsch	Carol A.			Waterloo	IL	62298     	Treasurer	                    	False
@@ -49108,6 +49112,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 28810	Ortega	Laura	3433 N Nagle Ave		Chicago	Il	60634     	Treasurer	773/ 205-9634       	False
 89076	Ortega	Melissa	2204 W. Nichols Rd	ATP E	Arlington Heights	IL	60004     	Chair	234.703.4246        	False
 89077	Ortega	Melissa	2204 W. Nichols Rd	ATP E	Arlington Heights	IL	60004     	Treasurer	234.703.4246        	False
+100622	Ortega	Melissa.	107 S. Greeley St.		Palatine	IL	60067     	Chair	773.879.3309        	False
 93195	Ortega	Ruth	1347 Home Avenue		Berwyn	IL	60402     	Chair	                    	False
 93196	Ortega	Ruth	1347 Home Avenue		Berwyn	IL	60402     	Treasurer	                    	False
 91729	Ortgiesen	Adam	24 Homestead Dr.		Mount Vernon	IL	62864     	Treasurer	618.315.9757        	False
@@ -52394,6 +52399,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 19302	Powell	Debra	635 N Pershing Blvd		East St. Louis	IL	62203     	Chair	618/398-6373        	False
 19303	Powell	Debra	635 N Pershing Blvd		East St. Louis	IL	62203     	Treasurer	618/398-6373        	False
 36077	Powell	Dennis R	2704 College Ave		Quincy	IL	62301     	Chair	217/224-9095        	False
+100621	Powell	Deronda	121 E. 155th St.		Harvey	IL	60426     	Treasurer	708.297.8994        	False
 1981	Powell	Enid	9616 S 50th Ct		Oaklawn	IL	60453     	Chair	                    	False
 69973	Powell	Errol	16600 Plainview		Markham	IL	          	Chair	                    	False
 69974	Powell	Helen	1600 Plainview		Markham	IL	          	Treasurer	                    	False

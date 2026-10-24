@@ -1,5 +1,4 @@
-	500	0			240 Jeffreys Place		Highwood	IL	60040     	1A							  	          	False		False
-3404314	23682	451432		Boron	Andrew	2011-08-08 00:00:00	200	200	0			702 Marion Avenue		Highland Park	IL	60035     	1A							  	          	False		False
+ndrew	2011-08-08 00:00:00	200	200	0			702 Marion Avenue		Highland Park	IL	60035     	1A							  	          	False		False
 3404315	23682	451432		Waltenburg	Audrey	2011-08-10 00:00:00	500	500	0			1415 Woodhill Drive		Northbrook	IL	60062     	1A							  	          	False		False
 3404316	23682	451432		Sey, Inc.		2011-08-10 00:00:00	500	500	0			721 W. Belmont Avenue		Chicago	IL	60657     	1A							  	          	False		False
 3404317	23682	451432		Larry P. Smith & Associates		2011-08-10 00:00:00	500	500	0			205 N. Michigan Ave., 40th Floor		Chicago	IL	60601     	1A							  	          	False		False
@@ -84242,7 +84241,7 @@
 3488843	13601	463665		Evanston Firefighters Association Local 742		2012-01-31 00:00:00	198	594	0			P. O. Box 1275		Evanston	IL	60204     	4A	Union Dues						  	          	False		False
 3488844	13601	463665		Evanston Firefighters Association Local 742		2012-02-28 00:00:00	198	594	0			P. O. Box 1275		Evanston	IL	60204     	4A	Union Dues						  	          	False		False
 3488845	13601	463665		Evanston Firefighters Association Local 742		2012-03-27 00:00:00	198	594	0			P. O. Box 1275		Evanston	IL	60204     	4A	Union Dues						  	          	False		False
-3488846	528	463668		Friends of Edward M. Burke		2012-03-19 00:00:00	500	500	0			3914 S 51st Street		Chicago	IL	60632     	4A	Check voided						  	          	False		False
+3488846	528	463668		Friends of Edward M. Burke		2012-03-19 00:00:00	500	500	0			Redaction Requested					4A	Check voided						  	          	False		True
 3488847	528	463668		Citizens for Gregory Harris		2012-03-19 00:00:00	300	300	0			1312 W. Winona		Chicago	IL	60640     	4A	Check voided						  	          	False		False
 3488848	528	463668		Friends of Robert Rita		2012-03-19 00:00:00	250	250	0			2030 High St		Blue Island	IL	60406     	4A	Check voided						  	          	False		False
 3488849	528	463668		Committee to Elect Sidney Brooks		2012-03-19 00:00:00	300	300	0			2701 East 76th Street		Chicago	IL	60649     	4A	Check voided						  	          	False		False
@@ -121527,7 +121526,7 @@
 3526128	23646	469425		ADMINISTRATIVE DISTRICT COUNCIL 1 (DUES)		2011-11-15 00:00:00	5000	23823.53	0			660 N. INDUSTRIAL DRIVE		ELMHURST	IL	60126     	1A							  	          	False		False
 3526129	23646	469425		ADMINISTRATIVE DISTRICT COUNCIL 1 (DUES)		2011-11-23 00:00:00	5947.5	23823.53	0			660 N. INDUSTRIAL DRIVE		ELMHURST	IL	60126     	1A							  	          	False		False
 3526130	23646	469425		ADMINISTRATIVE DISTRICT COUNCIL 1 (DUES)		2011-12-28 00:00:00	7152.16	23823.53	0			660 N. INDUSTRIAL DRIVE		ELMHURST	IL	60126     	1A							  	          	False		False
-3526131	528	469429		Friends of Edward M. Burke		2012-06-19 00:00:00	500	500	0			3914 S 51st Street		Chicago	IL	60632     	4A	Check voided						  	          	True		False
+3526131	528	469429		Friends of Edward M. Burke		2012-06-19 00:00:00	500	500	0			Redaction Requested					4A	Check voided						  	          	True		True
 3526132	528	469429		Citzens for Lou Lang		2012-06-19 00:00:00	250	250	0			PO Box 1815		Skokie	IL	60076     	4A	Check voided						  	          	True		False
 3526133	528	469429		Citizens for Nolan		2012-06-19 00:00:00	250	250	0			828 Logan Ave.		Elgin	IL	60120     	4A	Check voided						  	          	True		False
 3526142	17219	469431		McGuire Woods Consulting		2012-06-01 00:00:00	250	250	0			1 North Old State Capitol Plaza		Springfield	IL	62701     	1A							  	          	False		False
@@ -137810,7 +137809,7 @@
 3542435	15442	471087		MITCHELL	STEVEN	2012-06-21 00:00:00	42.92	257.52	0	VP-SALES, GOVERNMENT/EDUCATION/MEDICAL	ATamp;T Services, Inc.	902 SECRETARIAT COURT		ST CHARLES	IL	60174-5866	1A							  	          	False		False
 3542436	15442	471087		PECHAR	STEVEN	2012-06-21 00:00:00	30	180	0	SENIOR-NETWORK SUPPORT	ATamp;T Services, Inc.	130 PEACH TREE LANE	ORCHARD GATE TOWNHOMES	WESTMONT	IL	60559-3459	1A							  	          	False		False
 3542437	15442	471087		SELCKE	STEPHEN	2012-06-21 00:00:00	40	240	0	EXEC DIR EXTERNAL AFFAIRS	ATamp;T Services, Inc.	836 S. BODIN		HINSDALE	IL	60521-4377	1A							  	          	False		False
-3542438	15442	471087		Friends of Michelle Mussman		2012-04-25 00:00:00	500	500	0			217 Tudor Lane		Schaumburg	IL	60193     	4A	Void - Friends of Michelle Mussman						  	          	False		False
+3542438	15442	471087		Friends of Michelle Mussman		2012-04-25 00:00:00	500	500	0			Redaction Requested					4A	Void - Friends of Michelle Mussman						  	          	False		True
 3542439	15442	471087		Liz for the 17th		2012-06-15 00:00:00	500	500	0			10834 Carolyn Court		Orland Park	IL	60467     	4A	Void - Liz for the 17th						  	          	False		False
 3542440	15442	471087		Citizens for Jesus Garcia		2012-06-15 00:00:00	500	500	0			4249 S. Archer Avenue		Chicago	IL	60632     	4A	Void - Citizens for Jesus Garcia						  	          	False		False
 3542342	15442	471087		BARRY	ROBERT	2012-04-06 00:00:00	30	30	0	EXEC DIR EXTERNAL AFFAIRS	ATamp;T Services, Inc.	170 GLEN ARBOR COURT		GLEN ELLYN	IL	60137-3222	1A							  	          	False		False
@@ -150703,7 +150702,7 @@
 3555304	1157	472230		Citizens To Elect Andre  Thapedi		2012-07-19 00:00:00	1000	0	0			6901 S Oglesby Ave		Chicago	IL	60649     	2A							  	          	True		False
 3555305	1157	472230		Brandon Phelps for State Representative		2012-07-19 00:00:00	1000	0	0			PO BOX 401		Harrisburg	IL	62946     	2A							  	          	True		False
 3555306	1157	472230		Citizens for Elaine Nekritz		2012-07-19 00:00:00	1000	0	0			3 the Court of Island Pt		Northbrook	IL	60062     	2A							  	          	True		False
-3555307	1157	472230		Friends of Michelle Mussman		2012-07-19 00:00:00	1000	0	0			217 Tudor Lane		Schaumburg	IL	60193     	2A							  	          	True		False
+3555307	1157	472230		Friends of Michelle Mussman		2012-07-19 00:00:00	1000	0	0			Redaction Requested					2A							  	          	True		True
 3555308	1157	472230		Citizens for Lou Lang		2012-07-19 00:00:00	1000	0	0			P.O. Box 1815		Skokie	IL	60076     	2A							  	          	True		False
 3555309	1157	472230		Joseph M. Lyons Campaign Committee		2012-07-19 00:00:00	1000	0	0			5441 West Giddings Street		Chicago	IL	60630     	2A							  	          	True		False
 3555310	1157	472230		Citizens for Marcus C Evans, Jr		2012-07-19 00:00:00	1000	0	0			8539 S Cottage Grove Ave		Chicago	IL	60619     	2A							  	          	True		False
@@ -180243,7 +180242,7 @@
 3586268	24089	479500		Phelps	Brandon	2012-08-24 00:00:00	500	500	0			PO Box 401		Harrisburg	IL	62946     	1A							  	          	True	USA	False
 3586269	24089	479500		Southern & Central Illinois Laborer's		2012-09-05 00:00:00	1500	1500	0			Political League,	5100 Laborer's Way	Marion	IL	62959     	1A							  	          	True		False
 3586271	528	479502		Citzens for Lou Lang		2012-06-19 00:00:00	250	250	0			PO Box 1815		Skokie	IL	60076     	4A	Check voided						  	          	False		False
-3586270	528	479502		Friends of Edward M. Burke		2012-06-19 00:00:00	500	500	0			3914 S 51st Street		Chicago	IL	60632     	4A	Check voided						  	          	False		False
+3586270	528	479502		Friends of Edward M. Burke		2012-06-19 00:00:00	500	500	0			Redaction Requested					4A	Check voided						  	          	False		True
 3586272	24372	479503		Republican Club of Evanston		2012-08-03 00:00:00	500	500	0			1508 Hinman Ave		Evanston	IL	60201     	1A							  	          	True	USA	False
 3586273	24372	479503		Stern	Todd & Pam	2012-08-07 00:00:00	300	300	0			Primrose		Glenview	IL	60026     	1A							  	          	True	US	False
 3586274	24372	479503		Baddeloo	Doug & Marlene	2012-08-07 00:00:00	250	250	0			1711 Highland Terrace		Glenview	IL	60025     	1A							  	          	True	US	False
@@ -181308,7 +181307,7 @@
 3587573	1157	479641		O'Kane	Brian J	2012-07-31 00:00:00	399	964	0	Engineer	Airport Property Management Group	12222 S 71st Ave		Palos Heights	IL	60463     	1A							  	          	False		False
 3587574	1157	479641		Gehrke Technology Group		2012-08-10 00:00:00	500	500	0			5529 N McVicker Ave		Chicago	IL	60630     	1A							  	          	False		False
 3587575	1157	479641		Friends of Michael J. Madigan		2012-07-09 00:00:00	1000	1000	0			P.O. BOX 3188		Chicago	IL	60654     	2A							  	          	False		False
-3587719	1157	479641		Friends of Michelle Mussman		2012-07-19 00:00:00	1000	1000	0			217 Tudor Lane		Schaumburg	IL	60193     	2A							  	          	False		False
+3587719	1157	479641		Friends of Michelle Mussman		2012-07-19 00:00:00	1000	1000	0			Redaction Requested					2A							  	          	False		True
 3587720	1157	479641		Citizens for Al Riley		2012-07-19 00:00:00	1000	1000	0			PO Box 282		Olympia Fields	IL	60461     	2A							  	          	False		False
 3587721	1157	479641		Friends of Ann M. Williams		2012-07-19 00:00:00	1000	1000	0			4064 N Lincoln Ave, #266		Chicago	IL	60618     	2A							  	          	False		False
 3587722	1157	479641		Friends of Camille Lilly		2012-08-14 00:00:00	1000	1000	0			7115 W North Ave	Box 260	Oak Park	IL	60302     	2A							  	          	False		False
@@ -406507,7 +406506,7 @@
 3821784	23150	507885		AGL Resources Inc.		2013-07-12 00:00:00	1000	1000	0			Nicor Gas 6th Floor East		Naperville	IL	60563     	1A							  	          	True		False
 3821785	16425	507886		Caesars Entertainment Operating Company, Inc.		2013-07-16 00:00:00	1250	0	0			3570 Las Vegas Blvd. So.		Las Vegas	NV	89109     	1A							  	          	True		False
 3821788	1157	507888		Operator Action Fund		2013-07-11 00:00:00	1000	0	0			3310 Water Tower Road		Marion	IL	62959     	2A							  	          	True		False
-3821789	1157	507888		Friends of Michelle Mussman		2013-07-11 00:00:00	1000	0	0			217 Tudor Lane		Schaumburg	IL	60193     	2A							  	          	True		False
+3821789	1157	507888		Friends of Michelle Mussman		2013-07-11 00:00:00	1000	0	0			Redaction Requested					2A							  	          	True		True
 3821790	1157	507888		RJB Properties, Inc		2013-07-11 00:00:00	1000	0	0			11415 W 183rd Place	Suite B	Orland Park	IL	60467     	1A							  	          	True		False
 3821791	1157	507888		Citizens for John Cullerton		2013-07-11 00:00:00	1000	0	0			29 S LaSalle Street, Suite 936		Chicago	IL	60603     	2A							  	          	True		False
 3821786	1157	507888		Blue Cross Blue Shield		2013-07-11 00:00:00	1000	0	0			300 E Randolph Street		Chicago	IL	60601     	1A							  	          	True		False
@@ -431588,7 +431587,7 @@
 3846544	1157	513613		Citizens for Joe Moore		2013-07-11 00:00:00	399	399	0			1431 W Fargo		Chicago	IL	60626     	2A							  	          	False		False
 3846545	1157	513613		Julie Morrison for State Senate		2013-07-11 00:00:00	399	399	0			1530 Woodvale		Deerfield	IL	60015     	2A							  	          	False		False
 3846546	1157	513613		Friends for Mulroe		2013-07-11 00:00:00	399	399	0			6687 N Northwest Highway		Chicago	IL	60631     	2A							  	          	False		False
-3846547	1157	513613		Friends of Michelle Mussman		2013-07-11 00:00:00	1000	1000	0			217 Tudor Lane		Schaumburg	IL	60193     	2A							  	          	False		False
+3846547	1157	513613		Friends of Michelle Mussman		2013-07-11 00:00:00	1000	1000	0			Redaction Requested					2A							  	          	False		True
 3846548	1157	513613		Suszko	Robert	2013-07-11 00:00:00	399	1182	0	Engineer	State Of Illinois	8732 W Bruce Drive		Niles	IL	60714     	1A							  	          	False		False
 3846549	1157	513613		NOLAN	DENNIS	2013-07-11 00:00:00	750	750	0	Business Representative	IUOE Local 399	10731 S RIDGEWAY AVE		Chicago	IL	60655     	1A							  	          	False		False
 3846550	1157	513613		NOONAN	THOMAS	2013-07-11 00:00:00	399	399	0			10527 S 83RD AVE		PALOS HILLS	IL	60465     	1A							  	          	False		False
@@ -495240,7 +495239,7 @@
 3910475	1420	522025		DBA Grace Printing & Mailing		2013-11-13 00:00:00	250	250	0			2050 W Devon Ave		Chicago	IL	60659     	1A							  	          	True		False
 3910476	1420	522025		East West Trading Corp LTD		2013-10-16 00:00:00	500	500	0			5343 N.Kedzie Ave		Chicago	IL	60625     	1A							  	          	True		False
 3910477	1420	522025		Friends  of Dorothy Brown		2013-10-16 00:00:00	250	250	0			P.O.BOX 490374		chicago	IL	60649     	1A							  	          	True		False
-3910478	1420	522025		Friends of Michelle Mussman		2013-11-13 00:00:00	250	250	0			217 Tudor Lane		Schaumburg	IL	60193     	1A							  	          	True		False
+3910478	1420	522025		Friends of Michelle Mussman		2013-11-13 00:00:00	250	250	0			Redaction Requested					1A							  	          	True		True
 3910479	1420	522025		Friends of Robyn Gabel		2013-10-10 00:00:00	500	500	0						IL	          	1A							  	          	True		False
 3910480	1420	522025		Holiday inn		2013-11-25 00:00:00	500	500	0			5300 Touhy Ave		skokie	IL	60077     	1A							  	          	True		False
 3910481	1420	522025		Kalayil	Tom	2013-10-26 00:00:00	900	900	0			1341 Callen Ln		Desplaines	IL	60016     	1A							  	          	True		False
@@ -541348,7 +541347,7 @@
 3956619	1420	529866		DBA Grace Printing & Mailing		2013-11-13 00:00:00	250	250	0			2050 W Devon Ave		Chicago	IL	60659     	1A							  	          	True		False
 3956620	1420	529866		East West Trading Corp LTD		2013-10-16 00:00:00	500	500	0			5343 N.Kedzie Ave		Chicago	IL	60625     	1A							  	          	True		False
 3956621	1420	529866		Friends  of Dorothy Brown		2013-10-16 00:00:00	250	250	0			P.O.BOX 490374		chicago	IL	60649     	1A							  	          	True		False
-3956622	1420	529866		Friends of Michelle Mussman		2013-11-13 00:00:00	250	250	0			217 Tudor Lane		Schaumburg	IL	60193     	1A							  	          	True		False
+3956622	1420	529866		Friends of Michelle Mussman		2013-11-13 00:00:00	250	250	0			Redaction Requested					1A							  	          	True		True
 3956623	1420	529866		Friends of Robyn Gabel		2013-10-10 00:00:00	500	500	0						IL	          	1A							  	          	True		False
 3956624	1420	529866		Holiday inn		2013-11-25 00:00:00	500	500	0			5300 Touhy Ave		skokie	IL	60077     	1A							  	          	True		False
 3956625	1420	529866		Kalayil	Tom	2013-10-26 00:00:00	900	900	0			1341 Callen Ln		Desplaines	IL	60016     	1A							  	          	True		False
@@ -576815,7 +576814,7 @@
 3993780	1157	533459		Jones for State Representative		2014-06-13 00:00:00	1000	0	0			289 Paxton Ave.		Calumet City	IL	60409     	2A							  	          	True		False
 3993781	1157	533459		Friends of Emily Klunk-McAsey		2014-06-13 00:00:00	1000	0	0			920 S State St		Lockport	IL	60441     	2A							  	          	True		False
 3993782	1157	533459		Friends of Natalie Manley		2014-06-13 00:00:00	1000	0	0			3107 Ingalls Avenue, Apt 3A		Joliet	IL	60435     	2A							  	          	True		False
-3993783	1157	533459		Friends of Michelle Mussman		2014-06-13 00:00:00	1000	0	0			217 Tudor Lane		Schaumburg	IL	60193     	2A							  	          	True		False
+3993783	1157	533459		Friends of Michelle Mussman		2014-06-13 00:00:00	1000	0	0			Redaction Requested					2A							  	          	True		True
 3993784	1157	533459		Friends of Robert BOB RITA		2014-06-13 00:00:00	1000	0	0			2030 HIGH STREET		BLUE ISLAND	IL	60406     	2A							  	          	True		False
 3993785	1157	533459		Friends of Martin A. Sandoval		2014-06-13 00:00:00	1000	0	0			3529 W. 57th Street		Chicago	IL	60629     	2A							  	          	True		False
 3993786	1157	533459		Friends of Carol Sente		2014-06-13 00:00:00	1000	0	0			1152 Georgetown Way		Vernon Hills	IL	60061     	2A							  	          	True		False
@@ -588716,7 +588715,7 @@
 4005642	1157	535974		Jones for State Representative		2014-06-13 00:00:00	1000	1000	0			289 Paxton Ave.		Calumet City	IL	60409     	2A							  	          	True		False
 4005643	1157	535974		Friends of Emily Klunk-McAsey		2014-06-13 00:00:00	1000	1000	0			920 S State St		Lockport	IL	60441     	2A							  	          	True		False
 4005644	1157	535974		Friends of Natalie Manley		2014-06-13 00:00:00	1000	1000	0			3107 Ingalls Avenue, Apt 3A		Joliet	IL	60435     	2A							  	          	True		False
-4005645	1157	535974		Friends of Michelle Mussman		2014-06-13 00:00:00	1000	1000	0			217 Tudor Lane		Schaumburg	IL	60193     	2A							  	          	True		False
+4005645	1157	535974		Friends of Michelle Mussman		2014-06-13 00:00:00	1000	1000	0			Redaction Requested					2A							  	          	True		True
 4005646	1157	535974		Friends of Robert BOB RITA		2014-06-13 00:00:00	1000	1000	0			2030 HIGH STREET		BLUE ISLAND	IL	60406     	2A							  	          	True		False
 4005647	1157	535974		Friends of Martin A. Sandoval		2014-06-13 00:00:00	1000	1000	0			3529 W. 57th Street		Chicago	IL	60629     	2A							  	          	True		False
 4005648	1157	535974		Friends of Carol Sente		2014-06-13 00:00:00	1000	1000	0			1152 Georgetown Way		Vernon Hills	IL	60061     	2A							  	          	True		False
@@ -616769,4 +616768,6 @@
 4033727	1362	538954		Steamfitters Local 353 P.E.C.		2014-05-20 00:00:00	250	500	0			6304 W. Development Dr.		Peoria	IL	61604     	2A							  	          	False		False
 4033728	1362	538954		Cook		2014-05-20 00:00:00	250	250	0			PO Box 489		Bloomington	IN	47402     	1A							  	          	False		False
 4033729	1362	538954		UFCW Local 881 PAC		2014-05-20 00:00:00	250	250	0			10400 W. Higgins Road Ste. 500		Rosemont	IL	60018     	2A							  	          	False		False
-4033730	1362	538954		Marder	Sidney and Natalie	2014-05-22 00:00:00	250	250	0			8937 Agliana Circle		Boynton Beach	FL	33472     	1A							  	          	Fal
+4033730	1362	538954		Marder	Sidney and Natalie	2014-05-22 00:00:00	250	250	0			8937 Agliana Circle		Boynton Beach	FL	33472     	1A							  	          	False		False
+4033731	1362	538954		Londrigan	Timothy	2014-05-22 00:00:00	200	200	0			1227 South Seventh St.		Springfield	IL	52703     	1A							  	          	False		False
+4033732	1362	538954		Illinois American Water Company PAC		2014-06-05 00:00:00	250	250	0			300 N. Water Works Drive		Belleville	IL	62223     	2A							  	          	Fals

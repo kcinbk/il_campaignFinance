@@ -1,4 +1,4 @@
-2776725	16362	391108		Gabriel Lopez and Associates		2009-06-09 00:00:00	1000	1000	0			3108 W. Irving Park Road		Chicago	IL	60618     	1A							  	          	False		False
+ates		2009-06-09 00:00:00	1000	1000	0			3108 W. Irving Park Road		Chicago	IL	60618     	1A							  	          	False		False
 2776726	16362	391108		Ryan	Christine and Robert	2009-06-09 00:00:00	250	250	0			195 N. Harbor Drive	Apt 2703	Chicago	IL	60601     	1A							  	          	False		False
 2776727	16362	391108		Kraft Foods Global Inc		2009-06-22 00:00:00	750	750	0			Three Lakes Drive		Northfield	IL	60093     	1A							  	          	False		False
 2776728	16362	391108		Chicago Fire Fighters Union Local 2		2009-06-26 00:00:00	250	250	0			440 West 43rd Street		Chicago	IL	60609     	1A							  	          	False		False
@@ -352287,7 +352287,7 @@
 3129169	1420	421686		Petro Gold Inc		2010-09-12 00:00:00	500	500	0			502 Pratt Ave N		Schaumberg	IL	60193     	1A							  	          	True		False
 3129170	1420	421686		Philip K.J.	Lovely K PhiliP	2010-09-12 00:00:00	200	200	0			315 woodley Rd		Winnetka	IL	60093     	1A							  	          	True		False
 3129171	1420	421686		Reddivari	Sainath	2010-09-12 00:00:00	100	600	0	Engineer	Self-Employed	233 E. 13th Street Unit 1703		chicago	IL	60605     	2A							  	          	True		False
-3129172	1420	421686		Friends of Michelle Mussman		2010-09-15 00:00:00	200	200	0			217 Tudor Lane		Schaumburg	IL	60193     	2A							  	          	True		False
+3129172	1420	421686		Friends of Michelle Mussman		2010-09-15 00:00:00	200	200	0			Redaction Requested					2A							  	          	True		True
 3129173	1420	421686		Krishnamoorthi	SR  Matangi P	2010-09-16 00:00:00	200	500	0			410 Lafayette Ln		Hoffman Est	IL	60195     	2A							  	          	True		False
 3129174	1420	421686		Rang Inc.		2010-09-20 00:00:00	340	340	0			9457 Sumac Rd	Unit C	Des Plains	IL	60016     	2A							  	          	True		False
 3129175	1420	421686		Chicago Home Healthcare SC		2010-09-22 00:00:00	722	2222	0			850 W Jackson BLVD., STE 650		Chicago	IL	60607     	2A							  	          	True		False
@@ -461291,7 +461291,7 @@
 3238193	1420	430070		Janakiram	Ashwin	2010-09-12 00:00:00	605	605	0	Lawyer	Sidney Austin	420 E. Ohio St. Apt 28A		Chicago	IL	60611     	1A							  	          	False		False
 3238220	1420	430070		Clark	Dennis	2010-09-12 00:00:00	100	200	0			15610 Verdun Dr.		Winfield	IL	60190     	1A							  	          	False		False
 3238221	1420	430070		Friends of Scott Harper		2010-09-12 00:00:00	100	200	0			PO Box 147		Naperville	IL	60566     	1A							  	          	False		False
-3238222	1420	430070		Friends of Michelle Mussman		2010-09-15 00:00:00	200	200	0			217 Tudor Lane		Schaumburg	IL	60193     	2A							  	          	False		False
+3238222	1420	430070		Friends of Michelle Mussman		2010-09-15 00:00:00	200	200	0			Redaction Requested					2A							  	          	False		True
 3238223	1420	430070		Krishnamoorthi	SR  Matangi P	2010-09-16 00:00:00	200	500	0			410 Lafayette Ln		Hoffman Est	IL	60195     	2A							  	          	False		False
 3238224	1420	430070		Raja For Illinois		2010-09-16 00:00:00	200	200	0			P.O. Box 14064		Chicago	IL	60614     	1A							  	          	False		False
 3238225	1420	430070		Rang Inc.		2010-09-20 00:00:00	340	340	0			9457 Sumac Rd	Unit C	Des Plains	IL	60016     	2A							  	          	False		False
@@ -565333,7 +565333,7 @@
 3347098	1157	441707		Committee for Frank J. Mautino		2011-08-31 00:00:00	1000	0	0			PO BOX 36		Spring Valley	IL	61362     	2A							  	          	True		False
 3347099	1157	441707		Friends Of Karen May		2011-08-31 00:00:00	1000	0	0			Box 321		Highland Park	IL	60035     	2A							  	          	True		False
 3347100	1157	441707		Voters for Kevin McCarthy		2011-08-31 00:00:00	1000	0	0			PO Box 950		Orland Park	IL	60462     	2A							  	          	True		False
-3347101	1157	441707		Friends of Michelle Mussman		2011-08-31 00:00:00	1000	0	0			217 Tudor Lane		Schaumburg	IL	60193     	2A							  	          	True		False
+3347101	1157	441707		Friends of Michelle Mussman		2011-08-31 00:00:00	1000	0	0			Redaction Requested					2A							  	          	True		True
 3347102	1157	441707		BRANDON PHELPS FOR STATE REP		2011-08-31 00:00:00	1000	0	0			PO Box 401		Harrisburg	IL	62946     	2A							  	          	True		False
 3347103	1157	441707		FRIENDS OF DAN REITZ		2011-08-31 00:00:00	1000	0	0			PO BOX 356		SPARTA	IL	62286     	2A							  	          	True		False
 3347104	1157	441707		Citizens for Al Riley		2011-08-31 00:00:00	1000	0	0			PO Box 282		Olympia Fields	IL	60461     	2A							  	          	True		False
@@ -584041,7 +584041,7 @@
 3366041	1157	445882		Committee for Frank J. Mautino		2011-08-31 00:00:00	1000	1000	0			PO BOX 36		Spring Valley	IL	61362     	2A							  	          	False		False
 3366042	1157	445882		Friends Of Karen May		2011-08-31 00:00:00	1000	1000	0			Box 321		Highland Park	IL	60035     	2A							  	          	False		False
 3366043	1157	445882		Voters for Kevin McCarthy		2011-08-31 00:00:00	1000	1000	0			PO Box 950		Orland Park	IL	60462     	2A							  	          	False		False
-3366044	1157	445882		Friends of Michelle Mussman		2011-08-31 00:00:00	1000	1000	0			217 Tudor Lane		Schaumburg	IL	60193     	2A							  	          	False		False
+3366044	1157	445882		Friends of Michelle Mussman		2011-08-31 00:00:00	1000	1000	0			Redaction Requested					2A							  	          	False		True
 3366045	1157	445882		Citizens for Elaine Nekritz		2011-08-31 00:00:00	500	500	0			3 the Court of Island Pt		Northbrook	IL	60062     	2A							  	          	False		False
 3366046	1157	445882		BRANDON PHELPS FOR STATE REP		2011-08-31 00:00:00	1000	1000	0			PO Box 401		Harrisburg	IL	62946     	2A							  	          	False		False
 3366047	1157	445882		FRIENDS OF DAN REITZ		2011-08-31 00:00:00	1000	1000	0			PO BOX 356		SPARTA	IL	62286     	2A							  	          	False		False
@@ -622517,4 +622517,5 @@
 3404310	23682	451432		Kriozere	Mark	2011-07-25 00:00:00	200	200	0			161 Chenery Street		San Francisco	IL	94131     	1A							  	          	False		False
 3404311	23682	451432		Criz	Jesse	2011-07-26 00:00:00	250	250	0			203 N. LaSalle Street		Chicago	IL	60601     	1A							  	          	False		False
 3404312	23682	451432		Sussman	Eric	2011-08-03 00:00:00	1000	1000	0	Attorney	Kaye Scholer LLP	2059 N. Orleans Street		Chicago	IL	60614     	1A							  	          	False		False
-3404313	23682	451432		Martinez	Paul	2011-08-04 00:00:00	500
+3404313	23682	451432		Martinez	Paul	2011-08-04 00:00:00	500	500	0			240 Jeffreys Place		Highwood	IL	60040     	1A							  	          	False		False
+3404314	23682	451432		Boron	A

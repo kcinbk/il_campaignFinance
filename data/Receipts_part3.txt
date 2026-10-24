@@ -565274,7 +565274,7 @@
 2014758	18004	326969		Linton Properties Inc		2006-07-01 00:00:00	200	800	0			1550 West 88th Street		Chicago	IL	60620     	5A	headquarters - rent								True		False
 2014762	19193	326970	326970-232	Berry	William L	2006-09-16 00:00:00	2400	2400	2400			305 Ridgemont		Collinsville	IL	62234     	3A									True		False
 2014763	598	326971		Menolascino	Frances	2006-09-07 00:00:00	620	620	0	Assistant Pharmacy Tech.	Jewel-Osco	1737 N Oak Park Ave		Chicago	IL	60707     	1A									True		False
-2014764	598	326971		William B. Sullivan Attorney at Law		2006-09-20 00:00:00	600	600	0			1101 W. Lake St. #405		Oak Park	IL	60301     	1A									True		False
+2014764	598	326971		William B. Sullivan Attorney at Law		2006-09-20 00:00:00	600	600	0			Redaction Requested					1A									True		True
 2014765	598	326971		Boulanger	F. David	2006-09-09 00:00:00	500	500	0			207 N. Elmwood		Oak Park	IL	60302     	1A									True		False
 2014766	598	326971		Lavelle Sieracki Lindsey LTD		2006-09-09 00:00:00	250	250	0			218 N. Jefferson St.	Suite 102	Chicago	IL	60661     	1A									True		False
 2014767	598	326971		Fruth	Steven and Roberta	2006-09-21 00:00:00	200	200	0			645 S. Harvey		Oak Park	IL	60304     	1A									True		False
@@ -677962,4 +677962,4 @@
 2127999	675	335274		Woods	Dan	2006-10-17 00:00:00	250	250	0			509 Lakeshore Dr.		Barrington	IL	60010     	1A									False		False
 2128000	675	335274		Aldred	Carol	2006-08-21 00:00:00	175	175	0			537 North Rosebud		Lombard	IL	60148     	1A									False		False
 2128001	675	335274		Allen	Terri	2006-07-03 00:00:00	25	325	0			1151 E. Warrenville Road	PO Box 3015	Naperville	IL	60566     	1A									False		False
-2128002	675	335274		Allen	Terri	2006-07-25 00:00:00	25	325	0			1151 E. Warre
+2128002	675	335274		Allen	Terri	2006-07-25 00:00:00	25	325	0			1151 E. Warrenville Road	PO Box 3015

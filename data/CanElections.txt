@@ -66816,7 +66816,7 @@ ID	CandidateID	ElectionType	ElectionYear	IncChallOpen	WonLost	FairCampaign	Limit
 101919	54381	CE	2027	    	    	False	False	
 101920	54382	CE	2027	Chal	    	False	False	
 101924	54383	GE	2026	Chal	    	False	False	
-101923	54384	CE	2027	Open	    	False	False	
+101923	54384	CP	2027	Open	    	False	False	
 101925	54385	CE	2027	    	    	False	False	
 101926	54385	CE	2019	    	Won 	False	False	
 101928	54387	CP	2027	    	    	False	False	
@@ -66829,3 +66829,6 @@ ID	CandidateID	ElectionType	ElectionYear	IncChallOpen	WonLost	FairCampaign	Limit
 101945	54395	GE	2026	Chal	    	False	False	
 101943	54397	CP	2027	    	    	False	False	
 101946	54398	CP	2027	    	    	False	False	
+101947	54399	CE	2027	Chal	    	False	False	
+101948	54400	CP	2027	Open	    	False	False	
+101949	54401	CE	2027	    	    	False	False	
