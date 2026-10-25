@@ -66664,7 +66664,7 @@ ID	CandidateID	ElectionType	ElectionYear	IncChallOpen	WonLost	FairCampaign	Limit
 101696	54221	GE	2026	Open	    	False	False	
 101697	54222	CP	2027	    	    	False	False	
 101699	54225	CE	2027	Chal	    	False	False	
-101702	54226	CP	2027	Chal	    	False	False	
+101702	54226	CP	2027	Chal	    	False	True	Limits Off for Race
 101726	54227	CE	2027	    	    	False	False	
 101703	54228	CP	2027	    	    	False	False	
 101704	54229	GP	2026	Inc 	Won 	False	False	

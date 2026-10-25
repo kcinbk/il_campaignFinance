@@ -24822,7 +24822,7 @@ ID	CommitteeID	FiledDocID	Description	PurchaseDate	PurchaseShares	PurchasePrice	
 37002	36448	1026018	Loan made	2025-05-23 00:00:00	0	1500	1500	0		Casillas	Vince	2302 Mayfield		Joliet	IL	60435     	False	
 37003	20731	1026070	Bank charges	2026-06-30 00:00:00	0	15	15	0		Busey Bank		2801 Black Rd		Joliet	IL	60435     	False	
 37004	36292	1026110	Fund raising	2021-03-31 00:00:00	0	3.96	3.96	0		Act Blue		P.O. Box 44146		Somerville	MA	02144     	False	
-37005	32198	1026157	CHKN TOKEN 1 share = $0.000935703494927 initial purchase 8.87 million shares	2024-11-30 00:00:00	0	8299.69	20.49	0		CHKN TOKEN		262 Market Square Ct Ste D		Lake Forest	IL	60045     	False	
+37005	32198	1026157	CHKN TOKEN 1 share = $0.000935703494927 initial purchase 8.87 million shares	2024-11-30 00:00:00	0	8299.69	20.49	0		CHKN TOKEN		262 Market Square Ct Ste D		Lake Forest	IL	60045     	True	
 37006	31665	1026177	Food	2023-04-13 00:00:00	0	66.69	66.69	0		Costco		1430 S. Ashland Ave.		Chicago	IL	60608     	False	
 37007	22344	1026186	Investment purchase	2016-01-08 00:00:00	0	25000	20509.38	0		IAA Credit Union		808 IAA Drive	PO Box 2901	Bloomington	IL	60702     	False	
 37008	22344	1026186	Investment purchase, Country Trust and Bank	2022-01-25 00:00:00	0	36000	122392.31	0		Country Trust Bank		1705 Towanda Ave		Bloomington	IL	61701     	False	
@@ -24965,3 +24965,4 @@ ID	CommitteeID	FiledDocID	Description	PurchaseDate	PurchaseShares	PurchasePrice	
 37145	279	1028280	7 month CD for purpose of creating a scholarship dedicated to Libby Chumley	2023-07-25 00:00:00	0	1000.82	-21.75	0		Taylorville Community Credit Union		422 West Main Cross		Taylorville	IL	62569     	False	
 37146	25491	1028321	Investment purchase - CD	2019-10-01 00:00:00	0	2500	2502.63	0		Bank r Us		23 Cash St		Moneyville	IL	69815     	False	
 37147	25491	1028321	Loan Made	2024-05-10 00:00:00	0	1500	1500	0		NewsBank		5801 Pelican Bay Blvd, Ste 600		Naples	FL	34108     	False	
+37148	32198	1028545	CHKN TOKEN 1 share = $0.000935703494927 initial purchase 8.87 million shares	2024-11-30 00:00:00	0	8299.69	20.49	0		CHKN TOKEN		262 Market Square Ct Ste D		Lake Forest	IL	60045     	False	

@@ -9558,6 +9558,7 @@ ID	CommitteeID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	ResignD
 38798	5304	Garcia	Umberto	3720 Rolling Hills Rd.		Carpentersville	IL	60110     	Vice-Chair	2024-06-03 10:26:47.750000000	False
 42471	5304	Cain	Connie	509 Towne Court		Gilberts	IL	60136     	Treasurer	2025-07-25 10:35:28.430000000	False
 42725	5304	Surges	Clifford	206 White Feather		Gilberts	IL	60136     	Co-Chair	2026-01-29 13:50:13.007000000	False
+43303	5304	Garcia	Humberto	3720 Rolling Hills Rd.		Carpentersville	IL	60110     	Chair	2026-10-23 16:17:36.167000000	False
 6450	5306	Olson	Clifford	2050 Larkin Avenue		Elgin	IL	60123     	Treasurer	1998-07-30 00:00:00	False
 6451	5306	Searcy	Rupert	2050 Larkin Avenue		Elgin	IL	60123     	Chair	1998-07-30 00:00:00	False
 590	5306	Olson	Clifford	2050 Larkin Avenue		Elgin	IL	60123     	Treasurer	1990-07-23 00:00:00	False
@@ -24078,6 +24079,7 @@ ID	CommitteeID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	ResignD
 35701	38647	Chaidez	Margaret.	1029 86th Street		Downers Grove	IL	60516     	Treasurer	2022-09-13 10:10:01.057000000	False
 35727	38648	Maxham	Maria	926 Marengo Ave		Forest Park	IL	60130     	Treasurer	2022-09-22 11:40:22.087000000	False
 35622	38651	Mandell	Gary	4243 N Claremont Ave		Chicago	IL	60618-2905	Chair	2022-08-18 15:01:46.410000000	False
+43304	38655	Weaver	Amanda	2132 Morse Ave		Chicago	IL	60645     	Chair	2026-10-23 16:39:02.997000000	False
 37120	38664	Kelleher	Keith	4931 N. Keystone, 2N		Chicago	IL	60630     	Chair	2023-04-13 12:56:02.050000000	False
 37452	38664	Pollard	Emily	4504 N Keokuk Ave.		Chicago	IL	60630     	Treasurer	2023-12-07 10:44:49.497000000	False
 35860	38670	Stevens	John Thomas	7132 N Greenview Ave.		Chicago	IL	60626     	Treasurer	2022-12-01 08:09:24.380000000	False
@@ -24263,6 +24265,8 @@ ID	CommitteeID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	ResignD
 43231	39917	Temkin	Matt	8235 Karlov Ave		Skokie	IL	60076     	Treasurer	2026-09-10 08:27:51.133000000	False
 40022	39918	Taylor	Morgan	903 N Linden Street. Apt 213		Normal	IL	61761     	Treasurer	2024-10-16 09:43:12.390000000	False
 42761	39925	McMorris	Cara	1303 Galway Court		Normal	IL	61761     	Treasurer	2026-02-23 15:11:03.113000000	False
+43300	39936	Wilson	Rod	4746 S. Evans Ave.		Chicago	IL	60615     	Chair	2026-10-23 11:07:25.160000000	False
+43301	39936	Hernandez	Arturo	4525 W. Parker Ave.		Chicago	IL	60639     	Treasurer	2026-10-23 11:07:27.460000000	False
 42167	39948	Paoni	Michael	3816 Calla Lily Ln		Springfield	IL	62711     	Treasurer	2025-01-15 14:16:29.583000000	False
 40009	39956	Davis	Parielle	2660 Bryant Ave		Evanston	IL	60201     	Treasurer	2024-10-07 10:49:25.447000000	False
 42690	39992	Fenton	Kathy	13837 Maple Ave		Orland Park	IL	60462     	Chair	2026-01-08 12:28:49.743000000	False
@@ -24412,3 +24416,4 @@ ID	CommitteeID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	ResignD
 43195	41281	McCue	Andrew	27 S. Prairie Ave.		Mundelein	IL	60060     	Treasurer	2026-08-28 08:06:09.167000000	False
 43157	41312	Amberh	Rich	711 Blair Ct.		Peoria	IL	61614     	Treasurer	2026-07-29 14:58:57.337000000	False
 43206	41333	Dudenhoefer	David	38 S. Main St., #103		Oconomowoc	WI	53066     	Chair	2026-08-28 15:43:25.100000000	False
+43302	41465	Demarcko	Darlen	4247 W. Division		Chicago	IL	60651     	Chair	2026-10-23 15:43:50.277000000	False

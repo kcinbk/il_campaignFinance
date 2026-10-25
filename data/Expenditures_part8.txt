@@ -349669,9 +349669,9 @@
 4944691	37043	1021731	0	OMEGA POINT SOLUTIONS		2026-07-21 00:00:00	500	500	207 EAST MAIN ST    STE B		SALEM	IL	62881     	8B	Web DESIGN			False	False	False		False
 4944692	37043	1021731	0	HOGAN	MISSY	2026-08-18 00:00:00	528.02	528.02	5501 SWAN ROAD		IUKA	IL	62849     	8B	Reimburse for decorations for Reagan Day dinner			False	False	False		False
 4944693	37043	1021731	0	MARION COUNTY EMERGENCY MANGEMENT		2026-08-27 00:00:00	500	500	1999 SOUTH MARION		SALEM	IL	62881     	8B	Donation			False	False	False		False
-4944694	40172	1021737	0	Sarro	Terri	2026-08-31 00:00:00	508.63	508.63	2500 S 6th Ave		North Riverside	IL	60546     	8B	Supplies			False	False	False		False
-4944695	40172	1021737	0	Porfirio for the People		2026-08-27 00:00:00	1000	1000	522 S 10th Ave		La Grange	IL	60525     	8B	Donation			False	False	False		False
-4944696	40172	1021737	0	Minuteman Press		2026-09-08 00:00:00	437.58	437.58	7937 Ogden Ave		Lyons	IL	60534     	8B	Brochures			False	False	False		False
+4944694	40172	1021737	0	Sarro	Terri	2026-08-31 00:00:00	508.63	508.63	2500 S 6th Ave		North Riverside	IL	60546     	8B	Supplies			False	False	True		False
+4944695	40172	1021737	0	Porfirio for the People		2026-08-27 00:00:00	1000	1000	522 S 10th Ave		La Grange	IL	60525     	8B	Donation			False	False	True		False
+4944696	40172	1021737	0	Minuteman Press		2026-09-08 00:00:00	437.58	437.58	7937 Ogden Ave		Lyons	IL	60534     	8B	Brochures			False	False	True		False
 4944697	34794	1021740	0	Amazon		2026-08-30 00:00:00	292.84	292.84	P.O. Box 81226		Seattle	WA	98108     	8B	Supplies			False	False	False		False
 4944698	34794	1021740	0	Wix.com		2026-07-31 00:00:00	624	708	P.O. Box 40190		San Francisco	CA	94120     	8B	Website			False	False	False		False
 4944699	34794	1021740	0	Wix.com		2026-09-01 00:00:00	84	708	P.O. Box 40190		San Francisco	CA	94120     	8B	Website			False	False	False		False
@@ -350498,16 +350498,16 @@
 4945520	23199	1022041	0	Jesus Ayala Jr for Chicago Students		2026-09-21 00:00:00	2500	2500	2107 W 19th St	#2F	Chicago	IL	60608     	6B	Contribution			False	False	False		False
 4945521	23199	1022041	0	Therese Boyle for District 9 CPS BOE		2026-09-21 00:00:00	2500	2500	10356 S Sawyer Avenue		Chicago	IL	60655     	6B	Contribution			False	False	False		False
 4945522	23199	1022041	0	Friends of Patrick C Watson		2026-09-21 00:00:00	2500	2500	11244 S St Lawrence Ave		Chicago	IL	60628     	6B	Contribution			False	False	False		False
-4945523	39859	1022052	0	Amazon Corporate Headquarters		2026-07-09 00:00:00	215.95	268.52	410 Terry Ave N		Seattle	WA	98109     	8B	Door Knob Bags needed to hang political literature on door knobs			False	False	False		False
-4945524	39859	1022052	0	Amazon Corporate Headquarters		2026-07-17 00:00:00	14.78	268.52	410 Terry Ave N		Seattle	WA	98109     	8B	Gold Name Tag Stickers for Wayne Township Meetings			False	False	False		False
-4945525	39859	1022052	0	Amazon Corporate Headquarters		2026-07-17 00:00:00	37.79	268.52	410 Terry Ave N		Seattle	WA	98109     	8B	1st Place Trophy for Coyote Crossing Fundraisng event--Fundraiser			False	False	False		False
-4945526	39859	1022052	0	Sommers & Fahrenback Printing		2026-07-08 00:00:00	1890	2886	707 Osterman Ave #516		Deerfield	IL	60015     	8B	Mission Brochures--Literature promoting the Wayne Township Democratic Party			False	False	False		False
-4945527	39859	1022052	0	Sommers & Fahrenback Printing		2026-08-26 00:00:00	996	2886	707 Osterman Ave #516		Deerfield	IL	60015     	8B	Payment for Campaign Literature for Canvassing and other political events			False	False	False		False
-4945528	39859	1022052	0	United States Postal Service		2026-07-08 00:00:00	121	511	160 Bartlett Plaza		Bartlett	IL	60103     	8B	Payment for PO Box 8174 to receive mail			False	False	False		False
-4945529	39859	1022052	0	United States Postal Service		2026-09-11 00:00:00	390	511	160 Bartlett Plaza		Bartlett	IL	60103     	8B	Stamps to mail out Political Literature			False	False	False		False
-4945530	39859	1022052	0	Sir Nick's Pizza In Bartlett, IL		2026-08-28 00:00:00	351.44	607.54	105 E Lake Street		Bartlett	IL	60103-1935	8B	Pizza needed for Golf Outing 2026 Fundraiser			False	False	False		False
-4945531	39859	1022052	0	Sir Nick's Pizza In Bartlett, IL		2026-09-15 00:00:00	256.1	607.54	105 E Lake Street		Bartlett	IL	60103-1935	8B	Pizza needed for meeting on September 14th 2026			False	False	False		False
-4945532	39859	1022052	0	Actblue Illinois		2026-08-17 00:00:00	250	250	PO Box 962017		Boston	MA	02196     	8B	Payment made in Error using Debit Card. We got reimbursed on 08.28.2026			False	False	False		False
+4945523	39859	1022052	0	Amazon Corporate Headquarters		2026-07-09 00:00:00	215.95	268.52	410 Terry Ave N		Seattle	WA	98109     	8B	Door Knob Bags needed to hang political literature on door knobs			False	False	True		False
+4945524	39859	1022052	0	Amazon Corporate Headquarters		2026-07-17 00:00:00	14.78	268.52	410 Terry Ave N		Seattle	WA	98109     	8B	Gold Name Tag Stickers for Wayne Township Meetings			False	False	True		False
+4945525	39859	1022052	0	Amazon Corporate Headquarters		2026-07-17 00:00:00	37.79	268.52	410 Terry Ave N		Seattle	WA	98109     	8B	1st Place Trophy for Coyote Crossing Fundraisng event--Fundraiser			False	False	True		False
+4945526	39859	1022052	0	Sommers & Fahrenback Printing		2026-07-08 00:00:00	1890	2886	707 Osterman Ave #516		Deerfield	IL	60015     	8B	Mission Brochures--Literature promoting the Wayne Township Democratic Party			False	False	True		False
+4945527	39859	1022052	0	Sommers & Fahrenback Printing		2026-08-26 00:00:00	996	2886	707 Osterman Ave #516		Deerfield	IL	60015     	8B	Payment for Campaign Literature for Canvassing and other political events			False	False	True		False
+4945528	39859	1022052	0	United States Postal Service		2026-07-08 00:00:00	121	511	160 Bartlett Plaza		Bartlett	IL	60103     	8B	Payment for PO Box 8174 to receive mail			False	False	True		False
+4945529	39859	1022052	0	United States Postal Service		2026-09-11 00:00:00	390	511	160 Bartlett Plaza		Bartlett	IL	60103     	8B	Stamps to mail out Political Literature			False	False	True		False
+4945530	39859	1022052	0	Sir Nick's Pizza In Bartlett, IL		2026-08-28 00:00:00	351.44	607.54	105 E Lake Street		Bartlett	IL	60103-1935	8B	Pizza needed for Golf Outing 2026 Fundraiser			False	False	True		False
+4945531	39859	1022052	0	Sir Nick's Pizza In Bartlett, IL		2026-09-15 00:00:00	256.1	607.54	105 E Lake Street		Bartlett	IL	60103-1935	8B	Pizza needed for meeting on September 14th 2026			False	False	True		False
+4945532	39859	1022052	0	Actblue Illinois		2026-08-17 00:00:00	250	250	PO Box 962017		Boston	MA	02196     	8B	Payment made in Error using Debit Card. We got reimbursed on 08.28.2026			False	False	True		False
 4945533	620	1022054	0	Illinois Democratic County Chairmen's Association		2026-07-31 00:00:00	1000	1150	10904 IL Rt. 125		Beardstown	IL	62618     	8B	Sponsorship			False	False	False		False
 4945534	620	1022054	0	Illinois Democratic County Chairmen's Association		2026-07-31 00:00:00	150	1150	10904 IL Rt. 125		Beardstown	IL	62618     	8B	Ad book			False	False	False		False
 4945535	620	1022054	0	Kemp	Nolan	2026-07-09 00:00:00	750	750	P.O. Box 2		Dixon	IL	61021     	8B	Donation			False	False	False		False
@@ -351111,29 +351111,29 @@
 4946133	9808	1022304	0	Citizens for Conyers-Ervin		2026-09-21 00:00:00	250	250	3323 W Jackson Blvd		Chicago	IL	60624     	6B	Contribution			False	False	False		False
 4946134	39870	1022306	0	CG Ink		2026-09-28 00:00:00	159.6	159.6	4334 Madison St		Skokie	IL	60076     	8B	Design & Print			False	False	False		False
 4946135	39870	1022306	0	Wix.com		2026-07-20 00:00:00	559.25	559.25	500 Terry A Francis Blvd		San Francisco	CA	94158     	8B	Website			False	False	False		False
-4946136	40575	1022307	0	Will County Democrat Party		2026-08-20 00:00:00	200	200	PO Box 4242		Joliet	IL	60434     	8B	Donation			False	False	False		False
-4946137	40575	1022307	0	Carlos CMedia		2026-08-31 00:00:00	1035.1	2935.1	2112 N Knox Ave		Chicago	IL	60641     	8B	Media - production Podcast			False	False	False		False
-4946138	40575	1022307	0	Carlos CMedia		2026-09-24 00:00:00	1000	2935.1	2112 N Knox Ave		Chicago	IL	60641     	8B	Podcast			False	False	False		False
-4946139	40575	1022307	0	Carlos CMedia		2026-09-28 00:00:00	900	2935.1	2112 N Knox Ave		Chicago	IL	60641     	8B	Podcast			False	False	False		False
-4946140	40575	1022307	0	Amazon		2026-07-25 00:00:00	83.28	273.62	410 Terry Ave N		Seattle	WA	98109     	8B	Computer - printer paper and toner			False	False	False		False
-4946141	40575	1022307	0	Amazon		2026-08-01 00:00:00	148.54	273.62	410 Terry Ave N		Seattle	WA	98109     	8B	T-Shirts			False	False	False		False
-4946142	40575	1022307	0	Amazon		2026-08-01 00:00:00	41.8	273.62	410 Terry Ave N		Seattle	WA	98109     	8B	Shirts and door hangers			False	False	False		False
-4946143	40575	1022307	0	Committee to Elect Jennifer Bertino-Tarrant		2026-09-21 00:00:00	300	300	903 Valencia Dr		Shorewood	IL	60404     	8B	Golf outing			False	False	False		False
-4946144	40575	1022307	0	Sam’s Club Joliet		2026-08-28 00:00:00	212.56	298.04	321 S Larkin		Joliet	IL	60436     	8B	Parade candy			False	False	False		False
-4946145	40575	1022307	0	Sam’s Club Joliet		2026-09-13 00:00:00	85.48	298.04	321 S Larkin		Joliet	IL	60436     	8B	Parade candy			False	False	False		False
-4946146	40575	1022307	0	Distinct Visual Solutions		2026-08-03 00:00:00	1137.5	6137.5	28 W Crowley Ave		Joliet	IL	60432     	8B	Brochures			False	False	False		False
-4946147	40575	1022307	0	Distinct Visual Solutions		2026-08-10 00:00:00	5000	6137.5	28 W Crowley Ave		Joliet	IL	60432     	8B	Signs and lit.			False	False	False		False
-4946148	40575	1022307	0	In his hands resource center		2026-07-29 00:00:00	1300	1300	1200 Ring Rd		Calumet City	IL	60409     	8B	Donation book bags			False	False	False		False
-4946149	40575	1022307	0	Eiden	James	2026-07-22 00:00:00	1517.85	1517.85	11471 Amhearst Ct		Frankfort	IL	60423     	8B	Reimbursement for raffle prizes			False	False	False		False
-4946150	40575	1022307	0	Bad News Baseball Academy		2026-08-14 00:00:00	500	500	1043 Oswego Rd		Naperville	IL	60540     	8B	Donation			False	False	False		False
-4946151	40575	1022307	0	Bolingbrook Police Benevolent Society		2026-08-17 00:00:00	250	250	375 W Briarcliff Rd		Bolingbrook	IL	60440     	8B	Donation			False	False	False		False
-4946152	40575	1022307	0	American Legion Post 1977		2026-09-01 00:00:00	200	200	14414 Ford Dr		New Lenox	IL	60451     	8B	Donation			False	False	False		False
-4946153	40575	1022307	0	Joliet City Center Partnership		2026-09-08 00:00:00	259.33	259.33	203 N Ottawa		Joliet	IL	60432     	8B	Parade			False	False	False		False
-4946154	40575	1022307	0	United States Postal Service		2026-09-14 00:00:00	820	820	2000 McDonough		Joliet	IL	60436     	8B	Postage			False	False	False		False
-4946155	40575	1022307	0	Menards		2026-09-16 00:00:00	482.46	925.36	13441 S State Route 59		Plainfield	IL	60544     	8B	Posts for signs			False	False	False		False
-4946156	40575	1022307	0	Menards		2026-09-22 00:00:00	442.9	925.36	13441 S State Route 59		Plainfield	IL	60544     	8B	Sign material			False	False	False		False
-4946157	40575	1022307	0	K Benson Studio		2026-09-22 00:00:00	600	600	1007 183rd St		Homewood	IL	60430     	8B	Podcast			False	False	False		False
-4946158	40575	1022307	0	Frankfort Fall Festival Parade		2026-07-28 00:00:00	319.14	319.14	123 Kansas St		Frankfort	IL	60423     	8B	Parade			False	False	False		False
+4946136	40575	1022307	0	Will County Democrat Party		2026-08-20 00:00:00	200	200	PO Box 4242		Joliet	IL	60434     	8B	Donation			False	False	True		False
+4946137	40575	1022307	0	Carlos CMedia		2026-08-31 00:00:00	1035.1	2935.1	2112 N Knox Ave		Chicago	IL	60641     	8B	Media - production Podcast			False	False	True		False
+4946138	40575	1022307	0	Carlos CMedia		2026-09-24 00:00:00	1000	2935.1	2112 N Knox Ave		Chicago	IL	60641     	8B	Podcast			False	False	True		False
+4946139	40575	1022307	0	Carlos CMedia		2026-09-28 00:00:00	900	2935.1	2112 N Knox Ave		Chicago	IL	60641     	8B	Podcast			False	False	True		False
+4946140	40575	1022307	0	Amazon		2026-07-25 00:00:00	83.28	273.62	410 Terry Ave N		Seattle	WA	98109     	8B	Computer - printer paper and toner			False	False	True		False
+4946141	40575	1022307	0	Amazon		2026-08-01 00:00:00	148.54	273.62	410 Terry Ave N		Seattle	WA	98109     	8B	T-Shirts			False	False	True		False
+4946142	40575	1022307	0	Amazon		2026-08-01 00:00:00	41.8	273.62	410 Terry Ave N		Seattle	WA	98109     	8B	Shirts and door hangers			False	False	True		False
+4946143	40575	1022307	0	Committee to Elect Jennifer Bertino-Tarrant		2026-09-21 00:00:00	300	300	903 Valencia Dr		Shorewood	IL	60404     	8B	Golf outing			False	False	True		False
+4946144	40575	1022307	0	Sam’s Club Joliet		2026-08-28 00:00:00	212.56	298.04	321 S Larkin		Joliet	IL	60436     	8B	Parade candy			False	False	True		False
+4946145	40575	1022307	0	Sam’s Club Joliet		2026-09-13 00:00:00	85.48	298.04	321 S Larkin		Joliet	IL	60436     	8B	Parade candy			False	False	True		False
+4946146	40575	1022307	0	Distinct Visual Solutions		2026-08-03 00:00:00	1137.5	6137.5	28 W Crowley Ave		Joliet	IL	60432     	8B	Brochures			False	False	True		False
+4946147	40575	1022307	0	Distinct Visual Solutions		2026-08-10 00:00:00	5000	6137.5	28 W Crowley Ave		Joliet	IL	60432     	8B	Signs and lit.			False	False	True		False
+4946148	40575	1022307	0	In his hands resource center		2026-07-29 00:00:00	1300	1300	1200 Ring Rd		Calumet City	IL	60409     	8B	Donation book bags			False	False	True		False
+4946149	40575	1022307	0	Eiden	James	2026-07-22 00:00:00	1517.85	1517.85	11471 Amhearst Ct		Frankfort	IL	60423     	8B	Reimbursement for raffle prizes			False	False	True		False
+4946150	40575	1022307	0	Bad News Baseball Academy		2026-08-14 00:00:00	500	500	1043 Oswego Rd		Naperville	IL	60540     	8B	Donation			False	False	True		False
+4946151	40575	1022307	0	Bolingbrook Police Benevolent Society		2026-08-17 00:00:00	250	250	375 W Briarcliff Rd		Bolingbrook	IL	60440     	8B	Donation			False	False	True		False
+4946152	40575	1022307	0	American Legion Post 1977		2026-09-01 00:00:00	200	200	14414 Ford Dr		New Lenox	IL	60451     	8B	Donation			False	False	True		False
+4946153	40575	1022307	0	Joliet City Center Partnership		2026-09-08 00:00:00	259.33	259.33	203 N Ottawa		Joliet	IL	60432     	8B	Parade			False	False	True		False
+4946154	40575	1022307	0	United States Postal Service		2026-09-14 00:00:00	820	820	2000 McDonough		Joliet	IL	60436     	8B	Postage			False	False	True		False
+4946155	40575	1022307	0	Menards		2026-09-16 00:00:00	482.46	925.36	13441 S State Route 59		Plainfield	IL	60544     	8B	Posts for signs			False	False	True		False
+4946156	40575	1022307	0	Menards		2026-09-22 00:00:00	442.9	925.36	13441 S State Route 59		Plainfield	IL	60544     	8B	Sign material			False	False	True		False
+4946157	40575	1022307	0	K Benson Studio		2026-09-22 00:00:00	600	600	1007 183rd St		Homewood	IL	60430     	8B	Podcast			False	False	True		False
+4946158	40575	1022307	0	Frankfort Fall Festival Parade		2026-07-28 00:00:00	319.14	319.14	123 Kansas St		Frankfort	IL	60423     	8B	Parade			False	False	True		False
 4946159	40722	1022308	0	BAM Design		2026-08-20 00:00:00	200	200	1011 Show Creek Lane		Normal	IL	61761     	8B	Website			False	False	False		False
 4946160	40722	1022308	0	McLean County Democratic Central Committee		2026-09-26 00:00:00	3500	3500	PO Box 3411		Bloomington	IL	61702     	6B	Contribution			False	False	False		False
 4946161	40722	1022308	0	Friends of Farley		2026-09-26 00:00:00	1500	1500	1016 Sawgrass Drive		Normal	IL	61761     	6B	Contribution			False	False	False		False
@@ -360588,24 +360588,24 @@
 4955610	24392	1024807	0	Jackson Township Sportsman Club		2026-09-11 00:00:00	500	500	401 E. Mississippi Ave.		Elwood	IL	60421     	8B	Sponsorship			False	False	False		False
 4955611	24392	1024807	0	Friends of Katelyn		2026-09-21 00:00:00	400	400	PO Box 129		Essex	IL	60935     	6B	Contribution			False	False	False		False
 4955612	24392	1024807	0	Friends to Elect Jennifer Bertina Tarrant		2026-09-21 00:00:00	3000	3000	903 Valencia Drive		Shorewood	IL	60404     	6B	Contribution			False	False	False		False
-4955613	40924	1024809	0	People for Erica Bray-Parker		2026-08-31 00:00:00	700	2170.01	PO Box 1032		Wheaton	IL	60187     	6B	Reimbursement			False	False	False		False
-4955614	40924	1024809	0	People for Erica Bray-Parker		2026-09-21 00:00:00	770.01	2170.01	PO Box 1032		Wheaton	IL	60187     	6B	Reimbursement			False	False	False		False
-4955615	40924	1024809	0	People for Erica Bray-Parker		2026-09-21 00:00:00	700	2170.01	PO Box 1032		Wheaton	IL	60187     	6B	Reimbursement			False	False	False		False
-4955616	40924	1024809	0	Advanced Offset Press		2026-07-02 00:00:00	364	364	710 E Ogden		Naperville	IL	60563     	8B	T-Shirts			False	False	False		False
-4955617	40924	1024809	0	Tampico Press		2026-07-30 00:00:00	1290	1290	1919 S. Blue Island Ave.		Chicago	IL	60608     	8B	Palm cards			False	False	False		False
-4955618	40924	1024809	0	Act Blue		2026-09-02 00:00:00	19.76	156.89	PO Box 441146		Somerville	MA	02144     	8B	Fee			False	False	False		False
-4955619	40924	1024809	0	Act Blue		2026-09-10 00:00:00	19.75	156.89	PO Box 441146		Somerville	MA	02144     	8B	Fee			False	False	False		False
-4955620	40924	1024809	0	Act Blue		2026-09-16 00:00:00	3.37	156.89	PO Box 441146		Somerville	MA	02144     	8B	Fees			False	False	False		False
-4955621	40924	1024809	0	Act Blue		2026-09-23 00:00:00	44.06	156.89	PO Box 441146		Somerville	MA	02144     	8B	Fees			False	False	False		False
-4955622	40924	1024809	0	Act Blue		2026-09-30 00:00:00	19.75	156.89	PO Box 441146		Somerville	MA	02144     	8B	Fees			False	False	False		False
-4955623	40924	1024809	0	Act Blue		2026-08-16 00:00:00	3.96	156.89	PO Box 441146		Somerville	MA	02144     	8B	Fees			False	False	False		False
-4955624	40924	1024809	0	Act Blue		2026-08-09 00:00:00	21.14	156.89	PO Box 441146		Somerville	MA	02144     	8B	Fees			False	False	False		False
-4955625	40924	1024809	0	Act Blue		2026-07-29 00:00:00	19.75	156.89	PO Box 441146		Somerville	MA	02144     	8B	Fees			False	False	False		False
-4955626	40924	1024809	0	Act Blue		2026-07-22 00:00:00	1.98	156.89	PO Box 441146		Somerville	MA	02144     	8B	Fees			False	False	False		False
-4955627	40924	1024809	0	Act Blue		2026-07-15 00:00:00	3.37	156.89	PO Box 441146		Somerville	MA	02144     	8B	Fees			False	False	False		False
-4955628	40924	1024809	0	Brottman	Eli	2026-08-24 00:00:00	5000	9000	3950 Lake Shore Dr		Chicago	IL	60613     	8B	Campaign Work			False	False	False		False
-4955629	40924	1024809	0	Brottman	Eli	2026-07-22 00:00:00	4000	9000	3950 Lake Shore Dr		Chicago	IL	60613     	8B	Campaign Work			False	False	False		False
-4955630	40924	1024809	0	US Post Office		2026-09-23 00:00:00	168.35	168.35	528 Pennsylvania Ave		Glen Ellyn	IL	60137     	8B	Postage			False	False	False		False
+4955613	40924	1024809	0	People for Erica Bray-Parker		2026-08-31 00:00:00	700	2170.01	PO Box 1032		Wheaton	IL	60187     	6B	Reimbursement			False	False	True		False
+4955614	40924	1024809	0	People for Erica Bray-Parker		2026-09-21 00:00:00	770.01	2170.01	PO Box 1032		Wheaton	IL	60187     	6B	Reimbursement			False	False	True		False
+4955615	40924	1024809	0	People for Erica Bray-Parker		2026-09-21 00:00:00	700	2170.01	PO Box 1032		Wheaton	IL	60187     	6B	Reimbursement			False	False	True		False
+4955616	40924	1024809	0	Advanced Offset Press		2026-07-02 00:00:00	364	364	710 E Ogden		Naperville	IL	60563     	8B	T-Shirts			False	False	True		False
+4955617	40924	1024809	0	Tampico Press		2026-07-30 00:00:00	1290	1290	1919 S. Blue Island Ave.		Chicago	IL	60608     	8B	Palm cards			False	False	True		False
+4955618	40924	1024809	0	Act Blue		2026-09-02 00:00:00	19.76	156.89	PO Box 441146		Somerville	MA	02144     	8B	Fee			False	False	True		False
+4955619	40924	1024809	0	Act Blue		2026-09-10 00:00:00	19.75	156.89	PO Box 441146		Somerville	MA	02144     	8B	Fee			False	False	True		False
+4955620	40924	1024809	0	Act Blue		2026-09-16 00:00:00	3.37	156.89	PO Box 441146		Somerville	MA	02144     	8B	Fees			False	False	True		False
+4955621	40924	1024809	0	Act Blue		2026-09-23 00:00:00	44.06	156.89	PO Box 441146		Somerville	MA	02144     	8B	Fees			False	False	True		False
+4955622	40924	1024809	0	Act Blue		2026-09-30 00:00:00	19.75	156.89	PO Box 441146		Somerville	MA	02144     	8B	Fees			False	False	True		False
+4955623	40924	1024809	0	Act Blue		2026-08-16 00:00:00	3.96	156.89	PO Box 441146		Somerville	MA	02144     	8B	Fees			False	False	True		False
+4955624	40924	1024809	0	Act Blue		2026-08-09 00:00:00	21.14	156.89	PO Box 441146		Somerville	MA	02144     	8B	Fees			False	False	True		False
+4955625	40924	1024809	0	Act Blue		2026-07-29 00:00:00	19.75	156.89	PO Box 441146		Somerville	MA	02144     	8B	Fees			False	False	True		False
+4955626	40924	1024809	0	Act Blue		2026-07-22 00:00:00	1.98	156.89	PO Box 441146		Somerville	MA	02144     	8B	Fees			False	False	True		False
+4955627	40924	1024809	0	Act Blue		2026-07-15 00:00:00	3.37	156.89	PO Box 441146		Somerville	MA	02144     	8B	Fees			False	False	True		False
+4955628	40924	1024809	0	Brottman	Eli	2026-08-24 00:00:00	5000	9000	3950 Lake Shore Dr		Chicago	IL	60613     	8B	Campaign Work			False	False	True		False
+4955629	40924	1024809	0	Brottman	Eli	2026-07-22 00:00:00	4000	9000	3950 Lake Shore Dr		Chicago	IL	60613     	8B	Campaign Work			False	False	True		False
+4955630	40924	1024809	0	US Post Office		2026-09-23 00:00:00	168.35	168.35	528 Pennsylvania Ave		Glen Ellyn	IL	60137     	8B	Postage			False	False	True		False
 4955631	37056	1024812	0	Vista Print		2026-08-09 00:00:00	228.74	470.09	275 Wyman St.		Waltham	IL	02451     	8B	Printing			False	False	False		False
 4955632	37056	1024812	0	Vista Print		2026-09-30 00:00:00	241.35	470.09	275 Wyman St.		Waltham	IL	02451     	8B	Palm cards			False	False	False		False
 4955633	34019	1024813	0	47th Ward Democratic Org		2026-07-23 00:00:00	250	250	2234 W. Irving Park		Chicago	IL	60618     	8B	Sponsorship			False	False	False		False
@@ -371568,16 +371568,16 @@
 4966590	33922	1026147	0	Liselena Restaurant		2026-09-20 00:00:00	5000	5000	440 E Roosevelt Rd		West Chicago	IL	60185     	8B	Fundraiser venue, food & drinks			False	False	False		False
 4966591	33922	1026147	0	Blood Cancer United (Friends of Katelyn)		2026-08-25 00:00:00	200	200	PO Box 22324		New York	NY	10087     	8B	Donation			False	False	False		False
 4966592	33922	1026147	0	LaSanska	Kylie	2026-07-06 00:00:00	10000	10000	1252 Walsh Dr		Yorkville	IL	60560     	8B	Campaign staff salaries			False	False	False		False
-4966593	32198	1026157	0	Illinois County Treasurers Association		2026-07-28 00:00:00	355	355	908 Buchanan St.		Carthage	IL	62321     	8B	Conferece registration			False	False	False		False
-4966594	32198	1026157	0	Committee to Elect Lucy Evans		2026-09-28 00:00:00	200	200	1221 River Oak Dr		Naperville	IL	60565     	6B	Contribution			False	False	False		False
-4966595	32198	1026157	0	Associated Graphics		2026-07-01 00:00:00	276.04	276.04	525 N Lake St, Mundelein		Mundelein	IL	60060     	8B	T-Shirts			False	False	False		False
-4966596	32198	1026157	0	ActBlue Illinois		2026-09-24 00:00:00	211.48	211.48	PO Box 441146		Somerville	MA	02144     	8B	Bank charges			False	False	False		False
-4966597	32198	1026157	0	Perfect Promotions		2026-07-30 00:00:00	838.15	838.15	37574 Sarah Drive		Wadsworth	IL	60083     	8B	Promotional items			False	False	False		False
-4966598	32198	1026157	0	Seidman	Kenny	2026-09-29 00:00:00	300	300	303 Cherry valley rd		Vernon Hills	IL	60061     	8B	Fund raising - entertainment			False	False	False		False
-4966599	32198	1026157	0	Sacks	Robert	2026-07-21 00:00:00	500	500	641 Sunset Drive		Naperville	IL	60540     	8B	Bookkeeping Services			False	False	False		False
-4966600	32198	1026157	0	Susana for Chicago		2026-07-01 00:00:00	2000	2000	Susana A. Mendoza 6351 W Montrose A		Chicago	IL	60634     	6B	Contribution			False	False	False		False
-4966601	32198	1026157	0	Mail Chimp		2026-09-10 00:00:00	260	260	405 N. Angier Ave.		Atlanta	IL	30308     	8B	newsletter			False	False	False		False
-4966602	32198	1026157	0	Paul Frank for Lake County		2026-09-15 00:00:00	200	200	2916 Parkside Drive		Highland Park	IL	60035     	6B	Contribution			False	False	False		False
+4966593	32198	1026157	0	Illinois County Treasurers Association		2026-07-28 00:00:00	355	355	908 Buchanan St.		Carthage	IL	62321     	8B	Conferece registration			False	False	True		False
+4966594	32198	1026157	0	Committee to Elect Lucy Evans		2026-09-28 00:00:00	200	200	1221 River Oak Dr		Naperville	IL	60565     	6B	Contribution			False	False	True		False
+4966595	32198	1026157	0	Associated Graphics		2026-07-01 00:00:00	276.04	276.04	525 N Lake St, Mundelein		Mundelein	IL	60060     	8B	T-Shirts			False	False	True		False
+4966596	32198	1026157	0	ActBlue Illinois		2026-09-24 00:00:00	211.48	211.48	PO Box 441146		Somerville	MA	02144     	8B	Bank charges			False	False	True		False
+4966597	32198	1026157	0	Perfect Promotions		2026-07-30 00:00:00	838.15	838.15	37574 Sarah Drive		Wadsworth	IL	60083     	8B	Promotional items			False	False	True		False
+4966598	32198	1026157	0	Seidman	Kenny	2026-09-29 00:00:00	300	300	303 Cherry valley rd		Vernon Hills	IL	60061     	8B	Fund raising - entertainment			False	False	True		False
+4966599	32198	1026157	0	Sacks	Robert	2026-07-21 00:00:00	500	500	641 Sunset Drive		Naperville	IL	60540     	8B	Bookkeeping Services			False	False	True		False
+4966600	32198	1026157	0	Susana for Chicago		2026-07-01 00:00:00	2000	2000	Susana A. Mendoza 6351 W Montrose A		Chicago	IL	60634     	6B	Contribution			False	False	True		False
+4966601	32198	1026157	0	Mail Chimp		2026-09-10 00:00:00	260	260	405 N. Angier Ave.		Atlanta	IL	30308     	8B	newsletter			False	False	True		False
+4966602	32198	1026157	0	Paul Frank for Lake County		2026-09-15 00:00:00	200	200	2916 Parkside Drive		Highland Park	IL	60035     	6B	Contribution			False	False	True		False
 4966603	432	1026160	0	Friends of Marcus Herbert		2026-09-04 00:00:00	3000	3000	918 22nd ave		East Moline	IL	61244     	6B	Contribution			False	False	False		False
 4966604	432	1026160	0	Willems for Iowa		2026-08-31 00:00:00	5000	10000	PO Box 151		Mount Vernon	IA	52314     	6B	Contribution			False	False	False		False
 4966605	432	1026160	0	Willems for Iowa		2026-09-03 00:00:00	5000	10000	PO Box 151		Mount Vernon	IA	52314     	6B	Contribution			False	False	False		False
@@ -383091,61 +383091,61 @@
 4978112	19797	1026829	0	Ignotz Ristorante		2026-09-15 00:00:00	544.72	544.72	2421 S Oakley Ave		Chicago	IL	60608     	8B	Event - food			False	False	False		False
 4978113	19797	1026829	0	Public Landing		2026-09-28 00:00:00	170.82	170.82	200 W 8th St		Lockport	IL	60441     	8B	Food			False	False	False		False
 4978114	19797	1026829	0	United Steelworkers Local 7		2026-07-21 00:00:00	200	200	W 91st Street		Bridgeview	IL	60455     	8B	Donation			False	False	False		False
-4978115	39936	1026832	0	Todd	Levi	2026-07-01 00:00:00	20000	21250	2246 North Springfield Avenue	#2R	Chicago	IL	60647     	8B	Analysis			False	False	False		False
-4978116	39936	1026832	0	Todd	Levi	2026-09-16 00:00:00	1250	21250	2246 North Springfield Avenue	#2R	Chicago	IL	60647     	8B	Professional services			False	False	False		False
-4978117	39936	1026832	0	Watson Global LLC		2026-07-09 00:00:00	5333.71	21333.71	10729 S. Champlain Ave		Chicago	IL	60628     	8B	Professional services			False	False	False		False
-4978118	39936	1026832	0	Watson Global LLC		2026-08-06 00:00:00	8000	21333.71	10729 S. Champlain Ave		Chicago	IL	60628     	8B	Professional services			False	False	False		False
-4978119	39936	1026832	0	Watson Global LLC		2026-09-03 00:00:00	8000	21333.71	10729 S. Champlain Ave		Chicago	IL	60628     	8B	Professional services			False	False	False		False
-4978120	39936	1026832	0	Garcia	Krystal	2026-07-09 00:00:00	4667	19667	6031 S Menard Ave		Chicago	IL	60643     	8B	Field Work			False	False	False		False
-4978121	39936	1026832	0	Garcia	Krystal	2026-08-06 00:00:00	7500	19667	6031 S Menard Ave		Chicago	IL	60643     	8B	Field Work			False	False	False		False
-4978122	39936	1026832	0	Garcia	Krystal	2026-09-03 00:00:00	7500	19667	6031 S Menard Ave		Chicago	IL	60643     	8B	Field Work			False	False	False		False
-4978123	39936	1026832	0	Wolfe	Shante	2026-08-06 00:00:00	6250	30000	1931 15th Avenue South	Apt D3 - The Drakes	Birmingham	AL	35205     	8B	Field Work			False	False	False		False
-4978124	39936	1026832	0	Wolfe	Shante	2026-08-06 00:00:00	6250	30000	1931 15th Avenue South	Apt D3 - The Drakes	Birmingham	AL	35205     	8B	Professional services			False	False	False		False
-4978125	39936	1026832	0	Wolfe	Shante	2026-09-03 00:00:00	6250	30000	1931 15th Avenue South	Apt D3 - The Drakes	Birmingham	AL	35205     	8B	Professional services			False	False	False		False
-4978126	39936	1026832	0	Wolfe	Shante	2026-09-03 00:00:00	6250	30000	1931 15th Avenue South	Apt D3 - The Drakes	Birmingham	AL	35205     	8B	Field Work			False	False	False		False
-4978127	39936	1026832	0	Wolfe	Shante	2026-07-30 00:00:00	5000	30000	1931 15th Avenue South	Apt D3 - The Drakes	Birmingham	AL	35205     	8B	Professional services			False	False	False		False
-4978128	39936	1026832	0	Baker	Uriah	2026-09-03 00:00:00	7000	9333.33	6935 South Michigan Avenue		Chicago	IL	60637     	8B	Field Work			False	False	False		False
-4978129	39936	1026832	0	Baker	Uriah	2026-08-06 00:00:00	2333.33	9333.33	6935 South Michigan Avenue		Chicago	IL	60637     	8B	Field Work			False	False	False		False
-4978130	39936	1026832	0	Webb	Jazz	2026-08-07 00:00:00	2820	12320	9520 South Lowe Avenue		Chicago	IL	60628     	8B	Professional Services			False	False	False		False
-4978131	39936	1026832	0	Webb	Jazz	2026-09-03 00:00:00	9500	12320	9520 South Lowe Avenue		Chicago	IL	60628     	8B	Professional services			False	False	False		False
-4978132	39936	1026832	0	Escobedo	Sofia	2026-08-07 00:00:00	3596.77	12096.77	2720 N Campbell Ave	Unit 1	Chicago	IL	60647     	8B	Field Work			False	False	False		False
-4978133	39936	1026832	0	Escobedo	Sofia	2026-09-03 00:00:00	8500	12096.77	2720 N Campbell Ave	Unit 1	Chicago	IL	60647     	8B	Field Work			False	False	False		False
-4978134	39936	1026832	0	Henderson	Ethan	2026-09-03 00:00:00	2166.67	2166.67	2750 West Augusta Boulevard		Chicago	IL	60622     	8B	Professional services			False	False	False		False
-4978135	39936	1026832	0	Woodson-Shelby	Tanisha	2026-09-03 00:00:00	1008.34	2016.67	2401 West Lexington Street		Chicago	IL	60612     	8B	Professional services			False	False	False		False
-4978136	39936	1026832	0	Woodson-Shelby	Tanisha	2026-09-03 00:00:00	504.17	2016.67	2401 West Lexington Street		Chicago	IL	60612     	8B	Field Work			False	False	False		False
-4978137	39936	1026832	0	Woodson-Shelby	Tanisha	2026-09-03 00:00:00	504.16	2016.67	2401 West Lexington Street		Chicago	IL	60612     	8B	Field Work			False	False	False		False
-4978138	39936	1026832	0	Truesdell	Jenean	2026-09-03 00:00:00	1750	3500	6225 South Claremont Avenue		Chicago	IL	60636     	8B	Proressional services			False	False	False		False
-4978139	39936	1026832	0	Truesdell	Jenean	2026-09-03 00:00:00	1750	3500	6225 South Claremont Avenue		Chicago	IL	60636     	8B	Field Work			False	False	False		False
-4978140	39936	1026832	0	Bernadell	Paule	2026-09-03 00:00:00	1925	3850	3427 West Adams Street		Chicago	IL	60624     	8B	Professional services			False	False	False		False
-4978141	39936	1026832	0	Bernadell	Paule	2026-09-03 00:00:00	1925	3850	3427 West Adams Street		Chicago	IL	60624     	8B	Field Work			False	False	False		False
-4978142	39936	1026832	0	Walko	Kristin	2026-09-03 00:00:00	641	1283.33	2848 West Diversey Avenue		Chicago	IL	60647     	8B	Field Work			False	False	False		False
-4978143	39936	1026832	0	Walko	Kristin	2026-09-03 00:00:00	642.33	1283.33	2848 West Diversey Avenue		Chicago	IL	60647     	8B	Professional services			False	False	False		False
-4978144	39936	1026832	0	Valerio	Ilissa	2026-09-03 00:00:00	1925	3850	9849 South Saint Louis Avenue		Evergreen Park	IL	60805     	8B	Professional services			False	False	False		False
-4978145	39936	1026832	0	Valerio	Ilissa	2026-09-03 00:00:00	1925	3850	9849 South Saint Louis Avenue		Evergreen Park	IL	60805     	8B	Field Work			False	False	False		False
-4978146	39936	1026832	0	Brynne Hovde LLC		2026-09-03 00:00:00	8600	8600	1024 Highland Avenue		Oak Park	IL	60304     	8B	Professional services			False	False	False		False
-4978147	39936	1026832	0	Sekendur	Audrey	2026-09-03 00:00:00	1925	3850	908 North Mozart Street		Chicago	IL	60622     	8B	Professional services			False	False	False		False
-4978148	39936	1026832	0	Sekendur	Audrey	2026-09-03 00:00:00	1925	3850	908 North Mozart Street		Chicago	IL	60622     	8B	Field Work			False	False	False		False
-4978149	39936	1026832	0	Acevedo	Cecilia	2026-09-16 00:00:00	1925	3850	2528 N Washtenaw ave		Chicago	IL	60647     	8B	Professional services			False	False	False		False
-4978150	39936	1026832	0	Acevedo	Cecilia	2026-09-16 00:00:00	1925	3850	2528 N Washtenaw ave		Chicago	IL	60647     	8B	Field Work			False	False	False		False
-4978151	39936	1026832	0	Four Lions Media		2026-09-28 00:00:00	5535	632608.4	601 13th St NW FI 12		Washington	DC	20005     	8B	Mailers			False	False	False		False
-4978152	39936	1026832	0	Four Lions Media		2026-09-28 00:00:00	22104.45	632608.4	601 13th St NW FI 12		Washington	DC	20005     	8B	Mailing			False	False	False		False
-4978153	39936	1026832	0	Four Lions Media		2026-09-28 00:00:00	23515.86	632608.4	601 13th St NW FI 12		Washington	DC	20005     	8B	Mailing			False	False	False		False
-4978154	39936	1026832	0	Four Lions Media		2026-09-28 00:00:00	17881.91	632608.4	601 13th St NW FI 12		Washington	DC	20005     	8B	Mailing			False	False	False		False
-4978155	39936	1026832	0	Four Lions Media		2026-09-28 00:00:00	17698.09	632608.4	601 13th St NW FI 12		Washington	DC	20005     	8B	Mailing			False	False	False		False
-4978156	39936	1026832	0	Four Lions Media		2026-09-28 00:00:00	19604.6	632608.4	601 13th St NW FI 12		Washington	DC	20005     	8B	Mailing			False	False	False		False
-4978157	39936	1026832	0	Four Lions Media		2026-09-28 00:00:00	28509.45	632608.4	601 13th St NW FI 12		Washington	DC	20005     	8B	Mailing			False	False	False		False
-4978158	39936	1026832	0	Four Lions Media		2026-09-28 00:00:00	21289.3	632608.4	601 13th St NW FI 12		Washington	DC	20005     	8B	Mailing			False	False	False		False
-4978159	39936	1026832	0	Four Lions Media		2026-09-28 00:00:00	18807.3	632608.4	601 13th St NW FI 12		Washington	DC	20005     	8B	Mailing			False	False	False		False
-4978160	39936	1026832	0	Four Lions Media		2026-09-28 00:00:00	32123.7	632608.4	601 13th St NW FI 12		Washington	DC	20005     	8B	Mailing			False	False	False		False
-4978161	39936	1026832	0	Four Lions Media		2026-09-28 00:00:00	19566.35	632608.4	601 13th St NW FI 12		Washington	DC	20005     	8B	Mailing			False	False	False		False
-4978162	39936	1026832	0	Four Lions Media		2026-09-28 00:00:00	22544.75	632608.4	601 13th St NW FI 12		Washington	DC	20005     	8B	Mailing			False	False	False		False
-4978163	39936	1026832	0	Four Lions Media		2026-09-28 00:00:00	26487.05	632608.4	601 13th St NW FI 12		Washington	DC	20005     	8B	Mailing			False	False	False		False
-4978164	39936	1026832	0	Four Lions Media		2026-09-28 00:00:00	15136.44	632608.4	601 13th St NW FI 12		Washington	DC	20005     	8B	Mailing			False	False	False		False
-4978165	39936	1026832	0	Four Lions Media		2026-09-28 00:00:00	13743.23	632608.4	601 13th St NW FI 12		Washington	DC	20005     	8B	Mailing			False	False	False		False
-4978166	39936	1026832	0	Four Lions Media		2026-09-28 00:00:00	23439.14	632608.4	601 13th St NW FI 12		Washington	DC	20005     	8B	Mailing			False	False	False		False
-4978167	39936	1026832	0	Four Lions Media		2026-09-28 00:00:00	304621.78	632608.4	601 13th St NW FI 12		Washington	DC	20005     	8B	Mailing			False	False	False		False
-4978168	39936	1026832	0	Clear Channel Outdoor Holdings, Inc		2026-09-29 00:00:00	16509.65	16509.65	830 North Loop 1604 West	Suite 111	SAn Antonio	TX	78249     	8B	Printing			False	False	False		False
-4978169	39936	1026832	0	Mori Strategies		2026-09-14 00:00:00	35000	35000	217 20th St NE Unit 4		Washington	DC	20002     	8B	Professional Services			False	False	False		False
+4978115	39936	1026832	0	Todd	Levi	2026-07-01 00:00:00	20000	21250	2246 North Springfield Avenue	#2R	Chicago	IL	60647     	8B	Analysis			False	False	True		False
+4978116	39936	1026832	0	Todd	Levi	2026-09-16 00:00:00	1250	21250	2246 North Springfield Avenue	#2R	Chicago	IL	60647     	8B	Professional services			False	False	True		False
+4978117	39936	1026832	0	Watson Global LLC		2026-07-09 00:00:00	5333.71	21333.71	10729 S. Champlain Ave		Chicago	IL	60628     	8B	Professional services			False	False	True		False
+4978118	39936	1026832	0	Watson Global LLC		2026-08-06 00:00:00	8000	21333.71	10729 S. Champlain Ave		Chicago	IL	60628     	8B	Professional services			False	False	True		False
+4978119	39936	1026832	0	Watson Global LLC		2026-09-03 00:00:00	8000	21333.71	10729 S. Champlain Ave		Chicago	IL	60628     	8B	Professional services			False	False	True		False
+4978120	39936	1026832	0	Garcia	Krystal	2026-07-09 00:00:00	4667	19667	6031 S Menard Ave		Chicago	IL	60643     	8B	Field Work			False	False	True		False
+4978121	39936	1026832	0	Garcia	Krystal	2026-08-06 00:00:00	7500	19667	6031 S Menard Ave		Chicago	IL	60643     	8B	Field Work			False	False	True		False
+4978122	39936	1026832	0	Garcia	Krystal	2026-09-03 00:00:00	7500	19667	6031 S Menard Ave		Chicago	IL	60643     	8B	Field Work			False	False	True		False
+4978123	39936	1026832	0	Wolfe	Shante	2026-08-06 00:00:00	6250	30000	1931 15th Avenue South	Apt D3 - The Drakes	Birmingham	AL	35205     	8B	Field Work			False	False	True		False
+4978124	39936	1026832	0	Wolfe	Shante	2026-08-06 00:00:00	6250	30000	1931 15th Avenue South	Apt D3 - The Drakes	Birmingham	AL	35205     	8B	Professional services			False	False	True		False
+4978125	39936	1026832	0	Wolfe	Shante	2026-09-03 00:00:00	6250	30000	1931 15th Avenue South	Apt D3 - The Drakes	Birmingham	AL	35205     	8B	Professional services			False	False	True		False
+4978126	39936	1026832	0	Wolfe	Shante	2026-09-03 00:00:00	6250	30000	1931 15th Avenue South	Apt D3 - The Drakes	Birmingham	AL	35205     	8B	Field Work			False	False	True		False
+4978127	39936	1026832	0	Wolfe	Shante	2026-07-30 00:00:00	5000	30000	1931 15th Avenue South	Apt D3 - The Drakes	Birmingham	AL	35205     	8B	Professional services			False	False	True		False
+4978128	39936	1026832	0	Baker	Uriah	2026-09-03 00:00:00	7000	9333.33	6935 South Michigan Avenue		Chicago	IL	60637     	8B	Field Work			False	False	True		False
+4978129	39936	1026832	0	Baker	Uriah	2026-08-06 00:00:00	2333.33	9333.33	6935 South Michigan Avenue		Chicago	IL	60637     	8B	Field Work			False	False	True		False
+4978130	39936	1026832	0	Webb	Jazz	2026-08-07 00:00:00	2820	12320	9520 South Lowe Avenue		Chicago	IL	60628     	8B	Professional Services			False	False	True		False
+4978131	39936	1026832	0	Webb	Jazz	2026-09-03 00:00:00	9500	12320	9520 South Lowe Avenue		Chicago	IL	60628     	8B	Professional services			False	False	True		False
+4978132	39936	1026832	0	Escobedo	Sofia	2026-08-07 00:00:00	3596.77	12096.77	2720 N Campbell Ave	Unit 1	Chicago	IL	60647     	8B	Field Work			False	False	True		False
+4978133	39936	1026832	0	Escobedo	Sofia	2026-09-03 00:00:00	8500	12096.77	2720 N Campbell Ave	Unit 1	Chicago	IL	60647     	8B	Field Work			False	False	True		False
+4978134	39936	1026832	0	Henderson	Ethan	2026-09-03 00:00:00	2166.67	2166.67	2750 West Augusta Boulevard		Chicago	IL	60622     	8B	Professional services			False	False	True		False
+4978135	39936	1026832	0	Woodson-Shelby	Tanisha	2026-09-03 00:00:00	1008.34	2016.67	2401 West Lexington Street		Chicago	IL	60612     	8B	Professional services			False	False	True		False
+4978136	39936	1026832	0	Woodson-Shelby	Tanisha	2026-09-03 00:00:00	504.17	2016.67	2401 West Lexington Street		Chicago	IL	60612     	8B	Field Work			False	False	True		False
+4978137	39936	1026832	0	Woodson-Shelby	Tanisha	2026-09-03 00:00:00	504.16	2016.67	2401 West Lexington Street		Chicago	IL	60612     	8B	Field Work			False	False	True		False
+4978138	39936	1026832	0	Truesdell	Jenean	2026-09-03 00:00:00	1750	3500	6225 South Claremont Avenue		Chicago	IL	60636     	8B	Proressional services			False	False	True		False
+4978139	39936	1026832	0	Truesdell	Jenean	2026-09-03 00:00:00	1750	3500	6225 South Claremont Avenue		Chicago	IL	60636     	8B	Field Work			False	False	True		False
+4978140	39936	1026832	0	Bernadell	Paule	2026-09-03 00:00:00	1925	3850	3427 West Adams Street		Chicago	IL	60624     	8B	Professional services			False	False	True		False
+4978141	39936	1026832	0	Bernadell	Paule	2026-09-03 00:00:00	1925	3850	3427 West Adams Street		Chicago	IL	60624     	8B	Field Work			False	False	True		False
+4978142	39936	1026832	0	Walko	Kristin	2026-09-03 00:00:00	641	1283.33	2848 West Diversey Avenue		Chicago	IL	60647     	8B	Field Work			False	False	True		False
+4978143	39936	1026832	0	Walko	Kristin	2026-09-03 00:00:00	642.33	1283.33	2848 West Diversey Avenue		Chicago	IL	60647     	8B	Professional services			False	False	True		False
+4978144	39936	1026832	0	Valerio	Ilissa	2026-09-03 00:00:00	1925	3850	9849 South Saint Louis Avenue		Evergreen Park	IL	60805     	8B	Professional services			False	False	True		False
+4978145	39936	1026832	0	Valerio	Ilissa	2026-09-03 00:00:00	1925	3850	9849 South Saint Louis Avenue		Evergreen Park	IL	60805     	8B	Field Work			False	False	True		False
+4978146	39936	1026832	0	Brynne Hovde LLC		2026-09-03 00:00:00	8600	8600	1024 Highland Avenue		Oak Park	IL	60304     	8B	Professional services			False	False	True		False
+4978147	39936	1026832	0	Sekendur	Audrey	2026-09-03 00:00:00	1925	3850	908 North Mozart Street		Chicago	IL	60622     	8B	Professional services			False	False	True		False
+4978148	39936	1026832	0	Sekendur	Audrey	2026-09-03 00:00:00	1925	3850	908 North Mozart Street		Chicago	IL	60622     	8B	Field Work			False	False	True		False
+4978149	39936	1026832	0	Acevedo	Cecilia	2026-09-16 00:00:00	1925	3850	2528 N Washtenaw ave		Chicago	IL	60647     	8B	Professional services			False	False	True		False
+4978150	39936	1026832	0	Acevedo	Cecilia	2026-09-16 00:00:00	1925	3850	2528 N Washtenaw ave		Chicago	IL	60647     	8B	Field Work			False	False	True		False
+4978151	39936	1026832	0	Four Lions Media		2026-09-28 00:00:00	5535	632608.4	601 13th St NW FI 12		Washington	DC	20005     	8B	Mailers			False	False	True		False
+4978152	39936	1026832	0	Four Lions Media		2026-09-28 00:00:00	22104.45	632608.4	601 13th St NW FI 12		Washington	DC	20005     	8B	Mailing			False	False	True		False
+4978153	39936	1026832	0	Four Lions Media		2026-09-28 00:00:00	23515.86	632608.4	601 13th St NW FI 12		Washington	DC	20005     	8B	Mailing			False	False	True		False
+4978154	39936	1026832	0	Four Lions Media		2026-09-28 00:00:00	17881.91	632608.4	601 13th St NW FI 12		Washington	DC	20005     	8B	Mailing			False	False	True		False
+4978155	39936	1026832	0	Four Lions Media		2026-09-28 00:00:00	17698.09	632608.4	601 13th St NW FI 12		Washington	DC	20005     	8B	Mailing			False	False	True		False
+4978156	39936	1026832	0	Four Lions Media		2026-09-28 00:00:00	19604.6	632608.4	601 13th St NW FI 12		Washington	DC	20005     	8B	Mailing			False	False	True		False
+4978157	39936	1026832	0	Four Lions Media		2026-09-28 00:00:00	28509.45	632608.4	601 13th St NW FI 12		Washington	DC	20005     	8B	Mailing			False	False	True		False
+4978158	39936	1026832	0	Four Lions Media		2026-09-28 00:00:00	21289.3	632608.4	601 13th St NW FI 12		Washington	DC	20005     	8B	Mailing			False	False	True		False
+4978159	39936	1026832	0	Four Lions Media		2026-09-28 00:00:00	18807.3	632608.4	601 13th St NW FI 12		Washington	DC	20005     	8B	Mailing			False	False	True		False
+4978160	39936	1026832	0	Four Lions Media		2026-09-28 00:00:00	32123.7	632608.4	601 13th St NW FI 12		Washington	DC	20005     	8B	Mailing			False	False	True		False
+4978161	39936	1026832	0	Four Lions Media		2026-09-28 00:00:00	19566.35	632608.4	601 13th St NW FI 12		Washington	DC	20005     	8B	Mailing			False	False	True		False
+4978162	39936	1026832	0	Four Lions Media		2026-09-28 00:00:00	22544.75	632608.4	601 13th St NW FI 12		Washington	DC	20005     	8B	Mailing			False	False	True		False
+4978163	39936	1026832	0	Four Lions Media		2026-09-28 00:00:00	26487.05	632608.4	601 13th St NW FI 12		Washington	DC	20005     	8B	Mailing			False	False	True		False
+4978164	39936	1026832	0	Four Lions Media		2026-09-28 00:00:00	15136.44	632608.4	601 13th St NW FI 12		Washington	DC	20005     	8B	Mailing			False	False	True		False
+4978165	39936	1026832	0	Four Lions Media		2026-09-28 00:00:00	13743.23	632608.4	601 13th St NW FI 12		Washington	DC	20005     	8B	Mailing			False	False	True		False
+4978166	39936	1026832	0	Four Lions Media		2026-09-28 00:00:00	23439.14	632608.4	601 13th St NW FI 12		Washington	DC	20005     	8B	Mailing			False	False	True		False
+4978167	39936	1026832	0	Four Lions Media		2026-09-28 00:00:00	304621.78	632608.4	601 13th St NW FI 12		Washington	DC	20005     	8B	Mailing			False	False	True		False
+4978168	39936	1026832	0	Clear Channel Outdoor Holdings, Inc		2026-09-29 00:00:00	16509.65	16509.65	830 North Loop 1604 West	Suite 111	SAn Antonio	TX	78249     	8B	Printing			False	False	True		False
+4978169	39936	1026832	0	Mori Strategies		2026-09-14 00:00:00	35000	35000	217 20th St NE Unit 4		Washington	DC	20002     	8B	Professional Services			False	False	True		False
 4978170	23871	1026836	0	Verizon		2026-07-01 00:00:00	279.73	839.19	106 Barnett Ave		Forsyth	IL	62535     	8B	Phone			False	False	False		False
 4978171	23871	1026836	0	Verizon		2026-08-01 00:00:00	279.73	839.19	106 Barnett Ave		Forsyth	IL	62535     	8B	Phone			False	False	False		False
 4978172	23871	1026836	0	Verizon		2026-09-01 00:00:00	279.73	839.19	106 Barnett Ave		Forsyth	IL	62535     	8B	Phone			False	False	False		False
@@ -397720,3 +397720,172 @@
 4992751	35428	1028439	0	GoDaddy		2025-09-16 00:00:00	299.52	299.52	14455 North Hayden Rd	Suite 100	Scottsdale	AZ	85260     	8B	Website			False	False	False		False
 4992752	35428	1028439	0	Special Olympics IL		2025-09-16 00:00:00	300	300	605 E Willow St		Normal	IL	61761     	8B	Sponsorship			False	False	False		False
 4992753	35428	1028439	0	Act Blue		2025-09-04 00:00:00	59.27	576.74	P.O. Box 441146		Somerville	MA	02144     	8B	Technical support			False	False	False		False
+4992754	39936	1028477	0	Clear Channel Outdoor Holdings, Inc		2026-09-29 00:00:00	16509.65	16509.65	830 North Loop 1604 West	Suite 111	SAn Antonio	TX	78249     	8B	Printing			False	False	False		False
+4992755	39936	1028477	0	Four Lions Media		2026-09-28 00:00:00	5535	632608.4	601 13th St NW FI 12		Washington	DC	20005     	8B	Mailers			False	False	False		False
+4992756	39936	1028477	0	Four Lions Media		2026-09-28 00:00:00	22104.45	632608.4	601 13th St NW FI 12		Washington	DC	20005     	8B	Mailing			False	False	False		False
+4992757	39936	1028477	0	Four Lions Media		2026-09-28 00:00:00	23515.86	632608.4	601 13th St NW FI 12		Washington	DC	20005     	8B	Mailing			False	False	False		False
+4992758	39936	1028477	0	Four Lions Media		2026-09-28 00:00:00	17881.91	632608.4	601 13th St NW FI 12		Washington	DC	20005     	8B	Mailing			False	False	False		False
+4992759	39936	1028477	0	Four Lions Media		2026-09-28 00:00:00	17698.09	632608.4	601 13th St NW FI 12		Washington	DC	20005     	8B	Mailing			False	False	False		False
+4992760	39936	1028477	0	Four Lions Media		2026-09-28 00:00:00	19604.6	632608.4	601 13th St NW FI 12		Washington	DC	20005     	8B	Mailing			False	False	False		False
+4992761	39936	1028477	0	Four Lions Media		2026-09-28 00:00:00	28509.45	632608.4	601 13th St NW FI 12		Washington	DC	20005     	8B	Mailing			False	False	False		False
+4992762	39936	1028477	0	Four Lions Media		2026-09-28 00:00:00	21289.3	632608.4	601 13th St NW FI 12		Washington	DC	20005     	8B	Mailing			False	False	False		False
+4992763	39936	1028477	0	Four Lions Media		2026-09-28 00:00:00	18807.3	632608.4	601 13th St NW FI 12		Washington	DC	20005     	8B	Mailing			False	False	False		False
+4992764	39936	1028477	0	Four Lions Media		2026-09-28 00:00:00	32123.7	632608.4	601 13th St NW FI 12		Washington	DC	20005     	8B	Mailing			False	False	False		False
+4992765	39936	1028477	0	Four Lions Media		2026-09-28 00:00:00	19566.35	632608.4	601 13th St NW FI 12		Washington	DC	20005     	8B	Mailing			False	False	False		False
+4992766	39936	1028477	0	Four Lions Media		2026-09-28 00:00:00	22544.75	632608.4	601 13th St NW FI 12		Washington	DC	20005     	8B	Mailing			False	False	False		False
+4992767	39936	1028477	0	Four Lions Media		2026-09-28 00:00:00	26487.05	632608.4	601 13th St NW FI 12		Washington	DC	20005     	8B	Mailing			False	False	False		False
+4992768	39936	1028477	0	Four Lions Media		2026-09-28 00:00:00	15136.44	632608.4	601 13th St NW FI 12		Washington	DC	20005     	8B	Mailing			False	False	False		False
+4992769	39936	1028477	0	Four Lions Media		2026-09-28 00:00:00	13743.23	632608.4	601 13th St NW FI 12		Washington	DC	20005     	8B	Mailing			False	False	False		False
+4992770	39936	1028477	0	Four Lions Media		2026-09-28 00:00:00	23439.14	632608.4	601 13th St NW FI 12		Washington	DC	20005     	8B	Mailing			False	False	False		False
+4992771	39936	1028477	0	Four Lions Media		2026-09-28 00:00:00	304621.78	632608.4	601 13th St NW FI 12		Washington	DC	20005     	8B	Mailing			False	False	False		False
+4992772	39936	1028477	0	Todd	Levi	2026-09-16 00:00:00	1250	21250	2246 North Springfield Avenue	#2R	Chicago	IL	60647     	8B	Professional services			False	False	False		False
+4992773	39936	1028477	0	Acevedo	Cecilia	2026-09-16 00:00:00	1925	3850	2528 N Washtenaw ave		Chicago	IL	60647     	8B	Professional services			False	False	False		False
+4992774	39936	1028477	0	Acevedo	Cecilia	2026-09-16 00:00:00	1925	3850	2528 N Washtenaw ave		Chicago	IL	60647     	8B	Field Work			False	False	False		False
+4992775	39936	1028477	0	Mori Strategies		2026-09-14 00:00:00	35000	35000	217 20th St NE Unit 4		Washington	DC	20002     	8B	Professional Services			False	False	False		False
+4992776	39936	1028477	0	Wolfe	Shante	2026-09-03 00:00:00	6250	30000	1931 15th Avenue South	Apt D3 - The Drakes	Birmingham	AL	35205     	8B	Professional services			False	False	False		False
+4992777	39936	1028477	0	Wolfe	Shante	2026-09-03 00:00:00	6250	30000	1931 15th Avenue South	Apt D3 - The Drakes	Birmingham	AL	35205     	8B	Field Work			False	False	False		False
+4992778	39936	1028477	0	Henderson	Ethan	2026-09-03 00:00:00	2166.67	2166.67	2750 West Augusta Boulevard		Chicago	IL	60622     	8B	Professional services			False	False	False		False
+4992779	39936	1028477	0	Woodson-Shelby	Tanisha	2026-09-03 00:00:00	1008.34	2016.67	2401 West Lexington Street		Chicago	IL	60612     	8B	Professional services			False	False	False		False
+4992780	39936	1028477	0	Woodson-Shelby	Tanisha	2026-09-03 00:00:00	504.17	2016.67	2401 West Lexington Street		Chicago	IL	60612     	8B	Field Work			False	False	False		False
+4992781	39936	1028477	0	Woodson-Shelby	Tanisha	2026-09-03 00:00:00	504.16	2016.67	2401 West Lexington Street		Chicago	IL	60612     	8B	Field Work			False	False	False		False
+4992782	39936	1028477	0	Truesdell	Jenean	2026-09-03 00:00:00	1750	3500	6225 South Claremont Avenue		Chicago	IL	60636     	8B	Proressional services			False	False	False		False
+4992783	39936	1028477	0	Truesdell	Jenean	2026-09-03 00:00:00	1750	3500	6225 South Claremont Avenue		Chicago	IL	60636     	8B	Field Work			False	False	False		False
+4992784	39936	1028477	0	Webb	Jazz	2026-09-03 00:00:00	9500	12320	9520 South Lowe Avenue		Chicago	IL	60628     	8B	Professional services			False	False	False		False
+4992785	39936	1028477	0	Bernadell	Paule	2026-09-03 00:00:00	1925	3850	3427 West Adams Street		Chicago	IL	60624     	8B	Professional services			False	False	False		False
+4992786	39936	1028477	0	Valerio	Ilissa	2026-09-03 00:00:00	1925	3850	9849 South Saint Louis Avenue		Evergreen Park	IL	60805     	8B	Professional services			False	False	False		False
+4992787	39936	1028477	0	Valerio	Ilissa	2026-09-03 00:00:00	1925	3850	9849 South Saint Louis Avenue		Evergreen Park	IL	60805     	8B	Field Work			False	False	False		False
+4992788	39936	1028477	0	Brynne Hovde LLC		2026-09-03 00:00:00	8600	8600	1024 Highland Avenue		Oak Park	IL	60304     	8B	Professional services			False	False	False		False
+4992789	39936	1028477	0	Sekendur	Audrey	2026-09-03 00:00:00	1925	3850	908 North Mozart Street		Chicago	IL	60622     	8B	Professional services			False	False	False		False
+4992790	39936	1028477	0	Sekendur	Audrey	2026-09-03 00:00:00	1925	3850	908 North Mozart Street		Chicago	IL	60622     	8B	Field Work			False	False	False		False
+4992791	39936	1028477	0	Watson Global LLC		2026-09-03 00:00:00	8000	21333.71	10729 S. Champlain Ave		Chicago	IL	60628     	8B	Professional services			False	False	False		False
+4992792	39936	1028477	0	Baker	Uriah	2026-09-03 00:00:00	7000	9333.33	6935 South Michigan Avenue		Chicago	IL	60637     	8B	Field Work			False	False	False		False
+4992793	39936	1028477	0	Garcia	Krystal	2026-09-03 00:00:00	7500	19667	6031 S Menard Ave		Chicago	IL	60643     	8B	Field Work			False	False	False		False
+4992794	39936	1028477	0	Escobedo	Sofia	2026-09-03 00:00:00	8500	12096.77	2720 N Campbell Ave	Unit 1	Chicago	IL	60647     	8B	Field Work			False	False	False		False
+4992795	39936	1028477	0	Bernadell	Paule	2026-09-03 00:00:00	1925	3850	3427 West Adams Street		Chicago	IL	60624     	8B	Field Work			False	False	False		False
+4992796	39936	1028477	0	Walko	Kristin	2026-09-03 00:00:00	641	1283.33	2848 West Diversey Avenue		Chicago	IL	60647     	8B	Field Work			False	False	False		False
+4992797	39936	1028477	0	Walko	Kristin	2026-09-03 00:00:00	642.33	1283.33	2848 West Diversey Avenue		Chicago	IL	60647     	8B	Professional services			False	False	False		False
+4992798	39936	1028477	0	Webb	Jazz	2026-08-07 00:00:00	2820	12320	9520 South Lowe Avenue		Chicago	IL	60628     	8B	Professional Services			False	False	False		False
+4992799	39936	1028477	0	Escobedo	Sofia	2026-08-07 00:00:00	3596.77	12096.77	2720 N Campbell Ave	Unit 1	Chicago	IL	60647     	8B	Field Work			False	False	False		False
+4992800	39936	1028477	0	Wolfe	Shante	2026-08-06 00:00:00	6250	30000	1931 15th Avenue South	Apt D3 - The Drakes	Birmingham	AL	35205     	8B	Field Work			False	False	False		False
+4992801	39936	1028477	0	Wolfe	Shante	2026-08-06 00:00:00	6250	30000	1931 15th Avenue South	Apt D3 - The Drakes	Birmingham	AL	35205     	8B	Professional services			False	False	False		False
+4992802	39936	1028477	0	Watson Global LLC		2026-08-06 00:00:00	8000	21333.71	10729 S. Champlain Ave		Chicago	IL	60628     	8B	Professional services			False	False	False		False
+4992803	39936	1028477	0	Baker	Uriah	2026-08-06 00:00:00	2333.33	9333.33	6935 South Michigan Avenue		Chicago	IL	60637     	8B	Field Work			False	False	False		False
+4992804	39936	1028477	0	Garcia	Krystal	2026-08-06 00:00:00	7500	19667	6031 S Menard Ave		Chicago	IL	60643     	8B	Field Work			False	False	False		False
+4992805	39936	1028477	0	Wolfe	Shante	2026-07-30 00:00:00	5000	30000	1931 15th Avenue South	Apt D3 - The Drakes	Birmingham	AL	35205     	8B	Professional services			False	False	False		False
+4992806	39936	1028477	0	Watson Global LLC		2026-07-09 00:00:00	5333.71	21333.71	10729 S. Champlain Ave		Chicago	IL	60628     	8B	Professional services			False	False	False		False
+4992807	39936	1028477	0	Garcia	Krystal	2026-07-09 00:00:00	4667	19667	6031 S Menard Ave		Chicago	IL	60643     	8B	Field Work			False	False	False		False
+4992808	39936	1028477	0	Todd	Levi	2026-07-01 00:00:00	20000	21250	2246 North Springfield Avenue	#2R	Chicago	IL	60647     	8B	Analysis			False	False	False		False
+4992809	40575	1028490	0	Carlos CMedia		2026-09-28 00:00:00	900	2935.1	2112 N Knox Ave		Chicago	IL	60641     	8B	Podcast			False	False	False		False
+4992810	40575	1028490	0	Carlos CMedia		2026-09-24 00:00:00	1000	2935.1	2112 N Knox Ave		Chicago	IL	60641     	8B	Podcast			False	False	False		False
+4992811	40575	1028490	0	Menards		2026-09-22 00:00:00	442.9	925.36	13441 S State Route 59		Plainfield	IL	60544     	8B	Sign material			False	False	False		False
+4992812	40575	1028490	0	K Benson Studio		2026-09-22 00:00:00	600	600	1007 183rd St		Homewood	IL	60430     	8B	Podcast			False	False	False		False
+4992813	40575	1028490	0	Committee to Elect Jennifer Bertino-Tarrant		2026-09-21 00:00:00	300	300	903 Valencia Dr		Shorewood	IL	60404     	8B	Golf outing			False	False	False		False
+4992814	40575	1028490	0	Menards		2026-09-16 00:00:00	482.46	925.36	13441 S State Route 59		Plainfield	IL	60544     	8B	Posts for signs			False	False	False		False
+4992815	40575	1028490	0	United States Postal Service		2026-09-14 00:00:00	820	820	2000 McDonough		Joliet	IL	60436     	8B	Postage			False	False	False		False
+4992816	40575	1028490	0	Sam’s Club Joliet		2026-09-13 00:00:00	85.48	298.04	321 S Larkin		Joliet	IL	60436     	8B	Parade candy			False	False	False		False
+4992817	40575	1028490	0	Joliet City Center Partnership		2026-09-08 00:00:00	259.33	259.33	203 N Ottawa		Joliet	IL	60432     	8B	Parade			False	False	False		False
+4992818	40575	1028490	0	American Legion Post 1977		2026-09-01 00:00:00	200	200	14414 Ford Dr		New Lenox	IL	60451     	8B	Donation			False	False	False		False
+4992819	40575	1028490	0	Carlos CMedia		2026-08-31 00:00:00	1035.1	2935.1	2112 N Knox Ave		Chicago	IL	60641     	8B	Media - production Podcast			False	False	False		False
+4992820	40575	1028490	0	Sam’s Club Joliet		2026-08-28 00:00:00	212.56	298.04	321 S Larkin		Joliet	IL	60436     	8B	Parade candy			False	False	False		False
+4992821	40575	1028490	0	Will County Democrat Party		2026-08-20 00:00:00	200	200	PO Box 4242		Joliet	IL	60434     	8B	Donation			False	False	False		False
+4992822	40575	1028490	0	Bolingbrook Police Benevolent Society		2026-08-17 00:00:00	250	250	375 W Briarcliff Rd		Bolingbrook	IL	60440     	8B	Donation			False	False	False		False
+4992823	40575	1028490	0	Bad News Baseball Academy		2026-08-14 00:00:00	500	500	1043 Oswego Rd		Naperville	IL	60540     	8B	Donation			False	False	False		False
+4992824	40575	1028490	0	Distinct Visual Solutions		2026-08-10 00:00:00	5000	6137.5	28 W Crowley Ave		Joliet	IL	60432     	8B	Signs and lit.			False	False	False		False
+4992825	40575	1028490	0	Distinct Visual Solutions		2026-08-03 00:00:00	1137.5	6137.5	28 W Crowley Ave		Joliet	IL	60432     	8B	Brochures			False	False	False		False
+4992826	40575	1028490	0	Amazon		2026-08-01 00:00:00	148.54	1791.47	410 Terry Ave N		Seattle	WA	98109     	8B	T-Shirts			False	False	False		False
+4992827	40575	1028490	0	Amazon		2026-08-01 00:00:00	41.8	1791.47	410 Terry Ave N		Seattle	WA	98109     	8B	Shirts and door hangers			False	False	False		False
+4992828	40575	1028490	0	In his hands resource center		2026-07-29 00:00:00	1300	1300	1200 Ring Rd		Calumet City	IL	60409     	8B	Donation book bags			False	False	False		False
+4992829	40575	1028490	0	Frankfort Fall Festival Parade		2026-07-28 00:00:00	319.14	319.14	123 Kansas St		Frankfort	IL	60423     	8B	Parade			False	False	False		False
+4992830	40575	1028490	0	Amazon		2026-07-25 00:00:00	83.28	1791.47	410 Terry Ave N		Seattle	WA	98109     	8B	Computer - printer paper and toner			False	False	False		False
+4992831	40575	1028490	0	Amazon		2026-07-22 00:00:00	1517.85	1791.47	410 Terry Ave N		Seattle	WA	98109     	8B	Raffle prizes			False	False	False		False
+4992832	39859	1028492	0	Sir Nick's Pizza In Bartlett, IL		2026-09-15 00:00:00	256.1	607.54	105 E Lake Street		Bartlett	IL	60103-1935	8B	Pizza needed for meeting on September 14th 2026			False	False	False		False
+4992833	39859	1028492	0	United States Postal Service		2026-09-11 00:00:00	390	511	160 Bartlett Plaza		Bartlett	IL	60103     	8B	Stamps to mail out Political Literature			False	False	False		False
+4992834	39859	1028492	0	Sir Nick's Pizza In Bartlett, IL		2026-08-28 00:00:00	351.44	607.54	105 E Lake Street		Bartlett	IL	60103-1935	8B	Pizza needed for Golf Outing 2026 Fundraiser			False	False	False		False
+4992835	39859	1028492	0	Sommers & Fahrenback Printing		2026-08-26 00:00:00	996	2886	707 Osterman Ave #516		Deerfield	IL	60015     	8B	Payment for Campaign Literature for Canvassing and other political events			False	False	False		False
+4992836	39859	1028492	0	Actblue Illinois		2026-08-17 00:00:00	250	250	PO Box 962017		Boston	MA	02196     	8B	Payment made in Error using Debit Card. We got reimbursed on 08.28.2026			False	False	False		False
+4992837	39859	1028492	0	Amazon Corporate Headquarters		2026-07-17 00:00:00	14.78	268.52	410 Terry Ave N		Seattle	WA	98109     	8B	Gold Name Tag Stickers for Wayne Township Meetings			False	False	False		False
+4992838	39859	1028492	0	Amazon Corporate Headquarters		2026-07-17 00:00:00	37.79	268.52	410 Terry Ave N		Seattle	WA	98109     	8B	1st Place Trophy for Coyote Crossing Fundraisng event--Fundraiser			False	False	False		False
+4992839	39859	1028492	0	Amazon Corporate Headquarters		2026-07-09 00:00:00	215.95	268.52	410 Terry Ave N		Seattle	WA	98109     	8B	Door Knob Bags needed to hang political literature on door knobs			False	False	False		False
+4992840	39859	1028492	0	Sommers & Fahrenback Printing		2026-07-08 00:00:00	1890	2886	707 Osterman Ave #516		Deerfield	IL	60015     	8B	Mission Brochures--Literature promoting the Wayne Township Democratic Party			False	False	False		False
+4992841	39859	1028492	0	United States Postal Service		2026-07-08 00:00:00	121	511	160 Bartlett Plaza		Bartlett	IL	60103     	8B	Payment for PO Box 8174 to receive mail			False	False	False		False
+4992842	40172	1028500	0	Minuteman Press		2026-09-08 00:00:00	437.58	437.58	7937 Ogden Ave		Lyons	IL	60534     	8B	Brochures			False	False	False		False
+4992843	40172	1028500	0	Costco		2026-08-31 00:00:00	508.63	508.63	2500 S Harlem Ave		North Riverside	IL	60546     	8B	Supplies			False	False	False		False
+4992844	40172	1028500	0	Porfirio for the People		2026-08-27 00:00:00	1000	1000	522 S 10th Ave		La Grange	IL	60525     	8B	Donation			False	False	False		False
+4992845	41066	1028527	0	Data Unlimited		2026-04-14 00:00:00	9750	9750				IL	          	8B	Printing			False	False	False		False
+4992846	40924	1028529	0	Act Blue		2026-09-30 00:00:00	19.75	156.89	PO Box 441146		Somerville	MA	02144     	8B	Fees			False	False	False		False
+4992847	40924	1028529	0	Brottman	Eli	2026-09-25 00:00:00	5000	14000	3950 Lake Shore Dr		Chicago	IL	60613     	8B	Campaign Work			False	False	False		False
+4992848	40924	1028529	0	US Post Office		2026-09-23 00:00:00	168.35	168.35	528 Pennsylvania Ave		Glen Ellyn	IL	60137     	8B	Postage			False	False	False		False
+4992849	40924	1028529	0	Act Blue		2026-09-23 00:00:00	44.06	156.89	PO Box 441146		Somerville	MA	02144     	8B	Fees			False	False	False		False
+4992850	40924	1028529	0	Emerald Loop Bar and Grill		2026-09-21 00:00:00	770.01	770.01	216 N. Wabash		Chicago	IL	60601     	6B	Event expense: fund raiser food and drink			False	False	False		False
+4992851	40924	1028529	0	Caton Commercial		2026-09-21 00:00:00	700	1400	416 E. Roosevelt		Wheaton	IL	60187     	8B	Camapaign Office - shared space with Erica Bray-PArker			False	False	False		False
+4992852	40924	1028529	0	Act Blue		2026-09-16 00:00:00	3.37	156.89	PO Box 441146		Somerville	MA	02144     	8B	Fees			False	False	False		False
+4992853	40924	1028529	0	Act Blue		2026-09-10 00:00:00	19.75	156.89	PO Box 441146		Somerville	MA	02144     	8B	Fee			False	False	False		False
+4992854	40924	1028529	0	Act Blue		2026-09-02 00:00:00	19.76	156.89	PO Box 441146		Somerville	MA	02144     	8B	Fee			False	False	False		False
+4992855	40924	1028529	0	Caton Commercial		2026-08-31 00:00:00	700	1400	416 E. Roosevelt		Wheaton	IL	60187     	8B	Campaign office rent - shared space with Erica Bray-Parker			False	False	False		False
+4992856	40924	1028529	0	Brottman	Eli	2026-08-24 00:00:00	5000	14000	3950 Lake Shore Dr		Chicago	IL	60613     	8B	Campaign Work			False	False	False		False
+4992857	40924	1028529	0	Act Blue		2026-08-16 00:00:00	3.96	156.89	PO Box 441146		Somerville	MA	02144     	8B	Fees			False	False	False		False
+4992858	40924	1028529	0	Act Blue		2026-08-09 00:00:00	21.14	156.89	PO Box 441146		Somerville	MA	02144     	8B	Fees			False	False	False		False
+4992859	40924	1028529	0	Tampico Press		2026-07-30 00:00:00	1290	1290	1919 S. Blue Island Ave.		Chicago	IL	60608     	8B	Palm cards			False	False	False		False
+4992860	40924	1028529	0	Act Blue		2026-07-29 00:00:00	19.75	156.89	PO Box 441146		Somerville	MA	02144     	8B	Fees			False	False	False		False
+4992861	40924	1028529	0	Act Blue		2026-07-22 00:00:00	1.98	156.89	PO Box 441146		Somerville	MA	02144     	8B	Fees			False	False	False		False
+4992862	40924	1028529	0	Brottman	Eli	2026-07-22 00:00:00	4000	14000	3950 Lake Shore Dr		Chicago	IL	60613     	8B	Campaign Work			False	False	False		False
+4992863	40924	1028529	0	Act Blue		2026-07-15 00:00:00	3.37	156.89	PO Box 441146		Somerville	MA	02144     	8B	Fees			False	False	False		False
+4992864	40924	1028529	0	Advanced Offset Press		2026-07-02 00:00:00	364	364	710 E Ogden		Naperville	IL	60563     	8B	T-Shirts			False	False	False		False
+4992865	39901	1028541	0	Validus		2026-10-21 00:00:00	2913.69	0	1400 Patriot Blvd		Glenview	IL	60025     	9B	MMS Text Messaging	Margie Luczak	Chicago School Board	True	False	False		False
+4992866	39901	1028541	0	Validus		2026-10-21 00:00:00	2303.08	0	1400 Patriot Blvd		Glenview	IL	60025     	9B	MMS Text Messaging	Michelle Pierre	Chicago School Board	True	False	False		False
+4992867	39901	1028541	0	Validus		2026-10-21 00:00:00	2098.4	0	1400 Patriot Blvd		Glenview	IL	60025     	9B	MMS Text Messaging	Peter Gonzales	Chicago School Board	True	False	False		False
+4992868	39901	1028541	0	Validus		2026-10-21 00:00:00	1837.9	0	1400 Patriot Blvd		Glenview	IL	60025     	9B	MMS Text Messaging	Carlos Rivas	Chicago School Board	True	False	False		False
+4992869	39901	1028541	0	Validus		2026-10-21 00:00:00	1979.18	0	1400 Patriot Blvd		Glenview	IL	60025     	9B	MMS Text Messaging	LaPamela Williams	Chicago School Board	True	False	False		False
+4992870	39901	1028541	0	Validus		2026-10-21 00:00:00	2041.41	0	1400 Patriot Blvd		Glenview	IL	60025     	9B	MMS Text Messaging	Anthony Hargrove	Chicago School Board	True	False	False		False
+4992871	39901	1028541	0	Validus		2026-10-21 00:00:00	2574.42	0	1400 Patriot Blvd		Glenview	IL	60025     	9B	MMS Text Messaging	Isaiah White	Chicago School Board	True	False	False		False
+4992872	39901	1028541	0	Validus		2026-10-21 00:00:00	2126.7	0	1400 Patriot Blvd		Glenview	IL	60025     	9B	MMS Text Messaging	Jesus Ayala, Jr.	Chicago School Board	True	False	False		False
+4992873	39901	1028541	0	Validus		2026-10-21 00:00:00	2430.98	0	1400 Patriot Blvd		Glenview	IL	60025     	9B	MMS Text Messaging	Erika Diaz-Chavez	Chicago School Board	True	False	False		False
+4992874	39901	1028541	0	Validus		2026-10-21 00:00:00	2234.28	0	1400 Patriot Blvd		Glenview	IL	60025     	9B	MMS Text Messaging	Patrick Watson	Chicago School Board	True	False	False		False
+4992875	39901	1028541	0	Validus		2026-10-21 00:00:00	3507.14	0	1400 Patriot Blvd		Glenview	IL	60025     	9B	MMS Text Messaging	Brittany Kimble	Chicago School Board	True	False	False		False
+4992876	32198	1028545	0	Seidman	Kenny	2026-09-29 00:00:00	300	300	303 Cherry valley rd		Vernon Hills	IL	60061     	8B	Fund raising - entertainment			False	False	False		False
+4992877	32198	1028545	0	Committee to Elect Lucy Evans		2026-09-28 00:00:00	200	200	1221 River Oak Dr		Naperville	IL	60565     	6B	Contribution			False	False	False		False
+4992878	32198	1028545	0	ActBlue Illinois		2026-09-24 00:00:00	211.48	211.48	PO Box 441146		Somerville	MA	02144     	8B	Bank charges			False	False	False		False
+4992879	32198	1028545	0	Paul Frank for Lake County		2026-09-15 00:00:00	200	200	2916 Parkside Drive		Highland Park	IL	60035     	6B	Contribution			False	False	False		False
+4992880	32198	1028545	0	Mail Chimp		2026-09-10 00:00:00	260	260	405 N. Angier Ave.		Atlanta	IL	30308     	8B	newsletter			False	False	False		False
+4992881	32198	1028545	0	Airbnb		2026-08-07 00:00:00	158.43	158.43	888 Brannan St		San Francisco	IL	94103     	8B	Springfield IDCCA housing airbnb			False	False	False		False
+4992882	32198	1028545	0	Perfect Promotions		2026-07-30 00:00:00	838.15	838.15	37574 Sarah Drive		Wadsworth	IL	60083     	8B	Promotional items			False	False	False		False
+4992883	32198	1028545	0	Illinois County Treasurers Association		2026-07-28 00:00:00	355	355	908 Buchanan St.		Carthage	IL	62321     	8B	Conferece registration			False	False	False		False
+4992884	32198	1028545	0	Sacks	Robert	2026-07-21 00:00:00	500	500	641 Sunset Drive		Naperville	IL	60540     	8B	Bookkeeping Services			False	False	False		False
+4992885	32198	1028545	0	Origin Korean BBQ		2026-07-18 00:00:00	261.2	261.2	3465 W 6th St		Los Angeles	IL	90020     	8B	Meals			False	False	False		False
+4992886	32198	1028545	0	Lake Zurich Lions Club		2026-07-17 00:00:00	308	308	P.O. Box 222		Lake Zurich	IL	60047     	8B	Donation			False	False	False		False
+4992887	32198	1028545	0	Susana for Chicago		2026-07-01 00:00:00	2000	2000	Susana A. Mendoza 6351 W Montrose A		Chicago	IL	60634     	6B	Contribution			False	False	False		False
+4992888	32198	1028545	0	Associated Graphics		2026-07-01 00:00:00	276.04	276.04	525 N Lake St, Mundelein		Mundelein	IL	60060     	8B	T-Shirts			False	False	False		False
+4992889	41510	1028551	0	ClariFi Digital LLC		2026-10-21 00:00:00	100000	0	600 Enterprise Dr		Oak Brook	IL	60523     	9B	Cable Buy	Nabeela Syed	Illinois State Senate	False	True	False		False
+4992890	41510	1028551	0	Strive Strategies Group		2026-10-21 00:00:00	15000	0	600 Enterprise Dr		Oak Brook	IL	60523     	9B	Video Production	Nabeela Syed	Illinois State Senate	False	True	False		False
+4992891	41510	1028551	0	Strive Strategies Group		2026-10-21 00:00:00	199750	0	600 Enterprise Dr		Oak Brook	IL	60523     	9B	Digital Advertising	Nabeela Syed	Illinois State Senate	False	True	False		False
+4992892	26066	1028556	0	THE BALDUZZI GROUP		2026-10-21 00:00:00	33880	0	154 COBBLESTONE COURT DRIVE #133		VICTOR	NY	14564     	9B	Mailing	Margie Luczak	School Board, District 1A	True	False	False		False
+4992893	26066	1028556	0	THE BALDUZZI GROUP		2026-10-21 00:00:00	28918	0	154 COBBLESTONE COURT DRIVE #133		VICTOR	NY	14564     	9B	Mailing	Michelle Pierre	School Board, District 1B	True	False	False		False
+4992894	26066	1028556	0	THE BALDUZZI GROUP		2026-10-21 00:00:00	35772	0	154 COBBLESTONE COURT DRIVE #133		VICTOR	NY	14564     	9B	Mailing	Kyna Lenhof	School Board, District 2B	True	False	False		False
+4992895	26066	1028556	0	THE BALDUZZI GROUP		2026-10-21 00:00:00	28540	0	154 COBBLESTONE COURT DRIVE #133		VICTOR	NY	14564     	9B	Mailing	Pete Gonzales	School Board, District 3A	True	False	False		False
+4992896	26066	1028556	0	THE BALDUZZI GROUP		2026-10-21 00:00:00	26580	0	154 COBBLESTONE COURT DRIVE #133		VICTOR	NY	14564     	9B	Mailing	Carlos Rivas	School Board, District 3B	True	False	False		False
+4992897	26066	1028556	0	THE BALDUZZI GROUP		2026-10-21 00:00:00	39328	0	154 COBBLESTONE COURT DRIVE #133		VICTOR	NY	14564     	9B	Mailing	Karen Zaccor	School Board, District 4A	False	True	False		False
+4992898	26066	1028556	0	THE BALDUZZI GROUP		2026-10-21 00:00:00	27649	0	154 COBBLESTONE COURT DRIVE #133		VICTOR	NY	14564     	9B	Mailing	LaPamela Williams	School Board, District 5A	True	False	False		False
+4992899	26066	1028556	0	THE BALDUZZI GROUP		2026-10-21 00:00:00	30149	0	154 COBBLESTONE COURT DRIVE #133		VICTOR	NY	14564     	9B	Mailing	Anthony Hargrove	School Board, District 5B	True	False	False		False
+4992900	26066	1028556	0	THE BALDUZZI GROUP		2026-10-21 00:00:00	34627	0	154 COBBLESTONE COURT DRIVE #133		VICTOR	NY	14564     	9B	Mailing	Isaiah White	School Board, District 6A	True	False	False		False
+4992901	26066	1028556	0	THE BALDUZZI GROUP		2026-10-21 00:00:00	21111	0	154 COBBLESTONE COURT DRIVE #133		VICTOR	NY	14564     	9B	Mailing	Jesus Ayala	School Board, District 7A	True	False	False		False
+4992902	26066	1028556	0	THE BALDUZZI GROUP		2026-10-21 00:00:00	19589	0	154 COBBLESTONE COURT DRIVE #133		VICTOR	NY	14564     	9B	Mailing	Erika Diaz	School Board, District 7B	True	False	False		False
+4992903	26066	1028556	0	THE BALDUZZI GROUP		2026-10-21 00:00:00	33313	0	154 COBBLESTONE COURT DRIVE #133		VICTOR	NY	14564     	9B	Mailing	Patrick Watson	School Board, District 10B	True	False	False		False
+4992904	26066	1028556	0	THE BALDUZZI GROUP		2026-10-21 00:00:00	2775	0	154 COBBLESTONE COURT DRIVE #133		VICTOR	NY	14564     	9B	Mailing	Carlos Rivas	School Board, District 3B	True	False	False		False
+4992905	26066	1028556	0	THE BALDUZZI GROUP		2026-10-21 00:00:00	2775	0	154 COBBLESTONE COURT DRIVE #133		VICTOR	NY	14564     	9B	Mailing	LaPamela Williams	School Board, District 5A	True	False	False		False
+4992906	26066	1028556	0	THE BALDUZZI GROUP		2026-10-21 00:00:00	2775	0	154 COBBLESTONE COURT DRIVE #133		VICTOR	NY	14564     	9B	Mailing	Anthony Hargrove	School Board, District 5B	True	False	False		False
+4992907	26066	1028556	0	THE BALDUZZI GROUP		2026-10-21 00:00:00	2775	0	154 COBBLESTONE COURT DRIVE #133		VICTOR	NY	14564     	9B	Mailing	Erika Diaz	School Board, District 7B	True	False	False		False
+4992908	26066	1028556	0	THE BALDUZZI GROUP		2026-10-21 00:00:00	2775	0	154 COBBLESTONE COURT DRIVE #133		VICTOR	NY	14564     	9B	Mailing	Patrick Watson	School Board, District 10B	True	False	False		False
+4992909	26066	1028556	0	THE BALDUZZI GROUP		2026-10-21 00:00:00	6000	0	154 COBBLESTONE COURT DRIVE #133		VICTOR	NY	14564     	9B	Digital Ad Buy	Hilario Dominguez	School Board, President	False	True	False		False
+4992910	26066	1028556	0	THE BALDUZZI GROUP		2026-10-21 00:00:00	5500	0	154 COBBLESTONE COURT DRIVE #133		VICTOR	NY	14564     	9B	Digital Ad Buy	Hilario Dominguez	School Board, President	False	True	False		False
+4992911	26066	1028556	0	THE BALDUZZI GROUP		2026-10-21 00:00:00	19144	0	154 COBBLESTONE COURT DRIVE #133		VICTOR	NY	14564     	9B	Mailing	Curtis Tarver	House of Representatives, District 25	True	False	False		False
+4992912	26066	1028556	0	THE BALDUZZI GROUP		2026-10-21 00:00:00	35000	0	154 COBBLESTONE COURT DRIVE #133		VICTOR	NY	14564     	9B	Digital Ad Buy	Curtis Tarver	House of Representatives, District 25	True	False	False		False
+4992913	26066	1028556	0	THE BALDUZZI GROUP		2026-10-21 00:00:00	35000	0	154 COBBLESTONE COURT DRIVE #133		VICTOR	NY	14564     	9B	Digital Ad Buy	Seth Lewis	State Senator, District 24	True	False	False		False
+4992914	581	1028573	0	Citizens for Castro		2026-09-18 00:00:00	1000	1000	PO Box 1506		Elgin	IL	60121     	6B	Contribution			False	False	False		False
+4992915	581	1028573	0	Cochran for Illinois		2026-09-18 00:00:00	1000	1000	PO Box 417		Park Ridge	IL	60068     	6B	Contribution			False	False	False		False
+4992916	581	1028573	0	Committee to Elect Jay Hoffman		2026-09-18 00:00:00	2000	2000	PO Box 23738		Belleville	IL	62223     	6B	Contribution			False	False	False		False
+4992917	581	1028573	0	Daniel Didech Campaign Committee		2026-09-18 00:00:00	1000	1000	PO Box 4959		Buffalo Grove	IL	60089     	6B	Contribution			False	False	False		False
+4992918	581	1028573	0	Friends of Bob Morgan		2026-09-18 00:00:00	1000	1000	PO Box 1074		Deerfield	IL	60015     	6B	Contribution			False	False	False		False
+4992919	581	1028573	0	Friends of Don Harmon for State Senate		2026-09-18 00:00:00	2500	2500	6939 W North Ave		Oak Park	IL	60302     	6B	Contribution			False	False	False		False
+4992920	581	1028573	0	Friends of Kevin Olickal		2026-09-18 00:00:00	500	500	Po Box 322		Skokie	IL	60077     	6B	Contribution			False	False	False		False
+4992921	581	1028573	0	Julie Morrison for State Senate		2026-09-18 00:00:00	1000	1000	PO Box 646		Deerfield	IL	60015     	6B	Contribution			False	False	False		False
+4992922	35354	1028578	0	Southland Strong Democratic PAC		2026-07-10 00:00:00	5000	5000	116 Dawn Lane		Chicago Heights	IL	60411     	8B	Gotv			False	False	False		False

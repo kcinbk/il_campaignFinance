@@ -20051,6 +20051,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 22701	Morgan	Neil	230 North Tr		Hawthorn Wood	IL	60047	Trustee	Village	Hawthorn Woods	Lake		False
 17768	Morgan	Phil	18 Lauterbach Dr		Bartonville	IL	61607	Member	County Board	Peoria 	Peoria	Republican	False
 53237	Morgan	Ryan	1293 Ridgewood Dr.		Highland Park	IL	60035     	Member	School	112	Lake		False
+54402	Morgan	Timothy L.	2011 E. 7th St.		Sterling	IL	61081     	Mayor	City	Sterling	Whiteside	Independent	False
 37716	Morgan	Todd	10677 Yankee Ridge Dr		Frankfort	IL	60423	President	Village	Frankfort	Will	Independent	False
 53242	Morgan	Todd	10677 Yankee Ridge		Frankfort	IL	60423     	Trustee	Village	Frankfort	Will	Non Partisan	False
 16680	Morgan	Todd S	10677 Yankee Ridge Dr		Frankfort	IL	60423	Trustee	Village	Frankfort	Will	Independent	False

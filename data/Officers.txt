@@ -11689,7 +11689,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 16292	Collier	Dale	305 E Main		Steeleville	IL	62288     	Chair	                    	False
 25396	Collier	Ed	7th & Warren		Oquawka	IL	61469     	Chair	309/867-5021        	False
 33155	Collier	Emily	8120 S Essex		Chicago	IL	60617     	Treasurer		False
-99947	Collier	Jeff	1937 Reserve Walkway		Belleville	IL	62220     	Chair	618.201.0987        	False
+99947	Collier	Jeff	1937 Reserve Walkway		Belleville	IL	62220     	Chair	618.402.7858        	False
 22467	Collier	Pamela	5523 W Kamerling		Chicago	IL	60657     	Treasurer	                    	False
 53961	Collier	Pat	PO Box 93		Olympia Fields	IL	60461     	Treasurer	773.392.8575        	False
 99948	Collier	Sharrye	1937 Reserve Walkway		Belleville	IL	62220     	Treasurer	                    	False
@@ -27961,6 +27961,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 42599	Hess	Becky	402 Halia Crest		Mt Vernon	IL	62864     	Treasurer	618.214.2158        	False
 32449	Hess	Bob	304 E Jackson		Sullivan	Il	61951     	Chair		False
 32450	Hess	Bob	304 E Jackson		Sullivan	Il	61951     	Treasurer		False
+100627	Hess	Carla	1336 W Birchwood		Chicago	IL	60626-7194	Chair	3123971374          	False
 2100	Hess	Diana	6 Oak Leaf Ct		Woodridge	IL	60517     	Chair	                    	False
 42598	Hess	George	402 Halia Crest		Mt Vernon	IL	62864     	Chair	618.214.2158        	False
 7133	Hess	Judi	717 S. Lynn		Champaign	IL	61820     	Treasurer	                    	False
@@ -32903,7 +32904,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 11106	Kaplan	James L.	415 N. Lasalle, 3rd Floor		Chicago	IL	60610     	Chair	(312)222-1776       	False
 33364	Kaplan	Jane	400 Park Ave # D		Highland Park	IL	60035     	Chair	(847) 433-8594      	False
 52964	Kaplan	Lisa J	4614 N Paulina	Apt 306	Chicago	IL	60640     	Treasurer	                    	False
-47861	Kaplan	Marc	4441 N Malden		Chicago	IL	60640     	Chair	773-407-2001        	False
+47861	Kaplan	Marc	4441 N Malden #1		Chicago	IL	60604     	Chair	773-407-2001        	False
 35701	Kaplan	Michael J	530 Pinewood Dr		Glencoe	IL	60022     	Treasurer	847/835-7407        	False
 51315	Kaplan	Peter	2200 Bennett		Evanston	IL	60201     	Chair	312.282.2894        	False
 46839	Kaplan	Rainy	1421 Wyndham Cove Ln		Schaumburg	IL	60173     	Chair	630/674-4430        	False
@@ -37422,8 +37423,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 15730	Lehman	Lloyd W	424 Park Ave #304		River Forest	IL	60305     	Treasurer	(708)488-0286       	False
 15729	Lehman	Lloyd W	424 Park Ave #304		River Forest	IL	60305     	Chair	(708)488-0286       	False
 32745	Lehman	Margaret	1209 Elmwood		Bloomington	IL	61701     	Treasurer		False
-89279	Lehman	Michael	4901 Pyndale Dr		McHenry	IL	60050     	Chair	                    	False
 89280	Lehman	Michael	4901 Pyndale Dr		McHenry	IL	60050     	Treasurer	                    	False
+89279	Lehman	Michael	4901 Pyndale Dr		McHenry	IL	60050     	Chair	                    	False
 38848	Lehman	Ronald D	25224 W Eames		Channahon	IL	60435     	Chair	815/467-3140        	False
 25393	Lehman	Tom	1204 W 3rd St		Dixon	IL	61021     	Chair	                    	False
 34051	Lehman n	Trevor	398 W Dundee Rd		Wheeling	IL	60090     	Chair		False
@@ -41630,6 +41631,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 27071	McCartan	Edward	9 Ambassador Ave		Romeoville	IL	60446     	Chair	815/372-1571        	False
 27072	McCartan	Edward	9 Ambassador Ave		Romeoville	IL	60446     	Treasurer	815/372-1571        	False
 18534	McCarte	Elizabeth	1 Reliance Ln		Lincolnshire	IL	60069     	Treasurer	(708)945-4135       	False
+100625	McCarter	Heather L.	2105 14th Ave.		Sterling	IL	61081     	Treasurer	815.564.7296        	False
 38815	McCarter	Kyle	1469 Swartz Meadow Dr		O'Fallon	IL	62269     	Chair	618/628-0111        	False
 43462	McCarter	Kyle	40 Commerce Dr		Lebanon	IL	62254     	Chair	618.558.4002        	False
 25697	McCarter	Mary	625 Sylvan Pl		Batavia	IL	60510     	Chair	(630) 406-1784      	False
@@ -45477,6 +45479,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 98010	Morgan	Ryan	1293 Ridgewood Dr.		Highland Park	IL	60035     	Chair	                    	False
 98011	Morgan	Tania	1293 Ridgewood Dr.		Highland Park	IL	60035     	Treasurer	                    	False
 39100	Morgan	Timothy L	1205 24th Pl		Sterling	IL	61081     	Treasurer	815/564-0174        	False
+100624	Morgan	Timothy L.	2011 E. 7th Street		Sterling	IL	61081     	Chair	815.713.4417        	False
 30035	Morgan	Tina	16321 Wee-Ma-Tuk Rd		Cuba	IL	61427     	Chair		False
 30036	Morgan	Tina	16321 Wee-Ma-Tuk Rd		Cuba	IL	61427     	Treasurer		False
 21763	Morgan	Todd	10677 Yankee Ridge Dr		Frankfort	IL	60423     	Treasurer	815/464-6630        	False
@@ -64134,6 +64137,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 19634	Sullivan	Carolyn L.	24882 W. Cedarwood Lane		Ingleside	IL	60041     	Treasurer	(708)740-3500       	False
 80751	Sullivan	Colleen	9122 S. Hamilton Ave.		Chicago	IL	60643     	Treasurer	773-368-5612        	False
 100411	Sullivan	Colleen.	10402 S. Western Ave.		Chicago	IL	60643     	Treasurer	773.368.5612        	False
+100626	Sullivan	Constance	1027 Mason		Chicago	IL	60651     	Chair	312-730-8279        	False
 78917	Sullivan	Dan	118 Amsler St		Bartonville	IL	61607     	Treasurer	309.635.7268        	False
 8382	Sullivan	Daniel	Illinois Acep	1645 Des Plaines Ave., Suite 16	Des Plaines	IL	60018     	Treasurer	                    	False
 26727	Sullivan	Daniel J	3313 N Stanley		Peoria	IL	61604     	Treasurer	309/685-8606        	False
