@@ -397889,3 +397889,4 @@
 4992920	581	1028573	0	Friends of Kevin Olickal		2026-09-18 00:00:00	500	500	Po Box 322		Skokie	IL	60077     	6B	Contribution			False	False	False		False
 4992921	581	1028573	0	Julie Morrison for State Senate		2026-09-18 00:00:00	1000	1000	PO Box 646		Deerfield	IL	60015     	6B	Contribution			False	False	False		False
 4992922	35354	1028578	0	Southland Strong Democratic PAC		2026-07-10 00:00:00	5000	5000	116 Dawn Lane		Chicago Heights	IL	60411     	8B	Gotv			False	False	False		False
+4992923	41288	1028585	0	Change Media Group		2026-10-23 00:00:00	15000	0	PMB 285		St. Clair Shores	MI	48080     	9B	Digital advertising	Marc Parker	Circuit Judge Madison 3rd Judicial Circuit	True	False	False		False
