@@ -9238,7 +9238,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 5021	Frank	Linda S	1113 Mayfair Rd		Champaign	IL	61820	Circuit Clerk	County	Champaign 	Champaign	Republican	False
 1865	Frank	Linda S						Member	County Board	Champaign 6  	Champaign	Republican	False
 25255	Frank	Paul	3375 Dato Ave		Highland	IL	60035	Councilman	City	Highland Park	Lake		False
-33100	Frank	Paul	2916 Parkside Dr		Highland Park	IL	60035	Member	County Board	Lake 11 	Lake	Democratic	False
+33100	Frank	Paul	Redaction Requested					Member	County Board	Lake 11 	Lake	Democratic	True
 23676	Frank	Robert				IL		Trustee	Township	Algonquin	McHenry	Democratic	False
 5359	Frank Feinen	Deborah L	608 S Prospect Ave		Champaign	IL	61820	Member	County Board	Champaign 3  	Champaign	Republican	False
 13635	Franke	James L	#1 Hill Top Dr	PO Box 98	Batchtown	IL	62006	Sheriff	County	Calhoun 	Calhoun	Democratic	False

@@ -1,5 +1,4 @@
-ndraiser			False	False	False		False
-3932372	185	786596	0	Illinois Federation of Teachers		2019-05-16 00:00:00	105	535.5	500 Oakmont Ln.		Westmont	IL	60559-5520	8B	Reimbursement for overpayment of COPE dues			False	False	False		False
+es			False	False	False		False
 3932373	185	786596	0	Smith, Friends of Nicholas		2019-04-04 00:00:00	500	500	PO Box 286152		Chicago	IL	60628     	6B	Fundraiser			False	False	False		False
 3932374	185	786596	0	Schimpf, Citizens for Paul		2019-04-04 00:00:00	1000	1000	PO Box 16		Waterloo	IL	62298     	6B	Fundraiser			False	False	False		False
 3932376	185	786596	0	Chicago Teachers Union, IFT Local 1		2019-04-18 00:00:00	111408.85	279493.55	Jesse Sharkey, President	1901 W. Carroll Ave.	Chicago	IL	60612     	8B	Cope rebate			False	False	False		False
@@ -274942,13 +274941,13 @@ ndraiser			False	False	False		False
 4211776	530	857861	0	Daley, Committee to Elect John P.		2022-09-14 00:00:00	1500	1500	3659 S. Halstead		Chicago	IL	60609     	6B	Contribution			False	False	False		False
 4211777	530	857861	0	Byrd, Committee to Elect Frank		2022-09-14 00:00:00	500	500	PO Box 622		Murphysboro	IL	62966     	6B	Contribution			False	False	False		False
 4211778	530	857861	0	Heuerman, Committee to Elect Dustin		2022-09-14 00:00:00	500	500	PO Box 159		Savoy	IL	61874     	6B	Contribution			False	False	False		False
-4211779	530	857861	0	Frank, Citizens for Paul		2022-09-14 00:00:00	200	200	2916 Parkside Drive		Highland Park	IL	60035     	6B	Contribution			False	False	False		False
 4211780	530	857861	0	Schwarze, Citizens for Greg		2022-09-14 00:00:00	500	500	1365 Rolling Oaks Dr		Carol Stream	IL	60188     	6B	Contribution			False	False	False		False
 4211781	530	857861	0	Giannoulias, Citizens for		2022-09-14 00:00:00	20000	20000	c/o P2 Consulting	22 W. Washington	Chicago	IL	60602     	6B	Contribution			False	False	False		False
 4211782	530	857861	0	Erickson, Citizens for		2022-09-14 00:00:00	500	500	PO Box 11		Knoxville	IL	61448     	6B	Contribution			False	False	False		False
 4211783	530	857861	0	Degnen, Citizens for Bridget		2022-09-14 00:00:00	1500	1500	2118 W. Waveland		Chicago	IL	60613     	6B	Contribution			False	False	False		False
 4211784	530	857861	0	One Georgia		2022-07-07 00:00:00	5000	5000	931 Monroe Drive NE	Suite A102-345	Atlanta	GA	30308     	6B	fundraiser			False	False	False		False
 4211785	530	857861	0	Moore, Friends of Stanley		2022-09-29 00:00:00	1500	1500	PO Box 43197		Chicago	IL	60643     	6B	Contribution			False	False	False		False
+4211779	530	857861		Frank, Citizens for Paul		2022-09-14 00:00:00	200	200	Redaction Requested					6B				False	False	False		True
 4211786	102	857866	0	Catalyst Partners		2022-07-07 00:00:00	1250	2257.04	11457 Sunderland Road		Marion	IL	62959     	8B	Graphic design			False	False	False		False
 4211787	102	857866	0	Wade's Meat Market		2022-07-23 00:00:00	431.14	953.17	611 N. Broadway		Shelbyville	IL	62565     	8B	Fund raising - food			False	False	False		False
 4211788	102	857866	0	Williams	Jeremy	2022-07-27 00:00:00	44.79	404.83	997 N. 2300 East Road		Shelbyville	IL	62565     	8B	Supplies			False	False	False		False
@@ -280705,7 +280704,6 @@ ndraiser			False	False	False		False
 4217539	32872	859398	0	Botbol	Ari	2022-09-12 00:00:00	903.7	9563.98	294 Tanager Ct		Deerfield	IL	60015-3692	8B	Employee Salary			False	False	False		False
 4217540	32872	859398	0	Botbol	Ari	2022-09-27 00:00:00	2366.96	9563.98	294 Tanager Ct		Deerfield	IL	60015-3692	8B	Employee Salary			False	False	False		False
 4217541	32872	859398	0	Cherry Pit Cafe		2022-09-26 00:00:00	161.88	161.88	808 Waukegan Rd		Riverwoods	IL	60015-3206	8B	Campaign Catering			False	False	False		False
-4217542	32872	859398	0	Citizens for Paul Frank		2022-09-06 00:00:00	500	500	2916 Parkside Dr		Highland Park	IL	60035-1037	6B	Contribution			False	False	False		False
 4217543	32872	859398	0	Comcast		2022-07-05 00:00:00	58.26	626.16	1255 W North Ave		Chicago	IL	60642-1562	8B	Phone & Internet Services			False	False	False		False
 4217544	32872	859398	0	Comcast		2022-08-03 00:00:00	283.93	626.16	1255 W North Ave		Chicago	IL	60642-1562	8B	Phone & Internet Services			False	False	False		False
 4217545	32872	859398	0	Comcast		2022-09-06 00:00:00	283.97	626.16	1255 W North Ave		Chicago	IL	60642-1562	8B	Phone & Internet Services			False	False	False		False
@@ -280797,6 +280795,7 @@ ndraiser			False	False	False		False
 4217631	32872	859398	0	Weiss	Molly	2022-08-23 00:00:00	240	1500	1707 Elmwood Dr		Highland Park	IL	60035-2321	8B	Intern Services			False	False	False		False
 4217632	32872	859398	0	Weiss	Molly	2022-09-13 00:00:00	180	1500	1707 Elmwood Dr		Highland Park	IL	60035-2321	8B	Intern Services			False	False	False		False
 4217633	32872	859398	0	Weiss	Molly	2022-09-20 00:00:00	180	1500	1707 Elmwood Dr		Highland Park	IL	60035-2321	8B	Intern Services			False	False	False		False
+4217542	32872	859398		Citizens for Paul Frank		2022-09-06 00:00:00	500	500	Redaction Requested					6B				False	False	False		True
 4217634	10535	859399	0	U.S. Postmaster		2022-08-19 00:00:00	182	182	2105 E. Cook Street		Springfield	IL	62707     	8B	Post office box			False	False	False		False
 4217635	10535	859399	0	Birky	Karen	2022-08-19 00:00:00	684.5	684.5	904 Maple Grove Lane		Williamsville	IL	62693     	8B	Graphic design			False	False	False		False
 4217636	10535	859399	0	A & B Printing		2022-08-31 00:00:00	1825	1825	2122 Republic		Springfield	IL	62702     	8B	Printing			False	False	False		False
@@ -291493,7 +291492,7 @@ ndraiser			False	False	False		False
 4228327	36056	861232	0	Gordon	Alex	2022-07-31 00:00:00	200	600	635 Gray Street		Highland Park	IL	60035     	8B	Campaign staff			False	False	True		False
 4228328	36056	861232	0	Gordon	Alex	2022-09-09 00:00:00	200	600	635 Gray Street		Highland Park	IL	60035     	8B	Campaign staff			False	False	True		False
 4228329	36056	861232	0	personalPAC		2022-07-31 00:00:00	250	250	134 North LaSalle Street	Suite 2040	Chicago	IL	60602     	8B	Donation			False	False	True		False
-4228330	36056	861232	0	Paul Frank for Lake County Board		2022-09-06 00:00:00	250	250	2916 Parkside		Highland Park	IL	60035     	8B	Donation			False	False	True		False
+4228330	36056	861232	0	Paul Frank for Lake County Board		2022-09-06 00:00:00	250	250	Redaction Requested					8B	Donation			False	False	True		True
 4228331	548	861234	0	ActBlue		2022-07-26 00:00:00	1.98	562.97	P.O. Box 390728		Cambridge	MA	02139     	8B	Processing Fee			False	False	False		False
 4228332	548	861234	0	ActBlue		2022-07-26 00:00:00	1.98	562.97	P.O. Box 390728		Cambridge	MA	02139     	8B	Processing Fee			False	False	False		False
 4228333	548	861234	0	ActBlue		2022-07-26 00:00:00	3.95	562.97	P.O. Box 390728		Cambridge	MA	02139     	8B	Processing Fee			False	False	False		False
@@ -314466,7 +314465,6 @@ ndraiser			False	False	False		False
 4251300	20715	862919	0	Best Buy		2022-09-08 00:00:00	12.99	1454.7	7600 S Cicero		Burbank	IL	60459     	8B	Computer - maintenance			False	False	False		False
 4251301	20715	862919	0	Verizon		2022-09-19 00:00:00	137.91	414.09	209 S. LaSalle Street		Chicago	IL	60604     	8B	Phone			False	False	False		False
 4251302	273	862921	0	Buffalo Grove Lincolnshire Chamber of Commerce		2022-09-29 00:00:00	270	270	PO Box 7124		Buffalo Grove	IL	60089-7124	8B	Buffalo Grove Days - 2022 Business Fair - Tent			False	False	False		False
-4251303	273	862921	0	Citizens for Paul Frank		2022-09-22 00:00:00	1000	1000	2916 Parkside Dr		Highland Park	IL	60035-1037	6B	Contribution			False	False	False		False
 4251304	273	862921	0	Constant Contact		2022-07-29 00:00:00	65	195	1601 Trapelo Rd		Waltham	MA	02451-7333	8B	E-mail services			False	False	False		False
 4251305	273	862921	0	Constant Contact		2022-08-29 00:00:00	65	195	1601 Trapelo Rd		Waltham	MA	02451-7333	8B	E-mail services			False	False	False		False
 4251306	273	862921	0	Constant Contact		2022-09-29 00:00:00	65	195	1601 Trapelo Rd		Waltham	MA	02451-7333	8B	E-mail services			False	False	False		False
@@ -314533,6 +314531,7 @@ ndraiser			False	False	False		False
 4251368	273	862921	0	Zoom US		2022-08-29 00:00:00	64.99	194.97	55 Almaden Blvd	Fl 6	San Jose	CA	95113-1608	8B	Video conferencing service			False	False	False		False
 4251369	273	862921	0	Zoom US		2022-09-29 00:00:00	64.99	194.97	55 Almaden Blvd	Fl 6	San Jose	CA	95113-1608	8B	Video conferencing service			False	False	False		False
 4251320	273	862921	0	Friends of Joyce Mason		2022-08-25 00:00:00	3000	3000	Redaction Requested					6B	Contribution			False	False	False		True
+4251303	273	862921		Citizens for Paul Frank		2022-09-22 00:00:00	1000	1000	Redaction Requested					6B				False	False	False		True
 4251370	32198	862924	0	ActBlue Technical Services		2022-07-21 00:00:00	0.99	169.13	PO Box 441146		West Somerville	MA	02144-0031	8B	Credit card processing fees			False	False	False		False
 4251371	32198	862924	0	ActBlue Technical Services		2022-07-21 00:00:00	1.19	169.13	PO Box 441146		West Somerville	MA	02144-0031	8B	Credit card processing fees			False	False	False		False
 4251372	32198	862924	0	ActBlue Technical Services		2022-07-21 00:00:00	5.93	169.13	PO Box 441146		West Somerville	MA	02144-0031	8B	Credit card processing fees			False	False	False		False
@@ -325830,22 +325829,22 @@ ndraiser			False	False	False		False
 4263520	36056	868705	0	Gordon	Alex	2022-07-31 00:00:00	200	600	635 Gray Street		Highland Park	IL	60035     	8B	Campaign staff			False	False	True		False
 4263521	36056	868705	0	Gordon	Alex	2022-09-09 00:00:00	200	600	635 Gray Street		Highland Park	IL	60035     	8B	Campaign staff			False	False	True		False
 4263522	36056	868705	0	personalPAC		2022-07-31 00:00:00	250	250	134 North LaSalle Street	Suite 2040	Chicago	IL	60602     	8B	Donation			False	False	True		False
-4263523	36056	868705	0	Paul Frank for Lake County Board		2022-09-06 00:00:00	250	250	2916 Parkside		Highland Park	IL	60035     	8B	Donation			False	False	True		False
+4263523	36056	868705	0	Paul Frank for Lake County Board		2022-09-06 00:00:00	250	250	Redaction Requested					8B	Donation			False	False	True		True
 4263524	36056	868706	0	Gordon	Alex	2022-07-09 00:00:00	200	600	635 Gray Street		Highland Park	IL	60035     	8B	Campaign staff			False	False	True		False
 4263525	36056	868706	0	Gordon	Alex	2022-07-31 00:00:00	200	600	635 Gray Street		Highland Park	IL	60035     	8B	Campaign staff			False	False	True		False
 4263526	36056	868706	0	Gordon	Alex	2022-09-09 00:00:00	200	600	635 Gray Street		Highland Park	IL	60035     	8B	Campaign staff			False	False	True		False
 4263527	36056	868706	0	personalPAC		2022-07-31 00:00:00	250	250	134 North LaSalle Street	Suite 2040	Chicago	IL	60602     	8B	Donation			False	False	True		False
-4263528	36056	868706	0	Paul Frank for Lake County Board		2022-09-06 00:00:00	250	250	2916 Parkside		Highland Park	IL	60035     	8B	Donation			False	False	True		False
+4263528	36056	868706	0	Paul Frank for Lake County Board		2022-09-06 00:00:00	250	250	Redaction Requested					8B	Donation			False	False	True		True
 4263529	36056	868709	0	Gordon	Alex	2022-07-09 00:00:00	200	600	635 Gray Street		Highland Park	IL	60035     	8B	Campaign staff			False	False	True		False
 4263530	36056	868709	0	Gordon	Alex	2022-07-31 00:00:00	200	600	635 Gray Street		Highland Park	IL	60035     	8B	Campaign staff			False	False	True		False
 4263531	36056	868709	0	Gordon	Alex	2022-09-09 00:00:00	200	600	635 Gray Street		Highland Park	IL	60035     	8B	Campaign staff			False	False	True		False
 4263532	36056	868709	0	personalPAC		2022-07-31 00:00:00	250	250	134 North LaSalle Street	Suite 2040	Chicago	IL	60602     	8B	Donation			False	False	True		False
-4263533	36056	868709	0	Paul Frank for Lake County Board		2022-09-06 00:00:00	250	250	2916 Parkside		Highland Park	IL	60035     	8B	Donation			False	False	True		False
+4263533	36056	868709	0	Paul Frank for Lake County Board		2022-09-06 00:00:00	250	250	Redaction Requested					8B	Donation			False	False	True		True
 4263534	36056	868713	0	Gordon	Alex	2022-07-09 00:00:00	200	600	635 Gray Street		Highland Park	IL	60035     	8B	Campaign staff			False	False	False		False
 4263535	36056	868713	0	Gordon	Alex	2022-07-31 00:00:00	200	600	635 Gray Street		Highland Park	IL	60035     	8B	Campaign staff			False	False	False		False
 4263536	36056	868713	0	Gordon	Alex	2022-09-09 00:00:00	200	600	635 Gray Street		Highland Park	IL	60035     	8B	Campaign staff			False	False	False		False
 4263537	36056	868713	0	personalPAC		2022-07-31 00:00:00	250	250	134 North LaSalle Street	Suite 2040	Chicago	IL	60602     	8B	Donation			False	False	False		False
-4263538	36056	868713	0	Paul Frank for Lake County Board		2022-09-06 00:00:00	250	250	2916 Parkside		Highland Park	IL	60035     	8B	Donation			False	False	False		False
+4263538	36056	868713		Paul Frank for Lake County Board		2022-09-06 00:00:00	250	250	Redaction Requested					8B				False	False	False		True
 4263539	38589	868714	0	Facebook		2022-11-06 00:00:00	564.92	564.92	1 Hacker Way		Menlo Park	CA	94025     	8B	Ad boosting - multiple dates			False	False	False		False
 4263540	38589	868714	0	FedEx Office		2022-10-12 00:00:00	474.08	474.08	13155 Noel Road	Suite 1600	Dallas	TX	75240     	8B	Poster Boards			False	False	False		False
 4263541	38589	868714	0	JWC Media		2022-10-09 00:00:00	1695	1695	445 Sheridan Road	Suite 100	Highwood	IL	60040     	8B	Advertising - newspaper			False	False	False		False
@@ -330448,7 +330447,7 @@ ndraiser			False	False	False		False
 4268138	23122	870600	0	North Shore Printers		2022-10-28 00:00:00	3687.79	7513.3	535 South Sheridan Rd.		Waukegan	IL	60085     	8B	Printing			False	False	False		False
 4268139	23122	870600	0	JWC Media		2022-10-21 00:00:00	699	1398	445 Sheridan Rd		Highwood	IL	60040     	8B	Advertising - newspaper			False	False	False		False
 4268140	23122	870600	0	JWC Media		2022-10-28 00:00:00	699	1398	445 Sheridan Rd		Highwood	IL	60040     	8B	Advertising - newspaper			False	False	False		False
-4268141	23122	870600	0	Frank	Paul	2022-12-17 00:00:00	2500	2500	2916 Parkside Drive		Highland Park	IL	60035     	8B	Principal payment, Frank			False	False	False		False
+4268141	23122	870600		Frank	Paul	2022-12-17 00:00:00	2500	2500	Redaction Requested					8B				False	False	False		True
 4268142	935	870605	0	Friends of Vera Small		2022-10-04 00:00:00	500	500	P. O. Box 6264		Springfield	IL	62708     	6B	Contribution			False	False	False		False
 4268143	935	870605	0	Friends of Aaron Tebrinke		2022-10-04 00:00:00	500	500	1720 N 5th St		Springfield	IL	62702     	6B	Contribution			False	False	False		False
 4268144	935	870605	0	Friends of Marc Ayers		2022-10-04 00:00:00	500	500	1901 Barberry Dr.		Springfield	IL	62704     	6B	Contribution			False	False	False		False
@@ -336819,7 +336818,6 @@ ndraiser			False	False	False		False
 4274509	32872	871971	0	Botbol	Ari	2022-11-13 00:00:00	2500	12279.84	294 Tanager Ct		Deerfield	IL	60015-3692	8B	Bonus			False	False	False		False
 4274510	32872	871971	0	Botbol	Ari	2022-11-28 00:00:00	2366.96	12279.84	294 Tanager Ct		Deerfield	IL	60015-3692	8B	Employee Salary			False	False	False		False
 4274511	32872	871971	0	Botbol	Ari	2022-12-12 00:00:00	312	12279.84	294 Tanager Ct		Deerfield	IL	60015-3692	8B	Employee Salary			False	False	False		False
-4274512	32872	871971	0	Citizens for Paul Frank		2022-10-12 00:00:00	500	500	2916 Parkside Dr		Highland Park	IL	60035-1037	6B	Contribution			False	False	False		False
 4274513	32872	871971	0	Comcast		2022-10-03 00:00:00	283.97	851.05	1255 W North Ave		Chicago	IL	60642-1562	8B	Phone & Internet Services			False	False	False		False
 4274514	32872	871971	0	Comcast		2022-11-03 00:00:00	283.54	851.05	1255 W North Ave		Chicago	IL	60642-1562	8B	Phone & Internet Services			False	False	False		False
 4274515	32872	871971	0	Comcast		2022-12-05 00:00:00	283.54	851.05	1255 W North Ave		Chicago	IL	60642-1562	8B	Phone & Internet Services			False	False	False		False
@@ -336897,6 +336895,7 @@ ndraiser			False	False	False		False
 4274587	32872	871971	0	Weiss	Molly	2022-10-19 00:00:00	120	780	1707 Elmwood Dr		Highland Park	IL	60035-2321	8B	Intern Services			False	False	False		False
 4274588	32872	871971	0	Weiss	Molly	2022-11-01 00:00:00	120	780	1707 Elmwood Dr		Highland Park	IL	60035-2321	8B	Intern Services			False	False	False		False
 4274589	32872	871971	0	Weiss	Molly	2022-11-16 00:00:00	420	780	1707 Elmwood Dr		Highland Park	IL	60035-2321	8B	Intern Services			False	False	False		False
+4274512	32872	871971		Citizens for Paul Frank		2022-10-12 00:00:00	500	500	Redaction Requested					6B				False	False	False		True
 4274590	9	871973	0	Flores Printers		2022-10-27 00:00:00	2618	2618	541 Lincoln Street		Galesburg	IL	61401     	8B	Mailing for Candidates			False	False	False		False
 4274591	9	871973	0	WGIL Galesburg Radio 14		2022-10-31 00:00:00	2000	2000	154 E Simmons St.		Galesburg	IL	61401     	8B	Advertising - radio			False	False	False		False
 4274592	9	871973	0	United States Postal Service		2022-10-06 00:00:00	212	2073.51	476 East Main Street		Galesburg	IL	61401     	8B	Post office box			False	False	False		False
@@ -645296,4 +645295,7 @@ ndraiser			False	False	False		False
 4584238	10	926756	0	Peoples Gas		2024-04-24 00:00:00	99.38	320.4	Bill Payment Center		Chicago	IL	60687     	8B	Utility			False	False	False		False
 4584239	10	926756	0	Good To Go #88		2024-04-24 00:00:00	88	1757.98	6401 West 65th Street		Bedford Park	IL	60499     	8B	Fuel			False	False	False		False
 4584240	10	926756	0	Good To Go #88		2024-04-24 00:00:00	172.18	1757.98	6401 West 65th Street		Bedford Park	IL	60499     	8B	Fuel			False	False	False		False
-4584241	10	926756	0	Harris
+4584241	10	926756	0	Harris Ice Incorporated		2024-04-24 00:00:00	198.44	1597.13	3927 West 5th Avenue		Chicago	IL	60624     	8B	Ice			False	False	False		False
+4584242	10	926756	0	Hinckley Springs		2024-05-07 00:00:00	155.65	540.84	6055 S. Harlem		Chicago	IL	60638     	8B	Water			False	False	False		False
+4584243	10	926756	0	Southwest Regional Publishing		2024-05-07 00:00:00	630.02	630.02	12243 South Harlem Avenue		Palos Heights	IL	60463     	8B	Printing			False	False	False		False
+4584244	10	926756	0	Giordano's of Midway		2024-05-0

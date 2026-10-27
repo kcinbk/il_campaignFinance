@@ -339655,8 +339655,8 @@
 2971618	23671	595378	0	Sam McCann for Senate		2015-10-10 00:00:00	1500	1500	268 N. Broad Street		Carlinville	IL	62626-1371	8B	Donation			False	False	False		False
 2971619	23671	595378	0	Worth Township Democratic Party		2015-11-16 00:00:00	500	500	10912 Kilbourn Avenue		Oak Lawn	IL	60453     	8B	Fundraiser			False	False	False		False
 2971620	23671	595378	0	Stadelman for State Senate		2015-11-16 00:00:00	500	500	P.O. Box 1551		Rockford	IL	61110     	8B	Campaign Contribution			False	False	False		False
-2971621	23122	595381	0	Frank	Mandi	2015-12-15 00:00:00	500	500	2916 Parkside Drive		Highland Park	IL	60035     	8B	Principal payment, Frank			False	False	False		False
 2971622	23122	595381	0	Sorling Northrup		2015-12-16 00:00:00	840	840	PO Box 5131		Springfield	IL	62705     	8B	Legal fees			False	False	False		False
+2971621	23122	595381		Frank	Mandi	2015-12-15 00:00:00	500	500	Redaction Requested					8B				False	False	False		True
 2971623	26204	595383	0	Democratic Party of Illinois		2015-10-03 00:00:00	750	750	1201 S. Veterans Parkway	Suite C	Springfield	IL	62704     	8B	Computer - software			False	False	False		False
 2971624	26204	595383	0	United States Post Office		2015-10-05 00:00:00	66	1960.46	433 W. Harrison		Chicago	IL	60699     	8B	Post office box			False	False	False		False
 2971625	26204	595383	0	NGP VAN		2015-10-13 00:00:00	38	150.71	1101 15th St. NW	Suite 500	Washington	DC	20005     	8B	Robo calls			False	False	False		False
@@ -508021,7 +508021,6 @@
 3146563	23122	637706	0	Polis Politics Inc.		2016-10-04 00:00:00	300	300	21 Drydock Ave.		Boston	MA	02210     	8B	Computer - software			False	False	False		False
 3146564	23122	637706	0	Consolidated Printing		2016-10-07 00:00:00	819.98	819.98	5942 N. Northwest Hwy.		Chicago	IL	60631     	8B	Printing			False	False	False		False
 3146565	23122	637706	0	22nd Century Media		2016-10-14 00:00:00	1000	1000	60 Revere Drive	Suite 888	Northbrook	IL	60062     	8B	Advertising - newspaper			False	False	False		False
-3146566	23122	637706	0	Frank	Mandi	2016-10-14 00:00:00	500	500	2916 Parkside Drive		Highland Park	IL	60035     	8B	Principal payment, Frank			False	False	False		False
 3146567	23122	637706	0	Facebook, Inc.		2016-10-21 00:00:00	50.2	723.58	1601 South California Ave.		Palo Alto	CA	94304     	8B	Advertising - magazine			False	False	False		False
 3146568	23122	637706	0	Kim Nehrt Photography & Design		2016-10-17 00:00:00	166.25	356.25	4249 Creek Drive		Springfield, IL	IL	62711     	8B	Graphic design			False	False	False		False
 3146569	23122	637706	0	Facebook, Inc.		2016-10-15 00:00:00	25.03	723.58	1601 South California Ave.		Palo Alto	CA	94304     	8B	Advertising - magazine			False	False	False		False
@@ -508031,6 +508030,7 @@
 3146573	23122	637706	0	Facebook, Inc.		2016-11-30 00:00:00	398.34	723.58	1601 South California Ave.		Palo Alto	CA	94304     	8B	Advertising - newspaper			False	False	False		False
 3146574	23122	637706	0	Facebook, Inc.		2016-10-27 00:00:00	250.01	723.58	1601 South California Ave.		Palo Alto	CA	94304     	8B	Advertising - newspaper			False	False	False		False
 3146575	23122	637706	0	Kim Nehrt Photography & Design		2016-10-24 00:00:00	190	356.25	4249 Creek Drive		Springfield, IL	IL	62711     	8B	Graphic design			False	False	False		False
+3146566	23122	637706		Frank	Mandi	2016-10-14 00:00:00	500	500	Redaction Requested					8B				False	False	False		True
 3146576	30602	637707	0	Gill	Andrew	2016-12-17 00:00:00	192	192	2 Peabody terrace		Cambridge	MA	02138     	8B	Civil penalties			False	False	False		False
 3146577	24183	637720	0	WMBD WYZZ		2016-10-26 00:00:00	1000	1000	2714 E. Lincoln		Bloomington	IL	61704     	8B	Advertising - radio			False	False	True		False
 3146578	24183	637720	0	Newhoff Media		2016-10-19 00:00:00	986.2	1592.8	250 North Water Street	Suite 100	Decautr	IL	62523     	8B				False	False	True		False
@@ -639156,4 +639156,4 @@
 3287967	23208	674213	0	CITIZENS TO ELECT ANDRE THAPEDI		2017-08-08 00:00:00	250	250	6800 S MICHIGAN AVE, 2FL		CHICAGO	IL	60637-3908	6B	Contribution			False	False	False	UNITED STATES OF AMERICA	False
 3287968	23208	674213	0	FRIENDS OF LESLIE A. HAIRSTON		2017-07-18 00:00:00	500	500	P O BOX 497028		CHICAGO	IL	60649     	6B	Contribution			False	False	False		False
 3287969	23208	674213	0	SIX WARD DEMOCRATIC ORGANIZATION		2017-07-12 00:00:00	500	500	P O BOX 19511		CHICAGO	IL	60619     	6B	Contribution			False	False	False		False
-3287970	23208	674213	0	CITIZENS FOR YARBROUGH		2017-08-08 00:00:00	750	750	c/o CRATIC 
+3287970	23208	674213	0	CITIZENS FOR YARBROUGH		2017-08-08 00:00:00	750	750	c/o CRATIC & SHAFFER CONSULTING	P O BOX 641562	CHICAGO	IL	60664     	6B	Contribution			False	False	False		False

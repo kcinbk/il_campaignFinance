@@ -1,7 +1,4 @@
- Ice Incorporated		2024-04-24 00:00:00	198.44	1597.13	3927 West 5th Avenue		Chicago	IL	60624     	8B	Ice			False	False	False		False
-4584242	10	926756	0	Hinckley Springs		2024-05-07 00:00:00	155.65	540.84	6055 S. Harlem		Chicago	IL	60638     	8B	Water			False	False	False		False
-4584243	10	926756	0	Southwest Regional Publishing		2024-05-07 00:00:00	630.02	630.02	12243 South Harlem Avenue		Palos Heights	IL	60463     	8B	Printing			False	False	False		False
-4584244	10	926756	0	Giordano's of Midway		2024-05-07 00:00:00	57.98	253.99	6314 South Cicero Avenue		Chicago	IL	60638     	8B	Food			False	False	False		False
+7 00:00:00	57.98	253.99	6314 South Cicero Avenue		Chicago	IL	60638     	8B	Food			False	False	False		False
 4584245	10	926756	0	Good To Go #88		2024-05-07 00:00:00	188.67	1757.98	6401 West 65th Street		Bedford Park	IL	60499     	8B	Fuel			False	False	False		False
 4584246	10	926756	0	Speedway		2024-05-07 00:00:00	67.16	553.98	1300 West Normantown		Romeoville	IL	60446     	8B	Fuel			False	False	False		False
 4584247	10	926756	0	Akerman		2024-05-07 00:00:00	2845.36	4268.04	P.O. Box4906		Orlando	FL	32802     	8B	Fees			False	False	False		False
@@ -96646,7 +96643,6 @@
 4691598	273	963086	0	BOCA Media Group		2024-10-23 00:00:00	30623	77657.52	2129 N Western Ave		Chicago	IL	60647-4146	8B	Advertising consulting			False	False	False		False
 4691599	273	963086	0	BOCA Media Group		2024-10-30 00:00:00	36847	77657.52	2129 N Western Ave		Chicago	IL	60647-4146	8B	Advertising consulting			False	False	False		False
 4691600	273	963086	0	BOCA Media Group		2024-11-02 00:00:00	10187.52	77657.52	2129 N Western Ave		Chicago	IL	60647-4146	8B	Campaign mailing			False	False	False		False
-4691601	273	963086	0	Citizens for Paul Frank		2024-11-02 00:00:00	250	250	2916 Parkside Dr		Highland Park	IL	60035-1037	6B	Candidate contribution			False	False	False		False
 4691602	273	963086	0	Citizens to Elect Erin Cartwright Weinstein		2024-10-14 00:00:00	1000	2000	6020 Washington St		Gurnee	IL	60031-4443	6B	Contribution			False	False	False		False
 4691603	273	963086	0	Citizens to Elect Erin Cartwright Weinstein		2024-10-18 00:00:00	1000	2000	6020 Washington St		Gurnee	IL	60031-4443	6B	Candidate contribution			False	False	False		False
 4691604	273	963086	0	Comcast Business		2024-10-15 00:00:00	161.93	589.79	PO Box 4928		Oak Brook	IL	60522-4928	8B	Telecommunications			False	False	False		False
@@ -96734,6 +96730,7 @@
 4691618	273	963086	0	Friends of Bob Morgan		2024-11-02 00:00:00	1000	1250	Redaction Requested					6B	Candidate contribution			False	False	False		True
 4691617	273	963086	0	Friends of Bob Morgan		2024-10-28 00:00:00	250	1250	Redaction Requested					6B	Candidate contribution			False	False	False		True
 4691626	273	963086	0	Friends of Joyce Mason		2024-10-26 00:00:00	1000	1000	Redaction Requested					6B	Candidate contribution			False	False	False		True
+4691601	273	963086		Citizens for Paul Frank		2024-11-02 00:00:00	250	250	Redaction Requested					6B				False	False	False		True
 4691689	5099	963091	0	R & S Unlimited		2024-12-19 00:00:00	384.91	384.91	112 W Washington St Ste 2a		Monticello	IL	61856     	8B	Utilities			False	False	False		False
 4691690	5099	963091	0	Monticello Golf Club		2024-10-04 00:00:00	1740.78	1740.78	720 W Marion Street		Monticello	IL	61856     	8B	Fund raising - hall rental			False	False	False		False
 4691691	23871	963092	0	AB Compuprint		2024-12-06 00:00:00	47.19	785.69	PO Box 9594		Springfield	IL	62791     	8B	Printing			False	False	False		False
@@ -266681,7 +266678,7 @@
 4861633	40989	1003375	0	Site by Mike		2026-02-01 00:00:00	467.5	467.5	48 Crighton Ave		Elgin	IL	60123     	8B	Website design			False	False	True		False
 4861634	17912	1003376	0	Knights of Columbus		2026-01-28 00:00:00	73	185	402 E. HWY 50		O'Fallon	IL	62269     	8B	Food			False	False	False		False
 4861635	17912	1003376	0	Knights of Columbus		2026-03-25 00:00:00	112	185	402 E. HWY 50		O'Fallon	IL	62269     	8B	Food			False	False	False		False
-4861636	24370	1003377	0	Paul Frank for Lake County		2026-03-10 00:00:00	600	600	2916 Parkside Dr		Highland Park	IL	60035     	8B	Donation			False	False	False		False
+4861636	24370	1003377		Paul Frank for Lake County		2026-03-10 00:00:00	600	600	Redaction Requested					8B				False	False	False		True
 4861637	20163	1003382	0	IL State Board of Elections		2026-02-05 00:00:00	500.85	500.85	1020 S Spring Street		Springfield	IL	62708     	8B	Data File			False	False	False		False
 4861638	298	1003383	0	Graham Hospital		2026-01-09 00:00:00	100	300	210 W Walnut		Canton	IL	61520     	8B	Storage			False	False	False		False
 4861639	298	1003383	0	Graham Hospital		2026-02-11 00:00:00	100	300	210 W Walnut		Canton	IL	61520     	8B	Storage			False	False	False		False
@@ -272119,7 +272116,6 @@
 4867071	32872	1004926	0	Coopers Hawk		2026-03-19 00:00:00	216	216	2501 Wabash Ave		Springfield	IL	62704-4276	8B	Meals			False	False	False		False
 4867072	32872	1004926	0	Cotter	Mike	2026-01-06 00:00:00	1500	1500	1842 W Estes Ave		Chicago	IL	60626-2318	8B	Bonus			False	False	False		False
 4867073	32872	1004926	0	Crains Chicago Suscription		2026-01-29 00:00:00	225	225	1155 Gratiot Ave		Detroit	MI	48207-2732	8B	Subscription			False	False	False		False
-4867074	32872	1004926	0	Frank for Lake County		2026-03-09 00:00:00	2500	2500	2916 Parkside Dr		Highland Park	IL	60035-1037	6B	Contribution			False	False	False		False
 4867075	32872	1004926	0	Friends of Josina Morita		2026-03-04 00:00:00	10000	10000	PO Box 1301		Skokie	IL	60076-8301	6B	Contribution			False	False	False		False
 4867076	32872	1004926	0	Friends of Juliana Stratton		2026-01-09 00:00:00	1000	1000	2613 S Indiana Ave	Unit A	Chicago	IL	60616-2322	6B	Contribution			False	False	False		False
 4867077	32872	1004926	0	Global Strategy Group LLC		2026-01-08 00:00:00	40500	40500	215 Park Ave S	Fl 15	New York	NY	10003-1612	8B	Research Consulting			False	False	False		False
@@ -272186,6 +272182,7 @@
 4867138	32872	1004926	0	Uber		2026-03-16 00:00:00	21.98	525.42	1455 Market St #400		San Francisco	CA	94103-1355	8B	Transportation			False	False	False		False
 4867139	32872	1004926	0	United Airlines		2026-03-27 00:00:00	53.75	172.01	233 S Wacker Dr		Chicago	IL	60606-7147	8B	Travel			False	False	False		False
 4867140	32872	1004926	0	United Airlines		2026-03-27 00:00:00	118.26	172.01	233 S Wacker Dr		Chicago	IL	60606-7147	8B	Travel			False	False	False		False
+4867074	32872	1004926		Frank for Lake County		2026-03-09 00:00:00	2500	2500	Redaction Requested					6B				False	False	False		True
 4867141	6263	1004927	0	Coalition Consulting		2025-07-01 00:00:00	4000	12000	4044 N. Lincoln Ave., #111		Chicago	IL	60618     	8B	Consulting			False	False	False		False
 4867142	6263	1004927	0	Friends of Larry Walsh Jr		2025-07-01 00:00:00	1200	1200	P. O. Box 69		Elwood	IL	60421     	6B	Contribution			False	False	False		False
 4867143	6263	1004927	0	L. U. 130 Political Fund		2025-07-01 00:00:00	1500	1500	1340 W. Washington Blvd.		Chicago	IL	60607     	6B	Contribution			False	False	False		False
@@ -341002,7 +340999,7 @@
 4936024	303	1015990	0	Friends of Chip Markel		2026-05-04 00:00:00	500	500	PO Box 2914		Carbondale	IL	62902     	8B				False	False	False		False
 4936025	303	1015990	0	Alto Vineyard		2026-04-24 00:00:00	500	500	8515 IL 127		Alto Pass	IL	62905     	8B				False	False	False		False
 4936026	303	1015990	0	360 Connect		2026-05-15 00:00:00	200	200	900 Skyline drive	Suite 500	Marion	IL	62959     	8B	Donation			False	False	False		False
-4936027	478	1015991	0	Nelson	Judy	2026-05-04 00:00:00	520.66	520.66	Grove St		Jacksonville	IL	62650     	8B	Office supplies			False	False	False		False
+4936027	478	1015991	0	Nelson	Judy	2026-05-04 00:00:00	520.66	520.66	Grove St		Jacksonville	IL	62650     	8B	Office supplies			False	False	True		False
 4936028	20034	1015995	0	GoDaddy		2026-04-07 00:00:00	72.36	1267.8	14455 N. Hayden Rd.	Suite 219	Scottsdale	AZ	85260     	8B	Website			False	False	False		False
 4936029	20034	1015995	0	GoDaddy		2026-04-27 00:00:00	107.88	1267.8	14455 N. Hayden Rd.	Suite 219	Scottsdale	AZ	85260     	8B	Website			False	False	False		False
 4936030	20034	1015995	0	GoDaddy		2026-05-21 00:00:00	215.76	1267.8	14455 N. Hayden Rd.	Suite 219	Scottsdale	AZ	85260     	8B	Website			False	False	False		False
@@ -350480,7 +350477,6 @@
 4945502	23199	1022041	0	Friends of Mike Adrieansen		2026-08-24 00:00:00	500	500	15870 Chippewa Lane		Manhattan	IL	60442     	6B	Contribution			False	False	False		False
 4945503	23199	1022041	0	Grundy County Democrats		2026-09-14 00:00:00	1000	1000	P.O. Box 602		Morris	IL	60450     	6B	Contribution			False	False	False		False
 4945504	23199	1022041	0	Illinois AFL-CIO COPE		2026-09-28 00:00:00	5000	5000	534 S. Second Street		Springfield	IL	62701     	6B	Contribution			False	False	False		False
-4945505	23199	1022041	0	Paul Frank for Lake County		2026-08-17 00:00:00	500	500	2916 Parkside Drive		Highland Park	IL	60035     	6B	Contribution			False	False	False		False
 4945506	23199	1022041	0	Cochran for Illinois		2026-08-24 00:00:00	5000	5000	PO Box 417		Park Ridge	IL	60068     	6B	Contribution			False	False	False		False
 4945507	23199	1022041	0	Friends of Jared Ploger		2026-08-24 00:00:00	5000	5000	2776 La Jolla Ct		Aurora	IL	60503     	6B	Contribution			False	False	False		False
 4945508	23199	1022041	0	Friends of Elyse Hoffenberg		2026-08-24 00:00:00	2500	2500	1030 S. Stone Ave		La Grange	IL	60525     	6B	Contribution			False	False	False		False
@@ -350498,6 +350494,7 @@
 4945520	23199	1022041	0	Jesus Ayala Jr for Chicago Students		2026-09-21 00:00:00	2500	2500	2107 W 19th St	#2F	Chicago	IL	60608     	6B	Contribution			False	False	False		False
 4945521	23199	1022041	0	Therese Boyle for District 9 CPS BOE		2026-09-21 00:00:00	2500	2500	10356 S Sawyer Avenue		Chicago	IL	60655     	6B	Contribution			False	False	False		False
 4945522	23199	1022041	0	Friends of Patrick C Watson		2026-09-21 00:00:00	2500	2500	11244 S St Lawrence Ave		Chicago	IL	60628     	6B	Contribution			False	False	False		False
+4945505	23199	1022041		Paul Frank for Lake County		2026-08-17 00:00:00	500	500	Redaction Requested					6B				False	False	False		True
 4945523	39859	1022052	0	Amazon Corporate Headquarters		2026-07-09 00:00:00	215.95	268.52	410 Terry Ave N		Seattle	WA	98109     	8B	Door Knob Bags needed to hang political literature on door knobs			False	False	True		False
 4945524	39859	1022052	0	Amazon Corporate Headquarters		2026-07-17 00:00:00	14.78	268.52	410 Terry Ave N		Seattle	WA	98109     	8B	Gold Name Tag Stickers for Wayne Township Meetings			False	False	True		False
 4945525	39859	1022052	0	Amazon Corporate Headquarters		2026-07-17 00:00:00	37.79	268.52	410 Terry Ave N		Seattle	WA	98109     	8B	1st Place Trophy for Coyote Crossing Fundraisng event--Fundraiser			False	False	True		False
@@ -359477,13 +359474,13 @@
 4954499	480	1024631	0	Pinter	Kar	2026-08-16 00:00:00	250	250	428 W 3rd		Spring Valley	IL	61362     	8B	Raffle prizes			False	False	False		False
 4954500	480	1024631	0	Olivero	Melissa	2026-08-16 00:00:00	250	250	3003 Parkside		Peru	IL	61354     	8B	Raffle prizes			False	False	False		False
 4954501	23122	1024632	0	United States Postal Service		2026-09-01 00:00:00	164	164	833 Central Ave.		Highland Park	IL	60035     	8B	Postage			False	False	False		False
-4954502	23122	1024632	0	Frank	Paul	2026-09-16 00:00:00	793.58	1793.58	2916 Parkside Drive		Highland Park	IL	60035     	8B	Principal payment, Frank			False	False	False		False
-4954503	23122	1024632	0	Frank	Paul	2026-09-16 00:00:00	1000	1793.58	2916 Parkside Drive		Highland Park	IL	60035     	8B	Principal payment, Frank			False	False	False		False
 4954504	23122	1024632	0	Friends of Sara Knizhnik		2026-09-28 00:00:00	250	250	PO Box 5067		Vernon Hills	IL	60061     	6B	Ticket purchase			False	False	False		False
 4954505	23122	1024632	0	Friends of Jose S Martinez		2026-09-13 00:00:00	1000	1000	616 Plum Tree Lane		Antioch	IL	60002     	6B	Contribution			False	False	False		False
 4954506	23122	1024632	0	Friends of Mary Mesa		2026-09-21 00:00:00	1000	1000	641 Sunset Drive		Naperville	IL	60540     	6B	Contribution			False	False	False		False
 4954507	23122	1024632	0	Friends of Brandon Ewing		2026-09-28 00:00:00	500	500	332 4th St.		Waukegan	IL	60085     	6B	Contribution			False	False	False		False
 4954508	23122	1024632	0	Vance Wyatt Election Campaign		2026-09-28 00:00:00	500	500	2946 21st Street		North Chicago	IL	60064     	6B	Contribution			False	False	False		False
+4954502	23122	1024632		Frank	Paul	2026-09-16 00:00:00	793.58	1793.58	Redaction Requested					8B				False	False	False		True
+4954503	23122	1024632		Frank	Paul	2026-09-16 00:00:00	1000	1793.58	Redaction Requested					8B				False	False	False		True
 4954509	683	1024634	0	Barbara S. Mason Campaign Services Ltd.		2026-07-11 00:00:00	250	250	43 Trailridge Lane		Springfield	IL	62704     	8B	Electronic filing			False	False	False		False
 4954510	23654	1024636	0	American Cancer Society		2026-07-09 00:00:00	250	250	PO Box 10393		Chicago	IL	60610     	8B	Sponsorship			False	False	False		False
 4954511	23654	1024636	0	Citizens for Debbie Meyers Martin		2026-07-02 00:00:00	1000	1000	P.O Box 237		Olympia Fields	IL	60461     	9B	Sponsorship	Debbie Meyers-Martin	State Representative	True	False	False		False
@@ -371577,7 +371574,7 @@
 4966599	32198	1026157	0	Sacks	Robert	2026-07-21 00:00:00	500	500	641 Sunset Drive		Naperville	IL	60540     	8B	Bookkeeping Services			False	False	True		False
 4966600	32198	1026157	0	Susana for Chicago		2026-07-01 00:00:00	2000	2000	Susana A. Mendoza 6351 W Montrose A		Chicago	IL	60634     	6B	Contribution			False	False	True		False
 4966601	32198	1026157	0	Mail Chimp		2026-09-10 00:00:00	260	260	405 N. Angier Ave.		Atlanta	IL	30308     	8B	newsletter			False	False	True		False
-4966602	32198	1026157	0	Paul Frank for Lake County		2026-09-15 00:00:00	200	200	2916 Parkside Drive		Highland Park	IL	60035     	6B	Contribution			False	False	True		False
+4966602	32198	1026157	0	Paul Frank for Lake County		2026-09-15 00:00:00	200	200	Redaction Requested					6B	Contribution			False	False	True		True
 4966603	432	1026160	0	Friends of Marcus Herbert		2026-09-04 00:00:00	3000	3000	918 22nd ave		East Moline	IL	61244     	6B	Contribution			False	False	False		False
 4966604	432	1026160	0	Willems for Iowa		2026-08-31 00:00:00	5000	10000	PO Box 151		Mount Vernon	IA	52314     	6B	Contribution			False	False	False		False
 4966605	432	1026160	0	Willems for Iowa		2026-09-03 00:00:00	5000	10000	PO Box 151		Mount Vernon	IA	52314     	6B	Contribution			False	False	False		False
@@ -396843,13 +396840,13 @@
 4991864	40995	1027662	0	Marks Quick Printing		2026-09-04 00:00:00	648.1	908.41	9567 Page Avenue		St. Louis	MO	63132     	8B	Yard signs			False	False	False		False
 4991865	40995	1027662	0	Howland	Kayla	2026-07-14 00:00:00	400	400	601 Lewis & Clark Blvd		Godfrey	IL	62035     	8B	Photography			False	False	False		False
 4991866	40995	1027662	0	Gentelin's On Broadway		2026-07-02 00:00:00	500.57	500.57	122 E. Broadway		Alton	IL	62002     	8B	Fund raising - food			False	False	False		False
-4991867	246	1027689	0	Friends of Dave Severin		2026-07-01 00:00:00	150	250	PO Box 10		Benton	IL	62812     	8B	Campaign Contribution			False	False	False		False
-4991868	246	1027689	0	Friends of Dave Severin		2026-09-22 00:00:00	100	250	PO Box 10		Benton	IL	62812     	8B	Campaign Contribution			False	False	False		False
-4991869	246	1027689	0	Jones	Blake E.	2026-09-22 00:00:00	720.86	720.86	1124 Oakland Ave		Mount Vernon	IL	62864     	8B	Supplies			False	False	False		False
-4991870	246	1027689	0	Peacock Print & Marketing		2026-09-17 00:00:00	257.5	257.5	1112 Jordan		Mount Vernon	IL	62864     	8B	Printing			False	False	False		False
-4991871	246	1027689	0	Butler	Michael	2026-09-22 00:00:00	381.66	381.66	4510 N Illinois St #5		Swansea	IL	62226     	8B	Printing			False	False	False		False
-4991872	246	1027689	0	Friends of Patrick Costa		2026-08-25 00:00:00	250	250	2001 Broadway		Mount Vernon	IL	62864     	8B	Campaign Donation			False	False	False		False
-4991873	246	1027689	0	All Stars-n-Stitches		2026-09-04 00:00:00	1825.9	1825.9	PO Box 10	418 E. Main St	Benton	IL	62812     	8B	Signs			False	False	False		False
+4991867	246	1027689	0	Friends of Dave Severin		2026-07-01 00:00:00	150	250	PO Box 10		Benton	IL	62812     	8B	Campaign Contribution			False	False	True		False
+4991868	246	1027689	0	Friends of Dave Severin		2026-09-22 00:00:00	100	250	PO Box 10		Benton	IL	62812     	8B	Campaign Contribution			False	False	True		False
+4991869	246	1027689	0	Jones	Blake E.	2026-09-22 00:00:00	720.86	720.86	1124 Oakland Ave		Mount Vernon	IL	62864     	8B	Supplies			False	False	True		False
+4991870	246	1027689	0	Peacock Print & Marketing		2026-09-17 00:00:00	257.5	257.5	1112 Jordan		Mount Vernon	IL	62864     	8B	Printing			False	False	True		False
+4991871	246	1027689	0	Butler	Michael	2026-09-22 00:00:00	381.66	381.66	4510 N Illinois St #5		Swansea	IL	62226     	8B	Printing			False	False	True		False
+4991872	246	1027689	0	Friends of Patrick Costa		2026-08-25 00:00:00	250	250	2001 Broadway		Mount Vernon	IL	62864     	8B	Campaign Donation			False	False	True		False
+4991873	246	1027689	0	All Stars-n-Stitches		2026-09-04 00:00:00	1825.9	1825.9	PO Box 10	418 E. Main St	Benton	IL	62812     	8B	Signs			False	False	True		False
 4991874	25673	1027696	0	Romeoville Fraternal Order of Police		2026-08-16 00:00:00	500	500	1050 W Romeo Rd		Romeoville	IL	60446     	8B	Donation			False	False	False		False
 4991875	25673	1027696	0	U-Haul		2026-09-14 00:00:00	162.7	1391.33	645 S Weber Rd		Romeoville	IL	60446     	8B	Storage			False	False	False		False
 4991876	25673	1027696	0	U-Haul		2026-09-02 00:00:00	183.7	1391.33	645 S Weber Rd		Romeoville	IL	60446     	8B	Storage			False	False	False		False
@@ -397845,7 +397842,6 @@
 4992876	32198	1028545	0	Seidman	Kenny	2026-09-29 00:00:00	300	300	303 Cherry valley rd		Vernon Hills	IL	60061     	8B	Fund raising - entertainment			False	False	False		False
 4992877	32198	1028545	0	Committee to Elect Lucy Evans		2026-09-28 00:00:00	200	200	1221 River Oak Dr		Naperville	IL	60565     	6B	Contribution			False	False	False		False
 4992878	32198	1028545	0	ActBlue Illinois		2026-09-24 00:00:00	211.48	211.48	PO Box 441146		Somerville	MA	02144     	8B	Bank charges			False	False	False		False
-4992879	32198	1028545	0	Paul Frank for Lake County		2026-09-15 00:00:00	200	200	2916 Parkside Drive		Highland Park	IL	60035     	6B	Contribution			False	False	False		False
 4992880	32198	1028545	0	Mail Chimp		2026-09-10 00:00:00	260	260	405 N. Angier Ave.		Atlanta	IL	30308     	8B	newsletter			False	False	False		False
 4992881	32198	1028545	0	Airbnb		2026-08-07 00:00:00	158.43	158.43	888 Brannan St		San Francisco	IL	94103     	8B	Springfield IDCCA housing airbnb			False	False	False		False
 4992882	32198	1028545	0	Perfect Promotions		2026-07-30 00:00:00	838.15	838.15	37574 Sarah Drive		Wadsworth	IL	60083     	8B	Promotional items			False	False	False		False
@@ -397855,6 +397851,7 @@
 4992886	32198	1028545	0	Lake Zurich Lions Club		2026-07-17 00:00:00	308	308	P.O. Box 222		Lake Zurich	IL	60047     	8B	Donation			False	False	False		False
 4992887	32198	1028545	0	Susana for Chicago		2026-07-01 00:00:00	2000	2000	Susana A. Mendoza 6351 W Montrose A		Chicago	IL	60634     	6B	Contribution			False	False	False		False
 4992888	32198	1028545	0	Associated Graphics		2026-07-01 00:00:00	276.04	276.04	525 N Lake St, Mundelein		Mundelein	IL	60060     	8B	T-Shirts			False	False	False		False
+4992879	32198	1028545		Paul Frank for Lake County		2026-09-15 00:00:00	200	200	Redaction Requested					6B				False	False	False		True
 4992889	41510	1028551	0	ClariFi Digital LLC		2026-10-21 00:00:00	100000	0	600 Enterprise Dr		Oak Brook	IL	60523     	9B	Cable Buy	Nabeela Syed	Illinois State Senate	False	True	False		False
 4992890	41510	1028551	0	Strive Strategies Group		2026-10-21 00:00:00	15000	0	600 Enterprise Dr		Oak Brook	IL	60523     	9B	Video Production	Nabeela Syed	Illinois State Senate	False	True	False		False
 4992891	41510	1028551	0	Strive Strategies Group		2026-10-21 00:00:00	199750	0	600 Enterprise Dr		Oak Brook	IL	60523     	9B	Digital Advertising	Nabeela Syed	Illinois State Senate	False	True	False		False
@@ -397890,3 +397887,17 @@
 4992921	581	1028573	0	Julie Morrison for State Senate		2026-09-18 00:00:00	1000	1000	PO Box 646		Deerfield	IL	60015     	6B	Contribution			False	False	False		False
 4992922	35354	1028578	0	Southland Strong Democratic PAC		2026-07-10 00:00:00	5000	5000	116 Dawn Lane		Chicago Heights	IL	60411     	8B	Gotv			False	False	False		False
 4992923	41288	1028585	0	Change Media Group		2026-10-23 00:00:00	15000	0	PMB 285		St. Clair Shores	MI	48080     	9B	Digital advertising	Marc Parker	Circuit Judge Madison 3rd Judicial Circuit	True	False	False		False
+4992924	478	1028620	0	Nelson	Judy	2026-05-04 00:00:00	520.66	520.66	Grove St		Jacksonville	IL	62650     	8B	Office supplies			False	False	False		False
+4992925	478	1028628	0	Branstiter Printing Co		2026-09-01 00:00:00	470.8	470.8	217 E Morgan		Jacksonville	IL	62650     	8B	Printing			False	False	False		False
+4992926	478	1028628	0	ILDCCA		2026-07-03 00:00:00	100	1850	5285 S 5TH		SPRINGFIELD	IL	62701     	8B	Donation			False	False	False		False
+4992927	478	1028628	0	ILDCCA		2026-07-03 00:00:00	150	1850	5285 S 5TH		SPRINGFIELD	IL	62701     	8B	Ad book			False	False	False		False
+4992928	478	1028628	0	ILDCCA		2026-07-31 00:00:00	600	1850	5285 S 5TH		SPRINGFIELD	IL	62701     	8B	Donation			False	False	False		False
+4992929	478	1028628	0	ILDCCA		2026-07-03 00:00:00	1000	1850	5285 S 5TH		SPRINGFIELD	IL	62701     	8B	Donation			False	False	False		False
+4992930	478	1028628	0	Ryan	Dana	2026-07-27 00:00:00	198.22	198.22	Pine St		Jacksonville	IL	62650     	8B	Supplies			False	False	False		False
+4992931	246	1028629	0	Friends of Dave Severin		2026-07-01 00:00:00	150	250	PO Box 10		Benton	IL	62812     	8B	Campaign Contribution			False	False	False		False
+4992932	246	1028629	0	Friends of Dave Severin		2026-09-22 00:00:00	100	250	PO Box 10		Benton	IL	62812     	8B	Campaign Contribution			False	False	False		False
+4992933	246	1028629	0	Jones	Blake E.	2026-09-22 00:00:00	720.86	720.86	1124 Oakland Ave		Mount Vernon	IL	62864     	8B	Supplies / Travel			False	False	False		False
+4992934	246	1028629	0	Peacock Print & Marketing		2026-09-17 00:00:00	257.5	257.5	1112 Jordan		Mount Vernon	IL	62864     	8B	Printing			False	False	False		False
+4992935	246	1028629	0	Butler	Michael	2026-09-22 00:00:00	381.66	381.66	4510 N Illinois St #5		Swansea	IL	62226     	8B	Printing			False	False	False		False
+4992936	246	1028629	0	Friends of Patrick Costa		2026-08-25 00:00:00	250	250	2001 Broadway		Mount Vernon	IL	62864     	8B	Campaign Donation			False	False	False		False
+4992937	246	1028629	0	All Stars-n-Stitches		2026-09-04 00:00:00	1825.9	1825.9	PO Box 10	418 E. Main St	Benton	IL	62812     	8B	Signs			False	False	False		False

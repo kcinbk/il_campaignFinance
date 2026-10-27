@@ -20653,8 +20653,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 40799	Frank	Linda	814  W Sunset Dr		Glenwood	IL	60425     	Treasurer	708.755.8647        	False
 100368	Frank	Mike	892 Interlacken Dr.		Lake Zurich	IL	60047     	Treasurer	847.636.1383        	False
 19676	Frank	Miriam	3422 Park Place		Evanston	IL	60201     	Chair	(847)475-5154       	False
-47606	Frank	Paul	2916 Parkside Dr		Highland Park	IL	60035     	Chair	224.707.1101        	False
-99584	Frank	Paul	2916 Parkside Dr		Highland Park	IL	60035     	Treasurer	224.707.1101        	False
+47606	Frank	Paul	Redaction Requested					Chair		True
+99584	Frank	Paul	Redaction Requested					Treasurer		True
 16531	Frank	Peter J.	509 Pinecrest Lane		Wilmette	IL	60091     	Treasurer	(708)251-5476       	False
 44563	Frank	Peter J.	509 Pinecrest Lane		Wilmette	IL	60091     	Chair	(708)251-5476       	False
 28007	Frank	Scott	606 W Walnut		Mason City	IL	62664     	Treasurer	217/482-5828        	False
