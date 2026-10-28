@@ -23749,6 +23749,7 @@ ID	CommitteeID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	ResignD
 33483	36356	Meade	Mittcheleng	205 E. Clinton St.		Joliet	IL	60432     	Treasurer	2020-12-08 08:46:29.767000000	False
 35457	36358	Kipfer	Ryan	0N360 Herrick Drive		Wheaton	IL	60187     	Treasurer	2022-06-28 09:09:33.323000000	False
 42155	36358	Ellis	Andrew B	2019 Glencoe St		Wheaton	IL	60187     	Treasurer	2025-01-14 09:42:05.133000000	False
+43307	36363	Gilmartin	Chris	4401 Washington St.		Downers Grove	IL	60515     	Treasurer	2026-10-26 15:48:31.870000000	False
 33561	36373	White	Kimberly.	548 Eagle Brook Ln.		Naperville	IL	60565     	Chair	2021-01-12 14:04:31.490000000	False
 35147	36373	Chawla	Roger.	2752 Forgue Drive	Suite 100-B	Naperville	IL	60564     	Treasurer	2022-01-10 09:13:27.437000000	False
 35338	36386	Augstin	Daniel	107 N Evergreen Ln		Bloomington	IL	61704     	Treasurer	2022-04-11 16:15:31.993000000	False
@@ -24219,6 +24220,7 @@ ID	CommitteeID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	ResignD
 40059	39585	McMurtry	Robert	4007 Juneberry Rd.		Naperville	IL	60574     	Treasurer	2024-10-29 08:19:11.190000000	False
 38654	39595	Towery	Sherri	3237 Heritage Blvd.		Matteson	IL	60443     	Chair	2024-04-18 13:43:37.260000000	False
 38655	39595	Irvin	Cori	825 Long Oak Rd.		Manteno	IL	60950     	Treasurer	2024-04-18 13:43:40.553000000	False
+43305	39617	Borgia	Kevin	2457 W. Foster Ave. #2		Chicago	IL	60625     	Treasurer	2026-10-26 11:34:03.090000000	False
 42400	39618	Dawkins	Kevin	7831 S. Langley Ave.		Chicago	IL	60619     	Treasurer	2025-06-18 09:20:47.693000000	False
 42407	39621	Davis	Lisa J.	Redaction Requested					Chair	2025-06-20 11:06:45.963000000	True
 42408	39621	Brnfre	Erica	434 S. Harper		Glenwood	IL	60425     	Treasurer	2025-06-20 11:06:55.840000000	False
@@ -24363,6 +24365,7 @@ ID	CommitteeID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	ResignD
 42492	40755	Mateo	Darcy	504 W. Hillcrest Dr.		Romeoville	IL	60446     	Treasurer	2025-08-08 08:23:32.827000000	False
 42954	40761	Garris	John	273 Sandy Point Lane		Lake Zurich	IL	60047     	Chair	2026-05-07 09:04:42.773000000	False
 42955	40761	Ronczkowski	Patrice	9 Heather Lane		Hawthorne Woods	IL	60047     	Treasurer	2026-05-07 09:04:49.133000000	False
+43306	40786	Clemons	Dustin	1212 14th St.		Highland	IL	62249     	Treasurer	2026-10-26 12:00:00	False
 42718	40789	Hamilton	Sue	104 Jeremy Dr		Carterville	IL	62918     	Treasurer	2026-01-26 14:44:14.747000000	False
 42650	40794	Isquith	Rantch	230 Northgate #577		Lake Forest	IL	60045     	Treasurer	2025-12-08 08:16:14.383000000	False
 43271	40795	Wiers	Sharilyn	9327 South Bell Ave.		Chicago	IL	60643     	Co-Chair	2026-10-02 11:42:17.350000000	False
@@ -24407,6 +24410,7 @@ ID	CommitteeID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	ResignD
 43169	41198	Varnado	Symone	PO Box 77		Chicago	IL	60690     	Chair	2026-08-06 10:51:04.213000000	False
 43170	41198	Varnado	Symone	PO Box 77		Chicago	IL	60690     	Treasurer	2026-08-06 10:51:07.890000000	False
 43244	41214	Tran	Teresa	Redaction Requested					Treasurer	2026-09-18 08:13:53.877000000	True
+43308	41221	Kim.	Holly	19377 W. Fairview Dr.		Mundelein	IL	60062     	Treasurer	2026-10-26 16:24:29.213000000	False
 43292	41223	Collier	Sharrye	1937 Reserve Walkway		Belleville	IL	62220     	Treasurer	2026-10-15 14:55:09.230000000	False
 43045	41225	James-Watson	Glynis	PO Box 1020		Harvey	IL	60426     	Treasurer	2026-06-16 13:36:01.117000000	False
 43143	41252	Carpenter	Jade	1514 Dewey Ave.		Evanston	IL	60201     	Treasurer	2026-07-17 13:17:26.350000000	False

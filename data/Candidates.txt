@@ -1985,6 +1985,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 16082	Bentel	Geraldine "Gerr	1504 N 12th Ave		Melrose Park	IL	60160	Assessor	Township	Proviso	Cook	Independent	False
 298	Bentivenga	Vincent	222 Vine St		Park Ridge	IL	60068	Judge	Circuit Court	Cook	Cook		False
 6618	Bentley	John N	536 Central Ave		Highwood	IL	60040	Alderperson	Ward	Highwood 4  	Lake		False
+54404	Benton	Bonnie	530 Spruce Lane		Lisle	IL	60532     	Trustee	Village	Lisle			False
 34309	Benton	Bryce	2021 Cardinal Dr		Springfield	IL	62704	State Senator	Senate	50	Sangamon	Republican	False
 42887	Benton	Harry	13250 Sunderlin Road		Plainfield	IL	60585	Trustee	Village	Plainfield	Will	Non Partisan	False
 42912	Benton	Harry	13250 Sunderlin Rd		Plainfield	IL	60585	State Representative	Representative	97	Will	Democratic	False
@@ -6312,6 +6313,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 17446	Daly	Mary Ellen E	1339 W Rosedale		Chicago	IL	60660	Member	County Board	Cook 	Cook	Democratic	False
 23239	Dalzell	Richard S	4522 W 124th St		Alsip	IL	60803	Trustee	Village	Alsip	Cook	Independent	False
 11596	Dalzell	Ronald L	3 N 46 Lakeview Court		West Chicago	IL	60185	Hwy Commissioner	Township	Wayne	DuPage	Republican	False
+54406	Damato	Brian	4567 Basswood Drive		Lisle	IL	60532     	Trustee	Library	Lisle		Non Partisan	False
 600	Damato	Frank A						Member	County Board	Cook 	Cook	Democratic	False
 23217	Damato	Jennifer	207 Kirman Ave		Romeoville	IL	60446	Trustee	Village	Romeoville	Will		False
 9832	Dames	Jeffrey M			Joliet	IL		Commissioner	Park	Joliet	Will	Non Partisan	False
@@ -7923,6 +7925,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 46506	Ebner	Jennifer	2316 2nd St		Peru	IL	61354	Clerk	County	LaSalle	LaSalle	Republican	False
 46725	Ebrahimi	Shamoon	442 Courtesy Ln		Des Plaines	IL	60018	Alderperson	Ward	Des Plaines 8	Cook	Non Partisan	False
 1300	Eby	Wesley E			Hanover Park			Trustee	Village	Hanover Park	Cook/DuPage		False
+54403	Eccleston	John Ramon	6618 Pinehurst Court		Lisle	IL	60532     	Clerk	Village	Lisle			False
 22787	Echeverria	Teresa	4346 S Center Ave		Lyons	IL		Trustee	Village	Lyons	Cook		False
 15262	Echtenacher	Kenneth B	536 First St		Gurnee	IL	60031	Trustee	Township	Warren	Lake		False
 18159	Echternach	Kenneth	19832 114th Ave		Mokena	IL	60448	Commissioner	Park	Mokena	Will	Non Partis	False
@@ -10189,6 +10192,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 728	Gilman	Ann	19216 Bockman		Marengo	IL	60152	Member	County Board	McHenry 6  	McHenry	Republican	False
 27440	Gilman	Doug	9044 Reserve Dr		Willow Springs	IL	60480	Member	School	107	Cook		False
 43760	Gilmartin	Chris	4401 Washington St.		Downers Grove	IL	60515	Commissioner	Village	Downers Grove	DuPage	Non Partisan	False
+54407	Gilmartin	Chris	4401 Washington Street		Downers Grove	IL	60515     	Mayor	Village	Downers Grove	DuPage		False
 4643	Gilmore	Gregory	9152 South Perry Avenue		Chicago	IL	60620	State Representative	Representative	32 	Cook	Democratic	False
 6981	Gilmore	Jack						Trustee	Township	Collinsville	Madison		False
 46972	Gilmore	Ken	2000 Providence Ln		Springfield	IL	62711	Member	School	186			False
@@ -18982,6 +18986,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 240	McPike	Jim	2200 Krug Place		Alton	IL	62002	State Representative	Representative	112	Madison	Democratic	False
 4760	McPike	Jim	2200 Krug Place		Alton	IL	62202	State Representative	Representative	111	Madison	Democratic	False
 12281	McQueen	Carl	429 Dolly Dr		Manteno	IL		Trustee	Village	Manteno	Kankakee	Non Partisan	False
+54405	McQuillan	Edward	5010 Oak Trail Court		Lisle	IL	60532     	Trustee	Village	Lisle			False
 52947	McQuillan	Edward F.	5010 Oak Trail Court		Lisle	IL	60532     	Clerk	Village	Lisle			False
 24322	McQuillan	Robert "Bob"	2677 Berkshire Dr		Geneva	IL	60134	State Representative	Representative	50 	Kane	Republican	False
 10345	McQuinn	Jim	1708 Canndlewick Dr		Poplar Grove	IL	61065	Member	County Board	Boone 1  	Boone	Republican	False

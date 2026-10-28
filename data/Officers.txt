@@ -5952,8 +5952,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 37819	Borgeaud	John F	2702 Clinton Ave		Berwyn	IL	60402     	Chair	708/749-1412        	False
 29431	Borgeaud	John F	2702 Clinton Ave		Berwyn	IL	60402     	Treasurer	708/749-1412        	False
 7613	Borggren	Paul S	1217 Wild Rose Lane		Lake Forest	IL	60045     	Chair	                    	False
-90141	Borgia	Kevin	2457 W. Foster Ave. #2		Chicago	IL	60625     	Chair	                    	False
 90142	Borgia	Kevin	2457 W. Foster Ave. #2		Chicago	IL	60625     	Treasurer	                    	False
+90141	Borgia	Kevin	2457 W. Foster Ave.		Chicago	IL	60625     	Chair	                    	False
 37734	Borgo	Tina	15501 Lakeview Dr.		Manhattan	IL	60442     	Chair		False
 37735	Borgo	Tina	15501 Lakeview Dr.		Manhattan	IL	60442     	Treasurer		False
 18557	Borgognoni	Gayla	PO Box 1325		Carbondale	IL	62901     	Chair	618/549-2444        	False
@@ -9174,6 +9174,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 51974	Campos	Christina	708 Simms St		Aurora	IL	60505     	Chair	630.862.6918        	False
 17556	Campos	Eriberto	2850 S Avers		Chicago	IL	60623     	Chair	(312)522-3188       	False
 86040	Campos	Esiah	2280 N. Tedy Lane		Round Lake Beach	IL	60073     	Chair	847.254.2633        	False
+100633	Campos	Esiah	2280 N. Tedy Lane		Round Lake Beach	IL	60073     	Treasurer	224.376.7932        	False
 50382	Campos	Gloria M	1101 N 16th St		Murphysboro	IL	62966     	Chair	618.713.0709        	False
 49041	Campos	Juan	1645 W Jackson Blvd, 7th floor		Chicago	IL	60612     	Chair	312-738-2800        	False
 49042	Campos	Juan	1645 W Jackson Blvd	7th FL	Chicago	IL	60612     	Treasurer	312-738-2800        	False
@@ -35624,6 +35625,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 6405	Kreuser	Thomas P.	1016 Lake St        .		Libertyville	IL	60048     	Treasurer	(708)362-5000       	False
 25507	Kreutzberg	Jan	5201 Schwarz Rd		Highland	IL	62249     	Treasurer	618-675-3307        	False
 14929	Kreutzer	Alva	1366 Cumberland Circle East		Elk Grove Village	IL	60007     	Chair	(708)228-0562       	False
+100628	Kreutzer	Alva J.	700 Bordeaux Ct, Unit B		Elk Grove Village	IL	60007     	Chair	708.917.7186        	False
+100629	Kreutzer	Alva J.	700 Bordeaux Ct, Unit B		Elk Grove Village	IL	60007     	Treasurer	708.917.7186        	False
 22564	Kreutzer	Daniel W	1366 Cumberland Circle East		Elk Grove Village	IL	60007     	Chair	(847)228-0562       	False
 15352	Kreutzer	Daniel W	1366 Cumberland Circle East		Elk Grove Village	IL	60007     	Treasurer	(708)228-0562       	False
 48939	Krevda	Neil	One North Capitol, Ste 515		Indianpolis	IN	46204     	Chair	317.631.7179        	False
@@ -37989,6 +37992,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 99485	Libby	Joshua	3108 W Greenfield Dr		Freeport	IL	61032     	Chair	815-291-7379        	False
 99486	Libby	Joshua	3108 W Greenfield Dr		Freeport	IL	61032     	Treasurer	815-291-7379        	False
 13857	Libby	M Eileen	134 N Lasale St    .		Chicago	IL	60602     	Treasurer	                    	False
+100632	Libby	Michelle	740 61st Street		Downers Grove	IL	60516     	Treasurer	                    	False
 86087	Liberman	Edward	694 Chippewa		Round Lake Heights	IL	60073     	Chair	                    	False
 11382	Libert	John	1004 Rocky Ford Rd.		Bloomington	IL	61704     	Chair	829-9394            	False
 16521	Libert	Louis	4100 Madison, Suite 3		Hillside	IL	60162     	Chair	                    	False
@@ -41551,6 +41555,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 11879	McCabe	John F.	200 W. Adams Street	Suite # 2000	Chicago	IL	60606     	Chair	(312)606-2012       	False
 11880	McCabe	John F.	205 W Randolph		Chicago	IL	60606     	Treasurer	(312)201-1570       	False
 25632	McCabe	L  Ann	Amoco Petroleum Products	200 E Randolph Dr Mail Code 1701	Chicago	IL	60601     	Treasurer	(312) 856-2605      	False
+100630	McCabe	Matt	1714 N. Sawyer Ave.		Chicago	IL	60647     	Treasurer	                    	False
 48936	McCabe	Michael J	4 Lawrence Sq		Springfield	IL	62704     	Chair	217.523.3722        	False
 48937	McCabe	Michael J	4 Lawrence Sq		Springfield	IL	62704     	Treasurer	217.523.3722        	False
 35214	McCabe	Mike	125 SW Jefferson, 18W		Peoria	IL	61602     	Chair	309/676-6342        	False
@@ -54834,6 +54839,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 11867	Ridgely	Timothy	Rt. 1, Box 41		Parkersburg	IL	62452     	Chair	618/442-5255        	False
 26900	Ridgeway	Betty June	30 Victoria Dr		Pontoon Beach	IL	62040     	Treasurer	618/797-0272        	False
 9744	Ridgeway	Bill	443 East Flora		Flora	IL	62839     	Chair	618/662-4734        	False
+100631	Ridgeway	Chris	2650 W. Belden Ave.		Chicago	IL	60647     	Co-Chair	                    	False
 9746	Ridgeway	Pat	443 East Flora		Flora	IL	62839     	Treasurer	618/662-4734        	False
 34886	Ridgeway	Patricia S	2 Holly Ln		Flora	IL	62839     	Chair	618/662-4734        	False
 47123	Ridgnal	Etoy	516 SE Morrison St	Ste 410	Portland	OR	97214     	Chair	312.479.7386        	False
