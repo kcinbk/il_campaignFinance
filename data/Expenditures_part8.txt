@@ -360739,55 +360739,55 @@
 4955764	404	1024824	0	Team Shanahan		2026-09-09 00:00:00	2500	2500	8005 Expedition Street		Joliet	IL	60431     	6B	Contribution			False	False	False		False
 4955765	404	1024824	0	The People for Emanual Chris Welch		2026-09-09 00:00:00	5000	5000	1005 W. Roosevelt Rd	Suite D	Westchester	IL	60154     	6B	Contribution			False	False	False		False
 4955766	35009	1024825	0	Inmotion hosting		2026-08-21 00:00:00	185.88	185.88	360 N Pacific Coast Hwy	Suite1055	El Segundo	CA	90245     	8B	Website			False	False	False		False
-4955767	1018	1024835	0	Kane County Democratic Party		2026-08-11 00:00:00	300	300	700 East Main Street St.		St Charles	IL	60173     	6B	Reimbursement			False	False	False		False
-4955768	1018	1024835	0	NICOR		2026-07-10 00:00:00	63.52	191.67	PO Box 5407		Carol Stream	IL	60197-5407	8B	Utilities			False	False	False		False
-4955769	1018	1024835	0	NICOR		2026-08-10 00:00:00	63.96	191.67	PO Box 5407		Carol Stream	IL	60197-5407	8B	Utilities			False	False	False		False
-4955770	1018	1024835	0	NICOR		2026-09-11 00:00:00	64.19	191.67	PO Box 5407		Carol Stream	IL	60197-5407	8B	Utilities			False	False	False		False
-4955771	1018	1024835	0	MailChimp		2026-07-06 00:00:00	60	180	675 Ponce de Leon Dr	Suite 5000	Atlanta	GA	30308     	8B	Computer - software			False	False	False		False
-4955772	1018	1024835	0	MailChimp		2026-08-06 00:00:00	60	180	675 Ponce de Leon Dr	Suite 5000	Atlanta	GA	30308     	8B	Computer - software			False	False	False		False
-4955773	1018	1024835	0	MailChimp		2026-09-08 00:00:00	60	180	675 Ponce de Leon Dr	Suite 5000	Atlanta	GA	30308     	8B	Computer - software			False	False	False		False
-4955774	1018	1024835	0	Google		2026-07-02 00:00:00	67.2	201.6	1600 Amphitheatre Pkwy		Mountain View	CA	94043     	8B	Computer - software			False	False	False		False
-4955775	1018	1024835	0	Google		2026-08-03 00:00:00	67.2	201.6	1600 Amphitheatre Pkwy		Mountain View	CA	94043     	8B	Computer - software			False	False	False		False
-4955776	1018	1024835	0	Google		2026-09-02 00:00:00	67.2	201.6	1600 Amphitheatre Pkwy		Mountain View	CA	94043     	8B	Computer - software			False	False	False		False
-4955777	1018	1024835	0	Oriental Trading Company		2026-07-03 00:00:00	269.5	269.5	4206 S 108th St		Omaha	NE	68137     	8B	Promotional items			False	False	False		False
-4955778	1018	1024835	0	Manriguez	Maria	2026-07-03 00:00:00	800	2400	2003 Aspen Drive		Woodstock	IL	60098     	8B	Rent			False	False	False		False
-4955779	1018	1024835	0	Manriguez	Maria	2026-08-05 00:00:00	800	2400	2003 Aspen Drive		Woodstock	IL	60098     	8B	Rent			False	False	False		False
-4955780	1018	1024835	0	Manriguez	Maria	2026-09-03 00:00:00	800	2400	2003 Aspen Drive		Woodstock	IL	60098     	8B	Rent			False	False	False		False
-4955781	1018	1024835	0	Nationbuilder		2026-07-09 00:00:00	94.86	590.17	448 S Hill St.	Suite 200	Los Angeles	CA	90013     	8B	Computer - software			False	False	False		False
-4955782	1018	1024835	0	Nationbuilder		2026-07-31 00:00:00	25.74	590.17	448 S Hill St.	Suite 200	Los Angeles	CA	90013     	8B	Bank charges			False	False	False		False
-4955783	1018	1024835	0	Nationbuilder		2026-08-10 00:00:00	94.86	590.17	448 S Hill St.	Suite 200	Los Angeles	CA	90013     	8B	Computer - software			False	False	False		False
-4955784	1018	1024835	0	Nationbuilder		2026-08-29 00:00:00	105.48	590.17	448 S Hill St.	Suite 200	Los Angeles	CA	90013     	8B	Bank charges			False	False	False		False
-4955785	1018	1024835	0	Nationbuilder		2026-09-09 00:00:00	94.86	590.17	448 S Hill St.	Suite 200	Los Angeles	CA	90013     	8B	Computer - software			False	False	False		False
-4955786	1018	1024835	0	Nationbuilder		2026-09-30 00:00:00	174.37	590.17	448 S Hill St.	Suite 200	Los Angeles	CA	90013     	8B	Bank charges			False	False	False		False
-4955787	1018	1024835	0	Office Depot/Office Max		2026-08-24 00:00:00	58.61	345.87	4429 US Rt 14		Crystal Lake	IL	60014     	8B	Office supplies			False	False	False		False
-4955788	1018	1024835	0	Office Depot/Office Max		2026-08-03 00:00:00	125.43	345.87	4429 US Rt 14		Crystal Lake	IL	60014     	8B	Office supplies			False	False	False		False
-4955789	1018	1024835	0	Office Depot/Office Max		2026-08-04 00:00:00	61.65	345.87	4429 US Rt 14		Crystal Lake	IL	60014     	8B	Printing			False	False	False		False
-4955790	1018	1024835	0	Office Depot/Office Max		2026-09-16 00:00:00	61.65	345.87	4429 US Rt 14		Crystal Lake	IL	60014     	8B	Supplies			False	False	False		False
-4955791	1018	1024835	0	Office Depot/Office Max		2026-09-22 00:00:00	38.53	345.87	4429 US Rt 14		Crystal Lake	IL	60014     	8B	Printing			False	False	False		False
-4955792	1018	1024835	0	Minuteman Press		2026-07-02 00:00:00	853	7210.16	5128 N Second St.		Loves Park	IL	51111     	8B	Printing			False	False	False		False
-4955793	1018	1024835	0	Minuteman Press		2026-08-14 00:00:00	171.93	7210.16	5128 N Second St.		Loves Park	IL	51111     	8B	Printing			False	False	False		False
-4955794	1018	1024835	0	Minuteman Press		2026-09-09 00:00:00	152.25	7210.16	5128 N Second St.		Loves Park	IL	51111     	8B	Printing			False	False	False		False
-4955795	1018	1024835	0	Minuteman Press		2026-09-09 00:00:00	5709.38	7210.16	5128 N Second St.		Loves Park	IL	51111     	8B	Printing			False	False	False		False
-4955796	1018	1024835	0	Minuteman Press		2026-09-24 00:00:00	323.6	7210.16	5128 N Second St.		Loves Park	IL	51111     	8B	Printing			False	False	False		False
-4955797	1018	1024835	0	Duke's Alehouse		2026-09-24 00:00:00	3657.25	3657.25	110 N Main St		Crystal Lake	IL	60014     	8B	Food			False	False	False		False
-4955798	1018	1024835	0	Crystal Lake Engraving		2026-07-07 00:00:00	289.58	321.76	9112 Butternut Dr,		Crystal Lake	IL	60014     	8B	Printing			False	False	False		False
-4955799	1018	1024835	0	Crystal Lake Engraving		2026-08-13 00:00:00	32.18	321.76	9112 Butternut Dr,		Crystal Lake	IL	60014     	8B	Office supplies			False	False	False		False
-4955800	1018	1024835	0	ComEd		2026-07-22 00:00:00	97.22	306.12	PO Box 6111		Carol Stream	IL	60197     	8B	Utilities			False	False	False		False
-4955801	1018	1024835	0	ComEd		2026-08-20 00:00:00	96.5	306.12	PO Box 6111		Carol Stream	IL	60197     	8B	Utilities			False	False	False		False
-4955802	1018	1024835	0	ComEd		2026-09-21 00:00:00	112.4	306.12	PO Box 6111		Carol Stream	IL	60197     	8B	Utilities			False	False	False		False
-4955803	1018	1024835	0	Huntley Fall Fest		2026-09-21 00:00:00	400	400	12172 S Route 47		Huntley	IL	60142     	8B	Sponsorship			False	False	False		False
-4955804	1018	1024835	0	United States Post Office		2026-07-13 00:00:00	250	2259	301 E. Congress Pkwy		Crystal Lake	IL	60014     	8B	Post office box			False	False	False		False
-4955805	1018	1024835	0	United States Post Office		2026-09-23 00:00:00	2009	2259	301 E. Congress Pkwy		Crystal Lake	IL	60014     	8B	Postage			False	False	False		False
-4955806	1018	1024835	0	Illinois Democratic County Chair's Association		2026-07-03 00:00:00	800	3600	P.O.Box 3445		Springfield	IL	62708     	8B	Yard signs			False	False	False		False
-4955807	1018	1024835	0	Illinois Democratic County Chair's Association		2026-07-03 00:00:00	2000	3600	P.O.Box 3445		Springfield	IL	62708     	8B	Sponsorship			False	False	False		False
-4955808	1018	1024835	0	Illinois Democratic County Chair's Association		2026-09-21 00:00:00	800	3600	P.O.Box 3445		Springfield	IL	62708     	6B	Contribution			False	False	False		False
-4955809	1018	1024835	0	McHenry County Fair Assoc.		2026-08-10 00:00:00	379	379	McHenry County Fair Grounds		Woodstock	IL	60098     	8B	Fund raising - hall rental			False	False	False	USA	False
-4955810	1018	1024835	0	McHenry County Juneteenth Festival		2026-08-17 00:00:00	250	250	P.O. Box 41		Crystal Lake	IL	60039     	8B	Sponsorship			False	False	False		False
-4955811	1018	1024835	0	WCPT 820 Heartland Signal		2026-08-25 00:00:00	3200	3200	5475 N. Milwaukee Ave.		Chicago	IL	60630     	8B	Advertising - radio			False	False	False		False
-4955812	1018	1024835	0	Citizens for Pat Shea		2026-08-31 00:00:00	250	250	1006 Winslow Ave.		Woodstock	IL	60098     	6B	Reimbursement			False	False	False		False
-4955813	1018	1024835	0	McHenry Area Chamber of Commerce		2026-09-17 00:00:00	500	500	1307 N. Green St.		McHenry	IL	60050     	8B	Sponsorship			False	False	False		False
-4955814	1018	1024835	0	Friends of Christine Hamm		2026-09-21 00:00:00	250	250	11713 Barberry Ln		Huntley	IL	60142-8302	6B	Reimbursement			False	False	False		False
-4955815	1018	1024835	0	Warp Corps		2026-09-24 00:00:00	1458.24	1458.24	114 N Benton St.		Woodstock	IL	60098     	8B	T-Shirts			False	False	False		False
+4955767	1018	1024835	0	Kane County Democratic Party		2026-08-11 00:00:00	300	300	700 East Main Street St.		St Charles	IL	60173     	6B	Reimbursement			False	False	True		False
+4955768	1018	1024835	0	NICOR		2026-07-10 00:00:00	63.52	191.67	PO Box 5407		Carol Stream	IL	60197-5407	8B	Utilities			False	False	True		False
+4955769	1018	1024835	0	NICOR		2026-08-10 00:00:00	63.96	191.67	PO Box 5407		Carol Stream	IL	60197-5407	8B	Utilities			False	False	True		False
+4955770	1018	1024835	0	NICOR		2026-09-11 00:00:00	64.19	191.67	PO Box 5407		Carol Stream	IL	60197-5407	8B	Utilities			False	False	True		False
+4955771	1018	1024835	0	MailChimp		2026-07-06 00:00:00	60	180	675 Ponce de Leon Dr	Suite 5000	Atlanta	GA	30308     	8B	Computer - software			False	False	True		False
+4955772	1018	1024835	0	MailChimp		2026-08-06 00:00:00	60	180	675 Ponce de Leon Dr	Suite 5000	Atlanta	GA	30308     	8B	Computer - software			False	False	True		False
+4955773	1018	1024835	0	MailChimp		2026-09-08 00:00:00	60	180	675 Ponce de Leon Dr	Suite 5000	Atlanta	GA	30308     	8B	Computer - software			False	False	True		False
+4955774	1018	1024835	0	Google		2026-07-02 00:00:00	67.2	201.6	1600 Amphitheatre Pkwy		Mountain View	CA	94043     	8B	Computer - software			False	False	True		False
+4955775	1018	1024835	0	Google		2026-08-03 00:00:00	67.2	201.6	1600 Amphitheatre Pkwy		Mountain View	CA	94043     	8B	Computer - software			False	False	True		False
+4955776	1018	1024835	0	Google		2026-09-02 00:00:00	67.2	201.6	1600 Amphitheatre Pkwy		Mountain View	CA	94043     	8B	Computer - software			False	False	True		False
+4955777	1018	1024835	0	Oriental Trading Company		2026-07-03 00:00:00	269.5	269.5	4206 S 108th St		Omaha	NE	68137     	8B	Promotional items			False	False	True		False
+4955778	1018	1024835	0	Manriguez	Maria	2026-07-03 00:00:00	800	2400	2003 Aspen Drive		Woodstock	IL	60098     	8B	Rent			False	False	True		False
+4955779	1018	1024835	0	Manriguez	Maria	2026-08-05 00:00:00	800	2400	2003 Aspen Drive		Woodstock	IL	60098     	8B	Rent			False	False	True		False
+4955780	1018	1024835	0	Manriguez	Maria	2026-09-03 00:00:00	800	2400	2003 Aspen Drive		Woodstock	IL	60098     	8B	Rent			False	False	True		False
+4955781	1018	1024835	0	Nationbuilder		2026-07-09 00:00:00	94.86	590.17	448 S Hill St.	Suite 200	Los Angeles	CA	90013     	8B	Computer - software			False	False	True		False
+4955782	1018	1024835	0	Nationbuilder		2026-07-31 00:00:00	25.74	590.17	448 S Hill St.	Suite 200	Los Angeles	CA	90013     	8B	Bank charges			False	False	True		False
+4955783	1018	1024835	0	Nationbuilder		2026-08-10 00:00:00	94.86	590.17	448 S Hill St.	Suite 200	Los Angeles	CA	90013     	8B	Computer - software			False	False	True		False
+4955784	1018	1024835	0	Nationbuilder		2026-08-29 00:00:00	105.48	590.17	448 S Hill St.	Suite 200	Los Angeles	CA	90013     	8B	Bank charges			False	False	True		False
+4955785	1018	1024835	0	Nationbuilder		2026-09-09 00:00:00	94.86	590.17	448 S Hill St.	Suite 200	Los Angeles	CA	90013     	8B	Computer - software			False	False	True		False
+4955786	1018	1024835	0	Nationbuilder		2026-09-30 00:00:00	174.37	590.17	448 S Hill St.	Suite 200	Los Angeles	CA	90013     	8B	Bank charges			False	False	True		False
+4955787	1018	1024835	0	Office Depot/Office Max		2026-08-24 00:00:00	58.61	345.87	4429 US Rt 14		Crystal Lake	IL	60014     	8B	Office supplies			False	False	True		False
+4955788	1018	1024835	0	Office Depot/Office Max		2026-08-03 00:00:00	125.43	345.87	4429 US Rt 14		Crystal Lake	IL	60014     	8B	Office supplies			False	False	True		False
+4955789	1018	1024835	0	Office Depot/Office Max		2026-08-04 00:00:00	61.65	345.87	4429 US Rt 14		Crystal Lake	IL	60014     	8B	Printing			False	False	True		False
+4955790	1018	1024835	0	Office Depot/Office Max		2026-09-16 00:00:00	61.65	345.87	4429 US Rt 14		Crystal Lake	IL	60014     	8B	Supplies			False	False	True		False
+4955791	1018	1024835	0	Office Depot/Office Max		2026-09-22 00:00:00	38.53	345.87	4429 US Rt 14		Crystal Lake	IL	60014     	8B	Printing			False	False	True		False
+4955792	1018	1024835	0	Minuteman Press		2026-07-02 00:00:00	853	7210.16	5128 N Second St.		Loves Park	IL	51111     	8B	Printing			False	False	True		False
+4955793	1018	1024835	0	Minuteman Press		2026-08-14 00:00:00	171.93	7210.16	5128 N Second St.		Loves Park	IL	51111     	8B	Printing			False	False	True		False
+4955794	1018	1024835	0	Minuteman Press		2026-09-09 00:00:00	152.25	7210.16	5128 N Second St.		Loves Park	IL	51111     	8B	Printing			False	False	True		False
+4955795	1018	1024835	0	Minuteman Press		2026-09-09 00:00:00	5709.38	7210.16	5128 N Second St.		Loves Park	IL	51111     	8B	Printing			False	False	True		False
+4955796	1018	1024835	0	Minuteman Press		2026-09-24 00:00:00	323.6	7210.16	5128 N Second St.		Loves Park	IL	51111     	8B	Printing			False	False	True		False
+4955797	1018	1024835	0	Duke's Alehouse		2026-09-24 00:00:00	3657.25	3657.25	110 N Main St		Crystal Lake	IL	60014     	8B	Food			False	False	True		False
+4955798	1018	1024835	0	Crystal Lake Engraving		2026-07-07 00:00:00	289.58	321.76	9112 Butternut Dr,		Crystal Lake	IL	60014     	8B	Printing			False	False	True		False
+4955799	1018	1024835	0	Crystal Lake Engraving		2026-08-13 00:00:00	32.18	321.76	9112 Butternut Dr,		Crystal Lake	IL	60014     	8B	Office supplies			False	False	True		False
+4955800	1018	1024835	0	ComEd		2026-07-22 00:00:00	97.22	306.12	PO Box 6111		Carol Stream	IL	60197     	8B	Utilities			False	False	True		False
+4955801	1018	1024835	0	ComEd		2026-08-20 00:00:00	96.5	306.12	PO Box 6111		Carol Stream	IL	60197     	8B	Utilities			False	False	True		False
+4955802	1018	1024835	0	ComEd		2026-09-21 00:00:00	112.4	306.12	PO Box 6111		Carol Stream	IL	60197     	8B	Utilities			False	False	True		False
+4955803	1018	1024835	0	Huntley Fall Fest		2026-09-21 00:00:00	400	400	12172 S Route 47		Huntley	IL	60142     	8B	Sponsorship			False	False	True		False
+4955804	1018	1024835	0	United States Post Office		2026-07-13 00:00:00	250	2259	301 E. Congress Pkwy		Crystal Lake	IL	60014     	8B	Post office box			False	False	True		False
+4955805	1018	1024835	0	United States Post Office		2026-09-23 00:00:00	2009	2259	301 E. Congress Pkwy		Crystal Lake	IL	60014     	8B	Postage			False	False	True		False
+4955806	1018	1024835	0	Illinois Democratic County Chair's Association		2026-07-03 00:00:00	800	3600	P.O.Box 3445		Springfield	IL	62708     	8B	Yard signs			False	False	True		False
+4955807	1018	1024835	0	Illinois Democratic County Chair's Association		2026-07-03 00:00:00	2000	3600	P.O.Box 3445		Springfield	IL	62708     	8B	Sponsorship			False	False	True		False
+4955808	1018	1024835	0	Illinois Democratic County Chair's Association		2026-09-21 00:00:00	800	3600	P.O.Box 3445		Springfield	IL	62708     	6B	Contribution			False	False	True		False
+4955809	1018	1024835	0	McHenry County Fair Assoc.		2026-08-10 00:00:00	379	379	McHenry County Fair Grounds		Woodstock	IL	60098     	8B	Fund raising - hall rental			False	False	True	USA	False
+4955810	1018	1024835	0	McHenry County Juneteenth Festival		2026-08-17 00:00:00	250	250	P.O. Box 41		Crystal Lake	IL	60039     	8B	Sponsorship			False	False	True		False
+4955811	1018	1024835	0	WCPT 820 Heartland Signal		2026-08-25 00:00:00	3200	3200	5475 N. Milwaukee Ave.		Chicago	IL	60630     	8B	Advertising - radio			False	False	True		False
+4955812	1018	1024835	0	Citizens for Pat Shea		2026-08-31 00:00:00	250	250	1006 Winslow Ave.		Woodstock	IL	60098     	6B	Reimbursement			False	False	True		False
+4955813	1018	1024835	0	McHenry Area Chamber of Commerce		2026-09-17 00:00:00	500	500	1307 N. Green St.		McHenry	IL	60050     	8B	Sponsorship			False	False	True		False
+4955814	1018	1024835	0	Friends of Christine Hamm		2026-09-21 00:00:00	250	250	11713 Barberry Ln		Huntley	IL	60142-8302	6B	Reimbursement			False	False	True		False
+4955815	1018	1024835	0	Warp Corps		2026-09-24 00:00:00	1458.24	1458.24	114 N Benton St.		Woodstock	IL	60098     	8B	T-Shirts			False	False	True		False
 4955816	35693	1024843	0	Belvedere Events & Banquets		2026-09-24 00:00:00	2947.95	2947.95	1170 W. Devon Ave.		Elk Grove Village	IL	60007     	8B	ER Tea			False	False	False		False
 4955817	35693	1024843	0	US Post Office		2026-07-14 00:00:00	305	305	909 W. Euclid Ave		Arlington Heights	IL	60005     	8B	Mailing			False	False	False		False
 4955818	35707	1024853	0	Google		2026-07-02 00:00:00	84	252	1600 Amphitheater Parkway		Mountain View	CA	94043     	8B	Software license			False	False	False		False
@@ -396900,11 +396900,11 @@
 4991924	40209	1027697	0	Big J's Elite Protection LLC		2025-09-20 00:00:00	615	615			Pleasant Prairie	WI	          	8B	Fund raising - hall rental			False	False	False		False
 4991925	40209	1027697	0	Demo Brewing Company		2025-09-22 00:00:00	655.55	655.55	1763 W Berteau Ave		Chicago	IL	60613     	8B	Fund raising - hall rental			False	False	False		False
 4991926	40209	1027697	0	Northshore Sound Rentals		2025-09-20 00:00:00	1300	1300	229 Arrowwood		Northbrook	IL	60062     	8B	Fund raising - entertainment			False	False	False		False
-4991927	40209	1027698	0	Big Tent Coalition		2026-08-11 00:00:00	400	400				IL	          	8B	Food			False	False	False		False
-4991928	40209	1027698	0	Mailchimp		2026-09-08 00:00:00	691.73	691.73				IL	          	8B	Subscription			False	False	False		False
-4991929	40209	1027698	0	Taco and Burrito House		2026-08-18 00:00:00	278.62	278.62	3038 N Broadway		Chicago	IL	60657     	8B	Food			False	False	False		False
-4991930	40209	1027698	0	Target		2026-07-03 00:00:00	262.37	262.37				IL	          	8B	Printing			False	False	False		False
-4991931	40209	1027698	0	Midwest Custom Print		2026-09-23 00:00:00	201.31	201.31				IL	          	8B	Printing			False	False	False		False
+4991927	40209	1027698	0	Big Tent Coalition		2026-08-11 00:00:00	400	400				IL	          	8B	Food			False	False	True		False
+4991928	40209	1027698	0	Mailchimp		2026-09-08 00:00:00	691.73	691.73				IL	          	8B	Subscription			False	False	True		False
+4991929	40209	1027698	0	Taco and Burrito House		2026-08-18 00:00:00	278.62	278.62	3038 N Broadway		Chicago	IL	60657     	8B	Food			False	False	True		False
+4991930	40209	1027698	0	Target		2026-07-03 00:00:00	262.37	262.37				IL	          	8B	Printing			False	False	True		False
+4991931	40209	1027698	0	Midwest Custom Print		2026-09-23 00:00:00	201.31	201.31				IL	          	8B	Printing			False	False	True		False
 4991932	38974	1027715	0	Sangamon County Democrats		2026-07-24 00:00:00	500	500	312 E Monroe St		Springfield	IL	62701     	8B	Donation			False	False	False		False
 4991933	10371	1027731	0	Woodward Communications		2026-07-29 00:00:00	1200	1349.98	3055 S. 4th Street		Springfield	IL	62703     	8B	Advertising - radio			False	False	False		False
 4991934	10371	1027731	0	Woodward Communications		2026-08-31 00:00:00	149.98	1349.98	3055 S. 4th Street		Springfield	IL	62703     	8B	Advertising - radio			False	False	False		False
@@ -397808,7 +397808,7 @@
 4992842	40172	1028500	0	Minuteman Press		2026-09-08 00:00:00	437.58	437.58	7937 Ogden Ave		Lyons	IL	60534     	8B	Brochures			False	False	False		False
 4992843	40172	1028500	0	Costco		2026-08-31 00:00:00	508.63	508.63	2500 S Harlem Ave		North Riverside	IL	60546     	8B	Supplies			False	False	False		False
 4992844	40172	1028500	0	Porfirio for the People		2026-08-27 00:00:00	1000	1000	522 S 10th Ave		La Grange	IL	60525     	8B	Donation			False	False	False		False
-4992845	41066	1028527	0	Data Unlimited		2026-04-14 00:00:00	9750	9750				IL	          	8B	Printing			False	False	False		False
+4992845	41066	1028527	0	Data Unlimited		2026-04-14 00:00:00	9750	9750				IL	          	8B	Printing			False	False	True		False
 4992846	40924	1028529	0	Act Blue		2026-09-30 00:00:00	19.75	156.89	PO Box 441146		Somerville	MA	02144     	8B	Fees			False	False	False		False
 4992847	40924	1028529	0	Brottman	Eli	2026-09-25 00:00:00	5000	14000	3950 Lake Shore Dr		Chicago	IL	60613     	8B	Campaign Work			False	False	False		False
 4992848	40924	1028529	0	US Post Office		2026-09-23 00:00:00	168.35	168.35	528 Pennsylvania Ave		Glen Ellyn	IL	60137     	8B	Postage			False	False	False		False
@@ -397942,3 +397942,70 @@
 4992976	41012	1028738	0	TKO Buying LLC		2026-10-22 00:00:00	15250	0	2800 Abilene Drive		Chevy Chase	MD	20815     	9B	Production	Michilla Blaise	Chicago Board of Education 5B	False	True	False		False
 4992977	41012	1028738	0	Thematic Campaigns		2026-10-22 00:00:00	35000	0	1720 W Division St		Chicago	IL	60622     	9B	Production	Hilario Dominguez	Chicago Board of Education President	False	True	False		False
 4992978	41012	1028738	0	Thematic Campaigns		2026-10-22 00:00:00	15000	0	1720 W Division St		Chicago	IL	60622     	9B	Production	Jessica Biggs	Chicago Board of Education President	True	False	False		False
+4992979	40209	1028774	0	Taco and Burrito House		2026-08-18 00:00:00	278.62	278.62	3038 N Broadway		Chicago	IL	60657     	8B	Food			False	False	False		False
+4992980	40209	1028774	0	Midwest Custom Print		2026-09-23 00:00:00	201.31	201.31	1100 West Cermak	Suite 731	Chicago	IL	60608     	8B	Printing			False	False	False		False
+4992981	40209	1028774	0	Mailchimp		2026-09-08 00:00:00	691.73	691.73	405 N Angier Ave. NE		Atlanta	GA	30308     	8B	Subscription			False	False	False		False
+4992982	40209	1028774	0	Target		2026-07-03 00:00:00	262.37	262.37	1000 Nicollet Mall		Minneapolis	MN	55403     	8B	Printing			False	False	False		False
+4992983	40209	1028774	0	Big Tent Coalition		2026-08-11 00:00:00	400	400	1623 W Huron St	Apt 1R	Chicago	IL	60622     	8B	Fund raising - hall rental			False	False	False		False
+4992984	41066	1028802	0	Data Unlimited		2026-04-14 00:00:00	9750	9750				IL	          	8B	Printing			False	False	False		False
+4992985	1018	1028812	0	NICOR		2026-07-10 00:00:00	63.52	191.67	PO Box 5407		Carol Stream	IL	60197-5407	8B	Utilities			False	False	False		False
+4992986	1018	1028812	0	NICOR		2026-08-10 00:00:00	63.96	191.67	PO Box 5407		Carol Stream	IL	60197-5407	8B	Utilities			False	False	False		False
+4992987	1018	1028812	0	NICOR		2026-09-11 00:00:00	64.19	191.67	PO Box 5407		Carol Stream	IL	60197-5407	8B	Utilities			False	False	False		False
+4992988	1018	1028812	0	MailChimp		2026-07-06 00:00:00	60	180	675 Ponce de Leon Dr	Suite 5000	Atlanta	GA	30308     	8B	Computer - software			False	False	False		False
+4992989	1018	1028812	0	MailChimp		2026-08-06 00:00:00	60	180	675 Ponce de Leon Dr	Suite 5000	Atlanta	GA	30308     	8B	Computer - software			False	False	False		False
+4992990	1018	1028812	0	MailChimp		2026-09-08 00:00:00	60	180	675 Ponce de Leon Dr	Suite 5000	Atlanta	GA	30308     	8B	Computer - software			False	False	False		False
+4992991	1018	1028812	0	Google		2026-07-02 00:00:00	67.2	201.6	1600 Amphitheatre Pkwy		Mountain View	CA	94043     	8B	Computer - software			False	False	False		False
+4992992	1018	1028812	0	Google		2026-08-03 00:00:00	67.2	201.6	1600 Amphitheatre Pkwy		Mountain View	CA	94043     	8B	Computer - software			False	False	False		False
+4992993	1018	1028812	0	Google		2026-09-02 00:00:00	67.2	201.6	1600 Amphitheatre Pkwy		Mountain View	CA	94043     	8B	Computer - software			False	False	False		False
+4992994	1018	1028812	0	Oriental Trading Company		2026-07-03 00:00:00	269.5	269.5	4206 S 108th St		Omaha	NE	68137     	8B	Promotional items			False	False	False		False
+4992995	1018	1028812	0	Manriguez	Maria	2026-07-03 00:00:00	800	2400	2003 Aspen Drive		Woodstock	IL	60098     	8B	Rent			False	False	False		False
+4992996	1018	1028812	0	Manriguez	Maria	2026-08-05 00:00:00	800	2400	2003 Aspen Drive		Woodstock	IL	60098     	8B	Rent			False	False	False		False
+4992997	1018	1028812	0	Manriguez	Maria	2026-09-03 00:00:00	800	2400	2003 Aspen Drive		Woodstock	IL	60098     	8B	Rent			False	False	False		False
+4992998	1018	1028812	0	Nationbuilder		2026-07-09 00:00:00	94.86	590.17	448 S Hill St.	Suite 200	Los Angeles	CA	90013     	8B	Computer - software			False	False	False		False
+4992999	1018	1028812	0	Nationbuilder		2026-07-31 00:00:00	25.74	590.17	448 S Hill St.	Suite 200	Los Angeles	CA	90013     	8B	Bank charges			False	False	False		False
+4993000	1018	1028812	0	Nationbuilder		2026-08-10 00:00:00	94.86	590.17	448 S Hill St.	Suite 200	Los Angeles	CA	90013     	8B	Computer - software			False	False	False		False
+4993001	1018	1028812	0	Nationbuilder		2026-08-29 00:00:00	105.48	590.17	448 S Hill St.	Suite 200	Los Angeles	CA	90013     	8B	Bank charges			False	False	False		False
+4993002	1018	1028812	0	Nationbuilder		2026-09-09 00:00:00	94.86	590.17	448 S Hill St.	Suite 200	Los Angeles	CA	90013     	8B	Computer - software			False	False	False		False
+4993003	1018	1028812	0	Nationbuilder		2026-09-30 00:00:00	174.37	590.17	448 S Hill St.	Suite 200	Los Angeles	CA	90013     	8B	Bank charges			False	False	False		False
+4993004	1018	1028812	0	Office Depot/Office Max		2026-08-24 00:00:00	58.61	345.87	4429 US Rt 14		Crystal Lake	IL	60014     	8B	Office supplies			False	False	False		False
+4993005	1018	1028812	0	Office Depot/Office Max		2026-08-03 00:00:00	125.43	345.87	4429 US Rt 14		Crystal Lake	IL	60014     	8B	Office supplies			False	False	False		False
+4993006	1018	1028812	0	Office Depot/Office Max		2026-08-04 00:00:00	61.65	345.87	4429 US Rt 14		Crystal Lake	IL	60014     	8B	Printing			False	False	False		False
+4993007	1018	1028812	0	Office Depot/Office Max		2026-09-16 00:00:00	61.65	345.87	4429 US Rt 14		Crystal Lake	IL	60014     	8B	Supplies			False	False	False		False
+4993008	1018	1028812	0	Office Depot/Office Max		2026-09-22 00:00:00	38.53	345.87	4429 US Rt 14		Crystal Lake	IL	60014     	8B	Printing			False	False	False		False
+4993009	1018	1028812	0	Minuteman Press		2026-07-02 00:00:00	853	7210.16	5128 N Second St.		Loves Park	IL	51111     	8B	Printing			False	False	False		False
+4993010	1018	1028812	0	Minuteman Press		2026-08-14 00:00:00	171.93	7210.16	5128 N Second St.		Loves Park	IL	51111     	8B	Printing			False	False	False		False
+4993011	1018	1028812	0	Minuteman Press		2026-09-09 00:00:00	152.25	7210.16	5128 N Second St.		Loves Park	IL	51111     	8B	Printing			False	False	False		False
+4993012	1018	1028812	0	Minuteman Press		2026-09-09 00:00:00	5709.38	7210.16	5128 N Second St.		Loves Park	IL	51111     	8B	Printing			False	False	False		False
+4993013	1018	1028812	0	Minuteman Press		2026-09-24 00:00:00	323.6	7210.16	5128 N Second St.		Loves Park	IL	51111     	8B	Printing			False	False	False		False
+4993014	1018	1028812	0	Duke's Alehouse		2026-09-24 00:00:00	3657.25	3657.25	110 N Main St		Crystal Lake	IL	60014     	8B	Food			False	False	False		False
+4993015	1018	1028812	0	Crystal Lake Engraving		2026-07-07 00:00:00	289.58	321.76	9112 Butternut Dr,		Crystal Lake	IL	60014     	8B	Printing			False	False	False		False
+4993016	1018	1028812	0	Crystal Lake Engraving		2026-08-13 00:00:00	32.18	321.76	9112 Butternut Dr,		Crystal Lake	IL	60014     	8B	Office supplies			False	False	False		False
+4993017	1018	1028812	0	ComEd		2026-07-22 00:00:00	97.22	306.12	PO Box 6111		Carol Stream	IL	60197     	8B	Utilities			False	False	False		False
+4993018	1018	1028812	0	ComEd		2026-08-20 00:00:00	96.5	306.12	PO Box 6111		Carol Stream	IL	60197     	8B	Utilities			False	False	False		False
+4993019	1018	1028812	0	ComEd		2026-09-21 00:00:00	112.4	306.12	PO Box 6111		Carol Stream	IL	60197     	8B	Utilities			False	False	False		False
+4993020	1018	1028812	0	Huntley Fall Fest		2026-09-21 00:00:00	400	400	12172 S Route 47		Huntley	IL	60142     	8B	Sponsorship			False	False	False		False
+4993021	1018	1028812	0	United States Post Office		2026-07-13 00:00:00	250	2259	301 E. Congress Pkwy		Crystal Lake	IL	60014     	8B	Post office box			False	False	False		False
+4993022	1018	1028812	0	United States Post Office		2026-09-23 00:00:00	2009	2259	301 E. Congress Pkwy		Crystal Lake	IL	60014     	8B	Postage			False	False	False		False
+4993023	1018	1028812	0	Illinois Democratic County Chair's Association		2026-09-21 00:00:00	800	3600	P.O.Box 3445		Springfield	IL	62708     	6B	Contribution			False	False	False		False
+4993024	1018	1028812	0	Illinois Democratic County Chair's Association		2026-07-03 00:00:00	800	3600	P.O.Box 3445		Springfield	IL	62708     	8B	Yard signs			False	False	False		False
+4993025	1018	1028812	0	Illinois Democratic County Chair's Association		2026-07-03 00:00:00	2000	3600	P.O.Box 3445		Springfield	IL	62708     	8B	Sponsorship - County Chairs Brunch			False	False	False		False
+4993026	1018	1028812	0	McHenry County Fair Assoc.		2026-08-10 00:00:00	379	379	McHenry County Fair Grounds		Woodstock	IL	60098     	8B	Fund raising - hall rental			False	False	False	USA	False
+4993027	1018	1028812	0	McHenry County Juneteenth Festival		2026-08-17 00:00:00	250	250	P.O. Box 41		Crystal Lake	IL	60039     	8B	Sponsorship			False	False	False		False
+4993028	1018	1028812	0	WCPT 820 Heartland Signal		2026-08-25 00:00:00	3200	3200	5475 N. Milwaukee Ave.		Chicago	IL	60630     	8B	Advertising - radio			False	False	False		False
+4993029	1018	1028812	0	Citizens for Pat Shea		2026-08-31 00:00:00	250	250	1006 Winslow Ave.		Woodstock	IL	60098     	6B	Ad book			False	False	False		False
+4993030	1018	1028812	0	McHenry Area Chamber of Commerce		2026-09-17 00:00:00	500	500	1307 N. Green St.		McHenry	IL	60050     	8B	Sponsorship			False	False	False		False
+4993031	1018	1028812	0	Friends of Christine Hamm		2026-09-21 00:00:00	250	250	11713 Barberry Ln		Huntley	IL	60142-8302	6B	Contribution			False	False	False		False
+4993032	1018	1028812	0	Warp Corps		2026-09-24 00:00:00	1458.24	1458.24	114 N Benton St.		Woodstock	IL	60098     	8B	T-Shirts			False	False	False		False
+4993033	1018	1028812	0	President Abraham Lincoln Hotel		2026-08-11 00:00:00	300	300	701 E. Adams St.		Springfield	IL	62701     	8B	Fund raising - hall rental			False	False	False		False
+4993034	40220	1028822	0	Air Adhart Strategies Inc		2026-09-23 00:00:00	5000	5000	1525 Kilburn Ave		Rockford	IL	61101     	8B	Consulting			False	False	False		False
+4993035	39901	1028846	0	Validus		2026-10-24 00:00:00	2657.27	0	1400 Patriot Blvd		Glenview	IL	60025     	9B	MMS Text Messaging	Margie Luczak	Chicago School Board	True	False	False		False
+4993036	39901	1028846	0	Validus		2026-10-24 00:00:00	2109.51	0	1400 Patriot Blvd		Glenview	IL	60025     	9B	MMS Text Messaging	Michelle Pierre	Chicago School Board	True	False	False		False
+4993037	39901	1028846	0	Validus		2026-10-24 00:00:00	1949.16	0	1400 Patriot Blvd		Glenview	IL	60025     	9B	MMS Text Messaging	Peter Gonzales	Chicago School Board	True	False	False		False
+4993038	39901	1028846	0	Validus		2026-10-24 00:00:00	1703.5	0	1400 Patriot Blvd		Glenview	IL	60025     	9B	MMS Text Messaging	Carlos Rivas	Chicago School Board	True	False	False		False
+4993039	39901	1028846	0	Validus		2026-10-24 00:00:00	1818.93	0	1400 Patriot Blvd		Glenview	IL	60025     	9B	MMS Text Messaging	LaPamela Williams	Chicago School Board	True	False	False		False
+4993040	39901	1028846	0	Validus		2026-10-24 00:00:00	1893.18	0	1400 Patriot Blvd		Glenview	IL	60025     	9B	MMS Text Messaging	Anthony Hargrove	Chicago School Board	True	False	False		False
+4993041	39901	1028846	0	Validus		2026-10-24 00:00:00	2355.76	0	1400 Patriot Blvd		Glenview	IL	60025     	9B	MMS Text Messaging	Isaiah White	Chicago School Board	True	False	False		False
+4993042	39901	1028846	0	Validus		2026-10-24 00:00:00	3240.19	0	1400 Patriot Blvd		Glenview	IL	60025     	9B	MMS Text Messaging	BRITTANY KIMBLE	Chicago School Board	True	False	False		False
+4993043	39901	1028846	0	Validus		2026-10-24 00:00:00	1987.47	0	1400 Patriot Blvd		Glenview	IL	60025     	9B	MMS Text Messaging	Jesus Ayala, Jr.	Chicago School Board	True	False	False		False
+4993044	39901	1028846	0	Validus		2026-10-24 00:00:00	2288.41	0	1400 Patriot Blvd		Glenview	IL	60025     	9B	MMS Text Messaging	Erika Diaz-Chavez	Chicago School Board	True	False	False		False
+4993045	39901	1028846	0	Validus		2026-10-24 00:00:00	2065.57	0	1400 Patriot Blvd		Glenview	IL	60025     	9B	MMS Text Messaging	Patrick Watson	Chicago School Board	True	False	False		False

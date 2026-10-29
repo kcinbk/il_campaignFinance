@@ -10464,6 +10464,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 42373	Chavez	Leticia	1933 W Race		Chicago	Il	60622     	Treasurer		False
 4917	Chavez	Loretta	319 W. Exchange		Geneseo	IL	61254     	Treasurer	                    	False
 79307	Chavez	Lorraine	5300 W Quincy St		Chicago	IL	60644     	Chair	312-487-9274        	False
+100636	Chavez	Luz	1615 Ridgeland		Berwyn	IL	60402     	Chair	224.420.0761        	False
+100637	Chavez	Luz	1615 Ridgeland		Berwyn	IL	60402     	Treasurer	224.420.0761        	False
 38407	Chavez	Michelle	2412 S 57th Ct		Cicero	IL	60804     	Chair	708/268-6615        	False
 79757	Chavez	Renne	4424 W. Parker Ave		Chicago	IL	60639     	Chair	773-746-1864        	False
 79758	Chavez	Renne	4424 W. Parker Ave		Chicago	IL	60639     	Treasurer	773-746-1864        	False
@@ -18837,6 +18839,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 44756	Falbo	Lindsay	1017 N Blackburn Dr		Inverness	IL	60067     	Treasurer	847-727-3337        	False
 69718	Falco	April	404 Geneva Ave		Hillside	IL	60162     	Chair	630.926.3080        	False
 37851	Falco	Elena	4535 Seeley Ave		Downers Grove	IL	60515     	Treasurer		False
+100634	Falcon	Chris	1876 1st St. Unit B		Highland Park	IL	60035     	Chair	                    	False
+100635	Falcon	Chris	1876 1st St. Unit B		Highland Park	IL	60035     	Treasurer	                    	False
 43416	Falcon	Penny	383 W Park Ave		Aurora	IL	60506     	Treasurer	630.254.8291        	False
 45061	Falcon	Penny	111 W. Park Ave., Apt. 318		Aurora	IL	60506     	Bookkeeper	630.254.8291        	False
 46957	Falcus	Megan	27 Bridlepath Dr		Lindenhurst	IL	60046     	Treasurer	847/245-3234        	False
@@ -41191,7 +41195,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 5540	Matt	Linda S.	1403 N. 54th St.		Washington Park	IL	62204     	Treasurer	                    	False
 51482	Matten	Lori	111 3rd Steet		Wilmette	IL	60091     	Treasurer	617-833-3485        	False
 40478	Matterness	Tom	520 S Rose Farm Rd		Woodstock	IL	60098     	Treasurer	815.337.3775        	False
-82112	Mattes	Dave	509 Edward Street		Sycamore	IL	60178     	Chair	847.337.9491        	False
+82112	Mattes	Dave	401 McHugh Road		Yorkville	IL	60560     	Chair	847.337.9491        	False
 68163	Matteson	Clayton	2817 Clearwater Ave.		Bloomington	IL	61704     	Treasurer	309.830.6311        	False
 41520	Matteson	Don	504 E Benton		Morris	IL	60450     	Treasurer		False
 41519	Matteson	Don	504 E Benton		Morris	IL	60450     	Chair		False

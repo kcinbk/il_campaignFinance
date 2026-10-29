@@ -4724,6 +4724,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 43161	Chavez	Amy	6 S Mill St.		Naperville	IL	60540	Member	County Board	Dupage	DuPage	Democratic	False
 10573	Chavez	Jesus	10634 S Ewing Ave		Chicago	IL	60617	Committee Person	Ward	Chicago 10 	Cook	Democratic	False
 11707	Chavez	Jose H	637 Wild Indigo		Romeoville	IL	60446	Trustee	Village	Romeoville	Will		False
+54409	Chavez	Luz	1615 Ridgeland		Berwyn	IL	60402     	Member	School	201	Cook	Independent	False
 18884	Chavez	Michelle	2412 S 57th Ct		Cicero	IL	60804	State Representative	Representative	24 	Cook	Democratic	False
 42354	Chavez	Renne T	4424 W Parker Ave		Chicago	IL	60639	Alderperson	Ward	Chicago 31	Cook	Republican	False
 25634	Chavez	Robert	21637 Clyde Ave		Sauk Village	IL	60411	Trustee	Village	Sauk Village	Cook		False
@@ -8461,6 +8462,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 17328	Falbo	Salvatore (Sal)	1 S 507 Sunnybrook		Glen Ellyn	IL	60137	Commissioner	Forest Preserve	4  	DuPage	Republican	False
 39122	Falco	April	404 Geneva Ave		Hillside	IL	60162	Member	School	88	Cook		False
 20176	Falco	Elena Salman	4535 Seeley Ave		Downers Grove	IL	60515	Commissioner	Village	Downers Grove	DuPage		False
+54408	Falcon	Chris	1876 1st St. Unit B		Highland Park	IL	60035     	Councilman	City	Highland Park	Lake		False
 22571	Falcon	Penny	383 W Park Ave		Aurora	IL	60506	Commissioner	County Board	Kane 	Kane	Republican	False
 1358	Falcone	Richard T						President	Village	Northbrook	Cook		False
 37995	Falk-Novak	Cheryl	325 Indian Ridge Tral		Wauconda	IL	60084	Clerk	Village	Wauconda	Lake		False
@@ -10367,6 +10369,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 45894	Goldberg	Barry	7141 North Kedzie Ave.	Apt. 1513	Chicago	IL	60645	Judge	Subcircuit Court	9	Cook	Democratic	False
 25284	Goldberg	Bart	4328 N Lowell Ave		Chicago	IL	60641	Alderperson	Ward	Chicago 38 	Cook	Non Partisan	False
 40843	Goldberg	Bart	3901 N Kildare Ave		Chicago	IL	60641	State Senator	Senate	20 	Cook	Democratic	False
+54410	Goldberg	David	2111 Maple		Berwyn	IL	60402     	Member	School	200	Cook	Independent	False
 21454	Goldblatt	Jerry	7202 Preston Dr		Springfield	IL	62711-4302	Clerk	City	Springfield	Sangamon	Non Partisan	False
 40784	Golden	Caroline	7116 Pleasantdale Dr		Countryside	IL	60525	Judge	Subcircuit Court	Cook 4  	Cook	Democratic	False
 40536	Golden	Caroline P	PO Box 525		Western Springs	IL	60558	Judge	Circuit Court	Cook	Cook	Democratic	False
