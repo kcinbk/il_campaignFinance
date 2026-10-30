@@ -1,4 +1,4 @@
-7 00:00:00	57.98	253.99	6314 South Cicero Avenue		Chicago	IL	60638     	8B	Food			False	False	False		False
+253.99	6314 South Cicero Avenue		Chicago	IL	60638     	8B	Food			False	False	False		False
 4584245	10	926756	0	Good To Go #88		2024-05-07 00:00:00	188.67	1757.98	6401 West 65th Street		Bedford Park	IL	60499     	8B	Fuel			False	False	False		False
 4584246	10	926756	0	Speedway		2024-05-07 00:00:00	67.16	553.98	1300 West Normantown		Romeoville	IL	60446     	8B	Fuel			False	False	False		False
 4584247	10	926756	0	Akerman		2024-05-07 00:00:00	2845.36	4268.04	P.O. Box4906		Orlando	FL	32802     	8B	Fees			False	False	False		False
@@ -364715,20 +364715,20 @@
 4959740	17634	1025444	0	CFS Flowers and Gifts		2026-09-09 00:00:00	170.96	170.96	315 Raemish Rd.	Ste. G	Waunakee	WI	53597     	8B	Flowers			False	False	False		False
 4959741	17634	1025444	0	United Association		2026-09-09 00:00:00	300	600	3 Park Pl.		Annapolis	MD	21401     	8B	Donation			False	False	False		False
 4959742	17634	1025444	0	United Association		2026-09-09 00:00:00	300	600	3 Park Pl.		Annapolis	MD	21401     	8B	Tolls			False	False	False		False
-4959743	41233	1025446	0	MSM Promotions		2026-07-09 00:00:00	250	1347.5	6125 N Northwest Highway		Chicago	IL	60631     	8B	T-Shirts			False	False	False		False
-4959744	41233	1025446	0	MSM Promotions		2026-07-10 00:00:00	100	1347.5	6125 N Northwest Highway		Chicago	IL	60631     	8B	T-Shirts			False	False	False		False
-4959745	41233	1025446	0	MSM Promotions		2026-07-28 00:00:00	437.5	1347.5	6125 N Northwest Highway		Chicago	IL	60631     	8B	T-Shirts			False	False	False		False
-4959746	41233	1025446	0	MSM Promotions		2026-08-05 00:00:00	440	1347.5	6125 N Northwest Highway		Chicago	IL	60631     	8B	Printing			False	False	False		False
-4959747	41233	1025446	0	MSM Promotions		2026-08-28 00:00:00	120	1347.5	6125 N Northwest Highway		Chicago	IL	60631     	8B	T-Shirts			False	False	False		False
-4959748	41233	1025446	0	Minuteman Press		2026-08-31 00:00:00	1210.25	3630.75	1249 N Clybourn		Chicago	IL	60610     	8B	Lawn signs			False	False	False		False
-4959749	41233	1025446	0	Minuteman Press		2026-09-10 00:00:00	1210.25	3630.75	1249 N Clybourn		Chicago	IL	60610     	8B	Lawn signs			False	False	False		False
-4959750	41233	1025446	0	Minuteman Press		2026-09-22 00:00:00	1210.25	3630.75	1249 N Clybourn		Chicago	IL	60610     	8B	Lawn signs			False	False	False		False
-4959751	41233	1025446	0	ABT Electronics		2026-09-08 00:00:00	1974.47	1974.47	1200 N Milwaukee Ave		Glenview	IL	60025     	8B	Computer - printer purchase			False	False	False		False
-4959752	41233	1025446	0	Breaker Press		2026-09-22 00:00:00	865	865	2421 S Western Ave		Chicago	IL	60608     	8B	Palm cards			False	False	False		False
-4959753	41233	1025446	0	Just Marsalis Productions		2026-07-21 00:00:00	500	500	1922 W Ogden		Chicago	IL	60612     	8B	Photography			False	False	False		False
-4959754	41233	1025446	0	Story	Jamie	2026-09-15 00:00:00	220	220	7808 W Farragut		Chicago	IL	60656     	8B	Campaign Work			False	False	False		False
-4959755	41233	1025446	0	Martorano	Anna	2026-09-25 00:00:00	220	220	6511 W Clarence		Chicago	IL	60631     	8B	Campaign Work			False	False	False		False
-4959756	41233	1025446	0	Dobson Entertainment Inc		2026-09-28 00:00:00	2500	2500	561 N Lavergne Ave		Northlake	IL	60164     	8B	Social Media Video Production			False	False	False		False
+4959743	41233	1025446	0	MSM Promotions		2026-07-09 00:00:00	250	1347.5	6125 N Northwest Highway		Chicago	IL	60631     	8B	T-Shirts			False	False	True		False
+4959744	41233	1025446	0	MSM Promotions		2026-07-10 00:00:00	100	1347.5	6125 N Northwest Highway		Chicago	IL	60631     	8B	T-Shirts			False	False	True		False
+4959745	41233	1025446	0	MSM Promotions		2026-07-28 00:00:00	437.5	1347.5	6125 N Northwest Highway		Chicago	IL	60631     	8B	T-Shirts			False	False	True		False
+4959746	41233	1025446	0	MSM Promotions		2026-08-05 00:00:00	440	1347.5	6125 N Northwest Highway		Chicago	IL	60631     	8B	Printing			False	False	True		False
+4959747	41233	1025446	0	MSM Promotions		2026-08-28 00:00:00	120	1347.5	6125 N Northwest Highway		Chicago	IL	60631     	8B	T-Shirts			False	False	True		False
+4959748	41233	1025446	0	Minuteman Press		2026-08-31 00:00:00	1210.25	3630.75	1249 N Clybourn		Chicago	IL	60610     	8B	Lawn signs			False	False	True		False
+4959749	41233	1025446	0	Minuteman Press		2026-09-10 00:00:00	1210.25	3630.75	1249 N Clybourn		Chicago	IL	60610     	8B	Lawn signs			False	False	True		False
+4959750	41233	1025446	0	Minuteman Press		2026-09-22 00:00:00	1210.25	3630.75	1249 N Clybourn		Chicago	IL	60610     	8B	Lawn signs			False	False	True		False
+4959751	41233	1025446	0	ABT Electronics		2026-09-08 00:00:00	1974.47	1974.47	1200 N Milwaukee Ave		Glenview	IL	60025     	8B	Computer - printer purchase			False	False	True		False
+4959752	41233	1025446	0	Breaker Press		2026-09-22 00:00:00	865	865	2421 S Western Ave		Chicago	IL	60608     	8B	Palm cards			False	False	True		False
+4959753	41233	1025446	0	Just Marsalis Productions		2026-07-21 00:00:00	500	500	1922 W Ogden		Chicago	IL	60612     	8B	Photography			False	False	True		False
+4959754	41233	1025446	0	Story	Jamie	2026-09-15 00:00:00	220	220	7808 W Farragut		Chicago	IL	60656     	8B	Campaign Work			False	False	True		False
+4959755	41233	1025446	0	Martorano	Anna	2026-09-25 00:00:00	220	220	6511 W Clarence		Chicago	IL	60631     	8B	Campaign Work			False	False	True		False
+4959756	41233	1025446	0	Dobson Entertainment Inc		2026-09-28 00:00:00	2500	2500	561 N Lavergne Ave		Northlake	IL	60164     	8B	Social Media Video Production			False	False	True		False
 4959757	37279	1025447	0	Old Dog Brewery		2026-06-29 00:00:00	550.95	550.95	23 W. Pine St.		Canton	IL	61520     	8B	Food service for Bryan Drew event			False	False	False		False
 4959758	37279	1025447	0	Official Time Out		2026-05-12 00:00:00	575	575	68 E Elm St.		Canton	IL	61520     	8B	Fund raising - entertainment			False	False	False		False
 4959759	37279	1025447	0	Williams	Karl	2026-04-08 00:00:00	5600	5600	18501 Old Miller Ln		Cuba	IL	61427     	8B	Fund raising - food			False	False	False		False
@@ -398009,3 +398009,61 @@
 4993043	39901	1028846	0	Validus		2026-10-24 00:00:00	1987.47	0	1400 Patriot Blvd		Glenview	IL	60025     	9B	MMS Text Messaging	Jesus Ayala, Jr.	Chicago School Board	True	False	False		False
 4993044	39901	1028846	0	Validus		2026-10-24 00:00:00	2288.41	0	1400 Patriot Blvd		Glenview	IL	60025     	9B	MMS Text Messaging	Erika Diaz-Chavez	Chicago School Board	True	False	False		False
 4993045	39901	1028846	0	Validus		2026-10-24 00:00:00	2065.57	0	1400 Patriot Blvd		Glenview	IL	60025     	9B	MMS Text Messaging	Patrick Watson	Chicago School Board	True	False	False		False
+4993046	41510	1028887	0	Strive Strategies Group		2026-10-27 00:00:00	15000	0	600 Enterprise Dr		Oak Brook	IL	60523     	9B	Video Production	Nabeela Syed	Illinois State Senate	False	True	False		False
+4993047	41510	1028887	0	Strive Strategies Group		2026-10-27 00:00:00	150000	0	600 Enterprise Dr		Oak Brook	IL	60523     	9B	Digital Advertising	Nabeela Syed	Illinois State Senate	False	True	False		False
+4993048	41233	1028891	0	MSM Promotions		2026-07-09 00:00:00	250	1347.5	6125 N Northwest Highway		Chicago	IL	60631     	8B	T-Shirts			False	False	False		False
+4993049	41233	1028891	0	Minuteman Press		2026-08-31 00:00:00	1210.25	3630.75	1249 N Clybourn		Chicago	IL	60610     	8B	Lawn signs			False	False	False		False
+4993050	41233	1028891	0	ABT Electronics		2026-09-08 00:00:00	1974.47	1974.47	1200 N Milwaukee Ave		Glenview	IL	60025     	8B	Computer - printer purchase			False	False	False		False
+4993051	41233	1028891	0	Minuteman Press		2026-09-10 00:00:00	1210.25	3630.75	1249 N Clybourn		Chicago	IL	60610     	8B	Lawn signs			False	False	False		False
+4993052	41233	1028891	0	Breaker Press		2026-09-22 00:00:00	865	865	2421 S Western Ave		Chicago	IL	60608     	8B	Palm cards			False	False	False		False
+4993053	41233	1028891	0	Minuteman Press		2026-09-22 00:00:00	1210.25	3630.75	1249 N Clybourn		Chicago	IL	60610     	8B	Lawn signs			False	False	False		False
+4993054	41233	1028891	0	MSM Promotions		2026-07-10 00:00:00	100	1347.5	6125 N Northwest Highway		Chicago	IL	60631     	8B	T-Shirts			False	False	False		False
+4993055	41233	1028891	0	Just Marsalis Productions		2026-07-21 00:00:00	500	500	1922 W Ogden		Chicago	IL	60612     	8B	Photography			False	False	False		False
+4993056	41233	1028891	0	MSM Promotions		2026-07-28 00:00:00	437.5	1347.5	6125 N Northwest Highway		Chicago	IL	60631     	8B	T-Shirts			False	False	False		False
+4993057	41233	1028891	0	MSM Promotions		2026-08-05 00:00:00	440	1347.5	6125 N Northwest Highway		Chicago	IL	60631     	8B	Printing			False	False	False		False
+4993058	41233	1028891	0	Story	Jamie	2026-09-15 00:00:00	220	220	7808 W Farragut		Chicago	IL	60656     	8B	Campaign Work			False	False	False		False
+4993059	41233	1028891	0	Martorano	Anna	2026-09-25 00:00:00	220	220	6511 W Clarence		Chicago	IL	60631     	8B	Campaign Work			False	False	False		False
+4993060	41233	1028891	0	Dobson Entertainment Inc		2026-09-28 00:00:00	2500	2500	561 N Lavergne Ave		Northlake	IL	60164     	8B	Social Media Video Production			False	False	False		False
+4993061	41233	1028891	0	MSM Promotions		2026-08-28 00:00:00	120	1347.5	6125 N Northwest Highway		Chicago	IL	60631     	8B	T-Shirts			False	False	False		False
+4993062	26066	1028960	0	THE BALDUZZI GROUP		2026-10-26 00:00:00	33880	0	154 COBBLESTONE COURT DRIVE #133		VICTOR	NY	14564     	9B	Mailing	Margie Luczak	School Board, District 1A	True	False	False		False
+4993063	26066	1028960	0	THE BALDUZZI GROUP		2026-10-26 00:00:00	28918	0	154 COBBLESTONE COURT DRIVE #133		VICTOR	NY	14564     	9B	Mailing	Michelle Pierre	School Board, District 1B	True	False	False		False
+4993064	26066	1028960	0	THE BALDUZZI GROUP		2026-10-26 00:00:00	28540	0	154 COBBLESTONE COURT DRIVE #133		VICTOR	NY	14564     	9B	Mailing	Pete Gonzales	School Board, District 3A	True	False	False		False
+4993065	26066	1028960	0	THE BALDUZZI GROUP		2026-10-26 00:00:00	26580	0	154 COBBLESTONE COURT DRIVE #133		VICTOR	NY	14564     	9B	Mailing	Carlos Rivas	School Board, District 3B	True	False	False		False
+4993066	26066	1028960	0	THE BALDUZZI GROUP		2026-10-26 00:00:00	39328	0	154 COBBLESTONE COURT DRIVE #133		VICTOR	NY	14564     	9B	Mailing	Karen Zaccor	School Board, District 4A	False	True	False		False
+4993067	26066	1028960	0	THE BALDUZZI GROUP		2026-10-26 00:00:00	27649	0	154 COBBLESTONE COURT DRIVE #133		VICTOR	NY	14564     	9B	Mailing	LaPamela Williams	School Board, District 5A	True	False	False		False
+4993068	26066	1028960	0	THE BALDUZZI GROUP		2026-10-26 00:00:00	30149	0	154 COBBLESTONE COURT DRIVE #133		VICTOR	NY	14564     	9B	Mailing	Anthony Hargrove	School Board, District 5B	True	False	False		False
+4993069	26066	1028960	0	THE BALDUZZI GROUP		2026-10-26 00:00:00	34627	0	154 COBBLESTONE COURT DRIVE #133		VICTOR	NY	14564     	9B	Mailing	Isaiah White	School Board, District 6A	True	False	False		False
+4993070	26066	1028960	0	THE BALDUZZI GROUP		2026-10-26 00:00:00	21111	0	154 COBBLESTONE COURT DRIVE #133		VICTOR	NY	14564     	9B	Mailing	Jesus Ayala	School Board, District 7A	True	False	False		False
+4993071	26066	1028960	0	THE BALDUZZI GROUP		2026-10-26 00:00:00	19589	0	154 COBBLESTONE COURT DRIVE #133		VICTOR	NY	14564     	9B	Mailing	Erika Diaz	School Board, District 7B	True	False	False		False
+4993072	26066	1028960	0	THE BALDUZZI GROUP		2026-10-26 00:00:00	33313	0	154 COBBLESTONE COURT DRIVE #133		VICTOR	NY	14564     	9B	Mailing	Patrick Watson	School Board, District 10B	True	False	False		False
+4993073	26066	1028960	0	THE BALDUZZI GROUP		2026-10-26 00:00:00	400000	0	154 COBBLESTONE COURT DRIVE #133		VICTOR	NY	14564     	9B	Digital Ad Buy	Hilario Dominguez	School Board President	False	True	False		False
+4993074	26066	1028960	0	WINNING CONNECTIONS		2026-10-26 00:00:00	2500	0	317 PENNSYLVANIA AVENUE SE 2ND FLO		WASHINGTON	DC	20003     	9B	Texts	Thaddeus Jones	State Representative, District 29	True	False	False		False
+4993075	26066	1028960	0	WINNING CONNECTIONS		2026-10-26 00:00:00	10700	0	317 PENNSYLVANIA AVENUE SE 2ND FLO		WASHINGTON	DC	20003     	9B	Live calls	Thaddeus Jones	State Representative, District 29	True	False	False		False
+4993076	26066	1028962	0	WINNING CONNECTIONS		2026-10-27 00:00:00	43000	0	317 PENNSYLVANIA AVENUE SE 2ND FLO		WASHINGTON	DC	20003     	9B	Calls	Pete Gonzales	School Board, District 3A	True	False	False		False
+4993077	26066	1028962	0	WINNING CONNECTIONS		2026-10-27 00:00:00	59600	0	317 PENNSYLVANIA AVENUE SE 2ND FLO		WASHINGTON	DC	20003     	9B	Calls	Karen Zaccor	School Board, District 4A	False	True	False		False
+4993078	26066	1028962	0	WINNING CONNECTIONS		2026-10-27 00:00:00	48100	0	317 PENNSYLVANIA AVENUE SE 2ND FLO		WASHINGTON	DC	20003     	9B	Calls	Michelle Pierre	School Board, District 1B	True	False	False		False
+4993079	26066	1028962	0	WINNING CONNECTIONS		2026-10-27 00:00:00	37100	0	317 PENNSYLVANIA AVENUE SE 2ND FLO		WASHINGTON	DC	20003     	9B	Calls	Carlos Rivas	School Board, District 3B	True	False	False		False
+4993080	26066	1028962	0	WINNING CONNECTIONS		2026-10-27 00:00:00	41900	0	317 PENNSYLVANIA AVENUE SE 2ND FLO		WASHINGTON	DC	20003     	9B	Calls	LaPamela Williams	School Board, District 5A	True	False	False		False
+4993081	26066	1028962	0	WINNING CONNECTIONS		2026-10-27 00:00:00	43800	0	317 PENNSYLVANIA AVENUE SE 2ND FLO		WASHINGTON	DC	20003     	9B	Calls	Anthony Hargrove	School Board, District 5B	True	False	False		False
+4993082	26066	1028962	0	WINNING CONNECTIONS		2026-10-27 00:00:00	26500	0	317 PENNSYLVANIA AVENUE SE 2ND FLO		WASHINGTON	DC	20003     	9B	Calls	Jesus Ayala	School Board, District 7A	True	False	False		False
+4993083	41012	1028965	0	TKO Buying LLC		2026-10-26 00:00:00	15000	0	2800 Abilene Drive		Chevy Chase	MD	20815     	9B	Advertising	Ed Bannon	Chicago Board of Education 1A	False	True	False		False
+4993084	41012	1028965	0	TKO Buying LLC		2026-10-26 00:00:00	8670	0	2800 Abilene Drive		Chevy Chase	MD	20815     	9B	Advertising	Michelle Pierre	Chicago Board of Education 1B	True	False	False		False
+4993085	41012	1028965	0	TKO Buying LLC		2026-10-26 00:00:00	16830	0	2800 Abilene Drive		Chevy Chase	MD	20815     	9B	Advertising	Claudia Peralta	Chicago Board of Education 1B	False	True	False		False
+4993086	41012	1028965	0	TKO Buying LLC		2026-10-26 00:00:00	8670	0	2800 Abilene Drive		Chevy Chase	MD	20815     	9B	Advertising	Pete Gonzales	Chicago Board of Education 3A	True	False	False		False
+4993087	41012	1028965	0	TKO Buying LLC		2026-10-26 00:00:00	16830	0	2800 Abilene Drive		Chevy Chase	MD	20815     	9B	Advertising	Norma Rios-Sierra	Chicago Board of Education 3A	False	True	False		False
+4993088	41012	1028965	0	TKO Buying LLC		2026-10-26 00:00:00	8670	0	2800 Abilene Drive		Chevy Chase	MD	20815     	9B	Advertising	Anthony Hargrove	Chicago Board of Education 5B	True	False	False		False
+4993089	41012	1028965	0	TKO Buying LLC		2026-10-26 00:00:00	16830	0	2800 Abilene Drive		Chevy Chase	MD	20815     	9B	Advertising	Michilla Blaise	Chicago Board of Education 5B	False	True	False		False
+4993090	41012	1028965	0	TKO Buying LLC		2026-10-26 00:00:00	8670	0	2800 Abilene Drive		Chevy Chase	MD	20815     	9B	Advertising	Jesus Ayala	Chicago Board of Education 7A	True	False	False		False
+4993091	41012	1028965	0	TKO Buying LLC		2026-10-26 00:00:00	16830	0	2800 Abilene Drive		Chevy Chase	MD	20815     	9B	Advertising	Emma Lozano	Chicago Board of Education 7A	False	True	False		False
+4993092	41012	1028965	0	TKO Buying LLC		2026-10-26 00:00:00	15000	0	2800 Abilene Drive		Chevy Chase	MD	20815     	9B	Advertising	Therese Boyle	Chicago Board of Education 9B	True	False	False		False
+4993093	41012	1028965	0	Thematic Campaigns		2026-10-26 00:00:00	14074.5	0	1720 W Division St		Chicago	IL	60622     	9B	Advertising	Kyna Lenhof	Chicago Board of Education 2B	True	False	False		False
+4993094	41012	1028965	0	Thematic Campaigns		2026-10-26 00:00:00	14074.5	0	1720 W Division St		Chicago	IL	60622     	9B	Advertising	Patrick Watson	Chicago Board of Education 10B	True	False	False		False
+4993095	41012	1028965	0	Thematic Campaigns		2026-10-26 00:00:00	24000	0	1720 W Division St		Chicago	IL	60622     	9B	Advertising	LaPamela Williams	Chicago Board of Education 5A	True	False	False		False
+4993096	41012	1028965	0	Thematic Campaigns		2026-10-26 00:00:00	34000	0	1720 W Division St		Chicago	IL	60622     	9B	Advertising	Isaiah White	Chicago Board of Education 6A	True	False	False		False
+4993097	41012	1028965	0	Sage Media Planning & Placement		2026-10-26 00:00:00	24830	0	1319 F St NW Ste 301		Washington	DC	20004     	9B	Radio Ads	Jessica Biggs	Chicago Board of Education President	True	False	False		False
+4993098	41012	1028965	0	Thematic Campaigns		2026-10-26 00:00:00	237312.86	0	1720 W Division St		Chicago	IL	60622     	9B	Advertising	Hilario Dominguez	Chicago Board of Education President	False	True	False		False
+4993099	41012	1028965	0	Thematic Campaigns		2026-10-26 00:00:00	553730	0	1720 W Division St		Chicago	IL	60622     	9B	Advertising	Jessica Biggs	Chicago Board of Education President	True	False	False		False
+4993100	39901	1028986	0	Validus		2026-10-26 00:00:00	2535.26	0	1400 Patriot Blvd		Glenview	IL	60025     	9B	MMS Text Messaging	Ed Bannon	Chicago School Board	False	True	False		False
+4993101	39901	1028986	0	Validus		2026-10-26 00:00:00	2052.78	0	1400 Patriot Blvd		Glenview	IL	60025     	9B	MMS Text Messaging	Claudia Peralta	Chicago School Board	False	True	False		False
+4993102	39901	1028986	0	Validus		2026-10-26 00:00:00	2753.96	0	1400 Patriot Blvd		Glenview	IL	60025     	9B	MMS Text Messaging	Brittany Kimble	Chicago School Board	True	False	False		False
+4993103	39901	1028986	0	Validus		2026-10-26 00:00:00	2167.37	0	1400 Patriot Blvd		Glenview	IL	60025     	9B	MMS Text Messaging	Yesenia Lopez	Chicago School Board	False	True	False		False

@@ -30258,6 +30258,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 56808	Hyde	Lyle	351 W Dickens	# 2 E	Chicago	IL	60616     	Treasurer	312.286.2921        	False
 77001	Hyde	Mary Beth	1429 Elm St.		Galena	IL	61036     	Treasurer	815.297.3031        	False
 77000	Hyde	Nicholas P	1429 Elm St.		Galena	IL	61036     	Chair	815.281.0491        	False
+100638	Hyde	Rachel	506 Walsh Ct.		Yorkville	IL	60560     	Treasurer	                    	False
 100604	Hyde	Robert A.	506 Walsh Ct.		Yorkville	IL	60560     	Chair	                    	False
 35056	Hyde	Susan	PO Box		Olney	IL	62450     	Treasurer	618/392-6271        	False
 37464	Hyde	Thomas P	206 Janet Dr		Island lake	IL	60042     	Chair		False
@@ -67440,6 +67441,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 68288	Valencia	Anna	PO Box 10785		Chicago	IL	60610     	Chair	312.593.5681        	False
 87233	Valencia	Anna	PO Box 10785		Chicago	IL	60610     	Treasurer	312.593.5681        	False
 33044	Valencia	Shirley	2920 Victory Dr		Granite City	IL	62040     	Chair		False
+100639	Valenciano	Roman G.	409 N. 2nd St.		Earlville	IL	60518     	Chair	815.955.3229        	False
+100640	Valenciano	Roman G.	409 N. 2nd St.		Earlville	IL	60518     	Treasurer	815.955.3229        	False
 55527	Valente	Kathleen	P O Box 93		Mokena	IL	60448     	Treasurer	773-858-6602        	False
 97746	Valente	Miguel M.	160 Forrest Ave. Lot 24		Springfield	IL	62702     	Chair	872.333.0583        	False
 98627	Valente	Miguel M.	160 Forrest Ave., Lot 24		Springfield	IL	62702     	Treasurer	872.333.0583        	False
@@ -73177,6 +73180,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 50431	Zeidman	Martin	1220 Park Ave W # 103		Highland Park	IL	60035     	Chair	312.749.3763        	False
 60663	Zeidman	Marty	1220 Park Ave W #103		Highland Park	IL	60035     	Treasurer	312.749.3763        	False
 14171	Zeigler	Kenneth W	809 W Illinois #3		Urbana	IL	61801     	Chair	217-328-7742        	False
+100641	Zeigler	Mark	4504 Turtle Bay		Springfield	IL	62711     	Chair	                    	False
+100642	Zeigler	Mark	4504 Turtle Bay		Springfield	IL	62711     	Treasurer	                    	False
 24594	Zeilmann	Brian	617 5th Av		Ottawa	IL	61350     	Chair	815/433-1895        	False
 46669	Zeisloft	Mark D	123 Blackstone Ave		LaGrange	IL	60525     	Treasurer	708.668.6039        	False
 29365	Zeiss	Constance	236 Mark Ave		Glendale Heights	IL	60139     	Treasurer	630/668-9409        	False

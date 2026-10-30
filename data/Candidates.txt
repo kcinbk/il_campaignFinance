@@ -15214,6 +15214,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 42590	Kist	Jacob	5336 Fairmount Ave		Downers Grove	IL	60515	Commissioner	Village	Downers Grove	DuPage		False
 29644	Kitching	Casey P	5858 West 125th Place		Alsip	IL	60803-3552	Trustee	Village	Alsip	Cook		False
 19180	Kitching	Patrick	11621 S Laramie Ave		Alsip	IL	60803	President	Village	Alsip	Cook		False
+54413	Kitover	John				  	          	Mayor	City	Chicago			False
 42128	Kitzes	Heather Way	4916 North Hermitage		Chicago	IL	60640	Alderperson	Ward	Chicago 47 	Cook	Non Partisan	False
 6042	Kizer	Bill	730 Douglas		Danville	IL	61832	Assessor	Township	Danville	Vermilion	Democratic	False
 25068	Kizer	William "Bill"	731 Douglas		Danville	IL	61832	Assessor	County	Vermilion 	Vermilion	Democratic	False
@@ -16113,6 +16114,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 10764	Langfelder	James "Jim"	9 Glen Aire Dr		Springfield	IL	62703	Member	County Board	Sangamon 14 	Sangamon	Democratic	False
 20428	Langfelder	Jim	9 Glen Aire Dr		Springfield	IL	62703	Treasurer	City	Springfield	Sangamon	Non Partisan	False
 28612	Langfelder	Jim	9 Glen Aire Dr		Springfield	IL	62703	Mayor	City	Springfield	Sangamon	Non Partisan	False
+54411	Langfelder	Josh	2725 Cronin Dr		Springfield	IL	62711     	Clerk	City	Springfield	Sangamon		False
 22226	Langfelder	Joshua "Josh"	2725 Cronin Dr		Springfield	IL	62711	Recorder	County	Sangamon 	Sangamon	Democratic	False
 2702	Langfelder	Oswald "Ossie"	1700 Whittier		Springfield	IL	62704	Mayor	City	Springfield	Sangamon		False
 25791	Langhoff	Steven C	PO Box 82		Decatur	IL	62525	State's Attorney	County	Macon	Macon	Democratic	False
@@ -22102,6 +22104,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 25342	Pappas	Maria	303 W Madison St, Ste 2408		Chicago	IL	60606	Clerk	County	Cook 	Cook	Democratic	False
 595	Pappas	Maria						Member	County Board	Cook 10 	Cook	Democratic	False
 13273	Pappas	Maria	175 E Delaware St	4625	Chicago	IL	60611	Treasurer	County	Cook 	Cook	Democratic	False
+54412	Pappas	Maria	175 E Delaware St	4625	Chicago	IL	60611     	Mayor	City	Chicago	Cook		False
 47309	Pappas	Nickolas	4454 N. Dover Street, Apt. 3N		Chicago	IL	60640	Judge - Budzinski conversion	Subcircuit Court	Cook 20	Cook	Democratic	False
 1413	Pappas	Sharon A						Trustee	Village	Rosemont	Cook		False
 7168	Pappas	Terrence	7550 W 62nd St		Summit	IL	60501	Mayor	City	Summit	Cook		False
@@ -29936,6 +29939,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 43779	Valencia	Anna	PO Box 641362		Chicago	IL	60664	Secretary of State	Statewide			Democratic	False
 37835	Valencia	Anna	PO Box 10785		Chicago	IL	60610	Clerk	City	Chicago	Cook	Democratic	False
 42684	Valencia	Marcelo	345 Windsong Ct		Bolingbrook	IL	60440	Trustee	Library	Bolingbrook	Will	Non Partisan	False
+54414	Valenciano	Roman Gael	409 N. 2nd St.		Earlville	IL	60518     	Mayor	City	Earlville	LaSalle	Independent	False
 53590	Valente	Miguel M.	160 Forrest Ave, Lot 24		Springfield	IL	62702     	Member	County Board	Sangamon	Sangamon	Democratic	False
 53591	Valente	Miguel M.	160 Forrest Ave Lot 24		Springfield	IL	62702     	Committee Person	Ward	13	Sangamon	Democratic	False
 28622	Valentine	Chevette	8005 S Marquette Ave		Chicago	IL	60617	Alderperson	Ward	Chicago 7  	Cook	Independent	False
@@ -32489,6 +32493,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 9506	Zegel	Stan	27 W 734 Gary's Mill Rd		Winfield	IL	60190-1556	Trustee	Village	Winfield	DuPage		False
 42102	Zeidman	Rebecca "Becky"	1220 Park Ave W	#103	Highland Park	IL	60035	Member	County Board	Lake 11 	Lake	Republican	False
 6655	Zeigler	Kenneth W	809 W Illinois #3		Urbana	IL	61801	Supervisor	Township	Cunningham	Champaign	Democratic	False
+54415	Zeigler	Mark	4504 Turtle Bay		Springfield	IL	62711     	Alderperson	Ward	Springfield 10	Sangamon		False
 42786	Zeitvogel	Katherine Louis	3135 Cuyler Ave		Berwyn	IL	60402	Member	School	100	Cook		False
 46857	Zekich	Tina	14347 Greenland Ave.		Orland Park	IL	60462	Trustee	Fire Protection	Orland Park	Cook		False
 21065	Zelchenko	Peter	2225 N. Lincoln Ave		Chicago	IL	60077	Alderperson	Ward	Chicago 43 	Cook	Non Partisan	False

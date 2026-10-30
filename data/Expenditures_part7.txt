@@ -221158,7 +221158,7 @@ es			False	False	False		False
 4156959	23300	846587	0	Houlihan Campaign Fund		2022-06-09 00:00:00	500	500				IL	          	6B	Contribution			False	False	False		False
 4156960	23300	846587	0	IBB  International Brotherhood of Boilermakers		2022-06-09 00:00:00	3000	3000	753 State Ave #565		Kansas City	KS	66101     	6B	Contribution			False	False	False	USA	False
 4156961	23300	846587	0	Jonathan Logemann for Congress	Jonathan	2022-05-12 00:00:00	250	250	P.O. Box 1505		Rockford	IL	61110     	6B	Contribution			False	False	False		False
-4156962	328	846590	0	Citizens for Ryan A Niekamp		2022-06-24 00:00:00	10000	10000	1625 Wilmar Drive		Quincy	IL	62301     	8B	Donation			False	False	False		False
+4156962	328	846590	0	Citizens for Ryan A Niekamp		2022-06-24 00:00:00	10000	10000	Redaction Requested					8B	Donation			False	False	False		True
 4156963	328	846590	0	Town & Country Inn and Suites		2022-04-11 00:00:00	1000	4788.57	110 N 54th St		Quincy	IL	62305     	8B	Room Rent-Deposit- L/R			False	False	False		False
 4156964	328	846590	0	Town & Country Inn and Suites		2022-06-07 00:00:00	3788.57	4788.57	110 N 54th St		Quincy	IL	62305     	8B	Room Rental & Food- L/R			False	False	False		False
 4156965	328	846590	0	Adams County Fair Association		2022-05-24 00:00:00	250	250	P.O. Box 108		Mendon	IL	62351     	8B	Booth County Fair			False	False	False		False
@@ -645298,4 +645298,4 @@ es			False	False	False		False
 4584241	10	926756	0	Harris Ice Incorporated		2024-04-24 00:00:00	198.44	1597.13	3927 West 5th Avenue		Chicago	IL	60624     	8B	Ice			False	False	False		False
 4584242	10	926756	0	Hinckley Springs		2024-05-07 00:00:00	155.65	540.84	6055 S. Harlem		Chicago	IL	60638     	8B	Water			False	False	False		False
 4584243	10	926756	0	Southwest Regional Publishing		2024-05-07 00:00:00	630.02	630.02	12243 South Harlem Avenue		Palos Heights	IL	60463     	8B	Printing			False	False	False		False
-4584244	10	926756	0	Giordano's of Midway		2024-05-0
+4584244	10	926756	0	Giordano's of Midway		2024-05-07 00:00:00	57.98	
