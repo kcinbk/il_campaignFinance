@@ -66841,3 +66841,4 @@ ID	CandidateID	ElectionType	ElectionYear	IncChallOpen	WonLost	FairCampaign	Limit
 101956	54413	CP	2027	Chal	    	False	True	Limits Off for Race
 101957	54414	CE	2027	    	    	False	False	
 101958	54415	CE	2027	Open	    	False	False	
+101959	54416	CE	2027	    	    	False	False	

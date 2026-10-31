@@ -32237,6 +32237,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 42158	Jones	Kim	1047 Pawnee Rd		Wilmette	IL	60091     	Treasurer	847.853.9356        	False
 68046	Jones	Kimberly	642 Forestview Ave		Park Ridge	Il	60068     	Chair	                    	False
 99939	Jones	Kimberly	7860 S. Coles Ave.		Chicago	IL	60649     	Treasurer	                    	False
+100643	Jones	Kyle	1508 Seven Pines Road	Apt. B	Springfield	IL	          	Treasurer	                    	False
 98318	Jones	La Tonya	2410 Sunset Rd		Hazel Crest	IL	60429     	Chair	708-261-2202        	False
 98319	Jones	La Tonya	2410 Sunset Rd		Hazel Crest	IL	60429     	Treasurer	708-261-2202        	False
 69948	Jones	Ladell	1425 Senator Lane		Ford Heights	IL	60411     	Chair	708.439.3973        	False

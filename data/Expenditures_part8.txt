@@ -398067,3 +398067,13 @@
 4993101	39901	1028986	0	Validus		2026-10-26 00:00:00	2052.78	0	1400 Patriot Blvd		Glenview	IL	60025     	9B	MMS Text Messaging	Claudia Peralta	Chicago School Board	False	True	False		False
 4993102	39901	1028986	0	Validus		2026-10-26 00:00:00	2753.96	0	1400 Patriot Blvd		Glenview	IL	60025     	9B	MMS Text Messaging	Brittany Kimble	Chicago School Board	True	False	False		False
 4993103	39901	1028986	0	Validus		2026-10-26 00:00:00	2167.37	0	1400 Patriot Blvd		Glenview	IL	60025     	9B	MMS Text Messaging	Yesenia Lopez	Chicago School Board	False	True	False		False
+4993104	41510	1028993	0	CampaignHQ		2026-10-27 00:00:00	3999.24	0	PO Box 257		Brooklyn	IA	52211     	9B	Live Calls	Darby Hills	Illinois State Senate	True	False	False		False
+4993105	41476	1028998	0	District Two Democrats		2026-10-28 00:00:00	1000	0	PO Box 784		Crystal Lake	IL	60039     	9B	Brochures	Jerry Cook	Regional Superintendent of Schools	True	False	False		False
+4993106	41476	1029013	0	Savvy Communications LLC		2026-10-29 00:00:00	1298.55	0	1910 Thomes Ave		Cheyenne	WY	82001-3527	9B	Phone	Jerry Cook	Regional Superintendent of Schools	True	False	False		False
+4993107	41327	1029027	0	SPD Press Print Solutions, LLC		2026-10-29 00:00:00	9635.47	0	1444 W 37th St		Chicago	IL	60609     	9B	Yard signs	Jessica Biggs	President of the Chicago Board of Education	True	False	False		False
+4993108	41106	1029065	0	Maravelas Banquet & Catering		2026-07-20 00:00:00	937.98	3707.6	P.O.Box 188		Fox Lake	IL	60020     	8B	Deposit			False	False	False		False
+4993109	41106	1029065	0	Maravelas Banquet & Catering		2026-08-26 00:00:00	2269.62	3707.6	P.O.Box 188		Fox Lake	IL	60020     	8B	Fund raising - food			False	False	False		False
+4993110	41106	1029065	0	Union Signs and Print		2026-09-30 00:00:00	650	650	P.O. Box 263		New Lenox	IL	60451     	8B	Yard signs			False	False	False		False
+4993111	41106	1029065	0	Union Signs & Print		2026-09-19 00:00:00	624	624	PO Box 263		New Lenox	IL	60451     	8B	Yard signs			False	False	False		False
+4993112	41106	1029065	0	USPS		2026-07-30 00:00:00	574	574	206 Cedar Ave		Lake Villa	IL	60046     	8B	Postage			False	False	False		False
+4993113	41106	1029065	0	Maravelas Banquet & Catering		2026-08-29 00:00:00	500	3707.6	P.O.Box 188		Fox Lake	IL	60020     	8B	Tip			False	False	False		False

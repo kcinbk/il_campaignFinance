@@ -707126,10 +707126,10 @@ ID	CommitteeID	FiledDocType	DocName	Amend	Comment	Pages	ElectionType	ElectionYea
 746675	35471	  	A-1	False		1	  	    	2019-07-01 00:00:00	2019-09-30 00:00:00	S	2019-08-30 12:15:27	I	IDIS3	Coyne	John										True		False
 746676	31835	  	A-1	False		1	  	    	2019-07-01 00:00:00	2019-09-30 00:00:00	S	2019-08-30 12:27:47	I	IDIS3	Menges	Grant										True		False
 746677	23055	  	A-1	False		1	  	    	2019-07-01 00:00:00	2019-09-30 00:00:00	S	2019-08-30 12:29:29	I	IDIS3	Sendejas	Carmen										True		False
-746678	35006	  	Quarterly	True		9	  	    	2019-01-01 00:00:00	2019-03-31 00:00:00	S	2019-08-30 12:32:38.353000000	I	IDIS3	greenleaf	raynetta										True	fixed error and loan payments	False
-746679	35006	  	Quarterly	True		10	  	    	2019-01-01 00:00:00	2019-03-31 00:00:00	S	2019-08-30 12:36:20.417000000	I	IDIS3	greenleaf	raynetta										False	fix error on loan and payments	False
-746680	35006	  	Quarterly	True		4	  	    	2019-04-01 00:00:00	2019-06-30 00:00:00	S	2019-08-30 12:36:59.230000000	I	IDIS3	greenleaf	raynetta										False	fixed obligations	False
-746681	35006	  	Final	False		2	  	    	2019-07-01 00:00:00	2019-08-30 00:00:00	S	2019-08-30 12:39:21.200000000	I	IDIS3	greenleaf	raynetta										False		False
+746678	35006	  	Quarterly	True		9	  	    	2019-01-01 00:00:00	2019-03-31 00:00:00	S	2019-08-30 12:32:38	I	IDIS3	greenleaf	raynetta										True	fixed error and loan payments	False
+746679	35006	  	Quarterly	True		10	  	    	2019-01-01 00:00:00	2019-03-31 00:00:00	S	2019-08-30 12:36:20	I	IDIS3	greenleaf	raynetta										False	fix error on loan and payments	False
+746680	35006	  	Quarterly	True		4	  	    	2019-04-01 00:00:00	2019-06-30 00:00:00	S	2019-08-30 12:36:59	I	IDIS3	greenleaf	raynetta										False	fixed obligations	False
+746681	35006	  	Final	False		2	  	    	2019-07-01 00:00:00	2019-08-30 00:00:00	S	2019-08-30 12:39:21	I	IDIS3	greenleaf	raynetta										False		False
 746682	23431	  	Statement of Organization	True		2	  	    			C	2019-08-30 12:46:53	D													False		False
 746683	35587	  	Statement of Organization	False		2	  	    			C	2019-08-30 12:55:01	D													False		False
 746684	21318	  	Statement of Organization	True		2	  	    			S	2019-08-30 13:21:32	D													False		False
@@ -732214,4 +732214,4 @@ ID	CommitteeID	FiledDocType	DocName	Amend	Comment	Pages	ElectionType	ElectionYea
 771804	33922	  	A-1	False		1	  	    	2020-04-01 00:00:00	2020-06-30 00:00:00	S	2020-07-02 14:48:57.553000000	I	IDIS3	Villa	Karina	McKevitt	Kelly	1 N. LaSalle St.	Ste 2065	Chicago	IL	60602			True		False
 771805	607	  	Quarterly	False		5	  	    	2020-04-01 00:00:00	2020-06-30 00:00:00	S	2020-07-02 14:49:54	I	IDIS3	Mitchell	Toni										False		False
 771806	35535	  	Quarterly	False		2	  	    	2020-04-01 00:00:00	2020-06-30 00:00:00	S	2020-07-02 14:52:50	I	IDIS3	Tristan	Marie	Saveall	Melody	150 N Wacker Drive	Suite 1550	Chicago	IL	60606			True		False
-771807	32228	  	Quarterly	False		1	  	    	2020-04-01 00:00:00	2020-06-30 00:00:
+771807	32228	  	Quarterly	False		1	  	    	2020-04-01 00:00:00	2020-06-30 00:00:00	S	2020-07-02 14:54:38	I	IDIS3	Shaw	Ma

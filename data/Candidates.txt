@@ -27706,6 +27706,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 25908	Spinney	Jennifer	184 Sheridan Rd		Winnetka	IL	60093	Trustee	Village	Winnetka	Cook		False
 27193	Spino	Jennifer G			Lincolnwood	IL	60646	Trustee	Village	Lincolnwood	Cook	Non Partisan	False
 34400	Spiro	Andrew	39 Emporia Ave		Springfield	IL	62702	Member	County Board	Sangamon	Sangamon	Democratic	False
+54416	Spiro	Andrew	39 Emporia Avenue		Springfield	IL	62702     	Alderperson	Ward	9	Sangamon	Non Partisan	False
 21101	Spisak III	Kenneth	817 St Thomas		Cahokia	IL	62206	Mayor	Village	Cahokia	St Clair	Democratic	False
 74	Spitz	Alan	70 West Burton #2307		Chicago	IL	60610	State Representative	Representative	11 	Cook	Republican	False
 21776	Spitz	John A	10828 N 525th		Oblong	IL	62449	Trustee	Comm College	529	Crawford	Independent	False
