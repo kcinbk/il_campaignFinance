@@ -4879,7 +4879,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 983	Chung	Paul M	20851 Exmoor		Barrington	IL	60010	Clerk	County	Lake 	Lake	Republican	False
 4888	Chung	Paul M	825 Exmoor Avenue		Barrington	IL	60010	Member	County Board	Lake 17 	Lake	Republican	False
 42178	Chung	Sharon	3 Dawes Pl		Bloomington	IL	61701	Member	County Board	McLean 7  	McLean	Democratic	False
-45888	Chung	Sharon	3 Dawes Pl		Bloomington	IL	61701	State Representative	Representative	91		Democratic	False
+45888	Chung	Sharon	3 Dawes Pl		Bloomington	IL	61701	State Representative	Representative	91	McLean	Democratic	False
 48747	Chung	Vicki	219 N. Wile		Mount Prospect	IL	60056	Member	School	214	Cook		False
 11853	Chung	Yip-wah	2128 Kenilworth Ave		Wilmette	IL	60091	Trustee	Village	Wilmette	Cook	Independent	False
 4930	Chunn	Robert	RR 1 Box 307 A		Evansville	IL	62242	Commissioner	County Board	Randolph 	Randolph	Republican	False
@@ -12864,6 +12864,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 43508	Holzhauer	Ian	1202 Vermont Court		Naperville	IL	60540	Councilman	City	Naperville	DuPage		False
 54039	Holzhauer	Ian	1003 S. Washington, Ste. 235		Naperville	IL	60540     	Member	County Board	Dupage	DuPage	Democratic	False
 54332	Holzhauser	Bartholomew	16844 Evergreen Ter.		Homer Glen	IL	60491     	Member	County Board	Will	Will	Independent	False
+54418	Holzhauser	Bartholomew	16844 Evergreen Terrace		Homer Glen	IL	60491     	Trustee	Village	Homer Glen	Will		False
 2981	Homa	Theodore	Box 4517 RFD		Long Grove	IL	60047	Commissioner	Park	Long Grove	Lake		False
 10932	Homer	Thomas J	62 Redwood Circle		Canton	IL	61520	Judge	Appellate Court	3	Fulton	Democratic	False
 206	Homer	Thomas J	62 Redwood Circle		Canton	IL	61520	State Representative	Representative	91 	Fulton	Democratic	False
@@ -25827,6 +25828,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 15491	Scheer	Ellyn J	3745 Enfield		Skokie	IL	60076	Clerk	Village	Skokie	Cook		False
 5331	Scheffer	Robert H	RR 1 Box 139		Atwood	IL	61913	Member	County Board	Piatt 3  	Piatt	Republican	False
 26199	Scheflow	Douglas J	215 Coventry Ct		Elgin	IL	60123	Member	County Board	Kane 22 	Kane	Republican	False
+54417	Scheib	Michael	380 Washington St.		Marseilles	IL	61341     	Mayor	City	Marseilles	LaSalle	Non Partisan	False
 2243	Scheibel	Kent	893 Malibu		Edwardsville	IL	62025	Member	County Board	Madison 24 	Madison	Democratic	False
 39361	Scheider	Al	239 N Dennis Ave		Decatur	IL	62522	Member	School	61	Macon		False
 7002	Scheidler	Donald			Lemont	IL	60439	Trustee	Village	Lemont	Cook		False

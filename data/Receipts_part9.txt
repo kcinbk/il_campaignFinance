@@ -1,5 +1,4 @@
-056     	1A							  	          	True		False
-5294630	16107	754092		Lyons	Dick	2018-11-02 00:00:00	250	250	0			25016 E 8th Rd		Harvel	IL	62538     	1A							  	          	True		False
+ 00:00:00	250	250	0			25016 E 8th Rd		Harvel	IL	62538     	1A							  	          	True		False
 5294631	16107	754092		Rupert	James	2018-11-02 00:00:00	250	250	0			223 Monroe St		Nokomis	IL	62075     	1A							  	          	True		False
 5294632	16107	754092		Peoples Gas Light & Coke		2018-11-02 00:00:00	250	250	0			PO Box 2179		Milwaukee	WI	53201     	1A							  	          	True		False
 5294633	16107	754092		Pioneer Oil Company, INC.		2018-11-02 00:00:00	250	250	0			400 Main St		Vincesses	IN	47591     	1A							  	          	True		False
@@ -619389,4 +619388,5 @@ Chicago	IL	60607     	2A							  	          	True		False
 5920007	37468	874476		Rubenstein	Alan	2022-10-20 00:00:00	500	500	0			642 Roosevelt Dr.		Edwardsville	IL	62025     	1A							  	          	True		False
 5920008	37468	874476		Stand for Children Illinois PAC		2022-10-20 00:00:00	2500	2500	0			850 W. Jackson Blvd., Ste. 330		Chicago	IL	60607     	2A							  	          	True		False
 5920009	37468	874476		Prairie PAC		2022-10-20 00:00:00	1000	1000	0			600 Pennsylvania Ave SE		Washington	DC	20003     	2A							  	          	True		False
-5920010	37468	874476		CUPAC		2022-10-20 00:00:00	1500	1500	0			1807 W Diehl Rd		Nape
+5920010	37468	874476		CUPAC		2022-10-20 00:00:00	1500	1500	0			1807 W Diehl Rd		Naperville	IL	60566     	2A							  	          	True		False
+5920011	37468	874476		ISDF		202

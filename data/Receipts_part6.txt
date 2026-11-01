@@ -398871,7 +398871,7 @@ ndrew	2011-08-08 00:00:00	200	200	0			702 Marion Avenue		Highland Park	IL	60035 
 3814503	13471	507515		Sheinkop	Jonathan Jay	2013-06-29 00:00:00	100	100	0			2049 N. Kenmore Ave		Chicago	IL	60614     	1A							  	          	False		False
 3814504	13471	507515		Sisco	Jane	2013-06-28 00:00:00	100	100	0			906 Michigan Avenue	#3	Evanston	IL	60202     	1A							  	          	False		False
 3814505	13471	507515		Skallas	A. Thomas	2013-06-24 00:00:00	500	500	0			2526 Osage Drive		Glenview	IL	60026     	1A							  	          	False		False
-3814506	13471	507515		Slade	Michael	2013-06-19 00:00:00	500	500	0			841 N. Ridgeland Avenue		Oak Park	IL	60302     	1A							  	          	False		False
+3814506	13471	507515		Slade	Michael	2013-06-19 00:00:00	500	500	0			Redaction Requested					1A							  	          	False		True
 3814143	13471	507515		Byrne	John M.	2013-06-28 00:00:00	2500	2500	0	Chief Marketing Officer	Drinker Biddle & Reath LLP	693 Greenwood Ave.		Glencoe	IL	60022     	1A							  	          	False		False
 3814144	13471	507515		Cacciatore	Joseph Victor	2013-06-28 00:00:00	1500	1500	0	CEO	Jos. Cacciatore & Co.	1815 S. Prairie Ave		Chicago	IL	60616-1319	1A							  	          	False		False
 3814145	13471	507515		Callahan	David	2013-06-28 00:00:00	2000	2000	0	Attorney	Kirkland & Ellis LLP	1519 W. George Street		Chicago	IL	60657     	1A							  	          	False		False
@@ -616770,4 +616770,5 @@ ndrew	2011-08-08 00:00:00	200	200	0			702 Marion Avenue		Highland Park	IL	60035 
 4033729	1362	538954		UFCW Local 881 PAC		2014-05-20 00:00:00	250	250	0			10400 W. Higgins Road Ste. 500		Rosemont	IL	60018     	2A							  	          	False		False
 4033730	1362	538954		Marder	Sidney and Natalie	2014-05-22 00:00:00	250	250	0			8937 Agliana Circle		Boynton Beach	FL	33472     	1A							  	          	False		False
 4033731	1362	538954		Londrigan	Timothy	2014-05-22 00:00:00	200	200	0			1227 South Seventh St.		Springfield	IL	52703     	1A							  	          	False		False
-4033732	1362	538954		Illinois American Water Company PAC		2014-06-05 00:00:00	250	250	0			300 N. Water Works Drive		Belleville	IL	62223     	2A							  	          	Fals
+4033732	1362	538954		Illinois American Water Company PAC		2014-06-05 00:00:00	250	250	0			300 N. Water Works Drive		Belleville	IL	62223     	2A							  	          	False		False
+4033733	1362	53

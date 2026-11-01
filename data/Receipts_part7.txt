@@ -1,5 +1,4 @@
-e		False
-4033733	1362	538954		Smith	James P.	2014-06-05 00:00:00	250	250	0			3339 Stephenson Place NW		Washington	DC	20015     	1A							  	          	False		False
+8954		Smith	James P.	2014-06-05 00:00:00	250	250	0			3339 Stephenson Place NW		Washington	DC	20015     	1A							  	          	False		False
 4033734	1362	538954		Teamsters Local Union No. 916 D.R.I.V.E.		2014-06-05 00:00:00	250	250	0			2701 N. Dirksen Parkway		Springfield	IL	62702     	2A							  	          	False		False
 4033735	1362	538954		Steamfitters Local 353 P.E.C.		2014-06-05 00:00:00	250	500	0			6304 W. Development Dr.		Peoria	IL	61604     	2A							  	          	False		False
 4033736	1362	538954		Taliana	Lawrence O.	2014-06-05 00:00:00	200	200	0			1409 Lantz Ct.		Edwardsville	IL	62025     	1A							  	          	False		False
@@ -57843,7 +57842,7 @@ e		False
 4091814	25185	547763		Salk	Andy	2014-08-13 00:00:00	1000	1000	0	Banking	First State Bank	1900 N Leavitt St.		Chicago	IL	60647-4409	1A							  	          	False		False
 4091815	25185	547763		Alagna	Mathew	2014-09-30 00:00:00	1000	1000	0	Retired	None	19 Ruffled Feathers Dr.		Lemont	IL	60439-7751	1A							  	          	False		False
 4091816	25185	547763		Grigiski	Carole	2014-09-03 00:00:00	5000	5000	0	Owner	Capital Storage	2225 J. David Jones Pkwy.		Springfield	IL	62707-2672	1A							  	          	False		False
-4091817	25185	547763		Slade	Michael	2014-09-18 00:00:00	250	250	0	Attorney	Kirkland & Ellis LLP	841 N Ridgeland Ave		Oak Park	IL	60302-1439	1A							  	          	False		False
+4091817	25185	547763		Slade	Michael	2014-09-18 00:00:00	250	250	0	Attorney	Kirkland & Ellis LLP	Redaction Requested					1A							  	          	False		True
 4091818	25185	547763		Casey	Sandra	2014-08-11 00:00:00	100	500	0			8674 Saddlebred Ct		Frankfort	IL	60423-8619	1A							  	          	False		False
 4091819	25185	547763		Casey	Sandra	2014-08-11 00:00:00	400	500	0			8674 Saddlebred Ct		Frankfort	IL	60423-8619	1A							  	          	False		False
 4091820	25185	547763		Miller	Mark	2014-08-19 00:00:00	1500	1500	0	CEO	Prince Industries	745 N Gary Ave		Carol Stream	IL	60188-1812	1A							  	          	False		False
@@ -84477,7 +84476,7 @@ e		False
 4119987	26172	553602		Heinz	Jordan	2014-12-08 00:00:00	1000	1000	0	Attorney	Kirkland & Ellis LLP	3110 N Greenview Ave	Apt 4E	Chicago	IL	60657-7986	1A							  	          	True		False
 4119988	26172	553602		McKane	Mark	2014-12-10 00:00:00	1500	1500	0	Attorney	Kirkland & Ellis LLP	140 6th Ave		San Francisco	CA	94118-1326	1A							  	          	True		False
 4119989	26172	553602		Singer	William S.	2014-12-08 00:00:00	1000	1000	0	Attorney	Kirkland & Ellis LLP	300 N La Salle Dr	Fl 39	Chicago	IL	60654-3406	1A							  	          	True		False
-4119990	26172	553602		Slade	Michael	2014-12-10 00:00:00	1000	1000	0	Attorney	Kirkland & Ellis LLP	841 N Ridgeland Ave		Oak Park	IL	60302-1439	1A							  	          	True		False
+4119990	26172	553602		Slade	Michael	2014-12-10 00:00:00	1000	1000	0	Attorney	Kirkland & Ellis LLP	Redaction Requested					1A							  	          	True		True
 4119991	22801	553603		Orsos Restaurant		2014-12-08 00:00:00	1272.38	0	0			1401 N. Wells		Chicago	IL	60610     	5A	Fund raising - food	Orsos Restaurant		1401 N. Wells		Chicago	IL	60610     	True		False
 4119992	5175	553604		SMW Local 265 - Gen. Fund (Individual Contributions)		2014-12-12 00:00:00	1585.66	0	0			205 Alexandra Way		Carol Stream	IL	60188     	1A							  	          	True		False
 4119993	22801	553605		IUOE LOCAL 143 Political action committee		2014-12-08 00:00:00	1000	0	0			447 W. 31st		Chicago	IL	60616     	2A							  	          	True		False
@@ -129998,7 +129997,7 @@ e		False
 4165523	26172	558622		Scott-Rudnick	Clifford	2014-12-23 00:00:00	200	200	0			3049 N Seminary Ave		Chicago	IL	60657-4335	1A							  	          	False		False
 4165524	26172	558622		Shannon King	Russell	2014-11-06 00:00:00	400	400	0			2040 W Belle Plaine Ave		Chicago	IL	60618-3084	1A							  	          	False		False
 4165525	26172	558622		Singer	William S.	2014-12-08 00:00:00	1000	1000	0	Attorney	Kirkland & Ellis LLP	300 N La Salle Dr	Fl 39	Chicago	IL	60654-3406	1A							  	          	False		False
-4165526	26172	558622		Slade	Michael	2014-12-10 00:00:00	1000	1000	0	Attorney	Kirkland & Ellis LLP	841 N Ridgeland Ave		Oak Park	IL	60302-1439	1A							  	          	False		False
+4165526	26172	558622		Slade	Michael	2014-12-10 00:00:00	1000	1000	0	Attorney	Kirkland & Ellis LLP	Redaction Requested					1A							  	          	False		True
 4165527	26172	558622		Smith	Leslie	2014-11-20 00:00:00	2000	2000	0	Attorney	Kirkland & Ellis LLP	624 W Kemper Pl		Chicago	IL	60614-3312	1A							  	          	False		False
 4165528	26172	558622		Smith	Renee	2014-11-06 00:00:00	2000	2000	0	Attorney	Kirkland & Ellis LLP	2215 N Lakewood Ave		Chicago	IL	60614-3120	1A							  	          	False		False
 4165529	26172	558622		Smylie	Sallie	2014-11-11 00:00:00	1000	1000	0	Attorney	Kirkland & Ellis LLP	313 Forest Ave		Oak Park	IL	60302-2011	1A							  	          	False		False
@@ -612447,4 +612446,5 @@ Retired	16 Burning Tree Ct		Las Vegas	NV	89113     	1A							  	          	False
 4668023	32390	652335		Jaffer Realty Resources LLC		2017-03-17 00:00:00	500	500	0			144 Steamboat Ln		Bolingbrook	IL	60490     	1A							  	          	True		False
 4668024	32390	652335		Ali	Syed	2017-03-17 00:00:00	250	570	0			254 Christine Way		Bolingbrook	IL	60440     	1A							  	          	True		False
 4668025	32390	652335		Mirza	Imran	2017-03-17 00:00:00	250	300	0			1793 Pampas St		Bolingbrook	IL	60490     	1A							  	          	True		False
-4668026	32390	652335		North Central Illinois Labor Council PAC		2017-03-18 00:00:00	500	500	0			28600 Bella Vista Parkway	Suite 1601	Warr
+4668026	32390	652335		North Central Illinois Labor Council PAC		2017-03-18 00:00:00	500	500	0			28600 Bella Vista Parkway	Suite 1601	Warrenville	IL	60555     	1A							  	          	True		False
+4668027	32390	652335		Dyke	Jon

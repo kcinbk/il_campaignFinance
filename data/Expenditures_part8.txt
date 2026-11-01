@@ -348725,9 +348725,9 @@
 4943750	34995	1021346	0	Precision Signz		2026-07-28 00:00:00	2414.85	2414.85	3408 State Street		Bettendorf	IA	52722     	8B	Lawn signs			False	False	False		False
 4943751	39761	1021347	0	Objective Solutions LLC		2026-07-01 00:00:00	500	500	5627 Fields Dr		Yorkville	IL	60560     	8B	Consulting			False	False	False		False
 4943752	20817	1021351	0	St Jude		2026-08-16 00:00:00	250	250	262 Danny Thomas Pl		Memphis	IL	38105     	8B	Sponsorship			False	False	False		False
-4943753	23813	1021353	0	Krahn	Dave	2026-07-06 00:00:00	300	600	654 Driftwood Ct		Varna	IL	61375     	8B	Consulting			False	False	False		False
-4943754	23813	1021353	0	Krahn	Dave	2026-09-06 00:00:00	300	600	654 Driftwood Ct		Varna	IL	61375     	8B	Consulting			False	False	False		False
-4943755	23813	1021353	0	Ahead of Our Time Publishing		2026-09-09 00:00:00	500	500	PO Box 5252		Springfield	IL	62705     	8B	Subscription			False	False	False		False
+4943753	23813	1021353	0	Krahn	Dave	2026-07-06 00:00:00	300	600	654 Driftwood Ct		Varna	IL	61375     	8B	Consulting			False	False	True		False
+4943754	23813	1021353	0	Krahn	Dave	2026-09-06 00:00:00	300	600	654 Driftwood Ct		Varna	IL	61375     	8B	Consulting			False	False	True		False
+4943755	23813	1021353	0	Ahead of Our Time Publishing		2026-09-09 00:00:00	500	500	PO Box 5252		Springfield	IL	62705     	8B	Subscription			False	False	True		False
 4943756	18698	1021357	0	Feliksiak	Callie	2026-09-01 00:00:00	400	400	P.O. Box 168		Peru	IL	61354     	8B	Golf outing/Swing For Jack (music programs for schools)			False	False	False		False
 4943757	1421	1021360	0	Marsie Geldert-Murphey		2026-07-28 00:00:00	400	400	P.O. Box 7		Glen Carbon	IL	62034     	6B	Ticket purchase			False	False	False		False
 4943758	1421	1021360	0	Working Families for Madison County		2026-09-01 00:00:00	5000	5000	136 Chattanooga Court		Edwardsville	IL	62025     	6B	Contribution			False	False	False		False
@@ -355741,46 +355741,46 @@
 4950766	17549	1023724	0	Auffenberg		2026-09-03 00:00:00	2850	2850	115 Regency Park		O'Fallon	IL	62269     	8B	Vehicle Repair			False	False	False		False
 4950767	17549	1023724	0	Perkins	Tamara	2026-09-10 00:00:00	2750	2750	1151 Smith St		Cahokia	IL	62206     	8B	Catering			False	False	False		False
 4950768	17549	1023724	0	Gunner-Lewis	Jeanice	2026-09-09 00:00:00	200	200	1400 Doris Ave		Cahokia Heights	IL	62206     	8B	Headquarters Work			False	False	False		False
-4950769	249	1023726	0	Nolan Kemp for IL House		2026-07-14 00:00:00	4000	4000	105 W 1st St		Dixon	IL	61021     	6B	Contribution			False	False	False		False
-4950770	249	1023726	0	Wheeler	Skyler	2026-09-13 00:00:00	200	200	842 N Dement		Dixon	IL	61021     	8B	Raffle prizes			False	False	False		False
-4950771	249	1023726	0	Lemme	Joan	2026-09-13 00:00:00	300	300	875 Raynor Rd		Dixon	IL	61021     	8B	Raffle prizes			False	False	False		False
-4950772	249	1023726	0	Lang	Jeff	2026-09-13 00:00:00	800	800	PO Box 364		Ashton	IL	61006     	8B	Raffle prizes			False	False	False		False
-4950773	249	1023726	0	Sauk Valley Community College		2026-08-14 00:00:00	250	250	173 IL Rt 2		Dixon	IL	61021     	8B	Room Rental			False	False	False		False
-4950774	249	1023726	0	Vella	Toni	2026-09-13 00:00:00	600	600	109 Hickory Ln		Dixon	IL	61021     	8B	Raffle prizes			False	False	False		False
-4950775	249	1023726	0	Sheet Metal Workers Local 219 PAC		2026-09-13 00:00:00	600	600	3316 N Publishers Dr		Rockford	IL	61109     	6B	Raffle prize			False	False	False		False
-4950776	249	1023726	0	Wolf	Theresa	2026-09-13 00:00:00	200	200	1018 W 2nd St		Dixon	IL	61021     	8B	Raffle prizes			False	False	False	USA	False
-4950777	249	1023726	0	Illinois Casulty Company		2026-08-06 00:00:00	175	175	225 20th St		Rock Island	IL	61204     	8B	Event Insurance			False	False	False		False
-4950778	249	1023726	0	Whiteside County Democratic Central Committee		2026-09-13 00:00:00	100	500	1905 New High St		Rock Falls	IL	61071     	6B	Raffle prize			False	False	False	USA	False
-4950779	249	1023726	0	Whiteside County Democratic Central Committee		2026-08-11 00:00:00	400	500	1905 New High St		Rock Falls	IL	61071     	6B	Contribution			False	False	False	USA	False
-4950780	249	1023726	0	Olson	Bob	2026-09-13 00:00:00	200	200	521 Pump Factory Rd		Harmon	IL	61042     	8B	Raffle prizes			False	False	False	USA	False
-4950781	249	1023726	0	Albus	Donna	2026-09-13 00:00:00	200	200	1320 E IL Rt 64		Oregon	IL	61061     	8B	Raffle prizes			False	False	False		False
-4950782	249	1023726	0	Day	Deon	2026-09-13 00:00:00	200	200	90 S Hennepin Ave		Dixon	IL	61021     	8B	Raffle prizes			False	False	False		False
-4950783	249	1023726	0	Full	William	2026-09-13 00:00:00	200	200	963 Sterling Rd		Dixon	IL	61021     	8B	Raffle prizes			False	False	False	USA	False
-4950784	249	1023726	0	AFSCME Local 817		2026-07-29 00:00:00	500	1500	662 Palmyra Rd		Dixon	IL	61021     	8B	Headquarters rent			False	False	False		False
-4950785	249	1023726	0	AFSCME Local 817		2026-08-29 00:00:00	500	1500	662 Palmyra Rd		Dixon	IL	61021     	8B	Headquarters rent			False	False	False		False
-4950786	249	1023726	0	AFSCME Local 817		2026-09-28 00:00:00	500	1500	662 Palmyra Rd		Dixon	IL	61021     	8B	Headquarters rent			False	False	False		False
-4950787	249	1023726	0	815 Porta Potty		2026-09-12 00:00:00	350	350	21561 Buell Rd		Sterling	IL	61081     	8B	Fund raiser Porta Poties			False	False	False		False
-4950788	249	1023726	0	Suburban Elite Rental		2026-09-16 00:00:00	1650	1650	26311 W Winding Oak Tr		Channahon	IL	60410     	8B	Fund raiser Tent, Talbles, Chairs			False	False	False		False
-4950789	249	1023726	0	Clark	Cat	2026-09-13 00:00:00	700	700	704 W 14th St		Sterling	IL	61081     	8B	Raffle prizes			False	False	False		False
-4950790	249	1023726	0	Amboy Food and Liquior		2026-09-12 00:00:00	326.93	363.22	242 E Main St		Amboy	IL	61310     	8B	Fund raiser supplies			False	False	False		False
-4950791	249	1023726	0	Amboy Food and Liquior		2026-09-16 00:00:00	36.29	363.22	242 E Main St		Amboy	IL	61310     	8B	Fund raiser supplies			False	False	False		False
-4950792	249	1023726	0	Illinois Democratic County Chairmans Assoc.		2026-09-13 00:00:00	100	600	P.O. Box 3445		Springfield	IL	62708     	6B	Raffle prize			False	False	False		False
-4950793	249	1023726	0	Illinois Democratic County Chairmans Assoc.		2026-07-07 00:00:00	500	600	P.O. Box 3445		Springfield	IL	62708     	6B	Contribution			False	False	False		False
-4950794	249	1023726	0	Minuteman Press		2026-07-08 00:00:00	163.19	1747.46	5128 N Second St		Loves Park	IL	61111     	8B	Raffle tickets			False	False	False		False
-4950795	249	1023726	0	Minuteman Press		2026-08-18 00:00:00	1454.38	1747.46	5128 N Second St		Loves Park	IL	61111     	8B	Printing			False	False	False		False
-4950796	249	1023726	0	Minuteman Press		2026-08-29 00:00:00	129.89	1747.46	5128 N Second St		Loves Park	IL	61111     	8B	Printing			False	False	False		False
-4950797	249	1023726	0	Smith	Ellen	2026-09-13 00:00:00	200	200	512 N Galena Ave		Dixon	IL	61021     	8B	Raffle prizes			False	False	False		False
-4950798	249	1023726	0	Walmart		2026-07-14 00:00:00	28.9	276.71	1640 S Galena Ave		Dixon	IL	61021     	8B	Parade Supplies			False	False	False	USA	False
-4950799	249	1023726	0	Walmart		2026-09-08 00:00:00	36.52	276.71	1640 S Galena Ave		Dixon	IL	61021     	8B	Office supplies			False	False	False	USA	False
-4950800	249	1023726	0	Walmart		2026-09-12 00:00:00	98.52	276.71	1640 S Galena Ave		Dixon	IL	61021     	8B	Fund raiser supplies			False	False	False	USA	False
-4950801	249	1023726	0	Walmart		2026-09-16 00:00:00	112.77	276.71	1640 S Galena Ave		Dixon	IL	61021     	8B	Fund raiser supplies			False	False	False	USA	False
-4950802	249	1023726	0	Walton Tap		2026-09-16 00:00:00	309	309	906 Walton Rd		Dixon	IL	61021     	8B	Fund raiser supplies			False	False	False	USA	False
-4950803	249	1023726	0	IBEW 364		2026-09-13 00:00:00	200	200	6820 Old Mill Rd		Rockford,	IL	61108     	6B	Raffle prize			False	False	False		False
-4950804	249	1023726	0	Adams	Richard	2026-09-13 00:00:00	8000	8000	166 Creekview		Amboy	IL	61310     	8B	Raffle prizes			False	False	False		False
-4950805	249	1023726	0	Ford	Kathy	2026-09-13 00:00:00	200	200	1160 St Vincent Ave		LaSalle	IL	61301     	8B	Raffle prizes			False	False	False		False
-4950806	249	1023726	0	Blackburn	Rich	2026-09-13 00:00:00	300	300	553 IL Rt 26		Amboy	IL	61310     	8B	Raffle prizes			False	False	False		False
-4950807	249	1023726	0	Kelly	Nancy	2026-09-13 00:00:00	200	200	218 Locust St		Sterling	IL	61081     	8B	Raffle prizes			False	False	False	USA	False
-4950808	249	1023726	0	Seible	Ryan	2026-09-13 00:00:00	500	500	504 W Fulton St		Polo	IL	61064     	8B	Raffle prizes			False	False	False		False
+4950769	249	1023726	0	Nolan Kemp for IL House		2026-07-14 00:00:00	4000	4000	105 W 1st St		Dixon	IL	61021     	6B	Contribution			False	False	True		False
+4950770	249	1023726	0	Wheeler	Skyler	2026-09-13 00:00:00	200	200	842 N Dement		Dixon	IL	61021     	8B	Raffle prizes			False	False	True		False
+4950771	249	1023726	0	Lemme	Joan	2026-09-13 00:00:00	300	300	875 Raynor Rd		Dixon	IL	61021     	8B	Raffle prizes			False	False	True		False
+4950772	249	1023726	0	Lang	Jeff	2026-09-13 00:00:00	800	800	PO Box 364		Ashton	IL	61006     	8B	Raffle prizes			False	False	True		False
+4950773	249	1023726	0	Sauk Valley Community College		2026-08-14 00:00:00	250	250	173 IL Rt 2		Dixon	IL	61021     	8B	Room Rental			False	False	True		False
+4950774	249	1023726	0	Vella	Toni	2026-09-13 00:00:00	600	600	109 Hickory Ln		Dixon	IL	61021     	8B	Raffle prizes			False	False	True		False
+4950775	249	1023726	0	Sheet Metal Workers Local 219 PAC		2026-09-13 00:00:00	600	600	3316 N Publishers Dr		Rockford	IL	61109     	6B	Raffle prize			False	False	True		False
+4950776	249	1023726	0	Wolf	Theresa	2026-09-13 00:00:00	200	200	1018 W 2nd St		Dixon	IL	61021     	8B	Raffle prizes			False	False	True	USA	False
+4950777	249	1023726	0	Illinois Casulty Company		2026-08-06 00:00:00	175	175	225 20th St		Rock Island	IL	61204     	8B	Event Insurance			False	False	True		False
+4950778	249	1023726	0	Whiteside County Democratic Central Committee		2026-09-13 00:00:00	100	500	1905 New High St		Rock Falls	IL	61071     	6B	Raffle prize			False	False	True	USA	False
+4950779	249	1023726	0	Whiteside County Democratic Central Committee		2026-08-11 00:00:00	400	500	1905 New High St		Rock Falls	IL	61071     	6B	Contribution			False	False	True	USA	False
+4950780	249	1023726	0	Olson	Bob	2026-09-13 00:00:00	200	200	521 Pump Factory Rd		Harmon	IL	61042     	8B	Raffle prizes			False	False	True	USA	False
+4950781	249	1023726	0	Albus	Donna	2026-09-13 00:00:00	200	200	1320 E IL Rt 64		Oregon	IL	61061     	8B	Raffle prizes			False	False	True		False
+4950782	249	1023726	0	Day	Deon	2026-09-13 00:00:00	200	200	90 S Hennepin Ave		Dixon	IL	61021     	8B	Raffle prizes			False	False	True		False
+4950783	249	1023726	0	Full	William	2026-09-13 00:00:00	200	200	963 Sterling Rd		Dixon	IL	61021     	8B	Raffle prizes			False	False	True	USA	False
+4950784	249	1023726	0	AFSCME Local 817		2026-07-29 00:00:00	500	1500	662 Palmyra Rd		Dixon	IL	61021     	8B	Headquarters rent			False	False	True		False
+4950785	249	1023726	0	AFSCME Local 817		2026-08-29 00:00:00	500	1500	662 Palmyra Rd		Dixon	IL	61021     	8B	Headquarters rent			False	False	True		False
+4950786	249	1023726	0	AFSCME Local 817		2026-09-28 00:00:00	500	1500	662 Palmyra Rd		Dixon	IL	61021     	8B	Headquarters rent			False	False	True		False
+4950787	249	1023726	0	815 Porta Potty		2026-09-12 00:00:00	350	350	21561 Buell Rd		Sterling	IL	61081     	8B	Fund raiser Porta Poties			False	False	True		False
+4950788	249	1023726	0	Suburban Elite Rental		2026-09-16 00:00:00	1650	1650	26311 W Winding Oak Tr		Channahon	IL	60410     	8B	Fund raiser Tent, Talbles, Chairs			False	False	True		False
+4950789	249	1023726	0	Clark	Cat	2026-09-13 00:00:00	700	700	704 W 14th St		Sterling	IL	61081     	8B	Raffle prizes			False	False	True		False
+4950790	249	1023726	0	Amboy Food and Liquior		2026-09-12 00:00:00	326.93	363.22	242 E Main St		Amboy	IL	61310     	8B	Fund raiser supplies			False	False	True		False
+4950791	249	1023726	0	Amboy Food and Liquior		2026-09-16 00:00:00	36.29	363.22	242 E Main St		Amboy	IL	61310     	8B	Fund raiser supplies			False	False	True		False
+4950792	249	1023726	0	Illinois Democratic County Chairmans Assoc.		2026-09-13 00:00:00	100	600	P.O. Box 3445		Springfield	IL	62708     	6B	Raffle prize			False	False	True		False
+4950793	249	1023726	0	Illinois Democratic County Chairmans Assoc.		2026-07-07 00:00:00	500	600	P.O. Box 3445		Springfield	IL	62708     	6B	Contribution			False	False	True		False
+4950794	249	1023726	0	Minuteman Press		2026-07-08 00:00:00	163.19	1747.46	5128 N Second St		Loves Park	IL	61111     	8B	Raffle tickets			False	False	True		False
+4950795	249	1023726	0	Minuteman Press		2026-08-18 00:00:00	1454.38	1747.46	5128 N Second St		Loves Park	IL	61111     	8B	Printing			False	False	True		False
+4950796	249	1023726	0	Minuteman Press		2026-08-29 00:00:00	129.89	1747.46	5128 N Second St		Loves Park	IL	61111     	8B	Printing			False	False	True		False
+4950797	249	1023726	0	Smith	Ellen	2026-09-13 00:00:00	200	200	512 N Galena Ave		Dixon	IL	61021     	8B	Raffle prizes			False	False	True		False
+4950798	249	1023726	0	Walmart		2026-07-14 00:00:00	28.9	276.71	1640 S Galena Ave		Dixon	IL	61021     	8B	Parade Supplies			False	False	True	USA	False
+4950799	249	1023726	0	Walmart		2026-09-08 00:00:00	36.52	276.71	1640 S Galena Ave		Dixon	IL	61021     	8B	Office supplies			False	False	True	USA	False
+4950800	249	1023726	0	Walmart		2026-09-12 00:00:00	98.52	276.71	1640 S Galena Ave		Dixon	IL	61021     	8B	Fund raiser supplies			False	False	True	USA	False
+4950801	249	1023726	0	Walmart		2026-09-16 00:00:00	112.77	276.71	1640 S Galena Ave		Dixon	IL	61021     	8B	Fund raiser supplies			False	False	True	USA	False
+4950802	249	1023726	0	Walton Tap		2026-09-16 00:00:00	309	309	906 Walton Rd		Dixon	IL	61021     	8B	Fund raiser supplies			False	False	True	USA	False
+4950803	249	1023726	0	IBEW 364		2026-09-13 00:00:00	200	200	6820 Old Mill Rd		Rockford,	IL	61108     	6B	Raffle prize			False	False	True		False
+4950804	249	1023726	0	Adams	Richard	2026-09-13 00:00:00	8000	8000	166 Creekview		Amboy	IL	61310     	8B	Raffle prizes			False	False	True		False
+4950805	249	1023726	0	Ford	Kathy	2026-09-13 00:00:00	200	200	1160 St Vincent Ave		LaSalle	IL	61301     	8B	Raffle prizes			False	False	True		False
+4950806	249	1023726	0	Blackburn	Rich	2026-09-13 00:00:00	300	300	553 IL Rt 26		Amboy	IL	61310     	8B	Raffle prizes			False	False	True		False
+4950807	249	1023726	0	Kelly	Nancy	2026-09-13 00:00:00	200	200	218 Locust St		Sterling	IL	61081     	8B	Raffle prizes			False	False	True	USA	False
+4950808	249	1023726	0	Seible	Ryan	2026-09-13 00:00:00	500	500	504 W Fulton St		Polo	IL	61064     	8B	Raffle prizes			False	False	True		False
 4950809	18004	1023730	0	Friends of Ronnie Mosley		2026-08-26 00:00:00	500	500	8301 South Holland Av	Ste C 106	Chicago	IL	60620     	6B	Donation			False	False	False		False
 4950810	18004	1023730	0	Brookins	Harrihson B.	2026-08-05 00:00:00	500	1000	9636 South Winston A.		Chicago	IL	60643     	8B	Campaign Work			False	False	False		False
 4950811	18004	1023730	0	Brookins	Harrihson B.	2026-08-10 00:00:00	500	1000	9636 South Winston A.		Chicago	IL	60643     	8B	Campaign Work			False	False	False		False
@@ -398077,3 +398077,58 @@
 4993111	41106	1029065	0	Union Signs & Print		2026-09-19 00:00:00	624	624	PO Box 263		New Lenox	IL	60451     	8B	Yard signs			False	False	False		False
 4993112	41106	1029065	0	USPS		2026-07-30 00:00:00	574	574	206 Cedar Ave		Lake Villa	IL	60046     	8B	Postage			False	False	False		False
 4993113	41106	1029065	0	Maravelas Banquet & Catering		2026-08-29 00:00:00	500	3707.6	P.O.Box 188		Fox Lake	IL	60020     	8B	Tip			False	False	False		False
+4993114	249	1029159	0	Nolan Kemp for IL House		2026-07-14 00:00:00	4000	4000	105 W 1st St		Dixon	IL	61021     	6B	Contribution			False	False	False		False
+4993115	249	1029159	0	Wheeler	Skyler	2026-09-13 00:00:00	200	200	842 N Dement		Dixon	IL	61021     	8B	Raffle winnings			False	False	False		False
+4993116	249	1029159	0	Lemme	Joan	2026-09-13 00:00:00	300	300	875 Raynor Rd		Dixon	IL	61021     	8B	Raffle winnings			False	False	False		False
+4993117	249	1029159	0	Lang	Jeff	2026-09-13 00:00:00	800	800	PO Box 364		Ashton	IL	61006     	8B	Raffle winnings			False	False	False		False
+4993118	249	1029159	0	Sauk Valley Community College		2026-08-14 00:00:00	250	250	173 IL Rt 2		Dixon	IL	61021     	8B	Room Rental			False	False	False		False
+4993119	249	1029159	0	Vella	Toni	2026-09-13 00:00:00	600	600	109 Hickory Ln		Dixon	IL	61021     	8B	Raffle winnings			False	False	False		False
+4993120	249	1029159	0	Sheet Metal Workers Local 219 PAC		2026-09-13 00:00:00	600	600	3316 N Publishers Dr		Rockford	IL	61109     	6B	Raffle winnings			False	False	False		False
+4993121	249	1029159	0	Wolf	Theresa	2026-09-13 00:00:00	200	200	1018 W 2nd St		Dixon	IL	61021     	8B	Raffle winnings			False	False	False	USA	False
+4993122	249	1029159	0	Illinois Casulty Company		2026-08-06 00:00:00	175	175	225 20th St		Rock Island	IL	61204     	8B	Event Insurance			False	False	False		False
+4993123	249	1029159	0	Whiteside County Democratic Central Committee		2026-08-11 00:00:00	400	500	1905 New High St		Rock Falls	IL	61071     	6B	Contribution			False	False	False	USA	False
+4993124	249	1029159	0	Whiteside County Democratic Central Committee		2026-09-13 00:00:00	100	500	1905 New High St		Rock Falls	IL	61071     	6B	Raffle winnings			False	False	False	USA	False
+4993125	249	1029159	0	Olson	Bob	2026-09-13 00:00:00	200	200	521 Pump Factory Rd		Harmon	IL	61042     	8B	Raffle winnings			False	False	False	USA	False
+4993126	249	1029159	0	Albus	Donna	2026-09-13 00:00:00	200	200	1320 E IL Rt 64		Oregon	IL	61061     	8B	Raffle winnings			False	False	False		False
+4993127	249	1029159	0	Day	Deon	2026-09-13 00:00:00	200	200	90 S Hennepin Ave		Dixon	IL	61021     	8B	Raffle winnings			False	False	False		False
+4993128	249	1029159	0	Full	William	2026-09-13 00:00:00	200	200	963 Sterling Rd		Dixon	IL	61021     	8B	Raffle winnings			False	False	False	USA	False
+4993129	249	1029159	0	AFSCME Local 817		2026-07-29 00:00:00	500	1500	662 Palmyra Rd		Dixon	IL	61021     	8B	Headquarters rent			False	False	False		False
+4993130	249	1029159	0	AFSCME Local 817		2026-08-29 00:00:00	500	1500	662 Palmyra Rd		Dixon	IL	61021     	8B	Headquarters rent			False	False	False		False
+4993131	249	1029159	0	AFSCME Local 817		2026-09-28 00:00:00	500	1500	662 Palmyra Rd		Dixon	IL	61021     	8B	Headquarters rent			False	False	False		False
+4993132	249	1029159	0	815 Porta Potty		2026-09-12 00:00:00	350	350	21561 Buell Rd		Sterling	IL	61081     	8B	Fund raiser Porta Poties			False	False	False		False
+4993133	249	1029159	0	Suburban Elite Rental		2026-09-16 00:00:00	1650	1650	26311 W Winding Oak Tr		Channahon	IL	60410     	8B	Fund raiser Tent, Talbles, Chairs			False	False	False		False
+4993134	249	1029159	0	Clark	Cat	2026-09-13 00:00:00	700	700	704 W 14th St		Sterling	IL	61081     	8B	Raffle winnings			False	False	False		False
+4993135	249	1029159	0	Amboy Food and Liquior		2026-09-12 00:00:00	326.93	363.22	242 E Main St		Amboy	IL	61310     	8B	Fund raiser supplies			False	False	False		False
+4993136	249	1029159	0	Amboy Food and Liquior		2026-09-16 00:00:00	36.29	363.22	242 E Main St		Amboy	IL	61310     	8B	Fund raiser supplies			False	False	False		False
+4993137	249	1029159	0	Illinois Democratic County Chairmans Assoc.		2026-07-07 00:00:00	500	600	P.O. Box 3445		Springfield	IL	62708     	6B	Contribution			False	False	False		False
+4993138	249	1029159	0	Illinois Democratic County Chairmans Assoc.		2026-09-13 00:00:00	100	600	P.O. Box 3445		Springfield	IL	62708     	6B	Raffle winnings			False	False	False		False
+4993139	249	1029159	0	Minuteman Press		2026-07-08 00:00:00	163.19	1747.46	5128 N Second St		Loves Park	IL	61111     	8B	Raffle tickets			False	False	False		False
+4993140	249	1029159	0	Minuteman Press		2026-08-18 00:00:00	1454.38	1747.46	5128 N Second St		Loves Park	IL	61111     	8B	Printing			False	False	False		False
+4993141	249	1029159	0	Minuteman Press		2026-08-29 00:00:00	129.89	1747.46	5128 N Second St		Loves Park	IL	61111     	8B	Printing			False	False	False		False
+4993142	249	1029159	0	Smith	Ellen	2026-09-13 00:00:00	200	200	512 N Galena Ave		Dixon	IL	61021     	8B	Raffle winnings			False	False	False		False
+4993143	249	1029159	0	Walmart		2026-07-14 00:00:00	28.9	276.71	1640 S Galena Ave		Dixon	IL	61021     	8B	Parade Supplies			False	False	False	USA	False
+4993144	249	1029159	0	Walmart		2026-09-08 00:00:00	36.52	276.71	1640 S Galena Ave		Dixon	IL	61021     	8B	Office supplies			False	False	False	USA	False
+4993145	249	1029159	0	Walmart		2026-09-12 00:00:00	98.52	276.71	1640 S Galena Ave		Dixon	IL	61021     	8B	Fund raiser supplies			False	False	False	USA	False
+4993146	249	1029159	0	Walmart		2026-09-16 00:00:00	112.77	276.71	1640 S Galena Ave		Dixon	IL	61021     	8B	Fund raiser supplies			False	False	False	USA	False
+4993147	249	1029159	0	Walton Tap		2026-09-16 00:00:00	309	309	906 Walton Rd		Dixon	IL	61021     	8B	Fund raiser supplies			False	False	False	USA	False
+4993148	249	1029159	0	IBEW 364		2026-09-13 00:00:00	200	200	6820 Old Mill Rd		Rockford,	IL	61108     	6B	Raffle prize			False	False	False		False
+4993149	249	1029159	0	Adams	Richard	2026-09-13 00:00:00	8000	8000	166 Creekview		Amboy	IL	61310     	8B	Raffle winnings			False	False	False		False
+4993150	249	1029159	0	Ford	Kathy	2026-09-13 00:00:00	200	200	1160 St Vincent Ave		LaSalle	IL	61301     	8B	Raffle winnings			False	False	False		False
+4993151	249	1029159	0	Blackburn	Rich	2026-09-13 00:00:00	300	300	553 IL Rt 26		Amboy	IL	61310     	8B	Raffle winnings			False	False	False		False
+4993152	249	1029159	0	Kelly	Nancy	2026-09-13 00:00:00	200	200	218 Locust St		Sterling	IL	61081     	8B	Raffle winnings			False	False	False	USA	False
+4993153	249	1029159	0	Seible	Ryan	2026-09-13 00:00:00	500	500	504 W Fulton St		Polo	IL	61064     	8B	Raffle winnings			False	False	False		False
+4993154	23813	1029161	0	Krahn	Dave	2026-07-06 00:00:00	300	600	654 Driftwood Ct		Varna	IL	61375     	8B	Consulting			False	False	False		False
+4993155	23813	1029161	0	Krahn	Dave	2026-09-06 00:00:00	300	600	654 Driftwood Ct		Varna	IL	61375     	8B	Consulting			False	False	False		False
+4993156	23813	1029161	0	AAnchor Road Storage		2026-07-01 00:00:00	80	240	823 Anchor Rd.		Dixon	IL	61021     	8B	Storage			False	False	False		False
+4993157	23813	1029161	0	AAnchor Road Storage		2026-08-01 00:00:00	80	240	823 Anchor Rd.		Dixon	IL	61021     	8B	Storage			False	False	False		False
+4993158	23813	1029161	0	AAnchor Road Storage		2026-09-01 00:00:00	80	240	823 Anchor Rd.		Dixon	IL	61021     	8B	Storage			False	False	False		False
+4993159	23813	1029161	0	Ahead of Our Time Publishing		2026-09-09 00:00:00	500	500	PO Box 5252		Springfield	IL	62705     	8B	Subscription			False	False	False		False
+4993160	23813	1029161	0	USPS		2026-08-13 00:00:00	202	202	405 W 2nd St		Dixon	IL	61021     	8B	Post office box			False	False	False		False
+4993161	41288	1029216	0	Change Media Group		2026-10-30 00:00:00	5500	0	PMB 285		St. Clair Shores	MI	48080     	9B	Digital and texting	Marc Parker	Circuit Judge Madison 3rd Judicial Circuit	True	False	False		False
+4993162	39901	1029221	0	Validus		2026-10-28 00:00:00	2332.44	0	1400 Patriot Blvd		Glenview	IL	60025     	9B	MMs Text Messaging	Ed Bannon	Chicago School Board	False	True	False		False
+4993163	39901	1029221	0	Validus		2026-10-28 00:00:00	1888.56	0	1400 Patriot Blvd		Glenview	IL	60025     	9B	MMS Text Messaging	Claudia Peralta	Chicago School Board	False	True	False		False
+4993164	39901	1029221	0	Validus		2026-10-28 00:00:00	2533.64	0	1400 Patriot Blvd		Glenview	IL	60025     	9B	MMS Test Messaging	Brittany Kimble	Chicago School Board	True	False	False		False
+4993165	39901	1029221	0	Validus		2026-10-28 00:00:00	1993.98	0	1400 Patriot Blvd		Glenview	IL	60025     	9B	MMS Text Messaging	Yesenia Lopez	Chicago School Board	False	True	False		False
+4993166	39901	1029221	0	Validus		2026-10-28 00:00:00	1808.6	0	1400 Patriot Blvd		Glenview	IL	60025     	9B	MMS Text Messaging	Jesus Ayala, Jr.	Chicago School Board	True	False	False		False
+4993167	39901	1029221	0	Validus		2026-10-28 00:00:00	1655.23	0	1400 Patriot Blvd		Glenview	IL	60025     	9B	MMS Text Messaging	Anthony Hargrove	Chicago School Board	True	False	False		False
+4993168	39901	1029221	0	Validus		2026-10-28 00:00:00	1722.79	0	1400 Patriot Blvd		Glenview	IL	60025     	9B	MMS Text Messaging	LaPamela Williams	Chicago School Board	True	False	False		False

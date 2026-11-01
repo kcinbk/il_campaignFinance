@@ -1,5 +1,4 @@
-enville	IL	60555     	1A							  	          	True		False
-4668027	32390	652335		Dyke	Jonathan	2017-03-18 00:00:00	1000	1200	0			129 Lee Ln		Bolingbrook	IL	60440     	1A							  	          	True		False
+athan	2017-03-18 00:00:00	1000	1200	0			129 Lee Ln		Bolingbrook	IL	60440     	1A							  	          	True		False
 4668028	32390	652335		Houlihan Campaign Fund		2017-03-18 00:00:00	2500	2500	0			2409 Country Club Dr		Springfield	IL	62704     	1A							  	          	True		False
 4668029	32390	652335		Prairie PAC		2017-03-18 00:00:00	2500	2500	0			PO Box 2002		Springfield	IL	62705     	1A							  	          	True		False
 4668030	32390	652335		Friends of Debra Shore		2017-03-25 00:00:00	500	500	0			PO Box 4674		Skokie	IL	60077     	1A							  	          	True		False
@@ -616216,4 +616215,5 @@ enville	IL	60555     	1A							  	          	True		False
 5294626	16107	754092		HEALPAC-Illinois		2018-11-02 00:00:00	500	500	0			308 E High St, STE 301		Jefferson City	MO	65101     	2A							  	          	True		False
 5294627	16107	754092		Berry	Byron	2018-11-02 00:00:00	500	500	0			626 Maple St		Carrollton	IL	62016     	1A							  	          	True		False
 5294628	16107	754092		Pretnar	Alan	2018-11-02 00:00:00	300	600	0	Attorney	Alan Pretnar Law Office	PO Box 310		Taylor Springs	IL	62089     	1A							  	          	True		False
-5294629	16107	754092		Redfern	R. Kent	2018-11-02 00:00:00	200	200	0			4309 Beach House Trail		Litchfield	IL	62
+5294629	16107	754092		Redfern	R. Kent	2018-11-02 00:00:00	200	200	0			4309 Beach House Trail		Litchfield	IL	62056     	1A							  	          	True		False
+5294630	16107	754092		Lyons	Dick	2018-11-02

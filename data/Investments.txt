@@ -24599,7 +24599,7 @@ ID	CommitteeID	FiledDocID	Description	PurchaseDate	PurchaseShares	PurchasePrice	
 36779	30618	1020956	Investment purchase	2023-05-18 00:00:00	0	7172.5	7172.5	0		Money Metals		P.O. Box 2599		Eagle	ID	83616     	False	
 36780	30618	1020958	Investment purchase	2023-05-18 00:00:00	0	7172.5	7172.5	0		Money Metals		P.O. Box 2599		Eagle	ID	83616     	False	
 36781	30618	1020959	Investment purchase	2023-05-18 00:00:00	0	7172.5	7172.5	0		Money Metals		P.O. Box 2599		Eagle	ID	83616     	False	
-36782	23813	1021353	Investment purchase	2023-04-25 00:00:00	0	300000	300000	0		Byline Bank		10 S Madison St		Oswego	IL	60543     	False	
+36782	23813	1021353	Investment purchase	2023-04-25 00:00:00	0	300000	300000	0		Byline Bank		10 S Madison St		Oswego	IL	60543     	True	
 36783	7985	1021519	Certificate of Deposit due 9/3/09 1.25%	2009-06-03 00:00:00	0	10000	11354.89	0		First Southern Bank		301 E. Main St.		Carbondale	IL	62901     	False	
 36784	7985	1021519	Certificate of Deposit due 6/3/10 2.6%	2009-06-03 00:00:00	0	5000	5502.01	0		First Southern Bank		301 E. Main St.		Carbondale	IL	62901     	False	
 36785	7985	1021519	Investment purchase	2013-06-18 00:00:00	0	25500	21107.61	0		First Bank & Trust		1403 Walnut		Murphysboro	IL	62966     	False	
@@ -24966,3 +24966,4 @@ ID	CommitteeID	FiledDocID	Description	PurchaseDate	PurchaseShares	PurchasePrice	
 37146	25491	1028321	Investment purchase - CD	2019-10-01 00:00:00	0	2500	2502.63	0		Bank r Us		23 Cash St		Moneyville	IL	69815     	False	
 37147	25491	1028321	Loan Made	2024-05-10 00:00:00	0	1500	1500	0		NewsBank		5801 Pelican Bay Blvd, Ste 600		Naples	FL	34108     	False	
 37148	32198	1028545	CHKN TOKEN 1 share = $0.000935703494927 initial purchase 8.87 million shares	2024-11-30 00:00:00	0	8299.69	20.49	0		CHKN TOKEN		262 Market Square Ct Ste D		Lake Forest	IL	60045     	False	
+37149	23813	1029161	Investment purchase	2023-04-25 00:00:00	0	300000	300000	0		Byline Bank		10 S Madison St		Oswego	IL	60543     	False	

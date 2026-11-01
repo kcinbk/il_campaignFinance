@@ -1,5 +1,4 @@
-rville	IL	60566     	2A							  	          	True		False
-5920011	37468	874476		ISDF		2022-10-21 00:00:00	50000	1367252.24	0			6939 W. North Ave		Oak Park	IL	60302     	2A							  	          	True		False
+2-10-21 00:00:00	50000	1367252.24	0			6939 W. North Ave		Oak Park	IL	60302     	2A							  	          	True		False
 5920012	37468	874476		Becker, Schroader & Chapman PC		2022-10-21 00:00:00	500	500	0			3673 Highway 111		Granite City	IL	62040     	1A							  	          	True		False
 5920013	37468	874476		Troopac		2022-10-21 00:00:00	2500	2500	0			5880 S. 6th Street Rd		Springfield	IL	62703     	2A							  	          	True		False
 5920014	37468	874476		Wise Morrissey		2022-10-24 00:00:00	4000	4000	0			161 North Clark St Suite 3250		Chicago	IL	60601     	1A							  	          	True		False
@@ -117574,7 +117573,7 @@ Chicago	IL	60607     	2A							  	          	False		False
 6037606	8381	894823		Kankakee Federation of Labor, AFL-CIO (Dues)		2023-08-28 00:00:00	1000	0	0			P.O.Box 377		Kankakee	IL	60901     	2A							  	          	True		False
 6037607	34495	894825		Spartanville Fueling Station		2023-08-28 00:00:00	1000	0	0			P.O. Box 57		Waltonville	IL	62894     	1A							  	          	True		False
 6037608	39446	894826		Salvi	Patrick	2023-08-28 00:00:00	1000	0	0	Attorney	Salvi, Schostok & Pritchard	218 N. Martin Luther King Jr Ave		Waukegan	IL	60085     	1A							  	          	True		False
-6037609	39446	894826		Slade	Michael	2023-08-28 00:00:00	1000	0	0	Attorney	Kirkland & Ellis	841 N. Ridgeland Ave		Oak Park	IL	60302     	1A							  	          	True		False
+6037609	39446	894826		Slade	Michael	2023-08-28 00:00:00	1000	0	0	Attorney	Kirkland & Ellis	Redaction Requested					1A							  	          	True		True
 6037610	23201	894827		Electri-flex		2023-08-28 00:00:00	2500	0	0			222 Central Ave		Roselle	IL	60172     	1A							  	          	True		False
 6037611	14879	894828		CITIZENS FOR ALDERMAN REILLY		2023-08-28 00:00:00	4300	0	0			PO BOX 10939		CHICAGO	IL	60610     	4A	Refund						  	          	True		False
 6037612	24065	894829		Comcast Financial Agency Corporation		2023-08-28 00:00:00	1500	0	0			1701 JFK Blvd.		Philadelphia	PA	19103     	2A							  	          	True		False
@@ -156789,7 +156788,7 @@ Chicago	IL	60607     	2A							  	          	False		False
 6076821	39446	900683		Wuest	Jack	2023-08-28 00:00:00	300	300	0			1917 W. Estes		Chicago	IL	60626     	1A							  	          	False		False
 6076822	39446	900683		Suffredin	Larry	2023-08-28 00:00:00	300	300	0			2431 Pioneer RD		Evanston	IL	60201     	1A							  	          	False		False
 6076823	39446	900683		Swibel	Howard	2023-08-28 00:00:00	500	500	0			9715 Woods Dr	Apt 1808	Skokie	IL	60077     	1A							  	          	False		False
-6076824	39446	900683		Slade	Michael	2023-08-28 00:00:00	1000	1000	0	Attorney	Kirkland & Ellis	841 N. Ridgeland Ave		Oak Park	IL	60302     	1A							  	          	False		False
+6076824	39446	900683		Slade	Michael	2023-08-28 00:00:00	1000	1000	0	Attorney	Kirkland & Ellis	Redaction Requested					1A							  	          	False		True
 6076825	39446	900683		Steen	Tracy	2023-08-28 00:00:00	300	300	0			210 Elizabeth St NE		Atlanta	GA	30307     	1A							  	          	False		False
 6076826	39446	900683		Apostol	Hon. Louis	2023-08-28 00:00:00	250	250	0			2425 Fox Meadow Circle		Northfield	IL	60093     	1A							  	          	False		False
 6076827	39446	900683		Han	Jason	2023-08-30 00:00:00	1000	1000	0	Attorney	METRA	714 Walnut Dr	Apt 301	Darien	IL	60561     	1A							  	          	False		False
@@ -626012,4 +626011,5 @@ Chicago	IL	60607     	2A							  	          	False		False
 6561924	38788	1000661		Dillon	Mary	2026-02-19 00:00:00	5000	10000	0	Not Employed	Not Employed	1625 Judson Ave		Evanston	IL	60201-4660	1A	This was a duplicate contribution and is being returned.						  	          	True		False
 6561925	38788	1000661		Gray	Dedrea A.	2026-02-19 00:00:00	1000	1000	0	Political Activist	Self	3 E 69th St		New York	NY	10021-4918	1A							  	          	True		False
 6561926	38788	1000661		Jain	Dipika	2026-02-19 00:00:00	1000	1000	0	Not Employed	Not Employed	676 N Kingsbury St		Chicago	IL	60654-8100	1A							  	          	True		False
-6561927	38788	1000661		Swibel	Howard J.	2026-02-1
+6561927	38788	1000661		Swibel	Howard J.	2026-02-19 00:00:00	2600	2600	0	Attorney	Saul Ewing LLP	9715 Woods Dr	Unit 1808	Skokie	IL	60077-4448	1A							  	          	True		False
+6561

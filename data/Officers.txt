@@ -19332,6 +19332,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 38327	Ferko	Jill	624 Bluestem Dr.		Yorkville	IL	60560     	Treasurer	630/551-2215        	False
 15722	Fern	Mark	111 S High St		Belleville	IL	62220     	Treasurer	                    	False
 60424	Fernandez	Ana	PO Box 641366		Chicago	IL	60664     	Chair	                    	False
+100647	Fernandez	Bob	857 E. Bluff St.		Marseilles	IL	61341     	Treasurer	708.439.4697        	False
 94391	Fernandez	Carlos	5222 S Lawndale Ave.		Chicago	IL	60632     	Treasurer	                    	False
 41622	Fernandez	Eric J	Eric J Fernandez & Co	895 W Main St	West Dundee	IL	60118     	Treasurer	847/428-7400        	False
 16570	Fernandez	Gary	235 N. Kenilworth		Glen Ellyn	IL	60137     	Treasurer	708-653-2277        	False
@@ -23601,6 +23602,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 34972	Gorman	Elizabeth	10834 S Carolyn Ct		Orland Park	IL	60467     	Chair	708/349-2280        	False
 33766	Gorman	James E	5 Pine Hollow		Edwardsville	IL	62025     	Chair	618.656.2647        	False
 18602	Gorman	Jeanette C	15901 Forest Ave		Oak Forest	IL	60452     	Treasurer	(708)687-8040       	False
+100644	Gorman	Liam	PO Box 2783		Orland Park	IL	60462     	Chair	                    	False
 41111	Gorman	Liz	5521 W 110th St	Unit 9	Oak Lawn	IL	60453     	Chair		False
 89418	Gorman	Liz	148 Silo Ridge Rd		Orland Park	IL	60467     	Treasurer	                    	False
 14578	Gorman	Loretta	16735 Forest Ave		Oak Forest	IL	60452     	Treasurer	(708) 687-7270      	False
@@ -33074,6 +33076,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 89122	Kasmer	Christopher	7860 Sioux Road		Orland Park	IL	60462     	Treasurer	312-909-9472        	False
 89610	Kaspar	Beth Damas	PO Box 2783		Orland Park	IL	60462     	Treasurer	                    	False
 89416	Kaspar	Scott	PO Box 2783		Orland Park	IL	60462     	Chair	312-415-0129        	False
+100645	Kaspar	Scott	PO Box 2783		Orland Park	IL	60462     	Treasurer	                    	False
 82982	Kaspar	Scott R.	13940 Bunratty Drive		Orland Park	IL	60467     	Chair	312.415.0129        	False
 82983	Kaspar	Scott R.	13940 Bunratty Drive		Orland Park	IL	60467     	Treasurer	312.415.0129        	False
 26671	Kaspari	Donald	PO Box 668	1000 N Greenwood	Kankakee	IL	60901     	Treasurer		False
@@ -58126,6 +58129,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 49564	Scheflow	Douglas	215 Coventry Ct		Elgin	IL	60123     	Chair	847.732.7369        	False
 10522	Scheflow	Douglas	215 Coventry Ct		Elgin	IL	60123     	Treasurer	847.732.7369        	False
 11703	Scheforge	S.W.	P.O. Box 1		Barrington	IL	60010     	Treasurer	                    	False
+100646	Scheib	Catherine	380 Washington St.		Marseilles	IL	61341     	Chair	815.201.4033        	False
 30311	Scheibel	Carolyn	969 Old Vincennes Trail		O'Fallon	Il	62269     	Chair		False
 29043	Scheibel	James	1311 L St NW Ste 300		Washington	DC	20005     	Chair		False
 7928	Scheibel	Kent	893 Malibu Way		Edwardsville	IL	62025     	Chair	618/656-9536        	False
@@ -62416,7 +62420,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 39480	Spitzzeri	Alfred	2639 Boddington Ln		Naperville	IL	60564     	Chair	630/922-5858        	False
 40652	Spivery	Qwamaine	1130 S Sacrament Blvd		Chicago	IL	60651     	Treasurer	773-406-1674        	False
 704	Spivey	Joseph S.	212 S. Second Street		Springfield	IL	62701     	Treasurer	528-2092            	False
-87159	Spivey	Ricardo	4330 W 187th St		Country Club Hills	IL	60478     	Chair	                    	False
+87159	Spivey	Ricardo	4330 W 187th St		Country Club Hills	IL	60478     	Chair	708-473-5908        	False
 56872	Spivy	Sara Dixon	643 Fair Oaks Ave		Oak Park	IL	60302     	Chair	                    	False
 27672	Spiwak	Belinda	1045 Teasel Ln.		Aurora	IL	60504     	Chair	630-499-8380        	False
 27673	Spiwak	Belinda	1045 Teasel Ln.		Aurora	IL	60504     	Treasurer	630-499-8380        	False
@@ -63288,6 +63292,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 942	Stewart	Eugene H	10 JF Kennedy Rd		East Dubuque	IL	61025     	Treasurer		False
 14395	Stewart	Francis	807 W Chestnut		Marion	IL	62959     	Treasurer	618/993-8867        	False
 72129	Stewart	Frederick	8708 S Bennett Ave, #141		Chicago	IL	60617     	Treasurer	708-288-1303        	False
+100648	Stewart	Frederick.	7436 Exchange St		Chicago	IL	60649     	Treasurer	708-288-1303        	False
 4230	Stewart	Gene	10 Jfk Road		E Dubuque	IL	61025     	Chair	                    	False
 38792	Stewart	Glenn R	1707 Galilee Ave		Zion	IL	60099     	Treasurer	847.812.5502        	False
 15933	Stewart	Harry	612 Joplin St		Benton	IL	62812     	Chair	618/439-4714        	False
