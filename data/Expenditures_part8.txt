@@ -396581,73 +396581,73 @@
 4991605	34134	1027523	0	Maurice West for Rockford		2026-08-29 00:00:00	500	500	303 N Main St	Ste 120	Rockford	IL	61101     	6B	Contribution			False	False	False		False
 4991606	34134	1027523	0	Cochran for Illinois		2026-08-31 00:00:00	250	250	PO Box 417		Park Ridge	IL	60068     	6B	Contribution			False	False	False		False
 4991607	34134	1027523	0	Carroll	Jonathan	2026-08-31 00:00:00	380	380	3128 Antelope Springs Road		Northbrook	IL	60062     	8B	Mileage			False	False	False		False
-4991608	24362	1027537	0	White	LaRobin	2026-07-10 00:00:00	350	78603.24	8016 South Wabash		Chicago	IL	60619     	8B	Campaign Work			False	False	False		False
-4991609	24362	1027537	0	White	LaRobin	2026-07-27 00:00:00	35	78603.24	8016 South Wabash		Chicago	IL	60619     	8B	Office Work			False	False	False		False
-4991610	24362	1027537	0	White	LaRobin	2026-08-10 00:00:00	199.24	78603.24	8016 South Wabash		Chicago	IL	60619     	8B	Office work			False	False	False		False
-4991611	24362	1027537	0	White	LaRobin	2026-08-10 00:00:00	1019	78603.24	8016 South Wabash		Chicago	IL	60619     	8B	Office work			False	False	False		False
-4991612	24362	1027537	0	White	LaRobin	2026-09-08 00:00:00	77000	78603.24	8016 South Wabash		Chicago	IL	60619     	8B	Office work			False	False	False		False
-4991613	24362	1027537	0	Mack	Jeremiah	2026-07-06 00:00:00	150	450	9405 S. Euclid		Chicago	IL	60617     	8B	Office Work			False	False	False		False
-4991614	24362	1027537	0	Mack	Jeremiah	2026-07-27 00:00:00	150	450	9405 S. Euclid		Chicago	IL	60617     	8B	Office work			False	False	False		False
-4991615	24362	1027537	0	Mack	Jeremiah	2026-09-10 00:00:00	150	450	9405 S. Euclid		Chicago	IL	60617     	8B	Office work			False	False	False		False
-4991616	24362	1027537	0	Dennis-Mack	April	2026-07-06 00:00:00	264.1	1672.73	9400 South Euclid		Chicago	IL	60617     	8B	Office work			False	False	False		False
-4991617	24362	1027537	0	Dennis-Mack	April	2026-07-27 00:00:00	384.69	1672.73	9400 South Euclid		Chicago	IL	60617     	8B	Office supplies			False	False	False		False
-4991618	24362	1027537	0	Dennis-Mack	April	2026-08-10 00:00:00	1023.94	1672.73	9400 South Euclid		Chicago	IL	60617     	8B	Office work			False	False	False		False
-4991619	24362	1027537	0	Kearney	Johnnie	2026-07-08 00:00:00	1000	4000	9225 S. Indiana		Chicago	IL	60619     	8B	Campaign Work			False	False	False		False
-4991620	24362	1027537	0	Kearney	Johnnie	2026-08-28 00:00:00	3000	4000	9225 S. Indiana		Chicago	IL	60619     	8B	Consulting			False	False	False		False
-4991621	24362	1027537	0	Kearney	Aja	2026-07-20 00:00:00	1000	1000	9225 S. Indiana		Chicago	IL	60619     	8B	Consulting			False	False	False		False
-4991622	24362	1027537	0	Devco		2026-08-12 00:00:00	633.26	633.26	6958 W North Ave		Chicago	IL	60707     	8B	Printing			False	False	False		False
-4991623	24362	1027537	0	Midway Moving and Storage		2026-07-21 00:00:00	921	1842	4100 W FERDINAND ST		Chicago	IL	60624     	8B	Shred Truck for Shred Events			False	False	False		False
-4991624	24362	1027537	0	Midway Moving and Storage		2026-08-25 00:00:00	921	1842	4100 W FERDINAND ST		Chicago	IL	60624     	8B	Shred Events			False	False	False		False
-4991625	24362	1027537	0	Chicago Federation of Labor PAC		2026-09-18 00:00:00	2500	2500	180 North Stetson Avenue	Suite 1529	Chicago	IL	60601     	8B	Sponsorship			False	False	False		False
-4991626	24362	1027537	0	American Express Co.		2026-07-13 00:00:00	15366	79970.09	200 Vesey St		New York	NY	10285     	8B	Transportation, gas, hotels, office supplies			False	False	False		False
-4991627	24362	1027537	0	American Express Co.		2026-07-27 00:00:00	18123.89	79970.09	200 Vesey St		New York	NY	10285     	8B	Transportation, food, gas			False	False	False		False
-4991628	24362	1027537	0	American Express Co.		2026-08-05 00:00:00	14586	79970.09	200 Vesey St		New York	NY	10285     	8B	Transportation, food, hotel, flights			False	False	False		False
-4991629	24362	1027537	0	American Express Co.		2026-08-28 00:00:00	15357.51	79970.09	200 Vesey St		New York	NY	10285     	8B	Transportation, gas, food, office supplies			False	False	False		False
-4991630	24362	1027537	0	American Express Co.		2026-09-08 00:00:00	4406.5	79970.09	200 Vesey St		New York	NY	10285     	8B	Food, hotel, gas			False	False	False		False
-4991631	24362	1027537	0	American Express Co.		2026-09-15 00:00:00	12130.19	79970.09	200 Vesey St		New York	NY	10285     	8B	Transportation, hotel, food, gas			False	False	False		False
-4991632	24362	1027537	0	Jewel Tripplet		2026-07-03 00:00:00	1350	1350	1858 East 87th Street		Chicago	IL	60617     	8B	Campaign Office Rent			False	False	False		False
-4991633	24362	1027537	0	Oliver	Karen	2026-09-02 00:00:00	1000	1000	N/A		Calumet City	IL	60827     	8B	Campaign Work			False	False	False		False
-4991634	24362	1027537	0	Davis	Sharon	2026-07-08 00:00:00	2000	4800	8504 South Blackstone Ave		Chicago	IL	60619     	8B	Campaign Work			False	False	False		False
-4991635	24362	1027537	0	Davis	Sharon	2026-08-07 00:00:00	800	4800	8504 South Blackstone Ave		Chicago	IL	60619     	8B	Campaign Work			False	False	False		False
-4991636	24362	1027537	0	Davis	Sharon	2026-09-02 00:00:00	2000	4800	8504 South Blackstone Ave		Chicago	IL	60619     	8B	Campaign Work			False	False	False		False
-4991637	24362	1027537	0	Blackstone Hotel Chicago		2026-08-31 00:00:00	15693.84	15693.84	636 S. Michigan Avenue		Chicago	IL	60605     	8B	Fund raising - hall rental			False	False	False		False
-4991638	24362	1027537	0	Davis	Johnny	2026-07-01 00:00:00	1400	2600	8504 South Blackstone Avenue		Chicago	IL	60619     	8B	Campaign Work			False	False	False		False
-4991639	24362	1027537	0	Davis	Johnny	2026-08-07 00:00:00	1200	2600	8504 South Blackstone Avenue		Chicago	IL	60619     	8B	Campaign Work			False	False	False		False
-4991640	24362	1027537	0	Nova	Lisa	2026-07-15 00:00:00	1000	2000	N/A		Crete	IL	60417     	8B	Campaign Work			False	False	False		False
-4991641	24362	1027537	0	Nova	Lisa	2026-09-04 00:00:00	1000	2000	N/A		Crete	IL	60417     	8B	Campaign Work			False	False	False		False
-4991642	24362	1027537	0	Steve Bradley		2026-08-26 00:00:00	800	800	N/A		Chicago	IL	60602     	8B	Fund raising - entertainment			False	False	False		False
-4991643	24362	1027537	0	Democrats for the Illinois House		2026-08-21 00:00:00	175000	175000	10005 W. Roosevelt Rd., Suite A		Westchester	IL	60154     	6B				False	False	False		False
-4991644	24362	1027537	0	Breaker Press Co.		2026-09-15 00:00:00	5995	9420	2421 South Western Avenue		Chicago	IL	60608     	8B	Printing			False	False	False		False
-4991645	24362	1027537	0	Breaker Press Co.		2026-09-15 00:00:00	3350	9420	2421 South Western Avenue		Chicago	IL	60608     	8B	Printing			False	False	False		False
-4991646	24362	1027537	0	Breaker Press Co.		2026-09-15 00:00:00	75	9420	2421 South Western Avenue		Chicago	IL	60608     	8B	Printing			False	False	False		False
-4991647	24362	1027537	0	Ford Motor Credit Company		2026-08-18 00:00:00	2888.68	2888.68	One American Road		Detroit	MI	48126     	8B	Car lease payment			False	False	False		False
-4991648	24362	1027537	0	Heath	Brandon	2026-07-20 00:00:00	120	483.36	8311 South Carpenter		Chicago	IL	60620     	8B	Office Work			False	False	False		False
-4991649	24362	1027537	0	Heath	Brandon	2026-07-27 00:00:00	363.36	483.36	8311 South Carpenter		Chicago	IL	60620     	8B	Office work			False	False	False		False
-4991650	24362	1027537	0	Jones for State Representative		2026-08-24 00:00:00	5000	5000	289 Paxton Ave		Calumet City	IL	60409     	6B	Contribution			False	False	False		False
-4991651	24362	1027537	0	Christian DeMarr Photography		2026-08-10 00:00:00	1890.96	5190.96	N/A		Chicago	IL	60617     	8B	Photography			False	False	False		False
-4991652	24362	1027537	0	Christian DeMarr Photography		2026-08-27 00:00:00	1500	5190.96	N/A		Chicago	IL	60617     	8B	Photography			False	False	False		False
-4991653	24362	1027537	0	Christian DeMarr Photography		2026-08-31 00:00:00	800	5190.96	N/A		Chicago	IL	60617     	8B	Photography			False	False	False		False
-4991654	24362	1027537	0	Christian DeMarr Photography		2026-08-31 00:00:00	1000	5190.96	N/A		Chicago	IL	60617     	8B	Photography			False	False	False		False
-4991655	24362	1027537	0	Gamehorn Chicago Master, LLC		2026-07-06 00:00:00	1200	3600	1543 East 85th Street		Chicago	IL	60619     	8B	Rent for Campaign Office			False	False	False		False
-4991656	24362	1027537	0	Gamehorn Chicago Master, LLC		2026-08-13 00:00:00	1200	3600	1543 East 85th Street		Chicago	IL	60619     	8B	Campaign Office Rent			False	False	False		False
-4991657	24362	1027537	0	Gamehorn Chicago Master, LLC		2026-09-14 00:00:00	1200	3600	1543 East 85th Street		Chicago	IL	60619     	8B	Rent for Campaign Office			False	False	False		False
-4991658	24362	1027537	0	O'Neal	Omari	2026-07-09 00:00:00	756	3276	N/A		Chicago	IL	60619     	8B	Summer Intern Staff			False	False	False		False
-4991659	24362	1027537	0	O'Neal	Omari	2026-07-27 00:00:00	1386	3276	N/A		Chicago	IL	60619     	8B	Summer Intern Work			False	False	False		False
-4991660	24362	1027537	0	O'Neal	Omari	2026-08-10 00:00:00	1134	3276	N/A		Chicago	IL	60619     	8B	Summer intern worker			False	False	False		False
-4991661	24362	1027537	0	Kelly	Brittany	2026-07-09 00:00:00	945	3591	N/A		Chicago	IL	60619     	8B	Campaign Work			False	False	False		False
-4991662	24362	1027537	0	Kelly	Brittany	2026-07-27 00:00:00	1260	3591	N/A		Chicago	IL	60619     	8B	Summer Intern Work			False	False	False		False
-4991663	24362	1027537	0	Kelly	Brittany	2026-08-10 00:00:00	1386	3591	N/A		Chicago	IL	60619     	8B	Summer Intern Work			False	False	False		False
-4991664	24362	1027537	0	Gibson	Angela	2026-07-13 00:00:00	357	3755	N/A		Chicago	IL	60619     	8B	Summer Intern Worker			False	False	False		False
-4991665	24362	1027537	0	Gibson	Angela	2026-07-27 00:00:00	1134	3755	N/A		Chicago	IL	60619     	8B	Summer Intern Work			False	False	False		False
-4991666	24362	1027537	0	Gibson	Angela	2026-08-12 00:00:00	1764	3755	N/A		Chicago	IL	60619     	8B	Summer Intern Work			False	False	False		False
-4991667	24362	1027537	0	Gibson	Angela	2026-09-09 00:00:00	500	3755	N/A		Chicago	IL	60619     	8B	Office work			False	False	False		False
-4991668	24362	1027537	0	Gray	Joshua	2026-07-27 00:00:00	1000	1450	9110 South Phillips		Chicago	IL	60617     	8B	Office Work			False	False	False		False
-4991669	24362	1027537	0	Gray	Joshua	2026-09-16 00:00:00	450	1450	9110 South Phillips		Chicago	IL	60617     	8B	Office work			False	False	False		False
-4991670	24362	1027537	0	Carew	Jillian	2026-08-10 00:00:00	1000	1000	N/A		Chicago	IL	60619     	8B	Morgan Park High School Picnic Sponsorship			False	False	False		False
-4991671	24362	1027537	0	Philimino Harris		2026-08-26 00:00:00	1500	1500	N/A		Chicago	IL	60619     	8B	Fund raising - entertainment			False	False	False		False
-4991672	24362	1027537	0	The Gentry Group		2026-08-27 00:00:00	6000	6000	9325 South Indiana Avenue		Chicago	IL	60619     	8B	Consulting			False	False	False		False
-4991673	24362	1027537	0	Justice of the Pies		2026-09-17 00:00:00	2330	2330	8655 South Black Stone Avenue		Chicago	IL	60619     	8B	Fund raising - hall rental			False	False	False		False
-4991674	24362	1027537	0	Ramirez for 12		2026-09-29 00:00:00	1500	1500	3949 S. Rockwell St.		Chicago	IL	60632     	6B	Contribution			False	False	False		False
+4991608	24362	1027537	0	White	LaRobin	2026-07-10 00:00:00	350	78603.24	8016 South Wabash		Chicago	IL	60619     	8B	Campaign Work			False	False	True		False
+4991609	24362	1027537	0	White	LaRobin	2026-07-27 00:00:00	35	78603.24	8016 South Wabash		Chicago	IL	60619     	8B	Office Work			False	False	True		False
+4991610	24362	1027537	0	White	LaRobin	2026-08-10 00:00:00	199.24	78603.24	8016 South Wabash		Chicago	IL	60619     	8B	Office work			False	False	True		False
+4991611	24362	1027537	0	White	LaRobin	2026-08-10 00:00:00	1019	78603.24	8016 South Wabash		Chicago	IL	60619     	8B	Office work			False	False	True		False
+4991612	24362	1027537	0	White	LaRobin	2026-09-08 00:00:00	77000	78603.24	8016 South Wabash		Chicago	IL	60619     	8B	Office work			False	False	True		False
+4991613	24362	1027537	0	Mack	Jeremiah	2026-07-06 00:00:00	150	450	9405 S. Euclid		Chicago	IL	60617     	8B	Office Work			False	False	True		False
+4991614	24362	1027537	0	Mack	Jeremiah	2026-07-27 00:00:00	150	450	9405 S. Euclid		Chicago	IL	60617     	8B	Office work			False	False	True		False
+4991615	24362	1027537	0	Mack	Jeremiah	2026-09-10 00:00:00	150	450	9405 S. Euclid		Chicago	IL	60617     	8B	Office work			False	False	True		False
+4991616	24362	1027537	0	Dennis-Mack	April	2026-07-06 00:00:00	264.1	1672.73	9400 South Euclid		Chicago	IL	60617     	8B	Office work			False	False	True		False
+4991617	24362	1027537	0	Dennis-Mack	April	2026-07-27 00:00:00	384.69	1672.73	9400 South Euclid		Chicago	IL	60617     	8B	Office supplies			False	False	True		False
+4991618	24362	1027537	0	Dennis-Mack	April	2026-08-10 00:00:00	1023.94	1672.73	9400 South Euclid		Chicago	IL	60617     	8B	Office work			False	False	True		False
+4991619	24362	1027537	0	Kearney	Johnnie	2026-07-08 00:00:00	1000	4000	9225 S. Indiana		Chicago	IL	60619     	8B	Campaign Work			False	False	True		False
+4991620	24362	1027537	0	Kearney	Johnnie	2026-08-28 00:00:00	3000	4000	9225 S. Indiana		Chicago	IL	60619     	8B	Consulting			False	False	True		False
+4991621	24362	1027537	0	Kearney	Aja	2026-07-20 00:00:00	1000	1000	9225 S. Indiana		Chicago	IL	60619     	8B	Consulting			False	False	True		False
+4991622	24362	1027537	0	Devco		2026-08-12 00:00:00	633.26	633.26	6958 W North Ave		Chicago	IL	60707     	8B	Printing			False	False	True		False
+4991623	24362	1027537	0	Midway Moving and Storage		2026-07-21 00:00:00	921	1842	4100 W FERDINAND ST		Chicago	IL	60624     	8B	Shred Truck for Shred Events			False	False	True		False
+4991624	24362	1027537	0	Midway Moving and Storage		2026-08-25 00:00:00	921	1842	4100 W FERDINAND ST		Chicago	IL	60624     	8B	Shred Events			False	False	True		False
+4991625	24362	1027537	0	Chicago Federation of Labor PAC		2026-09-18 00:00:00	2500	2500	180 North Stetson Avenue	Suite 1529	Chicago	IL	60601     	8B	Sponsorship			False	False	True		False
+4991626	24362	1027537	0	American Express Co.		2026-07-13 00:00:00	15366	79970.09	200 Vesey St		New York	NY	10285     	8B	Transportation, gas, hotels, office supplies			False	False	True		False
+4991627	24362	1027537	0	American Express Co.		2026-07-27 00:00:00	18123.89	79970.09	200 Vesey St		New York	NY	10285     	8B	Transportation, food, gas			False	False	True		False
+4991628	24362	1027537	0	American Express Co.		2026-08-05 00:00:00	14586	79970.09	200 Vesey St		New York	NY	10285     	8B	Transportation, food, hotel, flights			False	False	True		False
+4991629	24362	1027537	0	American Express Co.		2026-08-28 00:00:00	15357.51	79970.09	200 Vesey St		New York	NY	10285     	8B	Transportation, gas, food, office supplies			False	False	True		False
+4991630	24362	1027537	0	American Express Co.		2026-09-08 00:00:00	4406.5	79970.09	200 Vesey St		New York	NY	10285     	8B	Food, hotel, gas			False	False	True		False
+4991631	24362	1027537	0	American Express Co.		2026-09-15 00:00:00	12130.19	79970.09	200 Vesey St		New York	NY	10285     	8B	Transportation, hotel, food, gas			False	False	True		False
+4991632	24362	1027537	0	Jewel Tripplet		2026-07-03 00:00:00	1350	1350	1858 East 87th Street		Chicago	IL	60617     	8B	Campaign Office Rent			False	False	True		False
+4991633	24362	1027537	0	Oliver	Karen	2026-09-02 00:00:00	1000	1000	N/A		Calumet City	IL	60827     	8B	Campaign Work			False	False	True		False
+4991634	24362	1027537	0	Davis	Sharon	2026-07-08 00:00:00	2000	4800	8504 South Blackstone Ave		Chicago	IL	60619     	8B	Campaign Work			False	False	True		False
+4991635	24362	1027537	0	Davis	Sharon	2026-08-07 00:00:00	800	4800	8504 South Blackstone Ave		Chicago	IL	60619     	8B	Campaign Work			False	False	True		False
+4991636	24362	1027537	0	Davis	Sharon	2026-09-02 00:00:00	2000	4800	8504 South Blackstone Ave		Chicago	IL	60619     	8B	Campaign Work			False	False	True		False
+4991637	24362	1027537	0	Blackstone Hotel Chicago		2026-08-31 00:00:00	15693.84	15693.84	636 S. Michigan Avenue		Chicago	IL	60605     	8B	Fund raising - hall rental			False	False	True		False
+4991638	24362	1027537	0	Davis	Johnny	2026-07-01 00:00:00	1400	2600	8504 South Blackstone Avenue		Chicago	IL	60619     	8B	Campaign Work			False	False	True		False
+4991639	24362	1027537	0	Davis	Johnny	2026-08-07 00:00:00	1200	2600	8504 South Blackstone Avenue		Chicago	IL	60619     	8B	Campaign Work			False	False	True		False
+4991640	24362	1027537	0	Nova	Lisa	2026-07-15 00:00:00	1000	2000	N/A		Crete	IL	60417     	8B	Campaign Work			False	False	True		False
+4991641	24362	1027537	0	Nova	Lisa	2026-09-04 00:00:00	1000	2000	N/A		Crete	IL	60417     	8B	Campaign Work			False	False	True		False
+4991642	24362	1027537	0	Steve Bradley		2026-08-26 00:00:00	800	800	N/A		Chicago	IL	60602     	8B	Fund raising - entertainment			False	False	True		False
+4991643	24362	1027537	0	Democrats for the Illinois House		2026-08-21 00:00:00	175000	175000	10005 W. Roosevelt Rd., Suite A		Westchester	IL	60154     	6B				False	False	True		False
+4991644	24362	1027537	0	Breaker Press Co.		2026-09-15 00:00:00	5995	9420	2421 South Western Avenue		Chicago	IL	60608     	8B	Printing			False	False	True		False
+4991645	24362	1027537	0	Breaker Press Co.		2026-09-15 00:00:00	3350	9420	2421 South Western Avenue		Chicago	IL	60608     	8B	Printing			False	False	True		False
+4991646	24362	1027537	0	Breaker Press Co.		2026-09-15 00:00:00	75	9420	2421 South Western Avenue		Chicago	IL	60608     	8B	Printing			False	False	True		False
+4991647	24362	1027537	0	Ford Motor Credit Company		2026-08-18 00:00:00	2888.68	2888.68	One American Road		Detroit	MI	48126     	8B	Car lease payment			False	False	True		False
+4991648	24362	1027537	0	Heath	Brandon	2026-07-20 00:00:00	120	483.36	8311 South Carpenter		Chicago	IL	60620     	8B	Office Work			False	False	True		False
+4991649	24362	1027537	0	Heath	Brandon	2026-07-27 00:00:00	363.36	483.36	8311 South Carpenter		Chicago	IL	60620     	8B	Office work			False	False	True		False
+4991650	24362	1027537	0	Jones for State Representative		2026-08-24 00:00:00	5000	5000	289 Paxton Ave		Calumet City	IL	60409     	6B	Contribution			False	False	True		False
+4991651	24362	1027537	0	Christian DeMarr Photography		2026-08-10 00:00:00	1890.96	5190.96	N/A		Chicago	IL	60617     	8B	Photography			False	False	True		False
+4991652	24362	1027537	0	Christian DeMarr Photography		2026-08-27 00:00:00	1500	5190.96	N/A		Chicago	IL	60617     	8B	Photography			False	False	True		False
+4991653	24362	1027537	0	Christian DeMarr Photography		2026-08-31 00:00:00	800	5190.96	N/A		Chicago	IL	60617     	8B	Photography			False	False	True		False
+4991654	24362	1027537	0	Christian DeMarr Photography		2026-08-31 00:00:00	1000	5190.96	N/A		Chicago	IL	60617     	8B	Photography			False	False	True		False
+4991655	24362	1027537	0	Gamehorn Chicago Master, LLC		2026-07-06 00:00:00	1200	3600	1543 East 85th Street		Chicago	IL	60619     	8B	Rent for Campaign Office			False	False	True		False
+4991656	24362	1027537	0	Gamehorn Chicago Master, LLC		2026-08-13 00:00:00	1200	3600	1543 East 85th Street		Chicago	IL	60619     	8B	Campaign Office Rent			False	False	True		False
+4991657	24362	1027537	0	Gamehorn Chicago Master, LLC		2026-09-14 00:00:00	1200	3600	1543 East 85th Street		Chicago	IL	60619     	8B	Rent for Campaign Office			False	False	True		False
+4991658	24362	1027537	0	O'Neal	Omari	2026-07-09 00:00:00	756	3276	N/A		Chicago	IL	60619     	8B	Summer Intern Staff			False	False	True		False
+4991659	24362	1027537	0	O'Neal	Omari	2026-07-27 00:00:00	1386	3276	N/A		Chicago	IL	60619     	8B	Summer Intern Work			False	False	True		False
+4991660	24362	1027537	0	O'Neal	Omari	2026-08-10 00:00:00	1134	3276	N/A		Chicago	IL	60619     	8B	Summer intern worker			False	False	True		False
+4991661	24362	1027537	0	Kelly	Brittany	2026-07-09 00:00:00	945	3591	N/A		Chicago	IL	60619     	8B	Campaign Work			False	False	True		False
+4991662	24362	1027537	0	Kelly	Brittany	2026-07-27 00:00:00	1260	3591	N/A		Chicago	IL	60619     	8B	Summer Intern Work			False	False	True		False
+4991663	24362	1027537	0	Kelly	Brittany	2026-08-10 00:00:00	1386	3591	N/A		Chicago	IL	60619     	8B	Summer Intern Work			False	False	True		False
+4991664	24362	1027537	0	Gibson	Angela	2026-07-13 00:00:00	357	3755	N/A		Chicago	IL	60619     	8B	Summer Intern Worker			False	False	True		False
+4991665	24362	1027537	0	Gibson	Angela	2026-07-27 00:00:00	1134	3755	N/A		Chicago	IL	60619     	8B	Summer Intern Work			False	False	True		False
+4991666	24362	1027537	0	Gibson	Angela	2026-08-12 00:00:00	1764	3755	N/A		Chicago	IL	60619     	8B	Summer Intern Work			False	False	True		False
+4991667	24362	1027537	0	Gibson	Angela	2026-09-09 00:00:00	500	3755	N/A		Chicago	IL	60619     	8B	Office work			False	False	True		False
+4991668	24362	1027537	0	Gray	Joshua	2026-07-27 00:00:00	1000	1450	9110 South Phillips		Chicago	IL	60617     	8B	Office Work			False	False	True		False
+4991669	24362	1027537	0	Gray	Joshua	2026-09-16 00:00:00	450	1450	9110 South Phillips		Chicago	IL	60617     	8B	Office work			False	False	True		False
+4991670	24362	1027537	0	Carew	Jillian	2026-08-10 00:00:00	1000	1000	N/A		Chicago	IL	60619     	8B	Morgan Park High School Picnic Sponsorship			False	False	True		False
+4991671	24362	1027537	0	Philimino Harris		2026-08-26 00:00:00	1500	1500	N/A		Chicago	IL	60619     	8B	Fund raising - entertainment			False	False	True		False
+4991672	24362	1027537	0	The Gentry Group		2026-08-27 00:00:00	6000	6000	9325 South Indiana Avenue		Chicago	IL	60619     	8B	Consulting			False	False	True		False
+4991673	24362	1027537	0	Justice of the Pies		2026-09-17 00:00:00	2330	2330	8655 South Black Stone Avenue		Chicago	IL	60619     	8B	Fund raising - hall rental			False	False	True		False
+4991674	24362	1027537	0	Ramirez for 12		2026-09-29 00:00:00	1500	1500	3949 S. Rockwell St.		Chicago	IL	60632     	6B	Contribution			False	False	True		False
 4991675	75	1027543	0	Morey	Barbie	2026-09-23 00:00:00	300	300	RR 3 Box 118A		Lawrenceville	IL	62439     	8B	Donation			False	False	False		False
 4991676	75	1027543	0	Central Cigar Candy Company		2026-07-03 00:00:00	175	265.96	711 Charles Street	1100 State Street	Lawrenceville	IL	62439     	8B	Purchase of candy to distribute at the 4th of July parade.			False	False	False		False
 4991677	75	1027543	0	Central Cigar Candy Company		2026-09-25 00:00:00	90.96	265.96	711 Charles Street	1100 State Street	Lawrenceville	IL	62439     	8B	Purchase of candy for parade (RHHS Homecoming)			False	False	False		False
@@ -398132,3 +398132,71 @@
 4993166	39901	1029221	0	Validus		2026-10-28 00:00:00	1808.6	0	1400 Patriot Blvd		Glenview	IL	60025     	9B	MMS Text Messaging	Jesus Ayala, Jr.	Chicago School Board	True	False	False		False
 4993167	39901	1029221	0	Validus		2026-10-28 00:00:00	1655.23	0	1400 Patriot Blvd		Glenview	IL	60025     	9B	MMS Text Messaging	Anthony Hargrove	Chicago School Board	True	False	False		False
 4993168	39901	1029221	0	Validus		2026-10-28 00:00:00	1722.79	0	1400 Patriot Blvd		Glenview	IL	60025     	9B	MMS Text Messaging	LaPamela Williams	Chicago School Board	True	False	False		False
+4993169	24362	1029262	0	White	LaRobin	2026-07-10 00:00:00	350	78603.24	8016 South Wabash		Chicago	IL	60619     	8B	Campaign Work			False	False	False		False
+4993170	24362	1029262	0	White	LaRobin	2026-07-27 00:00:00	35	78603.24	8016 South Wabash		Chicago	IL	60619     	8B	Office Work			False	False	False		False
+4993171	24362	1029262	0	White	LaRobin	2026-08-10 00:00:00	199.24	78603.24	8016 South Wabash		Chicago	IL	60619     	8B	Office work			False	False	False		False
+4993172	24362	1029262	0	White	LaRobin	2026-08-10 00:00:00	1019	78603.24	8016 South Wabash		Chicago	IL	60619     	8B	Office work			False	False	False		False
+4993173	24362	1029262	0	White	LaRobin	2026-09-08 00:00:00	77000	78603.24	8016 South Wabash		Chicago	IL	60619     	8B	Office work			False	False	False		False
+4993174	24362	1029262	0	Mack	Jeremiah	2026-07-06 00:00:00	150	450	9405 S. Euclid		Chicago	IL	60617     	8B	Office Work			False	False	False		False
+4993175	24362	1029262	0	Mack	Jeremiah	2026-07-27 00:00:00	150	450	9405 S. Euclid		Chicago	IL	60617     	8B	Office work			False	False	False		False
+4993176	24362	1029262	0	Mack	Jeremiah	2026-09-10 00:00:00	150	450	9405 S. Euclid		Chicago	IL	60617     	8B	Office work			False	False	False		False
+4993177	24362	1029262	0	Dennis-Mack	April	2026-07-06 00:00:00	264.1	1672.73	9400 South Euclid		Chicago	IL	60617     	8B	Office work			False	False	False		False
+4993178	24362	1029262	0	Dennis-Mack	April	2026-07-27 00:00:00	384.69	1672.73	9400 South Euclid		Chicago	IL	60617     	8B	Office supplies			False	False	False		False
+4993179	24362	1029262	0	Dennis-Mack	April	2026-08-10 00:00:00	1023.94	1672.73	9400 South Euclid		Chicago	IL	60617     	8B	Office work			False	False	False		False
+4993180	24362	1029262	0	Kearney	Johnnie	2026-07-08 00:00:00	1000	4000	9225 S. Indiana		Chicago	IL	60619     	8B	Campaign Work			False	False	False		False
+4993181	24362	1029262	0	Kearney	Johnnie	2026-08-28 00:00:00	3000	4000	9225 S. Indiana		Chicago	IL	60619     	8B	Consulting			False	False	False		False
+4993182	24362	1029262	0	Kearney	Aja	2026-07-20 00:00:00	1000	1000	9225 S. Indiana		Chicago	IL	60619     	8B	Consulting			False	False	False		False
+4993183	24362	1029262	0	Devco		2026-08-12 00:00:00	633.26	633.26	6958 W North Ave		Chicago	IL	60707     	8B	Printing			False	False	False		False
+4993184	24362	1029262	0	Midway Moving and Storage		2026-07-21 00:00:00	921	1842	4100 W FERDINAND ST		Chicago	IL	60624     	8B	Shred Truck for Shred Events			False	False	False		False
+4993185	24362	1029262	0	Midway Moving and Storage		2026-08-25 00:00:00	921	1842	4100 W FERDINAND ST		Chicago	IL	60624     	8B	Shred Events			False	False	False		False
+4993186	24362	1029262	0	Chicago Federation of Labor PAC		2026-09-18 00:00:00	2500	2500	180 North Stetson Avenue	Suite 1529	Chicago	IL	60601     	8B	Sponsorship			False	False	False		False
+4993187	24362	1029262	0	American Express Co.		2026-07-13 00:00:00	15366	79970.09	200 Vesey St		New York	NY	10285     	8B	Transportation, gas, hotels, office supplies			False	False	False		False
+4993188	24362	1029262	0	American Express Co.		2026-07-27 00:00:00	18123.89	79970.09	200 Vesey St		New York	NY	10285     	8B	Transportation, food, gas			False	False	False		False
+4993189	24362	1029262	0	American Express Co.		2026-08-05 00:00:00	14586	79970.09	200 Vesey St		New York	NY	10285     	8B	Transportation, food, hotel, flights			False	False	False		False
+4993190	24362	1029262	0	American Express Co.		2026-08-28 00:00:00	15357.51	79970.09	200 Vesey St		New York	NY	10285     	8B	Transportation, gas, food, office supplies			False	False	False		False
+4993191	24362	1029262	0	American Express Co.		2026-09-08 00:00:00	4406.5	79970.09	200 Vesey St		New York	NY	10285     	8B	Food, hotel, gas			False	False	False		False
+4993192	24362	1029262	0	American Express Co.		2026-09-15 00:00:00	12130.19	79970.09	200 Vesey St		New York	NY	10285     	8B	Transportation, hotel, food, gas			False	False	False		False
+4993193	24362	1029262	0	Jewel Tripplet		2026-07-03 00:00:00	1350	1350	1858 East 87th Street		Chicago	IL	60617     	8B	Campaign Office Rent			False	False	False		False
+4993194	24362	1029262	0	Oliver	Karen	2026-09-02 00:00:00	1000	1000	N/A		Calumet City	IL	60827     	8B	Campaign Work			False	False	False		False
+4993195	24362	1029262	0	Davis	Sharon	2026-07-08 00:00:00	2000	4800	8504 South Blackstone Ave		Chicago	IL	60619     	8B	Campaign Work			False	False	False		False
+4993196	24362	1029262	0	Davis	Sharon	2026-08-07 00:00:00	800	4800	8504 South Blackstone Ave		Chicago	IL	60619     	8B	Campaign Work			False	False	False		False
+4993197	24362	1029262	0	Davis	Sharon	2026-09-02 00:00:00	2000	4800	8504 South Blackstone Ave		Chicago	IL	60619     	8B	Campaign Work			False	False	False		False
+4993198	24362	1029262	0	Blackstone Hotel Chicago		2026-08-31 00:00:00	15693.84	15693.84	636 S. Michigan Avenue		Chicago	IL	60605     	8B	Fund raising - hall rental			False	False	False		False
+4993199	24362	1029262	0	Davis	Johnny	2026-07-01 00:00:00	1400	2600	8504 South Blackstone Avenue		Chicago	IL	60619     	8B	Campaign Work			False	False	False		False
+4993200	24362	1029262	0	Davis	Johnny	2026-08-07 00:00:00	1200	2600	8504 South Blackstone Avenue		Chicago	IL	60619     	8B	Campaign Work			False	False	False		False
+4993201	24362	1029262	0	Nova	Lisa	2026-07-15 00:00:00	1000	2000	N/A		Crete	IL	60417     	8B	Campaign Work			False	False	False		False
+4993202	24362	1029262	0	Nova	Lisa	2026-09-04 00:00:00	1000	2000	N/A		Crete	IL	60417     	8B	Campaign Work			False	False	False		False
+4993203	24362	1029262	0	Steve Bradley		2026-08-26 00:00:00	800	800	N/A		Chicago	IL	60602     	8B	Fund raising - entertainment			False	False	False		False
+4993204	24362	1029262	0	Democrats for the Illinois House		2026-08-21 00:00:00	175000	175000	10005 W. Roosevelt Rd., Suite A		Westchester	IL	60154     	6B				False	False	False		False
+4993205	24362	1029262	0	Breaker Press Co.		2026-09-15 00:00:00	5995	9420	2421 South Western Avenue		Chicago	IL	60608     	8B	Printing			False	False	False		False
+4993206	24362	1029262	0	Breaker Press Co.		2026-09-15 00:00:00	3350	9420	2421 South Western Avenue		Chicago	IL	60608     	8B	Printing			False	False	False		False
+4993207	24362	1029262	0	Breaker Press Co.		2026-09-15 00:00:00	75	9420	2421 South Western Avenue		Chicago	IL	60608     	8B	Printing			False	False	False		False
+4993208	24362	1029262	0	Ford Motor Credit Company		2026-08-18 00:00:00	2888.68	2888.68	One American Road		Detroit	MI	48126     	8B	Car lease payment			False	False	False		False
+4993209	24362	1029262	0	Heath	Brandon	2026-07-20 00:00:00	120	483.36	8311 South Carpenter		Chicago	IL	60620     	8B	Office Work			False	False	False		False
+4993210	24362	1029262	0	Heath	Brandon	2026-07-27 00:00:00	363.36	483.36	8311 South Carpenter		Chicago	IL	60620     	8B	Office work			False	False	False		False
+4993211	24362	1029262	0	Jones for State Representative		2026-08-24 00:00:00	5000	5000	289 Paxton Ave		Calumet City	IL	60409     	6B	Contribution			False	False	False		False
+4993212	24362	1029262	0	Christian DeMarr Photography		2026-08-10 00:00:00	1890.96	5190.96	N/A		Chicago	IL	60617     	8B	Photography			False	False	False		False
+4993213	24362	1029262	0	Christian DeMarr Photography		2026-08-27 00:00:00	1500	5190.96	N/A		Chicago	IL	60617     	8B	Photography			False	False	False		False
+4993214	24362	1029262	0	Christian DeMarr Photography		2026-08-31 00:00:00	800	5190.96	N/A		Chicago	IL	60617     	8B	Photography			False	False	False		False
+4993215	24362	1029262	0	Christian DeMarr Photography		2026-08-31 00:00:00	1000	5190.96	N/A		Chicago	IL	60617     	8B	Photography			False	False	False		False
+4993216	24362	1029262	0	Gamehorn Chicago Master, LLC		2026-07-06 00:00:00	1200	3600	1543 East 85th Street		Chicago	IL	60619     	8B	Rent for Campaign Office			False	False	False		False
+4993217	24362	1029262	0	Gamehorn Chicago Master, LLC		2026-08-13 00:00:00	1200	3600	1543 East 85th Street		Chicago	IL	60619     	8B	Campaign Office Rent			False	False	False		False
+4993218	24362	1029262	0	Gamehorn Chicago Master, LLC		2026-09-14 00:00:00	1200	3600	1543 East 85th Street		Chicago	IL	60619     	8B	Rent for Campaign Office			False	False	False		False
+4993219	24362	1029262	0	O'Neal	Omari	2026-07-09 00:00:00	756	3276	N/A		Chicago	IL	60619     	8B	Summer Intern Staff			False	False	False		False
+4993220	24362	1029262	0	O'Neal	Omari	2026-07-27 00:00:00	1386	3276	N/A		Chicago	IL	60619     	8B	Summer Intern Work			False	False	False		False
+4993221	24362	1029262	0	O'Neal	Omari	2026-08-10 00:00:00	1134	3276	N/A		Chicago	IL	60619     	8B	Summer intern worker			False	False	False		False
+4993222	24362	1029262	0	Kelly	Brittany	2026-07-09 00:00:00	945	3591	N/A		Chicago	IL	60619     	8B	Campaign Work			False	False	False		False
+4993223	24362	1029262	0	Kelly	Brittany	2026-07-27 00:00:00	1260	3591	N/A		Chicago	IL	60619     	8B	Summer Intern Work			False	False	False		False
+4993224	24362	1029262	0	Kelly	Brittany	2026-08-10 00:00:00	1386	3591	N/A		Chicago	IL	60619     	8B	Summer Intern Work			False	False	False		False
+4993225	24362	1029262	0	Gibson	Angela	2026-07-13 00:00:00	357	3755	N/A		Chicago	IL	60619     	8B	Summer Intern Worker			False	False	False		False
+4993226	24362	1029262	0	Gibson	Angela	2026-07-27 00:00:00	1134	3755	N/A		Chicago	IL	60619     	8B	Summer Intern Work			False	False	False		False
+4993227	24362	1029262	0	Gibson	Angela	2026-08-12 00:00:00	1764	3755	N/A		Chicago	IL	60619     	8B	Summer Intern Work			False	False	False		False
+4993228	24362	1029262	0	Gibson	Angela	2026-09-09 00:00:00	500	3755	N/A		Chicago	IL	60619     	8B	Office work			False	False	False		False
+4993229	24362	1029262	0	Gray	Joshua	2026-07-27 00:00:00	1000	1450	9110 South Phillips		Chicago	IL	60617     	8B	Office Work			False	False	False		False
+4993230	24362	1029262	0	Gray	Joshua	2026-09-16 00:00:00	450	1450	9110 South Phillips		Chicago	IL	60617     	8B	Office work			False	False	False		False
+4993231	24362	1029262	0	Carew	Jillian	2026-08-10 00:00:00	1000	1000	N/A		Chicago	IL	60619     	8B	Morgan Park High School Picnic Sponsorship			False	False	False		False
+4993232	24362	1029262	0	Philimino Harris		2026-08-26 00:00:00	1500	1500	N/A		Chicago	IL	60619     	8B	Fund raising - entertainment			False	False	False		False
+4993233	24362	1029262	0	The Gentry Group		2026-08-27 00:00:00	6000	6000	9325 South Indiana Avenue		Chicago	IL	60619     	8B	Consulting			False	False	False		False
+4993234	24362	1029262	0	Justice of the Pies		2026-09-17 00:00:00	2330	2330	8655 South Black Stone Avenue		Chicago	IL	60619     	8B	Fund raising - hall rental			False	False	False		False
+4993235	24362	1029262	0	Ramirez for 12		2026-09-29 00:00:00	1500	1500	3949 S. Rockwell St.		Chicago	IL	60632     	6B	Contribution			False	False	False		False
+4993236	41510	1029271	0	ClariFi Digital LLC		2026-10-29 00:00:00	125000	0	600 Enterprise Dr		Oak Brook	IL	60523     	9B	Broadcast Buy	Nabeela Syed	Illinois State Senate	False	True	False		False

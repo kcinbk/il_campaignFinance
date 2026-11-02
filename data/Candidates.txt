@@ -258,9 +258,9 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 16548	Alberding	D Robert	907 S Grove		Barrrington	IL	60010	Clerk	Township	Barrington	Cook	Republican	False
 46709	Alberding	D Robert	907 S Grove		Barrington	IL	60010	Supervisor	Township	Barrington	Cook	Republican	False
 7536	Alberico	Herman						Trustee	Township	Lockport	Will	Democratic	False
-29749	Albers	Mark	6630 Davis St		Morton Grove	IL	60053	Trustee	Village	Morton Grove	Cook	Non Partisan	False
 25698	Albers	Mark	6630 Davis St		Morton Grove	IL	60053	Trustee	Library	Morton Grove	Cook		False
 45832	Albers	Mark	6630 Davis St		Morton Grove	IL	60053	State Representative	Representative	15	Cook	Republican	False
+29749	Albers	Mark	6630 Davis St		Morton Grove	IL	60053	Trustee	Village	Morton Grove	Cook	Non Partisan	False
 42101	Albers	Vicky	6995 Ammons Rd		Bartelso	IL	62218	Clerk	County	Clinton 	Clinton	Republican	False
 2725	Albert	Arlene			Joliet	IL	60435	Mayor	City	Joliet	Will		False
 13262	Albert	Arlene	808 Western Av		Joliet	IL	60435	State Senator	Senate	43 	Will	Republican	False
@@ -669,8 +669,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 12172	Andrews	Henry	104 Fairfield		Island Lake	IL	60042	Trustee	Village	Island Lake	Lake/McHenry		False
 14037	Andrews	Inez	7725 S Hoyne		Chicago	IL	60620	Alderperson	Ward	Chicago 18 	Cook	Non Partisan	False
 1466	Andrews	Joanne	716 11th St		Wilmette	IL	60091	Trustee	Village	Wilmette	Cook		False
-11212	Andrews	Karen	114 Parkway Dr		Carthage	IL	62321	State's Attorney	County	Hancock	Hancock	Democratic	False
 13644	Andrews	Karen	328 S Marion		Carthage	IL	62321	Judge	Circuit Court	9	Hancock	Democratic	False
+11212	Andrews	Karen	114 Parkway Dr		Carthage	IL	62321	State's Attorney	County	Hancock	Hancock	Democratic	False
 13587	Andrews	Martin E	315 E Arch		Jerseyville	IL	62052	Sheriff	County	Jersey 	Jersey	Democratic	False
 21077	Andrews	Nigle	6733 S Clyde Ave		Chicago	IL	60649	Alderperson	Ward	Chicago 5  	Cook	Non Partisan	False
 5533	Andrews	Ruth	3230 Wilshire Dr		Granite City	IL	62040	Trustee	Village	Granite City	Madison		False
@@ -937,9 +937,9 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 21771	Ault	Becky	702 S Pine		Centralia	IL	62801	Mayor	City	Centralia	Marion	Non Partisan	False
 15176	Ault	J Peter	2103 Vista Del Rio		Pekin	IL	61554	Judge	Circuit Court	10	Tazewell	Democratic	False
 11668	Auman	Richard D	701 Young St		Galena	IL	61036	Mayor	City	Galena	Jo Daviess		False
+17006	Aurand	Douglas R	PO Box 16026		Loves Park	IL	61132-6026	Member	County Board	Winnebago 3  	Winnebago	Democratic	False
 8473	Aurand	Douglas R						Treasurer	County	Winnebago 	Winnebago	Democratic	False
 15478	Aurand	Douglas R	PO Box 6043		Rockford	IL	61125-1043	Supervisor	Township	Harlem	Winnebago	Democratic	False
-17006	Aurand	Douglas R	PO Box 16026		Loves Park	IL	61132-6026	Member	County Board	Winnebago 3  	Winnebago	Democratic	False
 27638	Ausec	Sharon	653 Orr St		Rockdale	IL	60436	Trustee	Village	Rockdale	Will	Independent	False
 21387	Aussem	Dan	1131 Post St		Ottawa	IL	61350	Commissioner	City	Ottawa	LaSalle		False
 42552	Aussem	Dan	1131 Post St		Ottawa	IL	61350	Mayor	City	Ottawa	LaSalle		False
@@ -1287,8 +1287,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 54113	Bannon	Ed	3700 N Oriole Ave		Chicago	IL	60634	Member	School	Chicago 1A	Cook	Non Partisan	False
 27307	Bansal	Krishna	2416 Fawn Lake Cir		Naperville	IL	60564	Member	School	204	Will		False
 28015	Bansal	Krishna	3900 Gabrielle Ln #9005		Aurora	IL	60598	State Representative	Representative	84 	Will	Republican	False
-44134	Bansal	Meghna	2416 Fawn Lake Cir.		Naperville	IL		Trustee	Township	Wheatland	Will	Republican	False
 46813	Bansal	Meghna	2416 Fawn Lake Circle		Naperville	IL	60564	Councilman	City	Naperville			False
+44134	Bansal	Meghna	2416 Fawn Lake Cir.		Naperville	IL		Trustee	Township	Wheatland	Will	Republican	False
 10288	Banske	Rich	1234 Price Ave		Calumet City	IL	60409-5808	State Representative	Representative	29 	Cook	Republican	False
 14937	Barach	Steve M	124 W Kentucky		Beecher	IL	60401	State Representative	Representative	85 	Will	Republican	False
 42746	Barache	Marlene	PO Box 725		Alton	IL	62002	Trustee	Comm College	536	Madison		False
@@ -1848,11 +1848,11 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 18431	Bell-Yovkovich	Terri			Calumet City	IL	60409	Alderperson	Ward	7  	Cook	Democratic	False
 22352	Bellaire	Kenneth K	1135 W Lill Ave	Apt 2E	Chicago	IL	60614	Committee Person	Ward	Chicago 43 	Cook	Republican	False
 1695	Bellamy	JD						Member	County Board	Franklin 	Franklin	Democratic	False
+43203	Bellar	Barbara	8513 Johnston Rd		Burr Ridge	IL	60527	Circuit Clerk	County	Cook	DuPage	Republican	False
+42995	Bellar	Barbara	1116 Oxford Ct		Oakbrook Terrace	IL	60181	President	Village	Oak Brook Terrace	DuPage	Republican	False
 25156	Bellar	Barbara	8513 Johnston Rd		Burr Ridge	IL	60527	State Representative	Representative	35 	DuPage	Republican	False
 26584	Bellar	Barbara	8513 Johnston Rd		Burr Ridge	IL	60527	State Senator	Senate	18 	DuPage	Republican	False
 28263	Bellar	Barbara	8513 Johnston Rd		Burr Ridge	IL	60527	Member	County Board	Cook 17 	DuPage	Republican	False
-43203	Bellar	Barbara	8513 Johnston Rd		Burr Ridge	IL	60527	Circuit Clerk	County	Cook	DuPage	Republican	False
-42995	Bellar	Barbara	1116 Oxford Ct		Oakbrook Terrace	IL	60181	President	Village	Oak Brook Terrace	DuPage	Republican	False
 28070	Bellar	Barbara R	8513 Johnston Rd		Burr Ridge	IL	60527	Commissioner	County Board	Cook 17 	Cook	Republican	False
 20757	Belle	Charles "Chico"	3824 Kerry Blvd		Springfield	IL	62712	Sheriff	County	Sangamon 	Sangamon	Democratic	False
 9270	Bellendir	Paul D	2518 Maple St		Franklin Park	IL	60131	Trustee	Village	Franklin Park	Cook		False
@@ -2523,8 +2523,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 7065	Boes	Barbara	1322 Park Drive		Round Lake Beach	IL	60073	Clerk	Village	Round Lake Beach	Lake		False
 1450	Boese	Edward H						Trustee	Village	Thornton	Cook		False
 18192	Boester	Lloyd H	312 N Locust St		Genoa	IL	60135	Trustee	Village	Hoffman Estates	Cook	Non Partisan	False
-3378	Boettger	Mark	823 Tee		Carpentersville	IL	60110	Trustee	Village	Carpentersville	Kane	Independent	False
 16674	Boettger	Mark	6229 Providence Ct		Carpentersville	IL	60110	President	Village	Carpentersville	Kane		False
+3378	Boettger	Mark	823 Tee		Carpentersville	IL	60110	Trustee	Village	Carpentersville	Kane	Independent	False
 26444	Bogart	Nikki	146 S Forrest		Danville	IL	61832	Recorder	County	Vermilion 	Vermilion	Democratic	False
 17560	Bogart	Nikki	146 S Forrest		Danville	IL	61832	Member	County Board	Vermilion 5  	Vermilion	Democratic	False
 8230	Bogda	Marie	5012 S Rt 45-52		Chebanse	IL	60922	Clerk	County	Kankakee 	Kankakee	Democratic	False
@@ -3042,8 +3042,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 19220	Breeden Sr	David A	3237 Aubrey		Granite City	IL	62040	Mayor	City	Granite City	Madison		False
 34482	Breen	Andy	4009 Oak Ave	1 W	McHenry	IL	60050	Member	County Board	McHenry 4  	McHenry	Democratic	False
 12611	Breen	Cathy	842 N Kenilworth Ave		Oak Park	IL	60302	Commissioner	Park	Oak Park	Cook	Independent	False
-23950	Breen	Peter	517 E Prairie Ave		Lombard	IL	60148	State Representative	Representative	41 	DuPage	Republican	False
 27999	Breen	Peter	PO Box 76		Lombard	IL	60148	State Representative	Representative	48 		Republican	False
+23950	Breen	Peter	517 E Prairie Ave		Lombard	IL	60148	State Representative	Representative	41 	DuPage	Republican	False
 447	Breen, Jr	John M						Judge	Circuit Court	Cook	Cook		False
 7125	Breen-Greco	Ann	4123 N Maplewood		Chicago	IL	60618	Judge	Circuit Court	Cook	Cook	Democratic	False
 20679	Breeze	Eric	PO Box 33		Waltonville	IL	62894	Sheriff	County	Jefferson 	Jefferson	Republican	False
@@ -3102,9 +3102,9 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 5316	Brewer	Christine	5006 Daniel Dr		Crystal Lake	IL	60014	Auditor	County	McHenry	McHenry	Democratic	False
 25890	Brewer	Donald L	25 Westwood Lane		Murphysboro	IL	62966	Trustee	Comm College	530	Jackson/Perry		False
 2301	Brewer	Donald L	25 Westwood Lane		Murphysboro	IL	62966	Superintendent	Regional Office of Education	Jackson/Perry	Jackson	Democratic	False
-43366	Brewer	Donald R	300 Highland Ave		Algonquin	IL	60102	Judge	Circuit Court	22	McHenry	Republican	False
 4529	Brewer	Donald R	314 Washington		Algonquin	IL	60102	State Senator	Senate	32 	McHenry	Republican	False
 10837	Brewer	Donald R	300 Highland		Algonquin	IL	60102	Member	County Board	McHenry 1  	McHenry	Republican	False
+43366	Brewer	Donald R	300 Highland Ave		Algonquin	IL	60102	Judge	Circuit Court	22	McHenry	Republican	False
 20781	Brewer	Eileen Mary	Redaction Requested					Judge	Appellate Court	1	Cook	Democratic	True
 17124	Brewer	Eileen Mary	Redaction Requested					Judge	Circuit Court	Cook	Cook	Democratic	True
 22896	Brewer	Glenn	1140 Home Ave		Oak Park	IL	60304	Trustee	Village	Oak Park	Cook		False
@@ -3426,8 +3426,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 12985	Browne	William	17834 Ridgewood Dr		Hazel Crest	IL	60429	Member	School	144	Cook	Non Partisan	False
 5868	Browne	William	17834 Ridgewood Dr		Hazel Crest	IL	60429	President	Village	Hazel Crest	Cook	Non Partisan	False
 21596	Browne	William	17834 Ridgewood Dr		Hazel Crest	IL	60429	Member	School	228	Cook	Non Partisan	False
-26296	Brownfield	Greg	748 Bayberry Dr		Bartlett	IL	60103	State Senator	Senate	23 	Cook	Democratic	False
 23943	Brownfield	Greg	748 Bayberry Dr		Bartlett	IL	60103	State Representative	Representative	55 	Cook	Democratic	False
+26296	Brownfield	Greg	748 Bayberry Dr		Bartlett	IL	60103	State Senator	Senate	23 	Cook	Democratic	False
 47567	Brownfield	Jeff	1107 English Oak Drive		Champaign	IL	61822	State Senator	Senate	52		Republican	False
 47578	Brownfield	Mike	900 Westminster Dr		Washington	IL	61571	Mayor	City	Washington	Tazewell	Non Partisan	False
 9682	Browning	Warren B	4 Edgewood Lane N		Centralia	IL	62801	Mayor	City	Centralia	Marion		False
@@ -3454,8 +3454,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 27763	Brudnak	John	14424 Irving Ave		Orland Park	IL	60462	Trustee	Fire Protection	Orland 	Cook	Non Partisan	False
 25586	Brudnak	John			Orland Park	IL		Trustee	Village	Orland Park	Cook		False
 39255	Bruere	Lance	139 Caldwell St		Jacksonville	IL	62650	Alderperson	Ward	Jacksonville 4  	Morgan	Republican	False
-14920	Bruesewitz	Stephen	1707 Patricia Lane		St Charles	IL	60174	State Representative	Representative	50 	Kane	Democratic	False
 25162	Bruesewitz	Stephen	1707 Patricia Lane		St Charles	IL	60174	Member	County Board	Kane	Kane	Democratic	False
+14920	Bruesewitz	Stephen	1707 Patricia Lane		St Charles	IL	60174	State Representative	Representative	50 	Kane	Democratic	False
 17131	Bruesewitz	Stephen "Steve"	1707 Patricia Ln		St Charles	IL	60174	State Representative	Representative	55 	Kane	Democratic	False
 28234	Bruggeman	Valerie	780 Persimmon Dr		West Chicago	IL	60185	Member	County Board	DuPage 6  	DuPage	Republican	False
 15555	Brumbach	William J	35630 Marine Dr		Fox Lake	IL	60020	Trustee	Township	Grant	Lake	Republican	False
@@ -4146,9 +4146,9 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 6080	Canty	Bruce P	1518 Laketop Dr		Caseyville	IL	62269	Clerk	Village	Caseyville	St Clair		False
 19198	Canty	Bruce P	1518 Laketop Dr		Caseyville	IL	62269	Clerk	Township	Caseyville	St Clair		False
 23278	Canty	Bruce P	3815 Highland Rd		Fairview Heights	IL	62208	Supervisor	Township	Caseyville	St Clair	Non Partisan	False
-42549	Canty	Mary Beth	Redaction Requested					Trustee	Village	Arlington Heights	Cook		True
 45576	Canty	Mary Beth	Redaction Requested					State Representative	Representative	54	Cook	Democratic	True
 53681	Canty	Mary Beth	14 E. Northwest Hwy		Arlington Heights	IL	60004     	Committeeman	Township	Wheeling	Cook	Democratic	False
+42549	Canty	Mary Beth	Redaction Requested					Trustee	Village	Arlington Heights	Cook		True
 21411	Canty	Victor P	5 Shellie Ct		Fairview Heights	IL	62208	Mayor	City	Fairview Heights	St Clair	Non Partis	False
 19250	Cap	Pam	545 Mackinaw Ave		Calumet City	IL	60409	Mayor	City	Calumet City	Cook	Democratic	False
 9069	Cap	Robert J	13031 S Carondolet Avenue		Chicago	IL	60633	Alderperson	Ward	Chicago 10 	Cook	Democratic	False
@@ -4334,8 +4334,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 42391	Carr	Betty Jones	2013 N 58th St.		East Saint Louis	IL	62204	Member	School	Board	St Clair	Democratic	False
 27648	Carr	Candace	12523 Fairview Ave		Blue Island	IL	60406	Alderperson	Ward	Blue Island 4  	Cook		False
 26938	Carr	Gary	4929 W 142nd St		Crestwood	IL	60445	Trustee	Village	Crestwood	Cook	Independent	False
-5984	Carr	Jim	1110 Irving Ave		Wheaton	IL	60187	Mayor	City	Wheaton	DuPage		False
 24086	Carr	Jim	305 E Liberty Dr		Wheaton	IL	60187	Commissioner	Forest Preserve	4  	DuPage	Republican	False
+5984	Carr	Jim	1110 Irving Ave		Wheaton	IL	60187	Mayor	City	Wheaton	DuPage		False
 9374	Carr	John G	PO Box 106		Decatur	IL	62525-0106	Mayor	City	Decatur	Macon		False
 39091	Carr	Josef Michael	2226 E 70th Pl	Unit #2	Chicago	IL	60649	Alderperson	Ward	Chicago 5  	Cook	Non Partisan	False
 45759	Carr	Josef Michael	2226 E. 70th Place, Unit 2		Chicago	IL	60649	State Representative	Representative	25	Cook	Democratic	False
@@ -4680,9 +4680,9 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 16678	Chapin	Ken	1130 Margate Ln		Libertyville	IL	60048	Supervisor	Township	Libertyville	Lake	Republican	False
 19238	Chapin	Ken	1130 Margate Ln		Libertyville	IL	60048	Trustee	Township	Libertyville	Lake		False
 8507	Chapleau	Mark D	11601 S Avenue N		Chicago	IL	60617	Judge	Circuit Court	Cook	Cook	Democratic	False
+47285	Chaplin	Elizabeth (Liz)	5623 Pershing Ave		Downers Grove	IL	60516	Recorder	County	Dupage	DuPage	Democratic	False
 28465	Chaplin	Elizabeth (Liz)	5623 Pershing Ave		Downers Grove	IL	60516	State Representative	Representative	81 	DuPage	Democratic	False
 20981	Chaplin	Elizabeth (Liz)	5623 Pershing Ave		Downers Grove	IL	60516	Member	County Board	Dupage	DuPage	Democratic	False
-47285	Chaplin	Elizabeth (Liz)	5623 Pershing Ave		Downers Grove	IL	60516	Recorder	County	Dupage	DuPage	Democratic	False
 53773	Chaplin	Nate	109 Jones Blvd		Tuscola	IL	61953     	Sheriff	County	Douglas	Douglas	Republican	False
 6523	Chaplinski	Joseph	166 S Lasalle		Bradley	IL	60915	Trustee	Village	Bradley	Kankakee		False
 376	Chapman	Charles W	6105 Old Carpenter Rd		Edwardsville	IL	62025	Judge	Appellate Court	5	Madison	Democratic	False
@@ -5436,8 +5436,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 27368	Connor	Michael	PO Box 245		Cherry Valley	IL	61016	Member	School	205	Winnebago		False
 23807	Connor	Todd	849 W Barry, # 3B		Chicago	IL	60657	Commissioner	Water Reclamation	Chicago	Cook	Democratic	False
 27835	Connor	Victor	302 Melody Ln		Normal	IL	61761	Mayor	City	Normal	McLean		False
-8607	Connors	Maureen E	Redaction Requested					Judge	Circuit Court	Cook	Cook	Democratic	True
 26071	Connors	Maureen E	Redaction Requested					Judge	Appellate Court	1	Cook	Democratic	True
+8607	Connors	Maureen E	Redaction Requested					Judge	Circuit Court	Cook	Cook	Democratic	True
 27834	Connors	Shawn	604 Moth St		Pecatonica	IL	61063	President	Village	Pecatonica	Winnebago	Non Partisan	False
 1596	Connors	William E			Oak Lawn	IL	60453	Assessor	Township	Worth	Cook		False
 784	Connors	William E						State Senator	Senate	14 	Cook	Republican	False
@@ -6651,8 +6651,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 53354	Deal	Phillip L	736 N 400 East Rd		Morrisonville	IL	62546	Sheriff	County	Christian	Champaign	Republican	False
 15745	Dean	Anthony T	3204 RFD		Long Grove	IL	60047	President	Village	Long Grove	Lake	Independent	False
 11764	Dean	Dennis	127 Birch Dr		Glenwood	IL	60425	Trustee	Village	Glenwood	Cook		False
-23086	Dean	Deyon	14425 State Street		Riverdale	IL	60827	Mayor	Village	Riverdale	Cook	Independent	False
 43612	Dean	Deyon	14425 S. State St.		Riverdale	IL	60827	President	Village	Riverdale	Cook	Democratic	False
+23086	Dean	Deyon	14425 State Street		Riverdale	IL	60827	Mayor	Village	Riverdale	Cook	Independent	False
 14417	Dean	Deyon L	14425 State Street		Riverdale	IL	60827	Trustee	Village	Riverdale	Cook		False
 42851	Dean	Deyon L	14425 State Street		Riverdale	IL	60827	Commissioner	Water Reclamation	Chicago	Cook	Democratic	False
 37941	Dean	June Hamilton	570 N 12th St	Apt C	East St Louis	IL	62201	Councilman	City	East St Louis	St Clair	Democratic	False
@@ -6882,8 +6882,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 27526	Denomie	James	120 Tall Oak Dr		Hainesville	IL	6073	Hwy Commissioner	Township	Avon	Lake	Democratic	False
 21737	Densberger	Gary	202 Swiss Ln		East Peoria	IL	61611	Commissioner	City	East Peoria	Tazewell		False
 8110	Denson	Mary G	1711 N Sayre Street		Chicago	IL	60635	State Representative	Representative	8  	Cook	Democratic	False
-26771	Denson	Ronald	12751 S Loomis		Calumet Park	IL	60827	Mayor	Village	Calumet Park	Cook	Non Partisan	False
 25171	Denson	Ronald	12751 S Loomis		Calumet Park	IL	60827	Trustee	Village	Calumet Park	Cook	Independent	False
+26771	Denson	Ronald	12751 S Loomis		Calumet Park	IL	60827	Mayor	Village	Calumet Park	Cook	Non Partisan	False
 20199	Dent	Barb						Member	School	205	Winnebago		False
 17194	Dentino	Verne E	1811 W High St		Bartonville	IL	61607-2134	Judge	Circuit Court	10	Peoria	Republican	False
 27788	Denton	William						Trustee	Village	Oak Brook	DuPage		False
@@ -7112,8 +7112,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 7908	Dillard	Kirk W	501 Wedgewood Ct		Hinsdale	IL	60521	State Senator	Senate	41 	DuPage	Republican	False
 23895	Dillard	Kirk W	501 Wedgewood Ct		Hinsdale	IL	60521	Governor	Statewide	   	DuPage	Republican	False
 17111	Dillard	Kirk W	501 Wedgewood Ct		Hinsdale	IL	60521	State Senator	Senate	24 	DuPage	Republican	False
-14445	Dillard	Neil	500 S Oakland		Carbondale	IL	62901	Mayor	City	Carbondale	Jackson		False
 4767	Dillard	Neil	500 South Oakland St		Carbondale	IL	62901	State Representative	Representative	115	Jackson	Republican	False
+14445	Dillard	Neil	500 S Oakland		Carbondale	IL	62901	Mayor	City	Carbondale	Jackson		False
 8587	Dillard	Rose	801 W Girard		Monmouth	IL	61462	Treasurer	County	Warren 	Warren	Republican	False
 13938	Dillavou	David W	1505 S 4th		Springfield	IL	62703	Member	County Board	Sangamon 18 	Sangamon	Republican	False
 22003	Dillman	Jen	1801 Dial Ct		Springfield	IL	62704	Member	County Board	Sangamon 	Sangamon	Republican	False
@@ -7318,8 +7318,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 1285	Donahue	Ruth						Clerk	Village	Evergreen Park	Cook		False
 45324	Donahue	Ryan	10901 S. Keating Ave		Oak Lawn	IL	60453	Commissioner	Park	Oak Lawn	Cook	Non Partisan	False
 47304	Donahue	Sean	9334 W. Hwy. Rt 150		Edwards	IL	61528	Circuit Judge	Circuit Court	Peoria	Peoria	Democratic	False
-5482	Donahue	William T	1323 N Leslie Ave		Round Lake Beach	IL	60073	Trustee	Township	Avon	Lake	Independent	False
 18859	Donahue	William T	1133 N Walnut St		Danville	IL	61832	State's Attorney	County	Vermilion	Vermilion	Democratic	False
+5482	Donahue	William T	1323 N Leslie Ave		Round Lake Beach	IL	60073	Trustee	Township	Avon	Lake	Independent	False
 16072	Donald	Jeremy						Trustee	Village	Cahokia	St Clair		False
 54327	Donaldson	Darius	135 E. Oakcliff Ct., Apt. 104		Peoria	IL	61614     	Trustee	Park	Peoria	Peoria	Non Partisan	False
 6781	Donaldson	Robert B	3004 Woodworth Place		Hazel Crest	IL	60429	President	Village	Hazel Crest	Cook	Independent	False
@@ -8239,8 +8239,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 2079	Erickson	Clark	Redaction Requested					State Representative	Representative	86	Kankakee	Republican	True
 4895	Erickson	Clark	Redaction Requested					State's Attorney	County	Kankakee	Kankakee	Republican	True
 2694	Erickson	Dave	245 Bonner Lane		Lindenhurst	IL	60046	Trustee	Village	Lindenhurst	Lake		False
-20604	Erickson	David A	6730 N Hiawatha Ave		Chicago	IL	60646	Judge	Appellate Court	1	Cook	Democratic	False
 4124	Erickson	David A	6730 N Hiawatha Avenue		Chicago	IL	60646	Judge	Circuit Court	Cook	Cook	Democratic	False
+20604	Erickson	David A	6730 N Hiawatha Ave		Chicago	IL	60646	Judge	Appellate Court	1	Cook	Democratic	False
 45221	Erickson	Jennifer	410 North Lombard Ave		Lombard	IL	60148	Trustee	Library	Lombard	DuPage	Non Partisan	False
 18467	Erickson	Jon	3354 N Broadway		Chicago	IL	60657	Judge	Subcircuit Court	Cook 8  	Cook	Democratic	False
 7875	Erickson	Malcolm "Mal"	410 W Crystal Ave		Lombard	IL	60148	Member	County Board	DuPage 2  	DuPage	Republican	False
@@ -8417,8 +8417,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 22419	Fabiano	Lisa	913 N Main St		Rockford	IL	61103	Judge	Circuit Court	17	Winnebago	Democratic	False
 9250	Fabri	Anthony L	402 S Sixth St		Champaign	IL	61820	Councilman	City	Champaign	Champaign		False
 10602	Fabri	Candace Jean	1466 W Grace Street		Chicago	IL	60613	Judge	Circuit Court	Cook	Cook	Democratic	False
-15128	Fabri	Tony	308 N Edwin St		Champaign	IL	61821	Member	County Board	Champaign 6  	Champaign	Democratic	False
 22040	Fabri	Tony	308 N Edwin St		Champaign	IL	61821	Auditor	County	Champaign 	Champaign	Democratic	False
+15128	Fabri	Tony	308 N Edwin St		Champaign	IL	61821	Member	County Board	Champaign 6  	Champaign	Democratic	False
 8309	Faccin	Rick	1620 Walker		Alton	IL	62002	Member	County Board	Madison 10 	Madison	Democratic	False
 15213	Faccin	Rick J	1620 Walker		Alton	IL	62002	Auditor	County	Madison 	Madison	Democratic	False
 9249	Faddis	Roy J "Jack"	8825 S 84th Ave		Hickory Hills	IL		Mayor	City	Hickory Hills	Cook	Independent	False
@@ -8873,8 +8873,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 18747	Fitzgerald	Charles	2254 W 113th St		Chicago	IL	60643	Judge	Subcircuit Court	Cook    	Cook	Democratic	False
 17716	Fitzgerald	Charles "Chuck"	525 W Washington #M		Lake Bluff	IL	60044	State Senator	Senate	30 	Lake	Republican	False
 24276	Fitzgerald	Charles Francis	2254 W 113th St		Chicago	IL	60643	Judge	Subcircuit Court	Cook 3  	Cook	Democratic	False
-33052	Fitzgerald	Dan	740 Dundee Ave		Barrington	IL	60010	Trustee	Township	Barrington	Cook	Republican	False
 42053	Fitzgerald	Dan	740 Dundee Ave		Barrington	IL	60010	Judge	Subcircuit Court	Cook    	Cook	Republican	False
+33052	Fitzgerald	Dan	740 Dundee Ave		Barrington	IL	60010	Trustee	Township	Barrington	Cook	Republican	False
 7836	FitzGerald	Elroy			Crystal Lake	IL	60014	Member	School	155	McHenry/Lake	Non Partisan	False
 26061	Fitzgerald	Gary M	905 Colonade Rd		Shorewood	IL	60404-9140	State Senator	Senate	49 		Republican	False
 1136	FitzGerald	James Edward	10440 South Menard		Oak Lawn	IL	60453	Judge	Appellate Court	1	Cook	Democratic	False
@@ -9163,8 +9163,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 16005	Fotopoulos	John S	14496 John Humphrey Dr		Orland Park	IL	60462	Trustee	Village	Orland Park	Cook		False
 28252	Fotopoulos	John S	14496 John Humphrey Dr		Orland Park	IL	60462	Judge	Subcircuit Court	Cook 15 	Cook	Democratic	False
 46648	Fouke	Michael J.	1504 Seville Ct.		Johnsburg	IL	60051	Trustee	Village	Johnsburg	McHenry	Independent	False
-22262	Foulkes	Toni L	6525 S Paulina		Chicago	IL	60636	Committee Person	Ward	Chicago 15 	Cook	Democratic	False
 21287	Foulkes	Toni L	P O Box 369108		Chicago	IL	60636	Alderperson	Ward	Chicago 16 	Cook	Democratic	False
+22262	Foulkes	Toni L	6525 S Paulina		Chicago	IL	60636	Committee Person	Ward	Chicago 15 	Cook	Democratic	False
 19912	Fountain	Joyce	597 Lancaster Circle		Elgin	IL	60123	Trustee	Comm College	509	Kane	Democratic	False
 21721	Fourkas	Darlene	6715 N Laponte		Lincolnwood	IL	60712	Member	School	74	Cook		False
 44122	Fourman	Clarissa N	1717 Paula Dr		Champaign	IL	61821	Councilman	City	Champaign 1	Champaign	Democratic	False
@@ -9396,8 +9396,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 15351	Friel	Samantha	150608 South Erin Lane		Orland Park	IL	60462	Trustee	Township	Orland	Cook	Independent	False
 15264	Friend	Charles	1201 Bloomington Rd		East Peoria	IL	61611	Coroner	County	Tazewell 	Tazewell	Democratic	False
 47294	Friend	Debbie	12592 SR 78		Havana	IL	62644	Circuit Clerk	County	Mason	Mason	Republican	False
-10930	Friend	Jerry						Coroner	County	Knox 	Knox	Republican	False
 1749	Friend	Jerry	RR 3	Box 347	Galesburg	IL	61401	Sheriff	County	Knox 	Knox	Republican	False
+10930	Friend	Jerry						Coroner	County	Knox 	Knox	Republican	False
 15246	Frier	Tim	14630 US 67 N		Macomb	IL	61455	Circuit Clerk	County	McDonough 	McDonough	Democratic	False
 17281	Frier	Tim	14630 US 67 N		Macomb	IL	61455	Member	County Board	McDonough 	McDonough	Democratic	False
 47326	Frier	Timothy	14630 US Highway 67		Macomb	IL	61455-8802	Committee person	City	Macomb	McDonough	Democratic	False
@@ -9514,8 +9514,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 31971	Fullerton	Paul	PO Box 5425		Wheaton	IL	60189-5425	Judge	Circuit Court	18	DuPage	Republican	False
 53819	Fulmer	Quinn F	425 Merimac Ct		Roselle	IL	60172	Commissioner	Forest Preserve	1	DuPage	Democratic	False
 11667	Fulson	Lula	3706 Maxey Ct		Robbins	IL	60472	Trustee	Village	Robbins	Cook		False
-11428	Fulton	Kenneth	6456 W 175th St		Tinley Park	IL	60477	President	Village	Tinley Park	Cook/Will	Tinley '97	False
 2865	Fulton	Kenneth	6456 175th St.		Tinley Park	IL	60477	Trustee	Village	Tinley Park	Cook	Independent	False
+11428	Fulton	Kenneth	6456 W 175th St		Tinley Park	IL	60477	President	Village	Tinley Park	Cook/Will	Tinley '97	False
 29746	Fults	David	2 Margie Dr		Cahokia	IL	62206	Mayor	Village	Cahokia	St Clair	Independent	False
 43616	Fultz lll	Saul	905 Second Ave		Aurora	IL	60505	Alderperson	Ward	Aurora 7		Non Partisan	False
 22656	Fumagalli	Mark	303 Greenfield Rd		Shorewood	IL	60404	Member	County Board	Will 6  	Will	Democratic	False
@@ -9968,8 +9968,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 37643	Georgi	Drew	10109 Brigham Trl		Hebron	IL	60034	Member	County Board	McHenry 6  	McHenry	Democratic	False
 43818	Georgiou	Tammy	7908 W 112th Pl		Palos Hills	IL	60465	Clerk	Township	Palos		Independent	False
 46477	Geracaris	Juan	536 Ridge Ave.		Evanston	IL	60202	Alderperson	Ward	9	Cook	Non Partisan	False
-23426	Geraci	Ray	PO Box 325		Highland Park	IL	60035	Supervisor	Township	Moraine	Lake	Independent	False
 18695	Geraci	Ray	1140 Park Ave W		Highland Park	IL	60035	Trustee	Sanitary	North Shore	Lake	Republican	False
+23426	Geraci	Ray	PO Box 325		Highland Park	IL	60035	Supervisor	Township	Moraine	Lake	Independent	False
 9080	Geraci	Raymond	1140 Park Ave West		Highland Park	IL	60035	Mayor	City	Highland Park	Lake	Non Partisan	False
 23013	Geraghty	Dan	5828 W 90th St		Oak Lawn	IL	60453	Trustee	Village	Oak Lawn	Cook	Oak Lawn Leadership Team	False
 25121	Gerard	Don	1403 W Green St		Champaign	IL	61821	Mayor	City	Champaign	Champaign	Democratic	False
@@ -11565,9 +11565,9 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 20590	Hansen	Lee W	5530 Squire Circle		Thomson	IL	61285	Clerk	County	Carroll 	Carroll	Republican	False
 26370	Hansen	Lori	2302 Brookens Cir		Urbana	IL	61801	Circuit Clerk	County	Champaign 	Champaign	Democratic	False
 20316	Hansen	Richard A						Trustee	Township	Grafton	McHenry	Independent	False
+9476	Hansen	Rosann	415 Edgewater Ln		Wauconda	IL	60084	Trustee	Village	Wauconda	Lake		False
 6270	Hansen	Rosann	310 Garrison Circle		Port Barrington	IL	60010	Trustee	Township	Wauconda	Lake		False
 23020	Hansen	Rosann	310 Garrison Circle		Port Barrington	IL	60010	Supervisor	Township	Wauconda	Lake	Non Partisan	False
-9476	Hansen	Rosann	415 Edgewater Ln		Wauconda	IL	60084	Trustee	Village	Wauconda	Lake		False
 7214	Hansen	Tim	74 S 7th Ave		La Grange	IL	60525	President	Village	La Grange	Cook		False
 7806	Hansen	Todd	95 Indian Hill Road		Winnetka	IL	60093	State Representative	Representative	58 	Cook	Republican	False
 53481	Hansford	Jeffrey S	211 S Elmwood Drive		Aurora	IL	60506	Alderperson	Ward	4	Kane	Independent	False
@@ -11740,8 +11740,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 147	Harris	David	323 S Pine		Arlington Heights	IL	60005	State Representative	Representative	53 	Cook	Republican	False
 21030	Harris	David K	RR 2 Box 196		Ramsey	IL	62080	Sheriff	County	Fayette 	Fayette	Democratic	False
 27706	Harris	Denise	542 E 146th St		Dolton	IL	60419	Trustee	Village	Dolton	Cook		False
-25537	Harris	Diane	Redaction Requested					Mayor	City	Joliet	Will	Republican	True
 47623	Harris	Diane	Redaction Requested					Circuit Clerk	County	Will	Will	Republican	True
+25537	Harris	Diane	Redaction Requested					Mayor	City	Joliet	Will	Republican	True
 45666	Harris	Diane M	Redaction Requested					State Senator	Senate	43	Will	Republican	True
 43936	Harris	Diane M	Redaction Requested					Supervisor	Township	Joliet	Will	Republican	True
 53822	Harris	Diane M	Redaction Requested					Secretary of State	Statewide	Chicago		Republican	True
@@ -11899,9 +11899,9 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 25963	Hasan	Maha	8404 S 78th St		Justice	IL	60458	Trustee	Library	Justice	Cook	Non Partisan	False
 25964	Hasan	Nuha	8404 S 78th St		Justice	IL	60458	Commissioner	Park	Justice	Cook	Non Partisan	False
 46193	Hasan	Shahnawaz	15320 Cooper Avenue		Harvey	IL	60426	Alderperson	City	Harvey	Cook	Independent	False
-222	Hasara	Karen	5218 South Second Street		Springfield	IL	62703	State Representative	Representative	100	Sangamon	Republican	False
 9082	Hasara	Karen	1919 Montana Dr		Springfield	IL	62704	Mayor	City	Springfield	Sangamon		False
 4545	Hasara	Karen	5218 South Second Street		Springfield	IL	62703	State Senator	Senate	50 	Sangamon	Republican	False
+222	Hasara	Karen	5218 South Second Street		Springfield	IL	62703	State Representative	Representative	100	Sangamon	Republican	False
 29756	Haselhorst	Jim	135 W Hillside Rd		Naperville	IL	60540	Mayor	City	Naperville	DuPage/Will		False
 45317	Haselhorst	Jim	135 W Hillside Rd		Naperville	IL	60540	Councilman	City	Naperville			False
 42774	Hashmi	Nazneen	149 Southwicke Dr		Streamwood	IL	60107	Trustee	Comm College	509	Cook	Non Partisan	False
@@ -12070,8 +12070,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 23369	Healy	Tom	1235 Valley Bannockburn		Deerfield	IL	60015	Assessor	Township	West Deerfield	Lake	Democratic	False
 13417	Healy	William John	2459 N Seminary #1		Chicago	IL	60614	Judge	Circuit Court	Cook	Cook	Democratic	False
 42317	Healy	William R	8539 Fir Street		Orland Park	IL	60462	Trustee	Village	Orland Park	Cook		False
-1184	Heap	Robert A	615 Highland Ave		Naperville	IL	60540	Member	County Board	DuPage 5  	DuPage	Republican	False
 20796	Heap	Robert A	615 Highland Ave		Naperville	IL	60540	Treasurer	County	DuPage 	DuPage	Republican	False
+1184	Heap	Robert A	615 Highland Ave		Naperville	IL	60540	Member	County Board	DuPage 5  	DuPage	Republican	False
 12103	Hearn	Larry	280 S Westdale		Decatur	IL	62522	Trustee	Township	Decatur	Macon	Republican	False
 53914	Heaslett	Heather	108 S. Maple St.		Carbondale	IL	62901     	Circuit Judge	Circuit Court	Jackson	Jackson	Democratic	False
 1601	Heaster	Ray						Collector	Township	Worth	Cook		False
@@ -12129,10 +12129,10 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 10363	Heiligenstein	Frank X	PO Box 69		Freeburg	IL	62243	Board of Review Member	County	St Clair	St Clair	Democratic	False
 22496	Heiligenstein	Joseph	579 Countryside Ln		Trenton	IL	62293	State's Attorney	County	Clinton	Clinton	Democratic	False
 7971	Heilman	Dave			Oak Lawn	IL	60453	Commissioner	Park	Oak Lawn	Cook		False
-19841	Heilmann	Dave			Oak Lawn	IL	60453	President	Village	Oak Lawn	Cook		False
 47377	Heilmann	Dave	5234 W 109th St		Oak Lawn	IL	60453	Judge - Senechalle conversion	Subcircuit Court	Cook 19	Cook	Democratic	False
 47457	Heilmann	Dave	5234 W. 109th Street		Oak Lawn	IL	60453	Circuit Judge	Circuit Court	Cook	Cook		False
 8169	Heilmann	Dave	5225 W 105th Pl		Oak Lawn	IL	60453	State Representative	Representative	36 	Cook	Republican	False
+19841	Heilmann	Dave			Oak Lawn	IL	60453	President	Village	Oak Lawn	Cook		False
 45867	Heim	Joseph H	10145 W. PIckford Ave.		Beach Park	IL	60099-4222	Member	County Board	Lake	Lake	Republican	False
 26903	Hein	Bill	200 Deborah Ln 16B		Wheeling	IL	60090	Trustee	Village	Wheeling	Lake/Cook	Independent	False
 26791	Heinemyer	Tonia	227 N St Louis		Sparta	IL	62286	Coroner	County	Randolph 	Randolph	Republican	False
@@ -12709,8 +12709,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 45436	Hoffman	Monique	1245 S Michigan Ave, #326		Chicago	IL	60605	Committee Person	Ward	Chicago 3	Cook	Republican	False
 22101	Hoffman	Pam Helsel	1330 E Bemes Rd		Crete	IL	60417	Member	County Board	Will 1  	Will	Republican	False
 12201	Hoffman	Pamela J	23356 W Cherry		Lake Zurich	IL	60047	Assessor	Township	Ela	Lake	Independent	False
-9271	Hoffman	Richard			Brookfield	IL	60513	Trustee	Village	Brookfield	Cook		False
 5847	Hoffman	Richard			Brookfield	IL	60513	Trustee	Library	Brookfield	Cook	Independent	False
+9271	Hoffman	Richard			Brookfield	IL	60513	Trustee	Village	Brookfield	Cook		False
 11548	Hoffman	Teresa	9324 Normandy		Morton Grove	IL	60053	Trustee	Village	Morton Grove	Cook		False
 14323	Hoffman	Thomas	117 E LaFayette		Ottawa	IL	61350	Mayor	City	Ottawa	LaSalle	Non Partisan	False
 487	Hoffman	Thomas E	189 Old Sutton Rd		Barrington Hills	IL	60010	Judge	Circuit Court	Cook	Cook	Democratic	False
@@ -12765,9 +12765,9 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 25805	Holden	Monica Yvette	1116 Euclid Ln		Richton Park	IL	60471	Trustee	Village	Richton Park	Cook	Independent	False
 6153	Holder	Carl	8419 Colcehster Dr		Machesney Park	IL	61115	Trustee	Village	Machesney Park	Winnebago	Democratic	False
 17662	Holder	Carolyn J	9112 E Springview Rd		Baldwin	IL	62217-1738	Clerk	County	Randolph 	Randolph	Republican	False
-20923	Holder	David M	9112 E Springview Rd		Baldwin	IL	62217	Commissioner	County Board	Randolph 	Randolph	Republican	False
 24965	Holder	David M	9112 E Springview Rd		Baldwin	IL	62217	Member	County Board	Randolph	Randolph	Republican	False
 43292	Holder	David M	9112 East Springview Road		Baldwin	IL	62217-1738	State Representative	Representative	116		Republican	False
+20923	Holder	David M	9112 E Springview Rd		Baldwin	IL	62217	Commissioner	County Board	Randolph 	Randolph	Republican	False
 25071	Holder	Ted	1610 Scott St		Metropolis	IL	62960	Sheriff	County	Massac 	Massac	Republican	False
 39133	Holder	William	611 S Waiola Ave		La Grange	IL	60525	Trustee	Village	La Grange	Cook		False
 26759	Holder	Zachary	5279 N Silver Rd		Olney	IL	62450	Circuit Clerk	County	Richland 	Richland	Republican	False
@@ -14639,8 +14639,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 16886	Kaupas	Paul	13238 W Tomothy Ln		Mokena	IL	60448	Sheriff	County	Will 	Will	Republican	False
 45848	Kauzlarich	Norma	Redaction Requested					Judge	Circuit Court	14		Democratic	True
 25668	Kavanagh	Thomas	1121 Nederland Ln		Chatham	IL	62629-9732	Trustee	Village	Chatham	Sangamon		False
-5919	Kavanaugh	Michael	610 Oriole Dr		Streamwood	IL	60107	Hwy Commissioner	Township	Hanover	Cook	Republican	False
 10490	Kavanaugh	Michael	610 Oriole Dr		Streamwood	IL	60107	Committeeman	Township	Hanover	Cook	Democratic	False
+5919	Kavanaugh	Michael	610 Oriole Dr		Streamwood	IL	60107	Hwy Commissioner	Township	Hanover	Cook	Republican	False
 23743	Kavanaugh	Tammy J	1209 N Brandywine Circle		Batavia	IL	60510	Assessor	Township	Batavia	Kane	Independent	False
 46548	Kaviar	Julie	4343 N. Clarendon Ave		Chicago	IL	60613	Police District Council	City	Chicago-19	Cook	Democratic	False
 7982	Kawamoto	Lynne	Redaction Requested					Judge	Circuit Court	Cook	Cook	Democratic	True
@@ -14815,8 +14815,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 34451	Kelly	John L	445 W Woodridge Ln		Peoria	IL	61614	Councilman	City	Peoria	Peoria	Non Partisan	False
 48688	Kelly	John L	445 W Woodridge Ln		Peoria	IL	61614	Mayor	City	Peoria	Peoria	Non Partisan	False
 22142	Kelly	John T	5717 W 88th Pl		Oak Lawn	IL	60453	Recorder	County	Cook 	Cook	Democratic	False
-37772	Kelly	Karen L	4218 Seeley Ave		Downers Grove	IL	60515	Trustee	Township	Downers Grove	DuPage	Republican	False
 43311	Kelly	Karen L	4218 Seeley Avenue		Downers Grove	IL	60515	Commissioner	Forest Preserve	DuPage	DuPage	Republican	False
+37772	Kelly	Karen L	4218 Seeley Ave		Downers Grove	IL	60515	Trustee	Township	Downers Grove	DuPage	Republican	False
 8886	Kelly	Kevin	852 N Shady Oaks		Elgin	IL	60120	Mayor	City	Elgin	Cook/Kane	Non Partisan	False
 43235	Kelly	Liam	4708 N Kenton		Chicago	IL	60630	Circuit Judge - W O'Brien Vacancy	Subcircuit Court	Cook 10	Cook	Democratic	False
 47203	Kelly	Liam	4708 N Kenton Ave.		Chicago	IL	60630	Judge	Circuit Court	Cook	Cook	Democratic	False
@@ -15343,8 +15343,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 27837	Knodle	Kathy	1612 W Harrison St		Freeport	IL	61032	Mayor	City	Freeport	Stephenson	Independent	False
 7148	Knoerzer	Bill	1018 Kip Pl		Lemont	IL	60439	Trustee	Village	Lemont	Cook		False
 10435	Knollenberg	Sue	3528 Edgewater Dr		Pekin	IL	61554	Auditor	County	Tazewell 	Tazewell	Democratic	False
-3693	Knott	Charles "Tim"	1448 Chouteau Pl Rd		Granite City	IL	62040	Member	County Board	Madison 16 	Madison	Democratic	False
 10394	Knott	Charles "Tim"	1448 Chouteau Pl Rd		Granite City	IL	62040	State Representative	Representative	111	Madison	Democratic	False
+3693	Knott	Charles "Tim"	1448 Chouteau Pl Rd		Granite City	IL	62040	Member	County Board	Madison 16 	Madison	Democratic	False
 13678	Knott	Greg				IL		Member	County Board	Champaign 4  	Champaign	Republican	False
 39288	Knott	Greg	1377 County Road 2275 E		St Joseph	IL	61873	Trustee	Comm College	505	Champaign	Non Partisan	False
 20294	Knowlton	Michael D	416 S 10th St		DeKalb	IL	60115	Alderperson	Ward	DeKalb 4  	DeKalb	Independent	False
@@ -15463,8 +15463,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 27938	Koos	Chris	1014 S Fell Ave		Normal	IL	61761	President	City	Normal	McLean	Non Partisan	False
 43578	Koos	Chris	1014 S Fell Ave		Normal	IL	61761	Trustee	Town	Normal	McLean	Non Partisan	False
 27106	Kooyenga	Donna	18433 Glen Oak Ave		Lansing	IL	60438	Clerk	Village	Lansing	Cook	Independent	False
-42062	Kopchok	Jim	10 S 381 Alan Rd		Naperville	IL	60564	Member	County Board	Will 11 	Will	Democratic	False
 53214	Kopchok	Jim	10S381 Alan Rd		Naperville	IL	60564     	Tax Collecter	Village	Plainfield		Democratic	False
+42062	Kopchok	Jim	10 S 381 Alan Rd		Naperville	IL	60564	Member	County Board	Will 11 	Will	Democratic	False
 15603	Kopczick	Richard "Dick"	2418 N Parklake Dr		Morris	IL	60450	Mayor	City	Morris	Grundy	Democratic	False
 20351	Kopec	Deborah	30 Indianwood Dr		Thornton	IL	60476	President	Village	Thornton	Cook	Democratic	False
 45973	Kopec	Jason	550 W Downer Place		Aurora	IL	60506	Circuit Judge - Murphy Vacancy	Circuit Court	16 - 1st Subcircuit	Kane	Democratic	False
@@ -15520,8 +15520,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 25358	Koslowski	John	8023 S Fawn Trail		Justice	IL	60458	Trustee	Village	Justice		Non Partisan	False
 26940	Koslowski	John J	8023 S Fawn Trail		Justice	IL	60458	President	Village	Justice	Cook		False
 13413	Kosman	Joseph John	2233 West 121st Place		Blue Island	IL	60406	Judge	Circuit Court	Cook	Cook	Democratic	False
-9714	Kosova	Ira N	579 Farina		Mundelein	IL	60060	Trustee	Village	Mundelein	Cook/Lake		False
 19278	Kosova	Ira N	720 Fontana Place		Mundelein	IL	60060	Mayor	Village	Mundelein	Cook/Lake	Republican	False
+9714	Kosova	Ira N	579 Farina		Mundelein	IL	60060	Trustee	Village	Mundelein	Cook/Lake		False
 45303	Kosowski	Thomas	5840 W. 126th Street		Alsip	IL	60803	Member	School	CHSD 218	Cook		False
 20290	Koss	David	PO Box 8557		Waukegan	IL	60079	Clerk	Township	Waukegan	Lake	Independent	False
 8220	Kosta	Warren R	108 N Forest Ave		Palatine	IL	60067	Member	School	211	Cook	Non Partisan	False
@@ -15707,8 +15707,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 1564	Kross	Marguerite						Tax Collector	Township	Thornton	Cook		False
 46821	Krost	Christina	3 Western Ave Hts		Mattoon	IL	61938	Member	School	Mattoon	Coles		False
 12063	Kroupa	Thomas						Trustee	Township	Stookey	St Clair		False
-2486	Krska	Robert T	4615 S Albany		Chicago	IL		Alderperson	Ward	Chicago 12 	Cook	Non Partisan	False
 94	Krska	Robert T						State Representative	Representative	22 	Cook	Democratic	False
+2486	Krska	Robert T	4615 S Albany		Chicago	IL		Alderperson	Ward	Chicago 12 	Cook	Non Partisan	False
 28532	Krucek	Mike	7923 Chesterton Ct		Woodridge	IL	60517	Trustee	Village	Woodridge	DuPage	Non Partisan	False
 26926	Krucek	Mike	7923 Chesterton Ct		Woodridge	IL	60517	Mayor	Village	Woodridge	DuPage	Non Partisan	False
 16191	Kruckenberg	Bill	23310 W Miller Rd		Lake Zurich	IL	60047	Hwy Commissioner	Township	Ela	Lake	Independent	False
@@ -16026,8 +16026,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 16766	Lambrecht	Joanne	1020 18th Ave		Moline	IL	61265	Supervisor	Township	Moline	Rock Island	Democratic	False
 53180	Lambrecht	Joseph	814 22nd Ave		East Moline	IL	61244     	Trustee	Township	South Moline		Democratic	False
 26845	Lambrecht	Laura	544 Michigan Ave		Highland Park	IL	60035	Member	County Board	Lake 11 	Lake	Republican	False
-21645	Lamerand	Scott	420 W Kerry Ct		Palatine	IL	60067	Trustee	Village	Palatine	Cook	Non Partisan	False
 25035	Lamerand	Scott	420 W Kerry Ct		Palatine	IL	60067	Councilperson	Village	Palatine	Cook	Non Partisan	False
+21645	Lamerand	Scott	420 W Kerry Ct		Palatine	IL	60067	Trustee	Village	Palatine	Cook	Non Partisan	False
 47492	Laming	Mike	308 Townhall Rd		Metamora	IL	61548	Member	County Board	Woodford	Woodford	Democratic	False
 26552	Lamken	Lorinda Beaman	216 Sandstone Dr		Chatham	IL	62629	State's Attorney	County	Christian	Sangamon	Republican	False
 9884	Lamm	Kevin	PO Box 478818		Chicago	IL	60647-8818	State Representative	Representative	33 	Cook	Democratic	False
@@ -16202,9 +16202,9 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 400	Larson	Richard D	23384 Fairview Dr		DeKalb	IL	60115	Judge	Circuit Court	16	DeKalb	Republican	False
 3910	Larson	Richard J	116 Buckingham Drive		Aurora	IL	60506	Judge	Circuit Court	16	Kane	Republican	False
 33186	Larson	Scott D	4015 Hampton Ln		Quincy	IL	62305	Judge	Circuit Court	8	Adams	Republican	False
+20834	Lartz	John A	134 Green Bay Rd		Winnetka	IL	60093	Judge	Subcircuit Court	Cook 12 	Cook	Republican	False
 578	Lartz	John A						State Representative	Representative	56 	Cook	Republican	False
 13303	Lartz	John A	1095 Merril St		Winnetka	IL	60093	Member - Tax Appeals	County Board	Cook 	Cook	Republican	False
-20834	Lartz	John A	134 Green Bay Rd		Winnetka	IL	60093	Judge	Subcircuit Court	Cook 12 	Cook	Republican	False
 9556	Lary	Peter P	1307 Chandler		Danville	IL	61832	Alderperson	Ward	Danville 5  	Vermilion		False
 17681	LaSaine	Dorian B	4444 N Knoxville		Peoria	IL	61614	Member	County Board	Peoria 	Peoria	Republican	False
 1341	Lascola	Lonnie	1517 North 32nd Avenue		Melrose Park	IL	60160	Trustee	Village	Melrose Park	Cook		False
@@ -16462,8 +16462,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 42469	Lefko	Steve	719 Thatcher Ave		River Forest	IL	60305	Member	School	90	Cook	Non Partisan	False
 17387	Lefkow	Michael F	53 W Jackson Blvd	Ste 918	Chicago	IL	60604	Judge	Subcircuit Court	Cook 8  	Cook	Democratic	False
 54373	LeFlore	Anthony J.	8 Tietje Drive		Fairview Heights	IL	62208     	Mayor	City	Fairview Heights	St Clair		False
-4662	Leflore, Jr	Robert	5900 West Superior		Chicago	IL	60644	State Representative	Representative	8  	Cook	Democratic	False
 84	Leflore, Jr	Robert	5900 West Superior		Chicago	IL	60644	State Representative	Representative	15 	Cook	Democratic	False
+4662	Leflore, Jr	Robert	5900 West Superior		Chicago	IL	60644	State Representative	Representative	8  	Cook	Democratic	False
 13091	Lefstein	Lori	3100 37th St		Rock Island	IL	61201	Judge	Circuit Court	14	Rock Island	Democratic	False
 11470	Leftakes	Nicholas T	c/o John Barbino	7339 N Tripp Avenue	Lincolnwood	IL	60646	Trustee	Village	Lincolnwood	Cook		False
 25219	Leftakes	Nicholas T.	6633 Tower Circle		Lincolnwood	IL	60712	Trustee	Village	Lincolnwood	Cook		False
@@ -17137,8 +17137,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 47433	Lozano	David	1848 Bataan Street		Joliet	IL	60435	Member	County Board	Will	Will	Democratic	False
 53239	Lozano	David	1848 Bataan St.		Joliet	IL	60435     	Clerk	Township	Plainfield		Democratic	False
 54036	Lozano	Emma	2009 W. 22nd Place		Chicago	IL	60608	Member	School	Chicago 7A	Cook	Non Partisan	False
-24128	Lozano	Rudy	4031 W 25th St		Chicago	IL	60623	State Representative	Representative	23 	Cook	Democratic	False
 26318	Lozano	Rudy	4031 W 25th St		Chicago	IL	60623	State Representative	Representative	21 	Cook	Democratic	False
+24128	Lozano	Rudy	4031 W 25th St		Chicago	IL	60623	State Representative	Representative	23 	Cook	Democratic	False
 42918	Lozar	Troy	608 Craig Dr		Mahomet	IL	61853	Judge	Circuit Court	4	Champaign	Democratic	False
 18657	Lozier	Judith N	1213 E Pine St		Mason City	IL	62664	State's Attorney	County	Mason	Mason	Democratic	False
 3877	Lubin	Stuart Fredric	Redaction Requested					Judge	Circuit Court	Cook	Cook	Democratic	True
@@ -17433,8 +17433,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 1815	Madson	Donald						Sheriff	County	Rock Island 	Rock Island	Republican	False
 6615	Maestri	Marino A	221 Michigan Ave		Highwood	IL	60040	Alderperson	Ward	Highwood 2  	Lake		False
 47045	Magana	Alejandro	5231 Dobson St		Skokie	IL	60077	Member	School	72	Cook	Non Partisan	False
-45174	Magati	Gowri	1075 Shambliss Ln		Buffalo Grove	IL	60089	Trustee	Village	Buffalo Grove	Lake	Independent	False
 53575	Magati	Gowri	1075 Shambliss Ln		Buffalo Grove	IL	60089     	Trustee	Township	Vernon	Lake	Democratic	False
+45174	Magati	Gowri	1075 Shambliss Ln		Buffalo Grove	IL	60089	Trustee	Village	Buffalo Grove	Lake	Independent	False
 17528	Magee	Dennis M	3139 Whipple Drive		Merrionette Park	IL	60655	Committeeman	Township	Worth	Cook	Democratic	False
 3596	Magee	Dennis M	3139 Whipple Drive		Merrionette Park	IL	60655	Trustee	Village	Merionette Park	Cook	Independent	False
 1981	Maggi	Donald JA						Sheriff	County	Putnam 	Putnam	Democratic	False
@@ -18005,10 +18005,10 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 20208	Martinez	Oscar						Commissioner	Park	Hawthorne Pk	Cook	Non Partisan	False
 47562	Martinez	Raul	27809 E 1400 N Rd		Ellsworth	IL	61737	Member	County Board	McLean	McLean	Democratic	False
 43586	Martinez	Ricardo	404 Rugeley Road		Western Springs	IL	60558	Member	School	204		Non Partisan	False
-28503	Martinez	Robert	2243 S Christiana Ave		Chicago	IL	60623	Alderperson	Ward	Chicago 22 	Cook	Non Partisan	False
 21945	Martinez	Robert	2221 W 18th		Chicago	IL	60608	Committee Person	Ward	Chicago 25 	Cook	Democratic	False
 24469	Martinez	Robert	2223 S Spaulding		Chicago	IL	60623	State Representative	Representative	2	Cook	Democratic	False
 46481	Martinez	Robert						Alderperson	Ward	Chicago 15	Cook	Non Partisan	False
+28503	Martinez	Robert	2243 S Christiana Ave		Chicago	IL	60623	Alderperson	Ward	Chicago 22 	Cook	Non Partisan	False
 28443	Martinez	Rose	1367 Wauchope Dr.		Elgin	IL	60123	Councilman	City	Elgin		Non Partisan	False
 54144	Martinez	Rose	1367 Wauchopa Dr.		Elgin	IL	60123     	Mayor	City	Elgin	Cook	Non Partisan	False
 46520	Martinez	Samie	4957 N Central Park Ave		Chicago	IL	60625	Alderperson	Ward	Chicago 33	Cook	Democratic	False
@@ -18123,10 +18123,10 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 27138	Mathias	John	4700 Fairfax Ave		Palatine	IL	60067	Trustee	Township	Palatine	Cook	Republican	False
 45386	Mathias	Megan	3821 N. Milwaukee Ave.		Chicago	IL	60641	Alderperson	Ward	Chicago 45	Cook	Non Partisan	False
 33164	Mathias	Sidney	1703 Violet Ct		Highland Park	IL	60035	Member	County Board	Lake	Lake	Republican	False
-26265	Mathias	Sidney H	440 Parkchester Rd		Buffalo Grove	IL	60089	State Representative	Representative	59 	Lake	Republican	False
 3151	Mathias	Sidney H	440 Parkchester		Buffalo Grove	IL	60089	President	Village	Buffalo Grove	Cook	Independent	False
 13565	Mathias	Sidney H	440 Parkchester Rd		Buffalo Grove	IL	60089	State Representative	Representative	51 	Lake	Republican	False
 17040	Mathias	Sidney H	440 Parkchester Rd		Buffalo Grove	IL	60089	State Representative	Representative	53 	Lake	Republican	False
+26265	Mathias	Sidney H	440 Parkchester Rd		Buffalo Grove	IL	60089	State Representative	Representative	59 	Lake	Republican	False
 27183	Mathieson	James E	2S515 Madison Ave		Warrenville	IL	60555	Member	School	200	DuPage		False
 47363	Mathis	Brenda M	762 E 3300 Ave		Ramsey	IL	62080	State's Attorney	County	Fayette	Fayette	Republican	False
 53721	Mathis	David	807 West Hintz Road		Arlington Heights	IL	60004	State Senator	Senate	27	Cook	Republican	False
@@ -18350,9 +18350,9 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 4983	McCann	Patrick						State Senator	Senate	58 	Jackson	Democratic	False
 18784	McCann	Patrick M	809 S Twisdale Ave		Carbondale	IL	62901	Judge	Circuit Court	1	Jackson	Democratic	False
 10383	McCann	Timothy J	Redaction Requested					State's Attorney	County	Kendall	Kendall	Republican	True
+42012	McCann	William "Sam"	9955 Lake Catatoga Rd		Plainview	IL	62685	Governor	Statewide	   	Macoupin	Conservative	False
 26308	McCann	William "Sam"	9955 Lake Catatoga Rd		Plainview	IL	62685	State Senator	Senate	50 	Macoupin	Republican	False
 23985	McCann	William "Sam"	9955 Lake Catatoga Rd		Plainview	IL	62685	State Senator	Senate	49 	Macoupin	Republican	False
-42012	McCann	William "Sam"	9955 Lake Catatoga Rd		Plainview	IL	62685	Governor	Statewide	   	Macoupin	Conservative	False
 19802	McCann Sr	Bernard P	17225 S Kimbark		South Holland	IL	60473	Supervisor	Township	Thornton	Cook	Independent	False
 9325	McCann, Jr	Eddie	2734 W 85th St		Chicago	IL	60652	Alderperson	Ward	Chicago 18 	Cook	Non Partisan	False
 13330	McCarley	Loretta	37581 Bayonne Av		Beach Park	IL	60087	Member	County Board	Lake 2  	Lake	Republican	False
@@ -18738,9 +18738,9 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 44105	McGuinnes	Ana Mendez	3050 Kay Jay		Northbrook	IL	60062	Trustee	Village	Northbrook	Cook		False
 33162	McGuire	Brandi	11616 16th St		Milan	IL	61264	State Representative	Representative	72 	Rock Island	Republican	False
 7033	McGuire	Brian	6531 Magnolia		Hanover Park	IL	60103	Trustee	Township	Hanover	Cook	Independent	False
+23818	McGuire	Brian P	304 Jessica Ln		Bartlett	IL	60103	Supervisor	Township	Hanover	Cook		False
 26691	McGuire	Brian P	304 Jessica Ln		Bartlett	IL	60103	Trustee	Township	Hanover	Cook		False
 22535	McGuire	Brian P	304 Jessica Ln		Bartlett	IL	60103	Clerk	Township	Hanover	Cook	Republican	False
-23818	McGuire	Brian P	304 Jessica Ln		Bartlett	IL	60103	Supervisor	Township	Hanover	Cook		False
 6838	McGuire	Dan	2628 State St		Granite City	IL	62040	Mayor	City	Granite City	Madison	Democratic	False
 27139	McGuire	Debbie	4900 Castaway Ln		Hoffman Estates	IL	60010	Trustee	Township	Palatine	Cook	Republican	False
 19025	McGuire	Deirdre						Judge	Subcircuit Court	Cook 4  	Cook	Democratic	False
@@ -19088,8 +19088,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 27588	Meier	Robin	646 Lomond Dr		Mundelein	IL	60060	Mayor	Village	Mundelein	Lake		False
 37735	Meier	Robin	646 Lomond Drive		Mundelein	IL	60060	Trustee	Village	Mundelein	Lake		False
 1399	Meier	W Darleen						Alderperson	Ward	Palos Hills 1  	Cook		False
-10360	Meierkord	Brian G	921 Lawndale		Lacon	IL	61540	State's Attorney	County	Marshall	Marshall	Republican	False
 16984	Meierkord	Brian G	917 Harmony Ln		Lacon	IL	61540	Judge	Circuit Court	10	Marshall	Republican	False
+10360	Meierkord	Brian G	921 Lawndale		Lacon	IL	61540	State's Attorney	County	Marshall	Marshall	Republican	False
 42110	Meile	Richie	602 W Madison		O'Fallon	IL	62269	Member	County Board	25	St Clair	Democratic	False
 42005	Meindl	Andrew	4450 W Dakin Unit D		Chicago	IL	60641	Alderperson	Ward	   	Cook		False
 3610	Meinen	Donald G	1806 St Clair Drive		Pekin	IL	61554	Commissioner	City	Pekin	Tazewell	Non Partisan	False
@@ -19410,8 +19410,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 9324	Mikos	John	5768 S Archer		Chicago	IL	60638	Alderperson	Ward	Chicago 23 	Cook	Non Partisan	False
 3667	Mikos	Peter	131 S Elm		Northlake	IL	60164	Alderperson	Ward	Northlake 2  	Cook	Non Partisan	False
 1448	Mikrut	Marion A	19 Blackhawk		Thornton	IL	60476	Clerk	Village	Thornton	Cook		False
-4617	Mikso	Jack E	7674 W 63rd		Summit	IL	60501	State Representative	Representative	48 	Cook	Democratic	False
 11078	Mikso	Jack E	7674 W 63rd		Summit	IL	60501	Committeeman	Township	Lyons	Cook	Democratic	False
+4617	Mikso	Jack E	7674 W 63rd		Summit	IL	60501	State Representative	Representative	48 	Cook	Democratic	False
 11362	Mikuta	Barbara	4959 W 91st Pl		Oak Lawn	IL	60453	Clerk	Village	Oak Lawn	Cook		False
 18505	Mikva	Mary Lane	Redaction Requested					Judge	Subcircuit Court	Cook 8	Cook	Democratic	True
 47058	Mikva	Mary Lane	Redaction Requested					Judge	Appellate Court	Cook	Cook	Democratic	True
@@ -19465,10 +19465,10 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 27642	Miller	Casey	2419 Lincoln St.		Evanston	IL	60201-2150	Member	School	202	Cook	Non Partisan	False
 2128	Miller	Cecil	106 Hillcrest Drive		Edwardsville	IL	62025	Member	County Board	Madison 	Madison	Republican	False
 34352	Miller	Chad	Redaction Requested					State's Attorney	County	Jasper	Jasper	Republican	True
+45912	Miller	Chris	307 Ohio St	PO Box 159	Hindsboro	IL	61930	State Representative	Representative	101	Coles	Republican	False
 15357	Miller	Chris	3210 W William		Champaign	IL	61821	Member	County Board	Champaign 	Champaign	Republican	False
 40611	Miller	Chris	23326 E CR 1960 N		Oakland	IL	61943	State Representative	Representative	110	Coles	Republican	False
 40874	Miller	Chris	902 Alton St		Alton	IL	62002	Treasurer	County	Madison 	Madison	Democratic	False
-45912	Miller	Chris	307 Ohio St	PO Box 159	Hindsboro	IL	61930	State Representative	Representative	101	Coles	Republican	False
 25613	Miller	Christopher						Trustee	Village	Minooka			False
 43318	Miller	Craig	140 Chestnut St		Jacksonville	IL	62650	State's Attorney	County	Cass	Morgan	Republican	False
 42885	Miller	Daniel	20 Melrose Ln		Lincolnshire	IL	60069	Mayor	City	Lincolnshire	Lake		False
@@ -19933,8 +19933,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 22720	Moore	Kevin	3605 Briar Ln		Hazel Crest	IL	60429	Trustee	Village	Hazel Crest	Cook		False
 4139	Moore	Kevin A	603 S Owen Street		Mt Prospect	IL	60056	Judge	Circuit Court	Cook	Cook	Republican	False
 47387	Moore	Kyle	2829 Hampshire St		Quincy	IL	62301	State Representative	Representative	99	Adams	Republican	False
-26874	Moore	Kyle A	2897 Hampshire		Quincy	IL	62301	Mayor	City	Quincy	Adams	Republican	False
 22900	Moore	Kyle A	2897 Hampshire		Quincy	IL	62301	Alderperson	Ward	Quincy 3  	Adams	Republican	False
+26874	Moore	Kyle A	2897 Hampshire		Quincy	IL	62301	Mayor	City	Quincy	Adams	Republican	False
 43129	Moore	Leonard	PO Box 401		East St Louis	IL	62201	Mayor	Village	Washington Park	St Clair	Independent	False
 19222	Moore	Linda	1043 Doolin Ave		Jacksonville	IL	62650	Clerk	City	Jacksonville	Morgan	Republican	False
 42813	Moore	Linda K	3360 Genevieve Dr		Quincy	IL	62305	Treasurer	City	Quincy	Adams	Democratic	False
@@ -20111,8 +20111,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 24019	Morris	Michael W "Mike	507 W Washington St		Paris	IL	61944	Treasurer	County	Edgar 	Edgar	Democratic	False
 18412	Morris	Millicent	15314 S Grant		Dolton	IL	60411	Trustee	Village	Dolton	Cook		False
 7119	Morris	Pat	2041 Alta Vista		Waukegan	IL	60085	Assessor	Township	Waukegan	Lake	Democratic	False
-17402	Morris	Penelope	7855A South Shore	Unit 3E	Chicago	IL	60649	Judge	Circuit Court	Cook	Cook	Democratic	False
 18676	Morris	Penelope	7855A South Shore Dr	Unit #3E	Chicago	IL	60649	Judge	Subcircuit Court	Cook 1  	Cook	Democratic	False
+17402	Morris	Penelope	7855A South Shore	Unit 3E	Chicago	IL	60649	Judge	Circuit Court	Cook	Cook	Democratic	False
 10670	Morris	Philip	142 E 118th St		Chicago	IL	60628	Committee Person	Ward	Chicago 9  	Cook	Harold Washington	False
 656	Morris	Philip	142 E 118th St		Chicago	IL	60628	Sheriff	County	Cook 	Cook	Democratic	False
 9104	Morris	Philip	142 E 118th St		Chicago	IL	60628	Mayor	City	Chicago	Cook	Harold Washington	False
@@ -20137,9 +20137,9 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 47274	Morris	Yolonda	Redaction Requested					State Representative	Representative	9	Cook	Democratic	True
 46646	Morris Jr.	James A.	4911 Appleton Ct.		Johnsburg	IL	60051	Trustee	Village	Johnsburg	McHenry	Independent	False
 3443	Morrison	Bill	516 Adams		Quincy	IL	62301	Alderperson	Ward	Quincy 7  	Adams	Republican	False
+18742	Morrison	Bob	203 W Main Street		Mahomet	IL	61853	Member	County Board	Champaign 1  	Champaign	Democratic	False
 10278	Morrison	Bob	201 W Main Street		Mahomet	IL	61853	State's Attorney	County	Champaign	Champaign	Democratic	False
 1146	Morrison	Bob	201 W Main Street		Mahomet	IL	61853	State Representative	Representative	104	Champaign	Democratic	False
-18742	Morrison	Bob	203 W Main Street		Mahomet	IL	61853	Member	County Board	Champaign 1  	Champaign	Democratic	False
 18263	Morrison	Daryl G	2536 Columbus Circle		Springfield	IL	62703	Member	School	186	Sangamon		False
 10177	Morrison	Gerald L	2026 W Iowa 1r		Chicago	IL	60622	Committee Person	Ward	Chicago 32 	Cook	Democratic	False
 17700	Morrison	Gil	1722 Lake Holiday Dr		Sandwich	IL	60548	Superintendent	Regional Office of Education	DeKalb	DeKalb	Republican	False
@@ -20423,11 +20423,11 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 20671	Mullins	Margie	3356 Gunflint Tr		Rockford	IL	61109	Clerk	County	Winnebago 	Winnebago	Democratic	False
 14936	Mullins	Phil	17407 W 135th Street		Lockport	IL	60441	State Representative	Representative	83 	Will	Democratic	False
 14058	Mullins	Phil E	1330 North Ave		Bannockburn	IL	60015	Trustee	Village	Bannockburn	Lake		False
+1394	Mullins	Rita L	123 N Brockway		Palatine	IL	60067	Mayor	City	Palatine	Cook		False
 20507	Mullins	Rita L	123 N Brockway		Palatine	IL	60067	State Senator	Senate	27 	Cook	Republican	False
 13334	Mullins	Rita L	123 N Brockway		Palatine	IL	60067	Commissioner	Water Reclamation	Chicago	Cook	Republican	False
 3905	Mullins	Rita L	123 N Brockway		Palatine	IL	60067	State Representative	Representative	54 	Cook	Republican	False
 8409	Mullins	Rita L	123 N Brockway		Palatine	IL	60067	Member	County Board	Cook 14 	Cook	Republican	False
-1394	Mullins	Rita L	123 N Brockway		Palatine	IL	60067	Mayor	City	Palatine	Cook		False
 1923	Mulnix	Karen J						Treasurer	County	Whiteside 	Whtieside	Republican	False
 24234	Mulroe	John G	6647 N Onarga		Chicago	IL	60631	State Senator	Senate	10 	Cook	Democratic	False
 21985	Mulroe	John G	6647 N Onarga		Chicago	IL	60631	Judge	Circuit Court	Cook	Cook	Democratic	False
@@ -20456,8 +20456,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 28125	Munger	Leslie	PO Box 121		Lincolnshire	IL	60069	State Representative	Representative	59 	Lake	Republican	False
 4405	Munin	Eugene L	16350 Mark Ln		Tinley Park	IL	60477	State Representative	Representative	37 	Cook	Democratic	False
 49798	Muniz	Alejandro	2493 North Orchard Lane		Round Lake Beach	IL	60073     	Mayor	Village	Round Lake Beach	Lake	Non Partisan	False
-568	Munizzi	Pamela A	2934 South Parnell Avenue		Chicago	IL	60616	State Representative	Representative	21 	Cook	Democratic	False
 4399	Munizzi	Pamela A	2934 S Parnell Avenue		Chicago	IL	60616	State Senator	Senate	3  	Cook	Democratic	False
+568	Munizzi	Pamela A	2934 South Parnell Avenue		Chicago	IL	60616	State Representative	Representative	21 	Cook	Democratic	False
 19685	Munley	Gerald	316 Dunbar Rd		Mundelein	IL	60060	Member	School	120	Lake	Non Partisan	False
 18415	Munnigan	Denny			Frankfort	Il		Treasurer	Village	Frankfort	Will		False
 13394	Munoz	Antonio "Tony"	3211 S Hamilton		Chicago	IL	60608	State Senator	Senate	1  	Cook	Democratic	False
@@ -20871,9 +20871,9 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 54396	Nellis	Mike	3838 N. Ravenswood Ave.		Chicago	IL	60657     	Committeeperson	City	Chicago	Cook	Democratic	False
 31894	Nelson	Cameron	2430 Vardon Pl		Flossmoor	IL	60422	Member	School	161	Cook		False
 22858	Nelson	Cathy	26209 North St		Mettawa	IL	60048	Trustee	Village	Mettawa	Lake		False
+6475	Nelson	Charles						Trustee	Township	Nunda	McHenry	Republican	False
 11555	Nelson	Charles	6411 Coachlight Rd		Crystal Lake	IL	60012	Supervisor	Township	Nunda	McHenry	Republican	False
 7485	Nelson	Charles			Aurora	IL		Alderperson	Ward	Aurora 4  	Kane	Independent	False
-6475	Nelson	Charles						Trustee	Township	Nunda	McHenry	Republican	False
 46877	Nelson	Charles "Chuck"	235 Le Grande Blvd		Aurora	IL	60506	Trustee	Water Reclamation	Fox River	Kane		False
 25598	Nelson	Connie	444 S Clay St		Hinsdale	IL	60521	Board	Library	Hinsdale			False
 18700	Nelson	David	540 Womble Rd		Harrisburg	IL	62946	State's Attorney	County	Saline	Saline	Democratic	False
@@ -21609,8 +21609,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 31974	Odwyer	Michael	4W085 Fox Mill Blvd		Campton Hills	IL	60175	Trustee	Village	Campton Hills	Kane		False
 27033	Oelke	Ron	904 9th St, Court E		Andalusia	IL	61232	Member	County Board	Rock Island 24 	Rock Island	Republican	False
 2076	Oelklaus	Steven M	2038 Sunnybrook		Quincy	IL	62031	Superintendent	Regional Office of Education	Adams	Adams	Democratic	False
-6301	Oelrich	Chuck	711 East "d" St		Belleville	IL	62220	Supervisor	Township	Belleville	St Clair	Non Partisan	False
 7888	Oelrich	Chuck	711 East D Street		Belleville	IL	62220-4154	State Representative	Representative	113	St Clair	Democratic	False
+6301	Oelrich	Chuck	711 East "d" St		Belleville	IL	62220	Supervisor	Township	Belleville	St Clair	Non Partisan	False
 6995	Oerkfitz	D James	540  17 Devonshire Ln		Crystal Lake	IL	60014	Commissioner	Park	Crystal Lake	McHenry		False
 12360	Oerkfitz	D James	540  17 Devonshire Ln		Crystal Lake	IL	60014	Commissioner	Park	McHenry	McHenry		False
 1641	Oest	Donald E						Treasurer	County	Fulton 	Fulton	Republican	False
@@ -22327,9 +22327,9 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 7130	Patton	Donald	333 Simpson		Lake Bluff	IL	60044	Clerk	Village	Lake Bluff	Lake	Independent	False
 7929	Patton	Donald R	2113 Noble Ave		Springfield	IL	62704	Auditor	County	Sangamon 	Sangamon		False
 17761	Patton	Gloria B	218 19th St		Cairo	IL	62914	Clerk	County	Alexander 	Alexander	Democratic	False
-22519	Patton	Hal	306 Valley View Dr		Edwardsville	IL	62025	Chair	County Board	Madison 	Madison	Independen	False
 26921	Patton	Hal	306 Valley View Dr		Edwardsville	IL	62025	Mayor	City	Edwardsville	Madison	Independen	False
 40813	Patton	Hal	101 Pleasant Ridge Dr		Edwardsville	IL	62025	State Senator	Senate	56 	Madison	Downstate United	False
+22519	Patton	Hal	306 Valley View Dr		Edwardsville	IL	62025	Chair	County Board	Madison 	Madison	Independen	False
 17814	Patton	Hal R	101 Pleasant Rd		Edwardsville	IL	62025	Member	County Board	Madison 17 	Madison	Republican	False
 40604	Patton	James	1374 Hirsch Ave		Calumet City	IL	60409	Alderperson	Ward	Calumet City 6  	Cook	Democratic	False
 8289	Patton	James "jim"	5741 N Drake		Chicago	IL	60659	Member	County Board	Cook 10 	Cook	Democratic	False
@@ -22447,10 +22447,10 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 6315	Pechous	Donald E	3244 S Maple		Berwyn	IL	60402	Clerk	City	Berwyn	Cook	Democratic	False
 38017	Pechous	Elizabeth A	3739 Cuyler Ave		Berwyn	IL	60402	Supervisor	Township	Berwyn	Cook		False
 9981	Pechous	Kevin	340 E Burlington St		Riverside	IL	60546	Judge	Circuit Court	Cook	Cook	Republican	False
-1482	Pechous	Robert C	3739 Cuyler Ave		Berwyn	IL	60402	Supervisor	Township	Berwyn	Cook	Democratic	False
 13275	Pechous	Robert C	3739 Cuyler Ave		Berwyn	IL	60402	Committeeman	Township	Berwyn	Cook	Democratic	False
 387	Pechous	Robert C						State Senator	Senate	22 	Cook	Democratic	False
 893	Pechous	Robert C	6316 West 38th Street		Berwyn	IL	60402	State Representative	Representative	43 	Cook	Democratic	False
+1482	Pechous	Robert C	3739 Cuyler Ave		Berwyn	IL	60402	Supervisor	Township	Berwyn	Cook	Democratic	False
 13218	Pechous	Roy C	3800 S Oak Park Ave		Berwyn	IL	60402	State Representative	Representative	43 	Cook	Republican	False
 9002	Pechous	Roy C	3800 S Oak Park Ave		Berwyn	IL	60402	Judge	Circuit Court	Cook	Cook	Republican	False
 20523	Peck	Erik	1201 Maple		Western Springs	IL	60558-1128	Treasurer	County	Cook 	Cook	Republican	False
@@ -23443,8 +23443,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 27662	Pritchard	John	345 Park Ln Dr		Galesburg	IL	61401	Mayor	City	Galesburg	Knox		False
 53030	Pritchard	John.	2160 N Broad St		Galesburg	IL	61401	Mayor	City	Galesburg	Knox		False
 6218	Pritchard	Latricia	615 Salveter St		Madison	IL	62060	Trustee	Village	Madison	Madison		False
-9046	Pritchard	Robert	15105 Duffy Rd		Hinckley	IL	60520	Member	County Board	DeKalb 11 	DeKalb	Republican	False
 18610	Pritchard	Robert	15105 Duffy Rd	Township of Squaw Grove	Hinckley	IL	60520	State Representative	Representative	70 	DeKalb	Republican	False
+9046	Pritchard	Robert	15105 Duffy Rd		Hinckley	IL	60520	Member	County Board	DeKalb 11 	DeKalb	Republican	False
 3085	Pritchett	Daniel	3336 Calwagner		Franklin Park	IL	60131	Trustee	Village	Franklin Park	Cook		False
 11320	Pritchett	Daniel	3336 Calwagner		Franklin Park	IL	60131	President	Village	Franklin Park	Cook		False
 26795	Pritchett	Jennifer	2080 Sneed Rd		Carbondale	IL	62902	Circuit Clerk	County	Williamson 	Williamson	Democratic	False
@@ -23501,8 +23501,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 19387	Prussing	Laurel	2106 Grange Dr		Urbana	IL	61801	Mayor	City	Urbana	Champaign	Democratic	False
 4755	Prussing	Laurel Lunt	2106 Grange Drive		Urbana	IL	61801	State Representative	Representative	103	Champaign	Democratic	False
 42142	Prussing	Laurel Lunt	2106 Grange Dr		Urbana	IL	61801	Treasurer	County	Champaign 	Champaign	Democratic	False
-9503	Pruyn	Jeff	707 Elm Ct		Itasca	IL	60143	Trustee	Village	Itasca	DuPage		False
 23583	Pruyn	Jeff	707 N Elm Ct		Itasca	IL	60143	President	Village	Itasca	DuPage	Non Partisan	False
+9503	Pruyn	Jeff	707 Elm Ct		Itasca	IL	60143	Trustee	Village	Itasca	DuPage		False
 27018	Pryde	Annmarie	903 Corona Ct		Round Lake Beach	IL	60073	Trustee	Township	Avon	Lake		False
 12457	Pryor	George J	15405 Walnut		Oak Forest	IL	60462	Trustee	Township	Bremen	Cook	Independent	False
 47216	Przekota	Kim	321 South Knight Ave.		Park Ridge	IL	60068	Circuit Judge	Circuit Court	Cook	Cook	Democratic	False
@@ -23967,10 +23967,10 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 43031	Reaves-Harris	Pamela	Redaction Requested					Circuit Judge	Subcircuit Court	Cook 7	Cook	Democratic	True
 4645	Reber	Daniel C	2125 W Concord Place		Chicago	IL	60647	State Representative	Representative	33 	Cook	Republican	False
 18540	Reboletti	Dennis	484 N Addison	#201E	Elmhurst	IL	60126	State Senator	Senate	23 	DuPage	Republican	False
-26264	Reboletti	Dennis M	484 N Addison	201 E	Elmhurst	IL	61026	State Representative	Representative	45 	DuPage	Republican	False
-28196	Reboletti	Dennis M	573 W Gladys		Elmhurst	IL	60126	State Senator	Senate	24 	DuPage	Republican	False
 37803	Reboletti	Dennis M	573 W Gladys		Elmhurst	IL	60126	Supervisor	Township	Addison	DuPage	Republican	False
 20597	Reboletti	Dennis M	484 N Addison	201 E	Elmhurst	IL	61026	State Representative	Representative	46 	DuPage	Republican	False
+26264	Reboletti	Dennis M	484 N Addison	201 E	Elmhurst	IL	61026	State Representative	Representative	45 	DuPage	Republican	False
+28196	Reboletti	Dennis M	573 W Gladys		Elmhurst	IL	60126	State Senator	Senate	24 	DuPage	Republican	False
 17895	Reboyras	Ariel E	2654 N Parkside		Chicago	IL	60641	Alderperson	Ward	Chicago 30	Cook	Democratic	False
 22242	Reboyras	Ariel E	2654 N Parkside		Chicago	IL	60641	Committee Person	Ward	Chicago 30	Cook	Democratic	False
 42260	Reccord	Lamon	6332 S Hoyne Ave		Chicago	IL	60636	Alderperson	Ward	Chicago 16	Cook		False
@@ -24223,9 +24223,9 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 46502	Reyes	Franco	6555 W Addison St. Apt N		Chicago	IL	60634	Alderperson	Ward	Chicago 38	Cook		False
 6667	Reyes	Gloria A	332 Ridgewood		Bloomingdale	IL	60108	Supervisor	Township	Bloomingdale	DuPage	Independent	False
 25722	Reyes	Jay	285 Gage Rd		Riverside	IL	60546	Trustee	Comm College	504	Cook	Non Partisan	False
+42805	Reyes	Jesse G	Redaction Requested					Judge - Burke Vacancy	Supreme Court	1	Cook	Democratic	True
 22070	Reyes	Jesse G	P O Box 64927		Chicago	IL	60664	Judge	Circuit Court	Cook	Cook	Democratic	False
 26255	Reyes	Jesse G	P O Box 64927		Chicago	IL	60664	Judge	Appellate Court	1	Cook	Democratic	False
-42805	Reyes	Jesse G	Redaction Requested					Judge - Burke Vacancy	Supreme Court	1	Cook	Democratic	True
 1249	Reyes	John						Alderperson	Ward	Calumet City	Cook	Independent	False
 46762	Reyes	Johnny Joe	3502 Highland Ave		Berwyn	IL	60402	Member	School	201	Cook	Independent	False
 46109	Reyes	Juan	2266 Lamar Avenue		Rockford	IL	61108	State Senator	Senate	34	Winnebago	Republican	False
@@ -24516,8 +24516,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 4818	Rivers	Lynda M	323 Essex Court		Geneva	IL	60134	Recorder	County	Kane 	Kane	Republican	False
 26788	Rivers	Michael	827 Cheshire Ct		Freeport	IL	61032	Mayor	City	Freeport	Stephenson	Democratic	False
 21420	Rivers	Regina	704 S 2nd Ave		Maywood	IL	60153	Member	School	89	Cook		False
-22795	Rivers Jr	Grady	1412 S 15th Ave		Maywood	IL	60153	President	Village	Maywood	Cook	Democratic	False
 18403	Rivers Jr	Grady	1412 S 15th		Maywood	IL	60153	Member	School	89	Cook	Independent	False
+22795	Rivers Jr	Grady	1412 S 15th Ave		Maywood	IL	60153	President	Village	Maywood	Cook	Democratic	False
 22322	Rivkin-Carothers	Anita	575 W Madison St, St 2111		Chicago	IL	60661	Judge	Subcircuit Court	Cook 7  	Cook	Democratic	False
 19988	Rix	J W "Jay"	PO Box 53		Marion	IL	62959	Councilman	City	Marion	Williamson	Non Partisan	False
 21692	Rix	Jay	204 E DeYoung St		Marion	IL	62959	Commissioner	City	Marion	Williamson	Republican	False
@@ -24691,9 +24691,9 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 27259	Rodgers	Angie	2112 N 59th St		Washington Park	IL	62204	President	Village	Washington Park	St Clair		False
 42787	Rodgers	Beth	18137 Haas Rd		Mokena	IL	60448	Trustee	Village	Homer Glen	Will	Non Partisan	False
 21242	Rodgers	Beth Ann	18137 Haas Rd		Mokena	IL	60448	Trustee	Village	Homer Glen	Will	Non Partisan	False
-53929	Rodgers	Brenda	1016 Hill Ave		Elgin	IL	60120	Clerk	County	Kane	Kane	Democratic	False
 33064	Rodgers	Brenda	1016 Hill Ave		Elgin	IL	60120	Recorder	County	Kane	Kane	Democratic	False
 18234	Rodgers	Brenda	1016 Hill Ave		Elgin	IL	60120	Councilman	City	Elgin	Kane	Democratic	False
+53929	Rodgers	Brenda	1016 Hill Ave		Elgin	IL	60120	Clerk	County	Kane	Kane	Democratic	False
 13815	Rodgers	Charles (Chuck)	516 N Jackson		Harrisburg	IL	62946	Treasurer	County	Saline 	Saline	Republican	False
 14420	Rodgers	David A	107 Flossmar	Apt 2A	East Peoria	IL	61611	Commissioner	City	East Peoria	Tazewell		False
 5615	Rodgers	Eva	529 N Park Ave		Aurora	IL	60506	Mayor	City	Aurora	Kane	Independent	False
@@ -25097,8 +25097,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 3181	Rubin	Brian N	453 Caren Dr		Buffalo Grove	IL	60089	Trustee	Village	Buffalo Grove	Lake	Independent	False
 14225	Rubin	Brian N	453 Caren Dr		Buffalo Grove	IL	60089	President	Village	Buffalo Grove	Lake		False
 2060	Rubin	Hank	2212 W Lunt Ave		Chicago	IL	60645	Alderperson	Ward	Chicago 50 	Cook	Independent	False
-26786	Rubino	Antonio	15130 S 75th Ct		Orland Park	IL	60462	Trustee	Township	Orland	Cook		False
 43510	Rubino	Antonio	8530 Baron Court		Tinley Park	IL	60487	Hwy Commissioner	Township	Orland	Cook		False
+26786	Rubino	Antonio	15130 S 75th Ct		Orland Park	IL	60462	Trustee	Township	Orland	Cook		False
 46904	Rubino	Ashley	8530 Baron Ct.		Tinley Park	IL	60487	Commissioner	Park	Tinley Park	Cook	Non Partisan	False
 14173	Rubio	Ray	2631 N Washtenaw		Chicago	IL	60647	Alderperson	Ward	Chicago 26 	Cook	Non Partisan	False
 11748	Ruch, Jr	Charles E	1096 S Poplar Av		Kankakee	IL	60901	Mayor	City	Kankakee	Kankakee`	Democratic	False
@@ -25565,8 +25565,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 5192	Sandidge	Donald E	2212 Krug Place		Alton	IL	62002	Mayor	City	Alton	Madison	Independent	False
 12097	Sandidge	Lisa	112 Willow		Rochester	IL	62563	Clerk	Village	Rochester	Sangamon	Non Partisan	False
 25549	Sandiford	Bill	PO Box 8598		Robinson	IL	62454	Trustee	Comm College	529	Crawford		False
-11397	Sandor	Thomas K	164 Division St	Ste 206	Elgin	IL	60120	Councilman	City	Elgin	Kane	Non Partisan	False
 22114	Sandor	Thomas K	164 Division St	Ste 206	Elgin	IL	60120	Auditor	County	Kane 	Kane	Democratic	False
+11397	Sandor	Thomas K	164 Division St	Ste 206	Elgin	IL	60120	Councilman	City	Elgin	Kane	Non Partisan	False
 40763	Sandoval	Angie	3529 W 57th St		Chicago	IL	60629	Commissioner	County Board	Cook 	Cook	Democratic	False
 26291	Sandoval	Martin A	3529 W 57th St		Chicago	IL	60629	State Senator	Senate	11	Cook	Democratic	False
 14685	Sandoval	Martin A	1939 S Halsted St	Suite A	Chicago	IL	60608	Commissioner	Water Reclamation	Chicago	Cook	Democratic	False
@@ -25622,8 +25622,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 26995	Santucci	Paul J	49 Breckenridge Dr		Aurora	IL	60504	Trustee	Township	Naperville	DuPage	Republican	False
 45823	Santucci	Paul J	49 Breckenridge Drive		Aurora	IL	60504	State Senator	Senate	42		Republican	False
 11958	Sanzotta	Kathy	675 Coyne		Bourbonnais	IL	60914	Clerk	Village	Bourbonnais	Kankakee	Republican	False
-16161	Sapp	Bob	149 Westward Ho Dr		Northlake	IL	60164	Committeeman	Township	Northlake	Cook	Democratic	False
 18144	Sapp	Bob	149 Westward Ho Dr		Northlake	IL	60164	Alderperson	Ward	Northlake 1  	Cook	Independent	False
+16161	Sapp	Bob	149 Westward Ho Dr		Northlake	IL	60164	Committeeman	Township	Northlake	Cook	Democratic	False
 4791	Sapp	Dave						Auditor	County	Macon 	Macon	Democratic	False
 8710	Sapp	Dave						Treasurer	County	Macon 	Macon	Democratic	False
 6428	Saputo	Tony	33 Linden Ln		Springfield	IL	62707	Commissioner	Park	Springfield	Sangamon	Republican	False
@@ -25855,8 +25855,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 26923	Schiavone	Nancy	3656 W Fullerton Ave		Chicago	IL	60647	Committee Person	Ward	35 	Cook	Democratic	False
 28026	Schiavone	Nancy	3656 W Fullerton Ave		Chicago	IL	60647	State Representative	Representative	40 	Cook	Democratic	False
 53322	Schickedanz	Dayna						Clerk	Township	Normal	McLean	Democratic	False
-46266	Schiefelbein	Anna	7854 Chestnut Ave		Woodridge	IL	60517	State Representative	Representative	85	DuPage	Green	False
 46504	Schiefelbein	Anna	7854 Chestnut Ave		Woodridge	IL	60517	Trustee	Village	Woodridge	DuPage	Non Partisan	False
+46266	Schiefelbein	Anna	7854 Chestnut Ave		Woodridge	IL	60517	State Representative	Representative	85	DuPage	Green	False
 12562	Schienz	Karen	RR 1	Box 266	Spring Valley	IL	61362	Supervisor	Township	Hall	Bureau	Republican	False
 5746	Schildknecht	Curtis L	405 Pepperwood		O'Fallon	IL	62269	Treasurer	City	O'Fallon	St Clair	Independen	False
 16688	Schildkraut	Harry	13 Winding Branch		Hawthorn Woods	IL	60047	Trustee	Village	Hawthorn Woods	Lake		False
@@ -26042,8 +26042,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 33150	Schoop	Devlin			Chicago	IL		Judge	Circuit Court	Cook	Cook	Democratic	False
 41949	Schoop	Devlin	10329 S Prospect Ave		Chicago	IL	60643	Judge	Subcircuit Court	Cook 2  	Cook	Democratic	False
 46179	Schoop	Devlin Joseph	10329 S Prospect Ave		Chicago	IL	60643	Judge - Harris Vacancy	Appellate Court	1	Cook	Democratic	False
-20608	Schorfheide	Brent	20889 Pin Oak Rd		Hoyleton	IL	62803	Treasurer	County	Washington 	Washington	Democratic	False
 24883	Schorfheide	Brent	20889 Pin Oak Rd		Hoyleton	IL	62803	State Representative	Representative	115	Washington	Democratic	False
+20608	Schorfheide	Brent	20889 Pin Oak Rd		Hoyleton	IL	62803	Treasurer	County	Washington 	Washington	Democratic	False
 25985	Schorr	Mary	26146 N Hill Ave		Wauconda	IL	60084	Member	County Board	Lake 17 	Lake	Republican	False
 22633	Schorr	Mary	26146 N Hill Ave		Wauconda	IL	60084	Trustee	Township	Wauconda	Lake		False
 23783	Schostok	Mary S	PO Box 1107		Lake Villa	IL	60046	Judge	Appellate Court	2	Lake	Republican	False
@@ -26157,9 +26157,9 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 11804	Schumacher	Norenna	3662 St Andrew		Crete	IL	60417	Trustee	Township	Crete	Will		False
 13527	Schuman	Fred P	4 Shirlwin Dr		Granite City	IL	62040	Member	County Board	Madison 25 	Madison	Democratic	False
 19481	Schumann	Colleen Grant	16 Country Squire Rd		Hickory Hills	IL	60457	Supervisor	Township	Palos	Cook		False
+655	Schumann	Edward J						Member - Tax Appeals	County Board	Cook 	Cook	Democratic	False
 5745	Schumann	Edward J	3005 Coolidge St		Oak Brook	IL	60521	Assessor	Township	York	DuPage	Republican	False
 8080	Schumann	Edward J	5701 Linden Ave		La Grange	IL	60525	Comptroller	Statewide		Cook	Democratic	False
-655	Schumann	Edward J						Member - Tax Appeals	County Board	Cook 	Cook	Democratic	False
 12055	Schumann	Margaret	1 Cour Versailles		Palos Hills	IL	60465	Trustee	Township	Palos	Cook	Independent	False
 13322	Schumann, Jr	Herbert T	16 Country Squire Rd		Palos Heights	IL	60463	Chair	County Board	Cook 17 	Cook	Republican	False
 632	Schumann, Jr	Herbert T	16 Country Squire Rd		Palos Heights	IL	60463	Member	County Board	Cook 17 	Cook	Republican	False
@@ -26273,9 +26273,9 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 478	Scott	Charles F	29469 N Fremont Center Rd		Mundelein	IL	60060	Judge	Circuit Court	19	Lake	Republican	False
 7993	Scott	Charles F						Judge	Appellate Court	2	Lake	Republican	False
 42275	Scott	Creative	1858 S Avers St		Chicago	IL	60623	Alderperson	Ward	Chicago 24	Cook	Non Partisan	False
-15710	Scott	Douglas P	130 N Prospect St		Rockford	IL	61107	Mayor	City	Rockford	Winnebago	Democratic	False
 3719	Scott	Douglas P	130 N Prospect St		Rockford	IL	61107	Chair	County Board	Winnebago 	Winnebago	Democratic	False
 8188	Scott	Douglas P	130 N Prospect St		Rockford	IL	61107	State Representative	Representative	67 	Winnebago	Democratic	False
+15710	Scott	Douglas P	130 N Prospect St		Rockford	IL	61107	Mayor	City	Rockford	Winnebago	Democratic	False
 18332	Scott	Garrett	202 Foster Dr		Normal	IL	61761	Trustee	Town	Normal	McLean	Non Partis	False
 18152	Scott	Garrett	202 Foster Dr		Normal	IL	61761	Councilperson	Town	Normal	McLean	Non Partisan	False
 25976	Scott	Jay	PO Box 1461		Decatur	IL	62525	State's Attorney	County	Macon	Macon	Democratic	False
@@ -26330,8 +26330,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 37674	Searby, Jr	David H	516 E Franklin St		Du Quoin	IL	62832	State's Attorney	County	Perry	Perry	Republican	False
 7021	Searles	Brian			Hazel Crest	IL		Trustee	Village	Hazel Crest	Cook	Non Partisan	False
 53053	Seastrom	Dave	5715 Clover Dr		Lisle	IL	60532     	Trustee	Township	Lisle	DuPage	Republican	False
-13715	Seaton	Debra A	PO Box 578		South Holland	IL	60473	Judge	Circuit Court	Cook	Cook	Democratic	False
 40781	Seaton	Debra A	839 E 169th St		South Holland	IL	60473	Judge	Subcircuit Court	Cook 2  	Cook	Democratic	False
+13715	Seaton	Debra A	PO Box 578		South Holland	IL	60473	Judge	Circuit Court	Cook	Cook	Democratic	False
 47631	Seaton	Debra Ann	PO Box 446		South Holland	IL	60473	Circuit Judge	Circuit Court	Cook	Cook	Democratic	False
 13067	Seaton	Robert	1891 Chesire Ln		Wheaton	IL	60187	Trustee	Comm College	COD	DuPage	Non Partisan	False
 54268	Sebok	Connie	13 Evergreen Ct.		Springfield	IL	62704     	Member	County Board	Sangamon	Sangamon	Republican	False
@@ -26600,10 +26600,10 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 46613	Shaver	Larry Alexander	676 Lakewood Farms Dr		Bolingbrook	IL	60490-3165	Member	County Board	Will	Will	Republican	False
 37612	Shaw	Adonnis "Don"	14100 Park Ave		Dolton	IL	60419	President	Village	Dolton	Cook	Democratic	False
 37664	Shaw	Ami	1119 Cherry Ln		Marshall	IL	62441	Circuit Clerk	County	Clark 	Clark	Republican	False
-26446	Shaw	Anne	PO Box 147343		Chicago	IL	60614	Committee Person	Ward	Chicago    	Cook	Democratic	False
 28499	Shaw	Anne	918 N Hermitage Ave		Chicago	IL	60622	Alderperson	Ward	Chicago 1	Cook	Non Partisan	False
 39434	Shaw	Anne	PO Box 221501		Chicago	IL	60622	State Representative	Representative	4  	Cook	Democratic	False
 43218	Shaw	Anne	918 N Hermitage Ave		Chicago	IL	60622	Judge	Subcircuit Court	Cook 6	Cook	Democratic	False
+26446	Shaw	Anne	PO Box 147343		Chicago	IL	60614	Committee Person	Ward	Chicago    	Cook	Democratic	False
 6908	Shaw	Carnie			Manteno	IL		Trustee	Village	Manteno	Kankakee		False
 17745	Shaw	Cindy	525 Jill St		Pittsfield	IL	62363	Supervisor of Assessments	County	Pike	Pike	Republican	False
 54069	Shaw	CJ Shaw El	8133 S State St		Chicago	IL	60619     	Board Member	School	Chicago 10	Cook		False
@@ -27057,9 +27057,9 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 7370	Siwinski	Debra			Westmont	IL	60559	Trustee	Village	Westmont	DuPage		False
 18262	Siwinski	Joe	20273 Schoolhouse		Mokena	IL	60448	Trustee	Village	Mokena	Will	Independent	False
 2884	Sjorslev	Kenneth	421 Lake		Wauconda	IL	60084	Trustee	Village	Wauconda	Lake		False
+11522	Sjurseth	Patricia	12n040 Randall Road		Elgin	IL	60123	Supervisor	Township	Elgin	Kane	Republican	False
 1659	Sjurseth	Patricia	12n040 Randall Road		Elgin	IL	60123	Member	County Board	Kane 16 	Kane	Republican	False
 10719	Sjurseth	Patricia	12n040 Randall Road		Elgin	IL	60123	Chair	County Board	Kane 16 	Kane	Republican	False
-11522	Sjurseth	Patricia	12n040 Randall Road		Elgin	IL	60123	Supervisor	Township	Elgin	Kane	Republican	False
 19138	Skagerberg	George	1661 Harbor Ave, # 3E		Calumet City	IL	60409-1618	Alderperson	Ward	Calumet City 3  	Cook	Democratic	False
 47197	Skala	Brian	13741 Crestview Ct		Crestwood	IL	60418	State Representative	Representative	28	Cook	Republican	False
 53955	Skala	Brian	13741 Crestview Ct		Crestwood	IL	60418     	State Senator	Senate	14		Republican	False
@@ -27762,9 +27762,9 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 22056	Spyropoulos	Mariyana	Redaction Requested					Circuit Clerk	County	Cook	Cook	Democratic	True
 45926	Spyropoulos	Mariyana T	Redaction Requested					Committeewoman	Congressional	5	Cook	Democratic	True
 8603	Squires	Mary Frances	1100 Oakmont Dr		Springfield	IL	62704	Member	County Board	Sangamon 	Sangamon	Republican	False
+6886	Srch	Rae Rupp	604 N Princeton		Villa Park	IL	60181	President	Village	Villa Park	DuPage		False
 43755	Srch	Rae Rupp	604 N. Princeton Ave		Villa Park	IL	60181	Trustee	Township	York	DuPage	Republican	False
 3318	Srch	Rae Rupp	604 N Princeton		Villa Park	IL	60181	Trustee	Village	Villa Park	DuPage	Independent	False
-6886	Srch	Rae Rupp	604 N Princeton		Villa Park	IL	60181	President	Village	Villa Park	DuPage		False
 25564	Sriram	Manjula V	55 W Fairoaks Ct		Palatine	IL	60067	Member	School	15	Cook	Non Partisan	False
 25330	Sronce	Gregory W						Member	Convention Center	SMEAA	Sangamon	Republican	False
 21923	St Angel	Jasper	2615 Green Apple Ln		Rockford	IL	61107	Recorder	County	Winnebago 	Winnebago	Democratic	False
@@ -27937,8 +27937,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 2452	Steele	John O	Redaction Requested					Alderperson	Ward	Chicago 6  	Cook	Non Partisan	True
 5678	Steele	John O	Redaction Requested					Committee Person	Ward	Chicago 6  	Cook	Democratic	True
 13233	Steele	John O	Redaction Requested					Judge	Circuit Court	Cook	Cook	Democratic	True
-24202	Steele	Kari K	7720 S Chappel Ave		Chicago	IL	60649	Commissioner	Water Reclamation	Chicago 7  	Cook	Democratic	False
 46060	Steele	Kari K	2237 W Madison St		Chicago	IL	60612	Assessor	County	Cook	Cook	Democratic	False
+24202	Steele	Kari K	7720 S Chappel Ave		Chicago	IL	60649	Commissioner	Water Reclamation	Chicago 7  	Cook	Democratic	False
 53692	Steele	Melissa	PO Box 782		Panama	IL	62077     	State Representative	Representative	109		Republican	False
 10986	Steele	R Philip	562 310th St		North Henderson	IL	61466	State's Attorney	County	Mercer	Mercer	Republican	False
 21308	Steele	Robert	2101 S Springfield Ave		Chicago	IL	60623	Commissioner	County Board	Cook 	Cook	Democratic	False
@@ -28028,8 +28028,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 7016	Stephenson	Evia	209 N State		Litchfield	IL	62065	Trustee	Township	North Litchfield	Montgomery	Democratic	False
 6940	Stephenson	William			Bethalto	IL		President	Village	Bethalto	Madison		False
 18341	Stepuchin	Angela	4132 Joliet Ave		Lyons	IL	60534	Trustee	Village	Lyons	Cook	Independen	False
-7816	Sterba	David P	12833 Cedar Ln		Palos Heights	IL	60463	Member	School	230	Cook	Non Partisan	False
 10392	Sterba	David P	12833 Cedar Ln		Palos Heights	IL	60463	Judge	Circuit Court	Cook	Cook	Republican	False
+7816	Sterba	David P	12833 Cedar Ln		Palos Heights	IL	60463	Member	School	230	Cook	Non Partisan	False
 12816	Stermer	Jerry	2211 Grant St		Evanston	IL	60201	Member	School	65	Cook	Non Partisan	False
 53385	Stern	Deanna	17 Brooke Lane		South Barrington	IL	60010     	Member	School	220			False
 18899	Stern	Elaine	4N737 Crane Rd		St Charles	IL	60174	Member	County Board	Kane 14 	Kane	Democratic	False
@@ -28291,9 +28291,9 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 10239	Streeter	Allan	7539 S Peoria		Chicago	IL	60620	Committee Person	Ward	Chicago 17 	Cook	Democratic	False
 5357	Streeter	Betsey	906 Carter		Carbondale	IL	62901	Member	County Board	Jackson 6  	Jackson	Democratic	False
 7060	Streib	Marshall	37956 N Harper		Waukegan	IL	60087	Trustee	Village	Beach Park	Lake		False
-1585	Streit	Robert J	9733 S Mason		Oak Lawn	IL	60453	Supervisor	Township	Worth	Cook	Republican	False
 7318	Streit	Robert J	9610 S Westshore Dr		Oak Lawn	IL	60453	President	Village	Oak Lawn	Cook		False
 3579	Streit	Robert J	9610 S Westshore Dr		Oak Lawn	IL	60453	Trustee	Village	Oak Lawn	Cook	Independent	False
+1585	Streit	Robert J	9733 S Mason		Oak Lawn	IL	60453	Supervisor	Township	Worth	Cook	Republican	False
 27200	Streit	Steven	331 East 9th		Lockport	IL	60441	Mayor	City	Lockport	Will	Independent	False
 21680	Streitz Dr	Thomas	514 Rollingwood Ln		Joliet	IL	60431	Member	School	204	Will	Non Partis	False
 27112	Strelecki	Gina	1050 Erica Dr		Wauconda	IL	60084	Clerk	Village	Wauconda	Lake		False
@@ -28841,9 +28841,9 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 46472	Tassoni	David	3612 N Central Ave		Rockford	IL	61101	Member	County Board	Winnebago	Winnebago	Democratic	False
 11145	Tassoni	Jerry	2120 Midway Dr		Rockford	IL	61103	Hwy Commissioner	Township	Rockford	Winnebago	Democratic	False
 18237	Tate	Cindy B	2212 Greenside Dr		Springfield	IL	62704	Member	School	186	Sangamon	Independent	False
-8744	Tate	Joann	2312 S 9th Ave		Broadview	IL	60153	State Representative	Representative	7  	Cook	Republican	False
 18768	Tate	Joann	3306 Adams		Bellwood	IL	60104	Trustee	Village	Bellwood	Cook	Democratic	False
 19048	Tate	Joann	607 Bellwood Ave		Bellwood	IL	60104	Trustee	Village	Bellwood	Cook		False
+8744	Tate	Joann	2312 S 9th Ave		Broadview	IL	60153	State Representative	Representative	7  	Cook	Republican	False
 25655	Tate	Joshua J	2428 Oak St # 2		Blue Island	IL	60406	Commissioner	Park	Blue Island	Cook	Independent	False
 13709	Tate	Lex	1201 Mayfair Rd		Champaign	IL	61821-5025	Member	County Board	Champaign 	Champaign	Democratic	False
 225	Tate	Michael J	Rural Route 6 Box 60		Decatur	IL	62521	State Representative	Representative	102	Macon	Republican	False
@@ -29451,8 +29451,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 19763	Toren	Carl B	19924 Lake Lynwood Dr		Lynwood	IL	60411	Trustee	Village	Lynwood	Cook	Non Partisan	False
 16597	Torf	Donna			Glenview	IL		Member	School	225	Cook		False
 12493	Torf	Philip						Supervisor	Township	Northfield	Cook		False
-43570	Torina	Gabrielle	2104 Lucille St.		Rockford	IL	61104	Alderperson	Ward	Rockford 5	Winnebago	Democratic	False
 54339	Torina	Gabrielle	3104 Lucille St.		Rockford	IL	61104     	Mayor	City	Rockford	Winnebago	Democratic	False
+43570	Torina	Gabrielle	2104 Lucille St.		Rockford	IL	61104	Alderperson	Ward	Rockford 5	Winnebago	Democratic	False
 26851	Tornabene	John	333 Diana Ct		Bensenville	IL	60106	Trustee	Village	Bensenville	DuPage		False
 22894	Tornatore	Sam	265 Mulford Ln		Roselle	IL	60172	Trustee	Township	Bloomingdale	DuPage	Republican	False
 25897	Tornatore	Sam	265 Mulford Ln		Roselle	IL	60172	Member	County Board	DuPage 1  	DuPage	Republican	False
@@ -29932,8 +29932,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 45229	Valadez	Sylvia	537 Meadowhill Ln		Round Lake Beach	IL	60073	Trustee	Village	Round Lake Beach	Lake		False
 23734	Valavicius	Laura	425 S  Lombard Ave		Itasca	IL	60143	Trustee	Village	Itasca	DuPage	Non Partisan	False
 46847	Valdes	Jose "Yusuf" V	8814 W 83rd Place		Justice	IL	60458	Trustee	Comm College	524			False
-698	Valdes	Teresa A	521 Michigan Avenue		Evanston	IL	60202	Commissioner	Water Reclamation	Chicago	Cook	Republican	False
 67	Valdes	Teresa A	521 Michigan Avenue		Evanston	IL	60202	State Representative	Representative	4  	Cook	Republican	False
+698	Valdes	Teresa A	521 Michigan Avenue		Evanston	IL	60202	Commissioner	Water Reclamation	Chicago	Cook	Republican	False
 11317	Valdevicz	Veronica			Stone Park	IL	60165	Clerk	Village	Stone Park	Cook		False
 47495	Valdez	Christina	2610 Highcrest Rd.		Rockford	IL	61107	Member	County Board	Winnebago	Winnebago	Democratic	False
 11783	Valdez	Fred	7757 S Stickney		Bridgeview	IL	60455	Trustee	Township	Lyons	Cook	Democratic	False
@@ -30710,8 +30710,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 42913	Walton	Tyria	1507 E 53rd St, #465		Chicago	IL	60615	Judge	Subcircuit Court	Cook	Cook	Democratic	False
 14570	Waltrip	David R	1209 Currie Ave		Rochelle	IL	61068	Mayor	City	Rochelle	Ogle		False
 16185	Waltrip	Jim R	312 S Laurel Dr		South  Jacksonville	IL	62650	President	Village	South Jacksonville	Morgan	Republican	False
-46252	Walz	Kimberly	3550 N. Lake Shore Drive	1303	Chicago	IL	60657	Alderperson	Ward	Chicago 46		Non Partisan	False
 43250	Walz	Kimberly	3550 North Lake Shore Drive, 1303		Chicago	IL	60657	State Representative	Representative	12		Democratic	False
+46252	Walz	Kimberly	3550 N. Lake Shore Drive	1303	Chicago	IL	60657	Alderperson	Ward	Chicago 46		Non Partisan	False
 7728	Wamberg	Diane	322 Oak Knoll		Barrington	IL	60010	Member	School	220	Lake	Non Partisan	False
 47652	Wamhoff	Alexandria Lexi	311 Depot St.		Walnut	IL	61376	Coroner	County	Bureau	Bureau	Democratic	False
 26569	Wamhoff	Janice L	30 N 5th St		Princeton	IL	61356-1814	Coroner	County	Bureau	Bureau	Democratic	False
@@ -31809,9 +31809,9 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 42480	Wilson	Michael E	25623 S Daffodil Ln		Monee	IL	60449	Trustee	Village	Monee	Will	Independent	False
 12906	Wilson	Mickey	8420 Chestnut		Cary	IL	60013	Trustee	Fire Protection	Cary	McHenry	Non Partisan	False
 15131	Wilson	Micki	240 S Pitt St		Virginia	IL	62691	Treasurer	County	Cass 	Cass	Democratic	False
-43540	Wilson	Monet S	403 Hoxie Ave		Calumet City	IL	60409	Alderperson	Ward	2	Cook	Democratic	False
 53783	Wilson	Monet S	403 Hoxie Ave		Calumet City	IL	60409	Committeeman	Township	Thornton	Cook	Democratic	False
 45863	Wilson	Monet S	403 Hoxie Ave		Calumet City	IL	60409	State Representative	Representative	29	Cook	Independent	False
+43540	Wilson	Monet S	403 Hoxie Ave		Calumet City	IL	60409	Alderperson	Ward	2	Cook	Democratic	False
 44159	Wilson	Nathan	3412 Caine Dr		Naperville	IL	60564	Commissioner	Park	Naperville		Non Partisan	False
 47039	Wilson	Nathan "Nate"	Redaction Requested					Councilman	City	Naperville		Non Partisan	True
 6839	Wilson	Pat	203 W Crystal		Mundelein	IL	60060	Supervisor	Township	Freemont	Lake	Independent	False
@@ -32167,8 +32167,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 11906	Wright	Andrew	772 E Dunmore Lane		Bartlett	IL	60103	Trustee	Township	Wayne	DuPage	Republican	False
 7203	Wright	Barbara						Clerk	Township	Jarvis	Madison		False
 20495	Wright	Bart	1025 Park Ave		Mt Vernon	IL	62864	State Senator	Senate	54 	Jefferson	Democratic	False
-18139	Wright	Bill	1847 Sycamore		Homewood	IL	60430	Member	School	153	Cook		False
 33183	Wright	Bill	PO Box 891		Danville	IL	61834	Auditor	County	Vermilion 	Vermilion	Republican	False
+18139	Wright	Bill	1847 Sycamore		Homewood	IL	60430	Member	School	153	Cook		False
 6360	Wright	Chuck	3866  26th Ave		Moline	IL		Mayor	City	Moline	Rock Island	Democratic	False
 42475	Wright	Dan	120 Seminole Drive		Springfield	IL	62704	State's Attorney	County	Sangamon	Sangamon	Republican	False
 25429	Wright	Dan	120 Seminole Dr		Springfield	IL	62704	Member	Convention Center	SMEAA	Sangamon	Non Partisan	False
