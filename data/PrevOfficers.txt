@@ -2111,6 +2111,7 @@ ID	CommitteeID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	ResignD
 38650	325	Maricle	Dondi	541 Meadows Rd S		Bourbonnais	IL	60914     	Chair	2024-04-18 08:43:24.067000000	False
 38756	325	Minnifield	April	402 N.Sunset Dr.		Sun River Terrace	IL	60964     	Treasurer	2024-05-08 15:30:54.493000000	False
 42405	325	Dexter	Jeff	501 Dennis Ave		Bradley	IL	60915     	Treasurer	2025-06-20 08:57:39.083000000	False
+43309	325	Brown	Beverly M.	500 Cleveland Ave.		Bourbonnais	IL	60914     	Treasurer	2026-11-02 13:53:19.913000000	False
 3584	326	Villanueva	Kim	434-1/2 W Cook		Springfield	IL	62704     	Chair	1994-10-18 00:00:00	False
 5467	326	Bailey-mershon	Glenda	759 E Stark		Palatine	IL	60067     	Chair	1997-05-06 00:00:00	False
 5468	326	Patt	Esther	802 W. Illinois #1		Urbana	IL	61801     	Treasurer	1997-05-06 00:00:00	False
@@ -4691,6 +4692,7 @@ ID	CommitteeID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	ResignD
 37416	693	Bray	Kathy	103 E Third St PO Box 154		St Peter	IL	62880     	Chair	2023-11-02 13:52:54.363000000	False
 42066	693	Feldt	Chris	1112 Mascoutah Ave		Belleville	IL	62220     	Chair	2024-11-01 14:14:39.340000000	False
 42625	693	Leezer	Ben	127 W Main	PO Box 129	Toulon	IL	61483     	Chair	2025-11-03 12:02:44.907000000	False
+43310	693	Weaks	Jeremy	PO Box 57		Prophetstown	IL	61277     	Chair	2026-11-02 15:56:30.207000000	False
 1827	695	Annerino	John A	857 Bonnie Brae Lane		Bolingbrook	IL	60440     	Chair	1992-05-06 00:00:00	False
 438	695	Karubas	John	10 S 086 Meadow Lane		Naperville	IL	60565     	Treasurer	1990-05-07 00:00:00	False
 6085	695	Stipan	Hugh	8235 Lincoln Highway		Frankfort	IL	60423     	Chair	1998-04-02 00:00:00	False

@@ -22024,6 +22024,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 16703	Gaughan	Martin J.	403 S. Hazelton		Wheaton	IL	60187     	Treasurer	(708)752-1447       	False
 5207	Gaul	Margaret	PO Box 618		Alton	IL	62002     	Treasurer		False
 7873	Gaulke	Ron	309 Catlin Street		Warren	IL	61087     	Treasurer	815/745-2796        	False
+100656	Gault	Brittney	1711 E 85th St		Chicago	IL	60617     	Chair	312-399-4803        	False
+100657	Gault	Brittney	1711 E 85th St		Chicago	IL	60617     	Treasurer	312-399-4803        	False
 15081	Gausebeck	Robin	1512 Harlem Blvd		Rockford	IL	61103     	Treasurer	815/962-5126        	False
 9184	Gausselin	William	9345 S Millard Ave		Evergreen Park	IL	60805     	Treasurer	(708)425-1296       	False
 12596	Gausselin Iii	Edwin A.	7901 Golf Drive		Palos Hts	IL	60463     	Chair	                    	False
@@ -27111,6 +27113,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 86428	Haynes	Missy	201 N Vine St		Shelbyville	IL	62565     	Treasurer	217.264.1117        	False
 90168	Haynes	Missy	201 N Vine St		Shelbyville	IL	62565     	Ext. Assistant	217.264.1117        	False
 87671	Haynes	Morgan	1513 Howard Ct.		Pekin	IL	61554     	Treasurer	309-267-0192        	False
+100654	Haynes	Tyhesha C.	319 C Loomis St., Apt. 101		Chicago	IL	60607     	Chair	773.299.0240        	False
 68008	Hays	Andrea	401 County Road 1125E		Norris City	IL	62896     	Chair	                    	False
 81999	Hays	Andrea	401 County Road 1125E		Norris City	IL	62896     	Treasurer	                    	False
 23598	Hays	Carol	315 N 14th St		Murphysboro	IL	62966     	Chair		False
@@ -32086,6 +32089,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 91243	Joiner	Savena	2145 Pembridge Ln		Joliet	IL	60431     	Treasurer	                    	False
 91708	Joiner	Steve	9020 Schuline Road		Walsh	IL	62297     	Chair	618-615-6522        	False
 36095	Joiner	William	1630 Magnolia Ln		Flora	IL	62839     	Treasurer		False
+100658	Joines	Alex	160 Nottingham Ln		Bourbonnais	IL	60914     	Treasurer	                    	False
 39220	Joines	Lugene Crippes	226 W Elizabeth St		Paris	IL	61944     	Treasurer	217.463.8600        	False
 97806	Jokic	Slobodan Bodo	1030 S. Western Ave.		Park Ridge	IL	60068     	Chair	773.615.0251        	False
 99371	Jokic	Slobodan Bodo	1030 S. Western Ave.		Park Ridge	IL	60068     	Treasurer	773.615.0251        	False
@@ -36610,7 +36614,9 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 20780	Langfelder	James O	2125 Lake Crest Dr		Springfield	IL	62707     	Chair	217.691.5708        	False
 5144	Langfelder	John	1700 Whittier		Springfield	IL	62704     	Treasurer	                    	False
 42512	Langfelder	John O	833 S Lincoln		Springfield	IL	62704     	Treasurer	217.522.8822        	False
+100652	Langfelder	John.	3999 Sherman Rd.		Sherman	IL	62684     	Treasurer	217.860.9678        	False
 12223	Langfelder	Joseph O.	2937 Flowerbrook Ct.		Springfield	IL	62702     	Treasurer	                    	False
+100651	Langfelder	Josh	2725 Cronin Dr.		Springfield	IL	62711     	Chair	217.415.0086        	False
 20779	Langfelder	Joshua A	10 Radcliff		Springfield	IL	62703     	Treasurer	217/585-0394        	False
 35519	Langfelder	Joshua A	2725 Cronin Dr		Springfield	IL	62707     	Chair	217.726.9590        	False
 5143	Langfelder	Ossie	1700 Whittier		Springfield	IL	62704     	Chair	                    	False
@@ -43751,6 +43757,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 31963	Meyer	Mark	518 W Van Buren		Ottawa	IL	61350     	Chair	815/434-2040        	False
 20718	Meyer	Mark G	424 Spring St		Batavia	IL	60510     	Chair	(708)879-8322       	False
 29260	Meyer	Mary C	100 Atkinson RD Apt B		Grayslake	IL	60030     	Treasurer	847/584-2700 ex 3110	False
+100655	Meyer	Matthew	PO Box 4829		Chicago	IL	60680     	Treasurer	630.335.7302        	False
 31407	Meyer	Michael C	1209 Tanglewood Trace		O'Fallon	IL	62269     	Chair		False
 32267	Meyer	Mike	201 N Mulberry St		Farina	IL	62838     	Chair	618/245-9610        	False
 14567	Meyer	Ms Mary	352 Whispering Oaks		Bethalto	IL	62010     	Chair	                    	False
@@ -59061,6 +59068,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 44029	Scordato	Peter	5946 Weymouth Dr		Rockford	IL	61114     	Treasurer	815/637-4770        	False
 46805	Scordato	Peter	5946 Weymouth Dr		Rockford	IL	61114     	Chair	815/637-4770        	False
 28315	Scordino	Mary	917 Hastings		Park Ridge	IL	60068     	Chair	(847) 823-3387      	False
+100649	Scornavacco	Michael "Mickey	569 Indian Trail Rd.		Antioch	IL	60002     	Chair	312.443.2401        	False
+100650	Scornavacco	Michael "Mickey	569 Indian Trail Rd.		Antioch	IL	60002     	Treasurer	312.443.2401        	False
 15308	Scortino	Katherine	1024 Vargo Ln		Arlington Heights	IL	60004     	Chair	(847)577-9577       	False
 34968	Scotillo	Nancy S	5175 Barcroft Dr		Barrington	IL	60010     	Treasurer	847/590-9700        	False
 97656	Scott	Abby	3107 Old Jamestown Road		Bloomington	IL	61704     	Chair	309.531.6071        	False
@@ -61793,6 +61802,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 131	Smuda	Preston P	3809 South Lowe Avenue		Chicago	IL	60606     	Chair	                    	False
 10555	Smukler	Ted	5826 N. Magnolia		Chicago	IL	60660     	Chair	(312)989-0007       	False
 12120	Smukler	Ted	1309 W. Elmdale		Chicago	IL	60660     	Co-Chair	                    	False
+100659	Smull	Katie	208 S. Walnut	PO Box 686	Forreston	IL	62565     	Chair	815.938.2273        	False
 52611	Smyk	Michael	610 Sara Ln		Marengo	IL	60152     	Treasurer	708.417.2345        	False
 51165	Smyser	Katherine	454 N Columbus Dr		Chicago	IL	60611     	Treasurer	312.836.3187        	False
 4662	Smyser-deleon	Nelida	1703 N. Mozart Street		Chicago	IL	60647     	Chair	                    	False
@@ -66950,6 +66960,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 8102	Tunison	Thelma	3421 Minnesota Drive		Rockford	IL	61101     	Treasurer	815/877-7254        	False
 17189	Tunney	Beverly	222 E Marion Ave		Lake Forest	IL	60045     	Chair	                    	False
 38527	Tunney	Thomas	3248 N Clark St		Chicago	IL	60657     	Secretary	(773) 935-9555      	False
+100653	Tunney	Thomas	2800 N Lakeshore Drive	Apt 4002	Chicago	IL	60657     	Custodian	                    	False
 41835	Tunney	Tom	913 W Belmont Ave		Chicago	IL	60657     	Chair	(773) 935-9555      	False
 99340	Tunney	Tom	875 N MIchigan AVe F1. 31		Chicago	IL	60611     	Treasurer	773-217-8821        	False
 98872	Tunney	Tom.	330 W. Diversey Parkway	Unit1807	Chicago	IL	60657     	Chair	                    	False
