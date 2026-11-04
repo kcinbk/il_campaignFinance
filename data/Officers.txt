@@ -29414,6 +29414,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 82205	Houlihan	John	2401 Dover		Springfield	IL	62703     	Treasurer	217.836.5888        	False
 87643	Houlihan	John	21 Glen Eagle Dr.		Springfield	IL	62704     	Chair	217.836.5880        	False
 14276	Houlihan	John J	12744 S Austin		Palos Hts	IL	60463     	Chair	(708)371-2270       	False
+100661	Houlihan	John.	21 Glen Eagle Dr.		Springfield	IL	62704     	Treasurer	217.836.5880        	False
 54466	Houlihan	Margaret	233 S Wacker Dr	10th Fl	Chicago	IL	60606     	Treasurer	872.825.8088        	False
 15720	Houlihan	Maureen E	417 Thatcher		River Forest	IL	60305     	Treasurer	                    	False
 7802	Houlihan	William P	107 Tamarisk		Springfield	IL	62704     	Treasurer	217/596-2498        	False
@@ -61472,6 +61473,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 80410	Smith	Karen R.	612 N. 7th Street		DeKalb	IL	60115     	Treasurer	815.761.9265        	False
 89456	Smith	Karyn N.	1106 Sheridan Road		Normal	IL	61761     	Chair	404.583.2732        	False
 89457	Smith	Karyn N.	1106 Sheridan Road		Normal	IL	61761     	Treasurer	404.583.2732        	False
+100660	Smith	Kate	825 Kenyon Dr.		Springfield	IL	62704     	Chair	217.836.1417        	False
 47138	Smith	Katherine	18 Woodland Hills Ct		Alton	IL	62002     	Chair	618.406.2856        	False
 2125	Smith	Kathleen	R # 1 Box 262		Mackinaw	IL	61755     	Chair	                    	False
 3150	Smith	Kathleen M.	300 Elmwood		Antioch	IL	60002     	Treasurer	847/395-8751        	False
