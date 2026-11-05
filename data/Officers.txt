@@ -67789,7 +67789,9 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 100152	Vasquez, Jr.	Carlos J.	2611 N. Major Ave.		Chicago	IL	60639     	Chair	773.671.8130        	False
 47541	Vassallo	Joe	731 N Spring St		Elgin	IL	60120     	Chair	224.402.1337        	False
 92057	Vasselli	James	827 S. Jackson		Hinsdale	IL	60521     	Treasurer	                    	False
+100662	Vasselli	James	11 Douglas Ave.		Elgin	IL	60120     	Chair	                    	False
 97910	Vasselli	James.	2821 Bethel Blvd		Zion	IL	60099-2515	Treasurer	312-415-8277        	False
+100663	Vasselli	James..	11 Douglas Ave.		Elgin	IL	60120     	Treasurer	                    	False
 3562	Vassios	William B.	9644 S. Kedzie Ave.		Evergreen Park	IL	60642     	Treasurer	636-9444/346-8704   	False
 3563	Vassios	William B.	9644 S. Kedzie Ave.		Evergreen Park	IL	60642     	Chair	636-9444/777-2112   	False
 15178	Vassor	Ella M	1710 N Rutherford		Chicago	IL	60635     	Treasurer	312/622-7397        	False
