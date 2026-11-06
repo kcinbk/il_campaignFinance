@@ -271626,7 +271626,7 @@ Chicago	IL	60607     	2A							  	          	False		False
 6192698	35451	919076		Teeghman	David	2024-03-13 00:00:00	250	400	0			3144 W. Lake St.	#2	Chicago	IL	60612     	1A							  	          	True		False
 6192699	35451	919076		Marco-Paredes	Jose	2024-03-13 00:00:00	500	500	0			180 N. Michigan Ave		Chicago	IL	60601     	1A							  	          	True		False
 6192700	35451	919076		Thomas	Justin	2024-03-13 00:00:00	250	250	0			1707 W. Winona St.	#1	Chicago	IL	60640     	1A							  	          	True		False
-6192701	35451	919076		Friends of Maggie OKeefe		2024-03-13 00:00:00	250	250	0			1707 W. Winona St.		Chicago	IL	60640     	2A							  	          	True		False
+6192701	35451	919076		Friends of Maggie OKeefe		2024-03-13 00:00:00	250	250	0			Redaction Requested					2A							  	          	True		True
 6192702	35451	919076		Ashenhurst	Sarah	2024-03-13 00:00:00	250	275	0			4926 North Kilpatrick Avenue		Chicago	IL	60630     	1A							  	          	True		False
 6192703	35451	919076		Jacoby	Emily	2024-03-13 00:00:00	500	500	0			3402 W. McLean	#2E	Chicago	IL	60647     	1A							  	          	True		False
 6192704	35451	919076		Malholtra	Rima	2024-03-13 00:00:00	200	200	0			4314 S. Drexel Blvd		Chicago	IL	60653     	1A							  	          	True		False
@@ -275874,7 +275874,7 @@ Chicago	IL	60607     	2A							  	          	False		False
 6196946	39466	919454		Nudelman	Daniel	2024-02-16 00:00:00	500	500	0			1849 W Huron St		Chicago	IL	60622-5524	1A							  	          	False		False
 6196947	39466	919454		O'Conner	Nicholas	2024-02-07 00:00:00	250	250	0			5326 S Shore Dr		Chicago	IL	60615-5708	1A							  	          	False		False
 6196948	39466	919454		O'Grady	Sheila	2024-02-28 00:00:00	500	500	0			221 Shenstone Rd		Riverside	IL	60546-2027	1A							  	          	False		False
-6196949	39466	919454		O'Keefe	Maggie	2024-03-07 00:00:00	200	200	0			1707 W Winona St	Apt 1	Chicago	IL	60640-2745	1A							  	          	False		False
+6196949	39466	919454		O'Keefe	Maggie	2024-03-07 00:00:00	200	200	0			Redaction Requested					1A							  	          	False		True
 6196950	39466	919454		Ogunfolaju	Toyin	2024-03-04 00:00:00	250	250	0			520 Monastery Ave		Philadelphia	PA	19128-1624	1A							  	          	False		False
 6196951	39466	919454		Oxtoby	John	2024-02-07 00:00:00	250	250	0			200 E Randolph St	Ste 2900	Chicago	IL	60601-6505	1A							  	          	False		False
 6196952	39466	919454		Parsons	Monique	2024-02-24 00:00:00	150	250	0			8710 Trumbull Ave		Skokie	IL	60076-2428	1A							  	          	False		False
@@ -338037,7 +338037,7 @@ Chicago	IL	60607     	2A							  	          	True		False
 6265755	35451	940909		Teeghman	David	2024-03-13 00:00:00	250	400	0			3144 W. Lake St.	#2	Chicago	IL	60612     	1A							  	          	False		False
 6265756	35451	940909		Marco-Paredes	Jose	2024-03-13 00:00:00	500	500	0			180 N. Michigan Ave		Chicago	IL	60601     	1A							  	          	False		False
 6265757	35451	940909		Thomas	Justin	2024-03-13 00:00:00	250	250	0			1707 W. Winona St.	#1	Chicago	IL	60640     	1A							  	          	False		False
-6265758	35451	940909		Friends of Maggie OKeefe		2024-03-13 00:00:00	250	250	0			1707 W. Winona St.		Chicago	IL	60640     	2A							  	          	False		False
+6265758	35451	940909		Friends of Maggie OKeefe		2024-03-13 00:00:00	250	250	0			Redaction Requested					2A							  	          	False		True
 6265759	35451	940909		Ashenhurst	Sarah	2024-03-13 00:00:00	250	275	0			4926 North Kilpatrick Avenue		Chicago	IL	60630     	1A							  	          	False		False
 6265760	35451	940909		Jacoby	Emily	2024-03-13 00:00:00	500	500	0			3402 W. McLean	#2E	Chicago	IL	60647     	1A							  	          	False		False
 6265761	35451	940909		Malholtra	Rima	2024-03-13 00:00:00	200	200	0			4314 S. Drexel Blvd		Chicago	IL	60653     	1A							  	          	False		False
@@ -409208,7 +409208,7 @@ Chicago	IL	60607     	2A							  	          	False		False
 6345118	163	962154		Brookins Jr	Howard B	2024-10-24 00:00:00	2000	2000	0	Attorney	Self-employed	9636 South Winston Avenue		Chicago	IL	60643     	1A							  	          	False		False
 6345119	163	962154		Friends of Josina Morita		2024-10-31 00:00:00	1000	1000	0			5340 Main Street		Skokie	IL	60077     	2A							  	          	False		False
 6345120	163	962154		Friends of Laura Yepez		2024-10-31 00:00:00	2000	2000	0			1326 N. Wicker Park	Suite 1	Chicago	IL	60622-3165	2A							  	          	False		False
-6345121	163	962154		Friends of Maggie O'Keefe		2024-10-31 00:00:00	250	250	0			1707 W. Winona Street	#1	Chicago	IL	60640     	2A							  	          	False		False
+6345121	163	962154		Friends of Maggie O'Keefe		2024-10-31 00:00:00	250	250	0			Redaction Requested					2A							  	          	False		True
 6345122	163	962154		Ori	Kathleen	2024-10-31 00:00:00	250	250	0			1738 N Bissell		Chicago	IL	60614     	1A							  	          	False		False
 6345123	163	962154		O'Quin	Troy	2024-10-31 00:00:00	500	500	0			1749 Burr Oak Road		Homewood	IL	60430     	1A							  	          	False		False
 6345124	163	962154		Spyropoulis	Mariyana	2024-10-31 00:00:00	500	500	0			Redaction Requested					1A							  	          	False		True
@@ -510455,7 +510455,7 @@ Chicago	IL	60607     	2A							  	          	False		False
 6446368	40652	980572		Ussak	Amanda	2025-05-21 00:00:00	100	200	0			189 UNIT 9600		DPO	AP	96209-0189	1A							  	          	False		False
 6446369	40652	980572		Ussak	Amanda	2025-05-21 00:00:00	100	200	0			189 UNIT 9600		DPO	AP	96209-0189	1A							  	          	False		False
 6446370	40652	980572		Witty	Craig D	2025-06-30 00:00:00	250	250	0			654 Ash St		Winnetka	IL	60093-2606	1A							  	          	False		False
-6446371	40652	980572		Friends of Maggie O'Keefe		2025-05-21 00:00:00	250	250	0			1707 W Winona St	Apt 1	Chicago	IL	60640-2745	2A							  	          	False		False
+6446371	40652	980572		Friends of Maggie O'Keefe		2025-05-21 00:00:00	250	250	0			Redaction Requested					2A							  	          	False		True
 6446372	40652	980572		Illinois Community Organizing Project		2025-06-28 00:00:00	13800	13800	0			1360 N Lake Shore Dr	Apt 214	Chicago	IL	60610-8443	2A							  	          	False		False
 6446373	40652	980572		Leaders in Education		2025-06-06 00:00:00	2500	2500	0			25 Broadway	Fl 12	New York	NY	10004-1056	2A							  	          	False		False
 6446374	40652	980572		North Shore Organizing		2025-05-21 00:00:00	10000	10000	0			589 Lincoln Ave		Winnetka	IL	60093-2356	2A							  	          	False		False
@@ -576687,7 +576687,7 @@ Chicago	IL	60607     	2A							  	          	False		False
 6512600	553	992849		Scarabaeus. LLC		2025-12-17 00:00:00	1500	0	0			8420 S. Yates		CHICAGO	IL	60617     	1A							  	          	True		False
 6512601	163	992850		Raoul For Illinois		2025-12-17 00:00:00	30000	0	0			P.O. Box 10600		Chicago	IL	60610     	2A							  	          	True		False
 6512602	163	992850		8th Ward Reg. Dem. Org.		2025-12-17 00:00:00	2000	0	0			8539 South Cottage Grove Ave.	Suite C	Chicago	IL	60619     	2A							  	          	True		False
-6512603	163	992850		Friends of Maggie O'Keefe		2025-12-17 00:00:00	2000	0	0			1707 W. Winona Street	#1	Chicago	IL	60640     	2A							  	          	True		False
+6512603	163	992850		Friends of Maggie O'Keefe		2025-12-17 00:00:00	2000	0	0			Redaction Requested					2A							  	          	True		True
 6512604	24484	992851		Syngenta Crop Protection, LLC		2025-12-12 00:00:00	1500	0	0			410 Swing Rd		Greensboro	NC	27409     	1A							  	          	True		False
 6512605	580	992852		Verizon Good Government Club - Illinois		2025-12-17 00:00:00	21248.71	0	0			104 W Mulberry St.		Normal	IL	61761     	2A							  	          	True		False
 6512606	40876	992854		McKenna	John	2025-12-16 00:00:00	1000	0	0	Consultant	Company	1136 W Fullerton Ave, Apt 2		Chicago	IL	60614     	1A							  	          	True		False
@@ -600215,7 +600215,7 @@ Chicago	IL	60607     	2A							  	          	False		False
 6536128	163	997410		Hilton Chicago		2025-12-17 00:00:00	996.54	996.54	0			720 S. Michigan		Chicago	IL	60605     	4A	Refund						  	          	False		False
 6536129	163	997410		Raoul For Illinois		2025-12-17 00:00:00	30000	30000	0			P.O. Box 10600		Chicago	IL	60610     	2A							  	          	False		False
 6536130	163	997410		8th Ward Reg. Dem. Org.		2025-12-17 00:00:00	2000	2000	0			8539 South Cottage Grove Ave.	Suite C	Chicago	IL	60619     	2A							  	          	False		False
-6536131	163	997410		Friends of Maggie O'Keefe		2025-12-17 00:00:00	2000	2000	0			1707 W. Winona Street	#1	Chicago	IL	60640     	2A							  	          	False		False
+6536131	163	997410		Friends of Maggie O'Keefe		2025-12-17 00:00:00	2000	2000	0			Redaction Requested					2A							  	          	False		True
 6536132	163	997410		SEIU Illinois Council PAC Fund		2025-12-23 00:00:00	10000	10000	0			2229 S. Halsted St.		Chicago	IL	60608     	2A							  	          	False		False
 6536133	21727	997412		Weber Electric		2025-10-10 00:00:00	250	250	0			139 Greenwood Ave St. 1		Bloomington	IL	61704     	1A							  	          	False		False
 6536134	21727	997412		Synergy HomeCare of Central IL		2025-10-28 00:00:00	500	500	0			2403 General Electric Road		Bloomington	IL	61704     	1A							  	          	False		False
@@ -605324,7 +605324,7 @@ Chicago	IL	60607     	2A							  	          	False		False
 6541237	40722	997609		Kim	John	2025-10-14 00:00:00	250	250	0			15910 Pebble Beach Rd		Bloomington	IL	61705     	1A							  	          	False		False
 6541238	40722	997609		Redman	Leah	2025-10-14 00:00:00	200	200	0			420 N Oak	PO Box 62	Wapella	IL	61777     	1A							  	          	False		False
 6541239	40722	997609		Barch	Cynthia	2025-10-14 00:00:00	200	200	0			9156 N 1540 East Rd		Bloomington	IL	61705     	1A							  	          	False		False
-6541240	40722	997609		Friends of Maggie O'Keefe		2025-10-14 00:00:00	151	151	0			1707 W Winona St	APT 1	Chicago	IL	60640     	1A							  	          	False		False
+6541240	40722	997609		Friends of Maggie O'Keefe		2025-10-14 00:00:00	151	151	0			Redaction Requested					1A							  	          	False		True
 6541241	40722	997609		LIUNA AFL-CIO Local 362 PAC		2025-10-15 00:00:00	1000	1000	0			PO Box 3248		Bloomington	IL	61702     	2A							  	          	False		False
 6541242	40722	997609		LIUNA Local 165 PAC		2025-10-15 00:00:00	250	250	0			4509 N Catalina Dr		Peoria	IL	61815     	2A							  	          	False		False
 6541243	40722	997609		IUOE Local 649 PAC		2025-10-22 00:00:00	2000	2000	0			6408 W Plank Rd		Peoria	IL	61604     	2A							  	          	False		False
@@ -626013,4 +626013,5 @@ Chicago	IL	60607     	2A							  	          	False		False
 6561926	38788	1000661		Jain	Dipika	2026-02-19 00:00:00	1000	1000	0	Not Employed	Not Employed	676 N Kingsbury St		Chicago	IL	60654-8100	1A							  	          	True		False
 6561927	38788	1000661		Swibel	Howard J.	2026-02-19 00:00:00	2600	2600	0	Attorney	Saul Ewing LLP	9715 Woods Dr	Unit 1808	Skokie	IL	60077-4448	1A							  	          	True		False
 6561928	38788	1000661		Wuest	Jack	2026-02-19 00:00:00	1000	1000	0	Administrator	Alternative Schools Network	1917 W Estes Ave		Chicago	IL	60626-2319	1A							  	          	True		False
-6561929	407
+6561929	40713	1000662		Cornerstone Government Affairs, Inc.		2026-02-19 00:00:00	1000	1000	0			800 Maine Ave SW	Fl 7	Washington	DC	20024-2818	1A							  	          	True		False
+6561930	4

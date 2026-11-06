@@ -48394,7 +48394,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 84666	O'Keefe	Kevin	110 N Wacker Drive	Suite 3300	Chicago	IL	60606     	Treasurer	                    	False
 77266	O'Keefe	Maggie	2718 W Winnemac #3		Chicago	IL	60625     	Chair	845-282-3629        	False
 82156	O'Keefe	Maggie	2718 W Winnemac #3		Chicago	IL	60625     	Treasurer	847.834.4240        	False
-89740	O'Keefe	Maggie.	1707 West Winona St.	Unit 1	Chicago	IL	60640     	Treasurer	845.282.3629        	False
+89740	O'Keefe	Maggie.	Redaction Requested					Treasurer		True
 45706	O'Keefe	Margret	146 Elm		Elmhurst	IL	60126     	Chair	630.832.8586        	False
 14238	O'Keefe	Ora Lee	513 Louise Dr		Manteno	IL	60950     	Treasurer	(815)468-7158       	False
 13052	O'Keefe	Ray	9933 N Lawler Ave Suite 222		Skokie	IL	60077     	Chair		False
@@ -56853,6 +56853,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 24794	Russett	John	2115 Fairfax Rd		St Charles	IL	60174     	Chair	630/513-5043        	False
 84509	Russo	Adam	2146 University Dr		Naperville	IL	60565     	Chair	630-640-4981        	False
 84510	Russo	Adam	2146 University Dr		Naperville	IL	60565     	Treasurer	630-640-4981        	False
+100664	Russo	Anthony	525 N. Elm St.		Itasca	IL	60143     	Chair	708.774.1072        	False
+100665	Russo	Anthony	525 N. Elm St.		Itasca	IL	60143     	Treasurer	708.774.1072        	False
 79253	Russo	Daniel	3 North Jackson Street		Batavia	IL	60510     	Chair	630.879.2729        	False
 12571	Russo	Elaine	803 S. School St.		Lombard	IL	60148     	Treasurer	                    	False
 37428	Russo	Jeanine	13482 S Silverleaf		Plainfield	IL	60544     	Treasurer	708/280-6777        	False
@@ -64166,7 +64168,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 19634	Sullivan	Carolyn L.	24882 W. Cedarwood Lane		Ingleside	IL	60041     	Treasurer	(708)740-3500       	False
 80751	Sullivan	Colleen	9122 S. Hamilton Ave.		Chicago	IL	60643     	Treasurer	773-368-5612        	False
 100411	Sullivan	Colleen.	10402 S. Western Ave.		Chicago	IL	60643     	Treasurer	773.368.5612        	False
-100626	Sullivan	Constance	1027 Mason		Chicago	IL	60651     	Chair	312-730-8279        	False
+100626	Sullivan	Constance	1027 N. Mason		Chicago	IL	60651     	Chair	312-730-8279        	False
 78917	Sullivan	Dan	118 Amsler St		Bartonville	IL	61607     	Treasurer	309.635.7268        	False
 8382	Sullivan	Daniel	Illinois Acep	1645 Des Plaines Ave., Suite 16	Des Plaines	IL	60018     	Treasurer	                    	False
 26727	Sullivan	Daniel J	3313 N Stanley		Peoria	IL	61604     	Treasurer	309/685-8606        	False

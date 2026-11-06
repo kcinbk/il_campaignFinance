@@ -24186,7 +24186,7 @@ ID	CommitteeID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	ResignD
 37203	39422	Riley	Matthew	2796 S. Mt. Zion Rd		Decatur	IL	62521     	Treasurer	2023-06-08 10:18:52.510000000	False
 38834	39453	Helmick	Charlie	4012 172nd St. N.		East Moline	IL	61244     	Treasurer	2024-06-25 13:26:08.890000000	False
 37434	39456	Foor	Keatin J	1284 E 600 North Rd		Nokomis	IL	62546     	Ext. Assist.	2023-11-17 15:00:24.407000000	False
-37335	39458	O'Keefe	Maggie.	1707 West Winona St.	Unit 1	Chicago	IL	60640     	Treasurer	2023-09-11 08:31:08.783000000	False
+37335	39458	O'Keefe	Maggie.	Redaction Requested					Treasurer	2023-09-11 08:31:08.783000000	True
 37426	39458	Jenkins	Miracle	711 W Gordon Terr #808		Chicago	IL	60613     	Treasurer	2023-11-08 16:15:40.780000000	False
 38618	39461	Venturi	Daniel	PO Box 1107		Lake Villa	IL	60046     	Treasurer	2024-04-03 08:08:11.737000000	False
 37387	39471	Honig	Andrew	414 N. Martha St.		Lombard	IL	60148     	Treasurer	2023-10-12 08:32:52.087000000	False
