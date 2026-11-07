@@ -519836,12 +519836,6 @@ es			False	False	False		False
 4457570	39458	901405	0	ChiTown Printing		2023-09-26 00:00:00	125	1135	6025 N Cicero Ave		Chicago	IL	60646     	8B	Printing			False	False	False		False
 4457571	39458	901405	0	ChiTown Printing		2023-09-26 00:00:00	100	1135	6025 N Cicero Ave		Chicago	IL	60646     	8B	Printing			False	False	False		False
 4457572	39458	901405	0	David A. Nayak Trust		2023-07-28 00:00:00	76300	76300	330 N Wabash Ave	STE 2100	Chicago	IL	60611     	8B	Principal payment, David A. Nayak Trust			False	False	False		False
-4457573	39458	901405	0	O'Keefe	Maggie	2023-07-19 00:00:00	2075	14969.04	1707 W Winona St		Chicago	IL	60640     	8B	Services			False	False	False		False
-4457574	39458	901405	0	O'Keefe	Maggie	2023-07-28 00:00:00	500	14969.04	1707 W Winona St		Chicago	IL	60640     	8B	Services			False	False	False		False
-4457575	39458	901405	0	O'Keefe	Maggie	2023-08-11 00:00:00	4073	14969.04	1707 W Winona St		Chicago	IL	60640     	8B	Services			False	False	False		False
-4457576	39458	901405	0	O'Keefe	Maggie	2023-08-11 00:00:00	2036.5	14969.04	1707 W Winona St		Chicago	IL	60640     	8B	Services			False	False	False		False
-4457577	39458	901405	0	O'Keefe	Maggie	2023-08-31 00:00:00	4073	14969.04	1707 W Winona St		Chicago	IL	60640     	8B	Services			False	False	False		False
-4457578	39458	901405	0	O'Keefe	Maggie	2023-09-15 00:00:00	2211.54	14969.04	1707 W Winona St		Chicago	IL	60640     	8B	Services			False	False	False		False
 4457579	39458	901405	0	ActBlue Technical Services		2023-09-08 00:00:00	128.38	570.91	366 Summer St		Somerville	MA	02144     	8B	Processing Fees			False	False	False		False
 4457580	39458	901405	0	ActBlue Technical Services		2023-09-08 00:00:00	118.51	570.91	366 Summer St		Somerville	MA	02144     	8B	Processing Fees			False	False	False		False
 4457581	39458	901405	0	ActBlue Technical Services		2023-09-08 00:00:00	5.93	570.91	366 Summer St		Somerville	MA	02144     	8B	Processing Fees			False	False	False		False
@@ -519883,6 +519877,12 @@ es			False	False	False		False
 4457617	39458	901405	0	Son	Francis	2023-08-29 00:00:00	500	4069	3432 W Cortland		Chicago	IL	60639     	8B	Services			False	False	False		False
 4457618	39458	901405	0	Son	Francis	2023-09-08 00:00:00	1069	4069	3432 W Cortland		Chicago	IL	60639     	8B	Services			False	False	False		False
 4457619	39458	901405	0	Martin	Raydia	2023-09-08 00:00:00	281.25	281.25	best effort made		Chicago	IL	00000     	8B	Services			False	False	False		False
+4457578	39458	901405		O'Keefe	Maggie	2023-09-15 00:00:00	2211.54	14969.04	Redaction Requested					8B				False	False	False		True
+4457577	39458	901405		O'Keefe	Maggie	2023-08-31 00:00:00	4073	14969.04	Redaction Requested					8B				False	False	False		True
+4457575	39458	901405		O'Keefe	Maggie	2023-08-11 00:00:00	4073	14969.04	Redaction Requested					8B				False	False	False		True
+4457576	39458	901405		O'Keefe	Maggie	2023-08-11 00:00:00	2036.5	14969.04	Redaction Requested					8B				False	False	False		True
+4457574	39458	901405		O'Keefe	Maggie	2023-07-28 00:00:00	500	14969.04	Redaction Requested					8B				False	False	False		True
+4457573	39458	901405		O'Keefe	Maggie	2023-07-19 00:00:00	2075	14969.04	Redaction Requested					8B				False	False	False		True
 4457620	39382	901408	0	Union Signs and Printing		2023-02-06 00:00:00	1900	1900	1 S.  Eastern Avenue		Joliet	IL	60433     	8B	Printing			False	False	False		False
 4457621	39382	901408	0	Forest Printing Company		2023-02-10 00:00:00	349	3130.38	7214 Madison St.		Forest Park	IL	60130     	8B	Printing			False	False	False		False
 4457622	39382	901408	0	Forest Printing Company		2023-02-22 00:00:00	320.66	3130.38	7214 Madison St.		Forest Park	IL	60130     	8B	Printing			False	False	False		False
@@ -633182,8 +633182,8 @@ es			False	False	False		False
 4572125	39442	925406	0	28th Ward Democratic Organization		2024-05-14 00:00:00	250	250	2622 W Jackson Blvd Ste 200C		Chicago	IL	60612     	6B	Contribution			False	False	False		False
 4572126	39442	925406	0	The Double Tavern		2024-04-22 00:00:00	351.89	351.89	3545 W Fullerton Ave		Chicago	IL	60647     	8B	Campaign event - Venue, food, beverages			False	False	False		False
 4572127	39442	925406	0	Empanadus		2024-04-22 00:00:00	401.02	401.02	1943 Ridge Rd		Homewood	IL	60430     	8B	Food, beverages			False	False	False		False
-4572128	39442	925406	0	Friends of Maggie O'Keefe		2024-05-14 00:00:00	250	250	1707 W Winona St #1		Chicago	IL	60640     	6B	Contribution			False	False	False		False
 4572129	39442	925406	0	Rich Township Democrats		2024-06-07 00:00:00	250	250	PO Box 186		Olympia Fields	IL	60461     	6B	Contribution			False	False	False		False
+4572128	39442	925406		Friends of Maggie O'Keefe		2024-05-14 00:00:00	250	250	Redaction Requested					6B				False	False	False		True
 4572130	39645	925409	0	M13Graphics		2024-05-09 00:00:00	295.11	1714.37	1300 Basswood Rd	Unit 100	Schaumburg	IL	60173     	8B	Printing			False	False	False		False
 4572131	39645	925409	0	The Assembly		2024-05-02 00:00:00	200	752.97	901 W Main St		West Dundee	IL	60118     	8B	Fund raising - hall rental			False	False	False		False
 4572132	39645	925409	0	M13Graphics		2024-06-05 00:00:00	1419.26	1714.37	1300 Basswood Rd	Unit 100	Schaumburg	IL	60173     	8B	Printing			False	False	False		False
@@ -645298,4 +645298,5 @@ es			False	False	False		False
 4584241	10	926756	0	Harris Ice Incorporated		2024-04-24 00:00:00	198.44	1597.13	3927 West 5th Avenue		Chicago	IL	60624     	8B	Ice			False	False	False		False
 4584242	10	926756	0	Hinckley Springs		2024-05-07 00:00:00	155.65	540.84	6055 S. Harlem		Chicago	IL	60638     	8B	Water			False	False	False		False
 4584243	10	926756	0	Southwest Regional Publishing		2024-05-07 00:00:00	630.02	630.02	12243 South Harlem Avenue		Palos Heights	IL	60463     	8B	Printing			False	False	False		False
-4584244	10	926756	0	Giordano's of Midway		2024-05-07 00:00:00	57.98	
+4584244	10	926756	0	Giordano's of Midway		2024-05-07 00:00:00	57.98	253.99	6314 South Cicero Avenue		Chicago	IL	60638     	8B	Food			False	False	False		False
+4584245	10	926756	0	Good To Go #88		2024-05-07 00:00:00	188.67	1757.98	6401 West 65th Street		Bedf

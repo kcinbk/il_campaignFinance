@@ -7082,6 +7082,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 6497	Dieringer, Jr	Charles	150 Grace Lane		Chicago Heights	IL		Hwy Commissioner	Township	Bloom	Cook	Democratic	False
 24263	Dierker	Mary A Ardapple	414 W Altorfer Ln		Peoria	IL	61615	Member	County Board	Peoria	Peoria	Republican	False
 5904	Diers	Ken	832 St Benedict		Cahokia	IL	62206	Trustee	Village	Cahokia	St Clair	Independent	False
+54429	Diestel	Nicole	107 W. George Street		Itasca	IL	60143     	Trustee	Village	Itasca	DuPage		False
 17749	Dietchweiler	Michael L	701 S Harrison Ave		Kankakee	IL	60901	Judge	Circuit Court	21	Iroquois	Democratic	False
 42109	Dieterich	Amanda	2627 N Drake Ave		Chicago	IL	60647	Alderperson	Ward	Chicago 35	Cook	Democratic	False
 2304	Dietz	Donald C	20 Dwight		Waterloo	IL	62298	Member	County Board	Monroe 	Monroe	Democratic	False
@@ -23377,6 +23378,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 14228	Presswood	Randall	#1 Dublin		Pontoon Beach	IL	62040	President	Village	Pontoon Beach	Madison		False
 7292	Presta	Louis			Crestwood	IL		Trustee	Village	Crestwood	Cook		False
 26806	Presta	Louis	5200 W 133 St		Crestwood	IL	60445	Mayor	Village	Crestwood	Cook	Republican	False
+54428	Presta	Rodolfo "Rudy"	325 N. Cherry Street		Itasca	IL	60143     	Trustee	Village	Itasca	DuPage		False
 16093	Prestinario	Jeff	12525 Navajo East		Palos Heights	IL	60463	Alderperson	Ward	Palos Heights 1  	Cook	Independent	False
 8376	Preston	Deborah M	RR 1   Box 320		Sullivan	IL	61951	Circuit Clerk	County	Moultrie 	Moultrie	Democratic	False
 16630	Preston	Donelle "Yelle"	1421 Congress		Ford Heights	IL	60411	Clerk	Village	Ford Heights	Cook	Independent	False
@@ -25247,6 +25249,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 1197	Russell	Thomas G	5 Dogwood Lane		Elsah	IL	62028	Judge	Circuit Court	7	Jersey	Democratic	False
 4856	Russell	William H						Member	County Board	McHenry 6  	McHenry	Republican	False
 45241	Russo	Adam	2146 University Dr		Naperville	IL	60565	Member	School	203	DuPage	Non Partisan	False
+54430	Russo	Anthony G.	525 N. Elm Street		Itasca	IL	60143     	Trustee	Village	Itasca	DuPage		False
 43276	Russo	Nathan "Chiko"	827 W Oakland Ave		Bloomington	IL	61701	Member	County Board	McLean	McLean	Democratic	False
 18503	Russo	Richard D	511 W Wesley		Wheaton	IL	60187	Judge	Circuit Court	18	DuPage	Republican	False
 5503	Russotto	Anthony	1229 White Fence Lane		Addison	IL	60101	President	Village	Addison	DuPage	Independent	False

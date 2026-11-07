@@ -1,5 +1,4 @@
-253.99	6314 South Cicero Avenue		Chicago	IL	60638     	8B	Food			False	False	False		False
-4584245	10	926756	0	Good To Go #88		2024-05-07 00:00:00	188.67	1757.98	6401 West 65th Street		Bedford Park	IL	60499     	8B	Fuel			False	False	False		False
+ord Park	IL	60499     	8B	Fuel			False	False	False		False
 4584246	10	926756	0	Speedway		2024-05-07 00:00:00	67.16	553.98	1300 West Normantown		Romeoville	IL	60446     	8B	Fuel			False	False	False		False
 4584247	10	926756	0	Akerman		2024-05-07 00:00:00	2845.36	4268.04	P.O. Box4906		Orlando	FL	32802     	8B	Fees			False	False	False		False
 4584248	10	926756	0	Good To Go #88		2024-04-02 00:00:00	90.5	1757.98	6401 West 65th Street		Bedford Park	IL	60499     	8B	Fuel			False	False	False		False
@@ -2217,7 +2216,6 @@
 4586460	17385	927040	0	AT & T		2024-06-28 00:00:00	499.45	1698.02	Bill Payment Center		Saginaw	MI	48663     	8B	Telephones			False	False	False		False
 4586461	17385	927040	0	AT & T		2024-04-29 00:00:00	427.59	1698.02	Bill Payment Center		Saginaw	MI	48663     	8B	Telephones			False	False	False		False
 4586462	22108	927041	0	Ellen for Education		2024-06-28 00:00:00	2500	0	2428 W. Dakin Street		Chicago	IL	60618     	6B	Donation			False	False	False		False
-4586463	22108	927041	0	Friends of Maggie O'Keefe		2024-05-21 00:00:00	500	0	1707 W. Winona St #1		Chicago	IL	60640     	6B	donation			False	False	False		False
 4586464	22108	927041	0	GO Consulting		2024-06-30 00:00:00	1000	0	9947 S Damen Ave		Chicago	IL	60643     	8B	Professional Fees			False	False	False		False
 4586465	22108	927041	0	Google		2024-04-01 00:00:00	6.38	0	1600 Amphitheatre Parkway		Mountain View	CA	94043     	8B	Marketing			False	False	False		False
 4586466	22108	927041	0	Google		2024-04-01 00:00:00	12.38	0	1600 Amphitheatre Parkway		Mountain View	CA	94043     	8B	Marketing			False	False	False		False
@@ -2237,6 +2235,7 @@
 4586480	22108	927041	0	Mercy Home for Boys and Girls		2024-06-01 00:00:00	1500	0	1140 W. Jackson Blvd		Chicago	IL	60607     	8B	Event Sponsor			False	False	False		False
 4586481	22108	927041	0	Nikki for Congress		2024-04-01 00:00:00	500	0	PO Box5171		Springfield	IL	          	6B	Donation			False	False	False		False
 4586482	22108	927041	0	Uncle Remus Catering		2024-04-30 00:00:00	247.73	0	5611 W.Madison St		Chicago	IL	60644     	8B	Event Sponsor			False	False	False		False
+4586463	22108	927041		Friends of Maggie O'Keefe		2024-05-21 00:00:00	500	0	Redaction Requested					6B				False	False	False		True
 4586483	39660	927043	0	AMANDA HART DESIGN		2024-04-04 00:00:00	150	450	813 ADRIENNE AVE		OTTAWA	IL	61350     	8B	Website design			False	False	False		False
 4586484	39660	927043	0	GETHRU COMMUNICATIONS		2024-04-08 00:00:00	781.52	781.52	9450 SW GEMINI DR PMB 79340		BEAVERTON	OR	97008     	8B	Media - production			False	False	False		False
 4586485	39660	927043	0	RHONDA JOHNSON PHOTOGRAPHY		2024-04-18 00:00:00	180	180	1499 N 2950TH RD		OTTAWA	IL	61350     	8B	Photography			False	False	False		False
@@ -5760,8 +5759,8 @@
 4590003	344	927309	0	Friends of Steve McClure		2024-06-12 00:00:00	250	250	PO Box 83		Springfield	IL	62705     	6B	Contribution			False	False	False		False
 4590004	344	927309	0	Huffman	Jason	2024-06-12 00:00:00	75	219.58	105 West Monroe Street		Athens	IL	62613     	8B	Campaign Work			False	False	False		False
 4590005	39357	927310	0	Calvin for Committeeman		2024-05-16 00:00:00	250	250	21010 Cambridge Ln		Olympia Fields	IL	60461     	6B	Contribution			False	False	False		False
-4590006	39357	927310	0	Friends of Maggie O'Keefe		2024-06-06 00:00:00	500	500	1707 W Winona St #1		Chicago	IL	60640     	6B	Contribution			False	False	False		False
 4590007	39357	927310	0	Friends of Matt O'Shea		2024-06-19 00:00:00	250	250	10402 S Western Ave		Chicago	IL	60643     	6B	Contribution			False	False	False		False
+4590006	39357	927310		Friends of Maggie O'Keefe		2024-06-06 00:00:00	500	500	Redaction Requested					6B				False	False	False		True
 4590008	35462	927312	0	Springfield Marriot		2024-04-30 00:00:00	102.55	429.62	2915 Stanford Ave		Springfield	IL	62703     	8B	Lodging - candidate			False	False	False		False
 4590009	35462	927312	0	Delta Sonic Melrose Park		2024-04-30 00:00:00	81.01	410.21	8940 W North Ave		Melrose Park	IL	60160     	8B	Fuel			False	False	False		False
 4590010	35462	927312	0	Smokey Bones		2024-04-30 00:00:00	44.27	265.57	6690 E State St		Rockford	IL	61108     	8B	Food			False	False	False		False
@@ -64163,7 +64162,6 @@
 4659118	37075	959854	0	Chitown Printing		2024-10-23 00:00:00	5875	5875	5488 N. Mason Avenue		Chicago	IL	60663     	8B	Printing			False	False	False		False
 4659119	37075	959854	0	Kankakee Daily Journal		2024-10-23 00:00:00	420	420	1 Dearborn Square		Kankakee	IL	60901     	8B	Advertising - newspaper			False	False	False		False
 4659120	37075	959854	0	State Board of Elections		2024-11-04 00:00:00	5879.38	5879.38	2329 S. MacArthur Blvd.		Springfield	IL	62704     	8B	Fine			False	False	False		False
-4659121	37075	959854	0	Okeefe	Maggie	2024-11-25 00:00:00	500	500	1707 W. Winona Street		Chicago	IL	60640     	8B	Consulting			False	False	False		False
 4659122	37075	959854	0	Abolition Institute		2024-11-25 00:00:00	500	500	1005 W. Buena #3		Chicago	IL	60613     	8B	Charitable contribution			False	False	False		False
 4659123	37075	959854	0	Art & Company		2024-12-05 00:00:00	536.32	536.32	15609 S. 94th Avenue		Orland Park	IL	60462     	8B	Campaign sign frame			False	False	False		False
 4659124	37075	959854	0	Uriaus	Anthony	2024-12-02 00:00:00	250	250	2000 Saint Regis Drive		Lombard	IL	60148     	8B	Photo at swearing in ceremony			False	False	False		False
@@ -64171,6 +64169,7 @@
 4659126	37075	959854	0	Thornton Gas Station		2024-10-07 00:00:00	50.47	189.25	2600 James Thornton Way		Louisville	KY	40245     	8B	Gasoline			False	False	False		False
 4659127	37075	959854	0	Thornton Gas Station		2024-10-28 00:00:00	45.69	189.25	2600 James Thornton Way		Louisville	KY	40245     	8B	Gasoline			False	False	False		False
 4659128	37075	959854	0	Thornton Gas Station		2024-10-28 00:00:00	45.15	189.25	2600 James Thornton Way		Louisville	KY	40245     	8B	Gasoline			False	False	False		False
+4659121	37075	959854	0	Okeefe	Maggie	2024-11-25 00:00:00	500	500	Redaction Requested					8B	Consulting			False	False	False		True
 4659129	34345	959860	0	47th Ward Regular Democratic Organization		2024-10-15 00:00:00	235	235	2234 W Irving Park Rd		Chicago	IL	60618-3839	6B	Donation			False	False	False		False
 4659130	34345	959860	0	Act Blue		2024-10-06 00:00:00	4.95	206.56	PO Box 441146		West Somerville	MA	02144-0031	8B	Credit Card Processing Fees			False	False	False		False
 4659131	34345	959860	0	Act Blue		2024-10-13 00:00:00	44.66	206.56	PO Box 441146		West Somerville	MA	02144-0031	8B	Credit Card Processing Fees			False	False	False		False
@@ -74532,11 +74531,11 @@
 4669488	675	961724	0	Peases Bunn Gourmet		2024-12-13 00:00:00	675.62	675.62	2941 Plaza Drive		Springfield	IL	62704     	8B	Expenditure - Campaign Materials			False	False	False		False
 4669489	675	961724	0	Sullivan	Lori	2024-10-25 00:00:00	300	300	843 Avalon Ct		Crystal Lake	IL	60014-8508	8B	Refund			False	False	False		False
 4669464	675	961724	0	Elect Rachel Ventura		2024-10-08 00:00:00	500	500	Redaction Requested					6B	CONTRIBUTION			False	False	False		True
-4669490	39458	961725	0	O'Keefe	Maggie	2024-12-12 00:00:00	30050	30050	1707 W Winona St		Chicago	IL	60640     	8B	Services			False	False	False		False
 4669491	39458	961725	0	Taetle	Shirley	2024-12-16 00:00:00	240	240	7800 W Foresthill Ln #207B		Palos Heights	IL	60463     	8B	Accounting fees			False	False	False		False
 4669492	39458	961725	0	Hespell	Laura	2024-10-28 00:00:00	448	891	40 Deerfield Rd		Shrewsbury	MA	01545     	8B	Social Media			False	False	False		False
 4669493	39458	961725	0	Hespell	Laura	2024-11-26 00:00:00	443	891	40 Deerfield Rd		Shrewsbury	MA	01545     	8B	Social Media			False	False	False		False
 4669494	39458	961725	0	Burke Warren MacKay & Serritella PC		2024-11-10 00:00:00	1520	1520	330 N Wabash Ave #2100		Chicago	IL	60611     	8B	Legal fees			False	False	False		False
+4669490	39458	961725		O'Keefe	Maggie	2024-12-12 00:00:00	30050	30050	Redaction Requested					8B				False	False	False		True
 4669495	1385	961726	0	Friends of Jennifer Gain Meyer		2024-12-02 00:00:00	375	375	12 Dale Allen		Belleville	IL	62226     	6B	Contribution			False	False	False		False
 4669496	1385	961726	0	Teamsters Local 50 PAC Fund		2024-11-01 00:00:00	250	250	1609 North Illinois Street		Belleville	IL	62226     	6B	Contribution			False	False	False		False
 4669497	1385	961726	0	Monetary Management Group, Inc.		2024-10-24 00:00:00	400	400	13537 Barrett Parkway Drive #325		Ballwin	MO	63021     	6B	Reimbursement			False	False	False		False
@@ -97291,7 +97290,6 @@
 4692246	19323	963141	0	Demos	Elena	2024-12-01 00:00:00	1000	1000	807 S Chester Ave		Park Ridge	IL	60068-4614	8B	Refund of contribution			False	False	False		False
 4692247	19323	963141	0	Dimitrijevic	Milos	2024-12-01 00:00:00	1000	1000	21 Ashton Dr		Burr Ridge	IL	60527-0308	8B	Refund of contribution			False	False	False		False
 4692248	19323	963141	0	Flowers by Mary Lou		2024-11-22 00:00:00	174.63	174.63	105 S Grand Ave W		Springfield	IL	62704-3805	8B	Sympathy flowers			False	False	False		False
-4692249	19323	963141	0	Friends of Maggie O'Keefe		2024-10-28 00:00:00	250	250	1707 W Winona St	Apt 1	Chicago	IL	60640-2745	6B	Contribution			False	False	False		False
 4692250	19323	963141	0	Friends of Rinehart		2024-10-28 00:00:00	1000	1000	PO Box 686		Highwood	IL	60040-0686	6B	Contribution			False	False	False		False
 4692251	19323	963141	0	Illinois Department of Revenue		2024-10-17 00:00:00	2900	4673	PO Box 19004		Springfield	IL	62794-9004	8B	State taxes			False	False	False		False
 4692252	19323	963141	0	Illinois Department of Revenue		2024-10-17 00:00:00	1773	4673	PO Box 19004		Springfield	IL	62794-9004	8B	State taxes			False	False	False		False
@@ -97306,6 +97304,7 @@
 4692261	19323	963141	0	Paragon Payment Solutions		2024-11-04 00:00:00	2763.27	2928.19	1505 N Hayden Rd	Ste	Scottsdale	AZ	85257-3770	8B	Merchant processing fees			False	False	False		False
 4692262	19323	963141	0	Paragon Payment Solutions		2024-12-02 00:00:00	43.39	2928.19	1505 N Hayden Rd	Ste	Scottsdale	AZ	85257-3770	8B	Merchant processing fees			False	False	False		False
 4692263	19323	963141	0	Ted for County Board		2024-10-15 00:00:00	1000	1000	7 N984 Woodcliff Dr		South Elgin	IL	60177-2362	6B	Contribution			False	False	False		False
+4692249	19323	963141		Friends of Maggie O'Keefe		2024-10-28 00:00:00	250	250	Redaction Requested					6B				False	False	False		True
 4692264	24889	963142	0	Curt's Cafe		2017-04-14 00:00:00	512	512	2922 Central Street		Evanston	IL	60201     	8B	Election day expense			False	False	True		False
 4692265	24889	963142	0	1030 Davis Street, LLC		2017-05-01 00:00:00	613	613	1030 Davis Street		Evanston	IL	60202     	8B	Utilities			False	False	True		False
 4692266	24889	963142	0	Santiago	Antonio	2017-04-01 00:00:00	60	300			Chicago	IL	          	8B	Campaign Work			False	False	True		False
@@ -128216,9 +128215,9 @@
 4723171	40073	971930	0	Mueller	Lindsay	2025-03-06 00:00:00	1200	3600	642 N Kensington Ave		La Grange	IL	60526     	8B	Consulting Services			False	False	False		False
 4723172	40073	971930	0	Mueller	Lindsay	2025-03-20 00:00:00	1200	3600	642 N Kensington Ave		La Grange	IL	60526     	8B	Consulting Services			False	False	False		False
 4723173	40073	971930	0	Hittmeier	Macy	2025-03-20 00:00:00	660	660	955 W Cornelia Ave	Apt 1C	Chicago	IL	60657     	8B	Field Organizing			False	False	False		False
-4723174	40073	971930	0	O'Keefe	Maggie	2025-02-21 00:00:00	1125	3375	1707 W Winona St	#1	Chicago	IL	60640     	8B	Field Organizing			False	False	False		False
-4723175	40073	971930	0	O'Keefe	Maggie	2025-03-06 00:00:00	1125	3375	1707 W Winona St	#1	Chicago	IL	60640     	8B	Field Organizing			False	False	False		False
-4723176	40073	971930	0	O'Keefe	Maggie	2025-03-20 00:00:00	1125	3375	1707 W Winona St	#1	Chicago	IL	60640     	8B	Field Organizing			False	False	False		False
+4723176	40073	971930		O'Keefe	Maggie	2025-03-20 00:00:00	1125	3375	Redaction Requested					8B				False	False	False		True
+4723175	40073	971930		O'Keefe	Maggie	2025-03-06 00:00:00	1125	3375	Redaction Requested					8B				False	False	False		True
+4723174	40073	971930		O'Keefe	Maggie	2025-02-21 00:00:00	1125	3375	Redaction Requested					8B				False	False	False		True
 4723177	22432	971931	0	Wheaton Independence Day		2024-05-22 00:00:00	198.25	198.25	Requested		Wheaton	IL	Requested 	8B	Donation			False	False	False		False
 4723178	22432	971931	0	US Postal Service		2024-06-03 00:00:00	204	285.6	433 W. Harrison		Chicago	IL	60610     	8B	Postage			False	False	False		False
 4723179	22432	971931	0	US Postal Service		2024-06-12 00:00:00	81.6	285.6	433 W. Harrison		Chicago	IL	60610     	8B	Postage			False	False	False		False
@@ -151515,10 +151514,10 @@
 4746470	37462	976628	0	Crown Awards		2025-05-06 00:00:00	212.66	212.66	9 Skyline Drive		Hawthorne	NY	10532     	8B	Awards/Crystal			False	False	False		False
 4746471	37462	976628	0	Papa Joe's Restaurant		2025-05-08 00:00:00	210	2176.27	14459 S LaGrange Road		ORLAND PARK	IL	60462     	8B	Staff salaries			False	False	False		False
 4746472	37462	976628	0	Papa Joe's Restaurant		2025-05-08 00:00:00	1966.27	2176.27	14459 S LaGrange Road		ORLAND PARK	IL	60462     	8B	Fund raising - food			False	False	False		False
-4746473	37462	976628	0	Friends of Maggie O'Keefe		2025-06-03 00:00:00	200	200	1707 W Winona St, #1		Chicago	IL	60640     	8B	Fundraiser			False	False	False		False
 4746474	37462	976628	0	Preckwinkle for President		2025-06-25 00:00:00	500	500	140 S Dearborn, #600	Suite 1529	Chicago	IL	60603     	8B	Fundraiser			False	False	False		False
 4746475	37462	976628	0	Chicago Police Memorial Foundation		2025-06-25 00:00:00	200	200	1407 W Washington Blvd		Chicago	IL	60607     	8B	Donation			False	False	False		False
 4746476	37462	976628	0	Worth Township Democratic Organization		2025-06-19 00:00:00	250	250	PO Box 1022		Worth	IL	60482     	8B	Fundraiser			False	False	False		False
+4746473	37462	976628		Friends of Maggie O'Keefe		2025-06-03 00:00:00	200	200	Redaction Requested					8B				False	False	False		True
 4746477	37029	976629	0	Bill Doran Company		2025-06-24 00:00:00	500	500	1112 N. Homan		Chicago	IL	60651     	8B	Flowers for event			False	False	False		False
 4746478	36232	976630	0	Sector Services LLC		2025-04-13 00:00:00	2670	2670	116 Commons Drive		Palos Park	IL	60464     	8B	Consulting			False	False	False		False
 4746479	36232	976630	0	Gallaghers Pub		2025-04-01 00:00:00	500	500	160 Eb North street		Manhattan	IL	60442     	8B	Election day expense			False	False	False		False
@@ -163272,7 +163271,6 @@
 4758227	497	979443	0	Forest Printing		2025-04-04 00:00:00	2089.13	2089.13	7214 Madison St		Forest Park	IL	60130     	8B	Printing			False	False	False		False
 4758228	497	979443	0	Thrive Market		2025-06-21 00:00:00	162.92	162.92	12130 Millennium Dr #300		Los Angeles	CA	90094     	8B	Food			False	False	False		False
 4758229	497	979443	0	IW360		2025-06-21 00:00:00	1000	1000	1835 W Orangewood Ave		Orange	IL	92868     	8B	Computer - services			False	False	False		False
-4758230	497	979443	0	O'Keefe, Friends of Maggie		2025-05-01 00:00:00	250	250	1707 W Winona St		Chicago	IL	60640     	6B	Contribution			False	False	False		False
 4758231	497	979443	0	LBH Consulting		2025-04-14 00:00:00	13000	39000	101 W Grand Ave		Chicago	IL	60654     	8B	Consulting			False	False	False		False
 4758232	497	979443	0	LBH Consulting		2025-05-16 00:00:00	13000	39000	101 W Grand Ave		Chicago	IL	60654     	8B	Consulting			False	False	False		False
 4758233	497	979443	0	LBH Consulting		2025-06-09 00:00:00	13000	39000	101 W Grand Ave		Chicago	IL	60654     	8B	Consulting			False	False	False		False
@@ -163282,6 +163280,7 @@
 4758237	497	979443	0	The Dover Group		2025-04-05 00:00:00	1065.63	29040.64	1570 Michigan Blvd		Dunedin	FL	34698     	9B	Mailing	Dustin Himmerich	Helen Plum Library District Board Trustee	False	True	False		False
 4758238	497	979443	0	The Dover Group		2025-04-05 00:00:00	1065.63	29040.64	1570 Michigan Blvd		Dunedin	FL	34698     	9B	Mailing	Daniel O'Connell	Helen Plum Library District Board Trustee	False	True	False		False
 4758239	497	979443	0	The Dover Group		2025-04-05 00:00:00	4851.6	29040.64	1570 Michigan Blvd		Dunedin	FL	34698     	9B	Mailing	Tom Chavez	Elmhurst School District 205 Board of Education	False	True	False		False
+4758230	497	979443		O'Keefe, Friends of Maggie		2025-05-01 00:00:00	250	250	Redaction Requested					6B				False	False	False		True
 4758240	24296	979445	0	Intuit		2025-05-24 00:00:00	107.91	323.73	2632 Marine Way		Mountain View	CA	94043     	8B	Computer - software			False	False	False		False
 4758241	24296	979445	0	Intuit		2025-06-24 00:00:00	107.91	323.73	2632 Marine Way		Mountain View	CA	94043     	8B	Computer - software			False	False	False		False
 4758242	24296	979445	0	Intuit		2025-04-24 00:00:00	107.91	323.73	2632 Marine Way		Mountain View	CA	94043     	8B	Computer - software			False	False	False		False
@@ -171104,7 +171103,7 @@
 4766059	25659	980249	0	Verizon		2025-05-22 00:00:00	59.94	0	PO Box 489		Newarj	NJ	07101     	8B	Cell Phone			False	False	False		False
 4766060	25659	980249	0	Verizon		2025-06-04 00:00:00	59.94	0	PO Box 489		Newarj	NJ	07101     	8B	Cell Phone			False	False	False		False
 4766061	40500	980252	0	ChiTown Printing		2025-06-25 00:00:00	475	475	6025 N CIcero Ave		Chicago	IL	60646     	8B	Walk Card Printing			False	False	True		False
-4766062	40500	980252	0	Friends of Maggie O'Keefe		2025-06-03 00:00:00	1000	1000	1707 W Winona St, #1		Chicago	IL	60640     	6B	Birthday Event Contribution			False	False	True		False
+4766062	40500	980252	0	Friends of Maggie O'Keefe		2025-06-03 00:00:00	1000	1000	Redaction Requested					6B	Birthday Event Contribution			False	False	True		True
 4766063	40500	980252	0	Pivot Point Strategies LLC		2025-06-04 00:00:00	3000	3000	528 Park Ave #1		Wilmette	IL	60091     	8B	Political Consulting Fees			False	False	True		False
 4766064	40500	980252	0	ActBlue		2025-05-07 00:00:00	19.75	1385.5	366 Summer St		Somerville	MA	02144-3132	8B	Fees			False	False	True		False
 4766065	40500	980252	0	ActBlue		2025-05-27 00:00:00	11.85	1385.5	366 Summer St		Somerville	MA	02144-3132	8B	Fees			False	False	True		False
@@ -174723,11 +174722,11 @@
 4769678	40073	980537	0	Rummelhart	Jenna	2025-04-03 00:00:00	500	500	1069 Cormar Dr		Lake Zurich	IL	60047     	8B	Website Support			False	False	False		False
 4769679	40073	980537	0	Mueller	Lindsay	2025-04-03 00:00:00	1200	1200	642 N Kensington Ave		La Grange	IL	60526     	8B	Consulting Services			False	False	False		False
 4769680	40073	980537	0	Hittmeier	Macy	2025-04-03 00:00:00	660	660	955 W Cornelia Ave	Apt 1C	Chicago	IL	60657     	8B	Field Organizing			False	False	False		False
-4769681	40073	980537	0	O'Keefe	Maggie	2025-04-03 00:00:00	1125	1125	1707 W Winona St	#1	Chicago	IL	60640     	8B	Field Organizing			False	False	False		False
 4769682	40073	980537	0	KMM Consulting, LLC		2025-05-02 00:00:00	1500	1500	1951 W Foster Ave	#1	Chicago	IL	60640     	8B	Compliance Services			False	False	False		False
 4769683	40073	980537	0	Feldman	Vincent	2025-04-14 00:00:00	1200	1200	7300 N McVicker Ave		Chicago	IL	60646     	8B	Payroll-Advising			False	False	False		False
 4769684	40073	980537	0	Hanley for Illinois		2025-05-22 00:00:00	10000	10000	589 Lincoln Ave.		Winnetka	IL	60093     	8B	Donation			False	False	False		False
 4769685	40073	980537	0	Linden	Cameron	2025-04-14 00:00:00	636.76	636.76	5706 S Blackstone Avenue Apt 3		Chicago	IL	60637     	8B	Reimbursement for Car Rentals			False	False	False		False
+4769681	40073	980537		O'Keefe	Maggie	2025-04-03 00:00:00	1125	1125	Redaction Requested					8B				False	False	False		True
 4769686	39535	980538	0	SCRCC		2025-05-02 00:00:00	1500	1500	1132 Sangamon Avenue		Springfield	IL	62702     	6B	Contribution			False	False	False		False
 4769687	39535	980538	0	Friends of Stacia Munroe		2025-04-01 00:00:00	500	500	6 Meadowland Drive		Rochester	IL	62563     	6B	Contribution			False	False	False		False
 4769688	34015	980539	0	Blue Plate Catering, Inc.		2025-04-15 00:00:00	1246.44	2492.88	1362 W Fulton St		Chicago	IL	60607-1124	8B	Fundraiser Expense			False	False	False		False
@@ -177746,7 +177745,7 @@
 4772701	40614	980746	0	Friends for Don		2025-06-03 00:00:00	500	500	6941-A W. North Ave		Oak Park	IL	60302     	8B	Donation			False	False	True		False
 4772702	40614	980746	0	Friends of Ted Mason		2025-06-02 00:00:00	250	250	600 Landmeier		Elk Grove Village	IL	60007     	8B	Donation			False	False	True		False
 4772703	40614	980746	0	Friends of Maria Galo		2025-06-02 00:00:00	250	250	117 N. Cedar St		Palatine	IL	60067     	8B	Donation			False	False	True		False
-4772704	40614	980746	0	Friends of Maggie O'Keefe		2025-06-02 00:00:00	250	250	1707 W Winona St	#1	Chicago	IL	60640     	8B	Donation			False	False	True		False
+4772704	40614	980746	0	Friends of Maggie O'Keefe		2025-06-02 00:00:00	250	250	Redaction Requested					8B	Donation			False	False	True		True
 4772705	40614	980746	0	Friends of Napoleon Harris		2025-06-04 00:00:00	516	516	PO Box 429		Flossmoor	IL	60422     	8B	Donation			False	False	True		False
 4772706	40614	980746	0	Adjetey	Kevin	2025-05-21 00:00:00	250	250	Ash Grove Ln		Oswego	IL	60543     	8B	Photography			False	False	True		False
 4772707	40614	980748	0	Victory Executive Coaching Corporation		2025-06-13 00:00:00	1000	3975	1133 E 83rd St	Unit 195	Chicago	IL	60619     	8B	Consulting			False	False	False		False
@@ -177771,9 +177770,9 @@
 4772726	40614	980748	0	Friends for Don		2025-06-03 00:00:00	500	500	6941-A W. North Ave		Oak Park	IL	60302     	8B	Donation			False	False	False		False
 4772727	40614	980748	0	Friends of Ted Mason		2025-06-02 00:00:00	250	250	600 Landmeier		Elk Grove Village	IL	60007     	8B	Donation			False	False	False		False
 4772728	40614	980748	0	Friends of Maria Galo		2025-06-02 00:00:00	250	250	117 N. Cedar St		Palatine	IL	60067     	8B	Donation			False	False	False		False
-4772729	40614	980748	0	Friends of Maggie O'Keefe		2025-06-02 00:00:00	250	250	1707 W Winona St	#1	Chicago	IL	60640     	8B	Donation			False	False	False		False
 4772730	40614	980748	0	Friends of Napoleon Harris		2025-06-04 00:00:00	516	516	PO Box 429		Flossmoor	IL	60422     	8B	Donation			False	False	False		False
 4772731	40614	980748	0	Adjetey	Kevin	2025-05-21 00:00:00	250	250	Ash Grove Ln		Oswego	IL	60543     	8B	Photography			False	False	False		False
+4772729	40614	980748		Friends of Maggie O'Keefe		2025-06-02 00:00:00	250	250	Redaction Requested					8B				False	False	False		True
 4772732	36890	980749	0	Women’s Bar Association of Illinois		2025-06-22 00:00:00	300	300	321 S Plymouth #4s		Chicago	IL	60604     	8B	Donation			False	False	False		False
 4772733	36890	980749	0	Victory Executive Coaching Corp		2025-04-28 00:00:00	1250	6275	1133 East 83rd Street	Unit 195	Chicago	IL	60619     	8B	Website			False	False	False		False
 4772734	36890	980749	0	Victory Executive Coaching Corp		2025-04-24 00:00:00	1025	6275	1133 East 83rd Street	Unit 195	Chicago	IL	60619     	8B	Palm cards			False	False	False		False
@@ -217887,7 +217886,6 @@
 4812842	40614	989904	0	Illinois Bar Association		2025-07-01 00:00:00	455	580				IL	          	8B				False	False	False		False
 4812843	40614	989904	0	Illinois Bar Association		2025-07-21 00:00:00	125	580				IL	          	8B	Donation			False	False	False		False
 4812844	40614	989904	0	Rich Township		2025-09-22 00:00:00	250	250	22013 Governors Highway		Richton Park	IL	60471     	8B	Donation			False	False	False		False
-4812845	40614	989904	0	Friends of Maggie O'Keefe		2025-07-07 00:00:00	250	250	1707 W Winona St	#1	Chicago	IL	60640     	8B	Donation			False	False	False		False
 4812846	40614	989904	0	Victory Executive Coaching Corporation		2025-07-01 00:00:00	1000	22180	1133 E 83rd St	Unit 195	Chicago	IL	60619     	8B	Consulting			False	False	False		False
 4812847	40614	989904	0	Victory Executive Coaching Corporation		2025-08-13 00:00:00	3860	22180	1133 E 83rd St	Unit 195	Chicago	IL	60619     	8B	Campaign Work			False	False	False		False
 4812848	40614	989904	0	Victory Executive Coaching Corporation		2025-08-28 00:00:00	5840	22180	1133 E 83rd St	Unit 195	Chicago	IL	60619     	8B	Campaign Work			False	False	False		False
@@ -217906,6 +217904,7 @@
 4812861	40614	989904	0	AKArama Foundation		2025-09-26 00:00:00	250	630	6220 South Ingleside Avenue		Chicago	IL	          	8B	Donation			False	False	False		False
 4812862	40614	989904	0	Friends of Monica Gordon		2025-07-15 00:00:00	250	250				IL	          	8B	Donation			False	False	False		False
 4812863	40614	989904	0	Citizens for Marcus C Evans Jr		2025-08-28 00:00:00	250	250	PO Box 1043		Chicago	IL	60690     	8B	Donation			False	False	False		False
+4812845	40614	989904		Friends of Maggie O'Keefe		2025-07-07 00:00:00	250	250	Redaction Requested					8B				False	False	False		True
 4812864	35146	989905	0	Stamps	Tara	2025-01-16 00:00:00	30	1586.87	634 N.Long		Chicago	IL	60644     	8B	Paid Invoice for Flight Skool/parking			False	False	True		False
 4812865	35146	989905	0	Stamps	Tara	2025-01-17 00:00:00	100	1586.87	634 N.Long		Chicago	IL	60644     	8B	Paid Invoice to 7388 Consulting - MLK Breakfast			False	False	True		False
 4812866	35146	989905	0	Stamps	Tara	2025-01-24 00:00:00	400	1586.87	634 N.Long		Chicago	IL	60644     	8B	Paid Invoice to Keith Caldwell			False	False	True		False
@@ -258713,7 +258712,6 @@
 4853668	35294	998427	0	ActBlue Technical Services		2025-11-16 00:00:00	91.87	215.81	366 Summer Street		Somerville	MA	02144     	8B	Computer - services			False	False	False		False
 4853669	35294	998427	0	ActBlue Technical Services		2025-11-23 00:00:00	19.77	215.81	366 Summer Street		Somerville	MA	02144     	8B	Computer - services			False	False	False		False
 4853670	32198	998429	0	Rising Tide Interactive		2025-10-02 00:00:00	3500	5000	529 14th Street NW		Washington	DC	20045     	8B	Graphic design			False	False	False		False
-4853671	32198	998429	0	O'Keefe	Maggie	2025-10-04 00:00:00	16000	16000	1707 W.Winona St.		Chicago	IL	60640     	8B	Campaign staff			False	False	False		False
 4853672	32198	998429	0	Thomas	Justin	2025-10-04 00:00:00	5000	5000	1707 W. Winona St.		Chicago	IL	60640     	8B	Consulting			False	False	False		False
 4853673	32198	998429	0	Korean Media Group (Kyocharo Chicago)		2025-10-07 00:00:00	200	200	3520 Milwaukee Ave #2F		Northbrook	IL	60062     	8B	Advertising - online			False	False	False		False
 4853674	32198	998429	0	Change Research		2025-10-08 00:00:00	11900	11900	42 Delmar St		San Francisco	CA	94117     	8B	Polling			False	False	False		False
@@ -258774,6 +258772,7 @@
 4853729	32198	998429	0	ActBlue Illinois		2025-12-21 00:00:00	417.62	2525.19	PO Box 441146		Somerville	MA	02144     	8B	Bank charges			False	False	False		False
 4853730	32198	998429	0	ActBlue Illinois		2025-12-28 00:00:00	149.17	2525.19	PO Box 441146		Somerville	MA	02144     	8B	Bank charges			False	False	False		False
 4853731	32198	998429	0	ActBlue Illinois		2025-12-31 00:00:00	421.73	2525.19	PO Box 441146		Somerville	MA	02144     	8B	Bank charges			False	False	False		False
+4853671	32198	998429		O'Keefe	Maggie	2025-10-04 00:00:00	16000	16000	Redaction Requested					8B				False	False	False		True
 4853732	35985	998430	0	Adcraft Printers, Inc.		2025-10-15 00:00:00	411.97	411.97	1355 West Jeffery Street		Kankakee	IL	60901     	8B	Printing			False	False	False		False
 4853733	35985	998430	0	Kankakee County Drug Free, Inc.		2025-10-24 00:00:00	500	500	470 East Merchant Street		Kankakee	IL	60901     	8B	Donation			False	False	False		False
 4853734	35985	998430	0	Andrade	Jessica	2025-10-22 00:00:00	250	250	289 South Greenwood Avenue		Kankakee	IL	60901     	8B	Contribution			False	False	False		False
@@ -302705,8 +302704,6 @@
 4897660	32198	1007802	0	Facebook		2026-03-27 00:00:00	975	2367	1 Hacker Way		Menlo Park	CA	94025     	8B	Advertising			False	False	False		False
 4897661	32198	1007802	0	Stomping Ground Strategies LLC		2026-01-05 00:00:00	5000	35500	P.O. Box 30302		Chicago	IL	60630     	8B	Consulting			False	False	False		False
 4897662	32198	1007802	0	Watson	Patrick	2026-01-06 00:00:00	5000	15000	4755 Main St	Unit 1319	Lisle	IL	60532     	8B	Consulting			False	False	False		False
-4897663	32198	1007802	0	O'Keefe	Maggie	2026-01-08 00:00:00	8000	24000	1707 W.Winona St.		Chicago	IL	60640     	8B	Consulting			False	False	False		False
-4897664	32198	1007802	0	O'Keefe	Maggie	2026-01-08 00:00:00	16000	24000	1707 W.Winona St.		Chicago	IL	60640     	8B	Consulting			False	False	False		False
 4897665	32198	1007802	0	Stomping Ground Strategies LLC		2026-01-13 00:00:00	5000	35500	P.O. Box 30302		Chicago	IL	60630     	8B	Consulting			False	False	False		False
 4897666	32198	1007802	0	Stomping Ground Strategies LLC		2026-01-13 00:00:00	5000	35500	P.O. Box 30302		Chicago	IL	60630     	8B	Consulting			False	False	False		False
 4897667	32198	1007802	0	Thomas	Justin	2026-01-21 00:00:00	5000	5000	1707 W. Winona St.		Chicago	IL	60640     	8B	Consulting			False	False	False		False
@@ -302761,6 +302758,8 @@
 4897716	32198	1007802	0	Sommers & Fahrenbach		2026-03-16 00:00:00	1017	6874	10498 163rd Pl		Orland Park	IL	60467     	8B	Printing			False	False	False		False
 4897717	32198	1007802	0	Smith	Carlos	2026-03-18 00:00:00	600	1200	203 N. Genesee St		Waukegan	IL	60085     	8B	Fund raising - entertainment			False	False	False		False
 4897718	32198	1007802	0	Scale to Win		2026-03-03 00:00:00	24050.02	38917.7	141 Tremont St	Fl 10	Boston	MA	02111     	8B	Text Messaging			False	False	False		False
+4897663	32198	1007802		O'Keefe	Maggie	2026-01-08 00:00:00	8000	24000	Redaction Requested					8B				False	False	False		True
+4897664	32198	1007802		O'Keefe	Maggie	2026-01-08 00:00:00	16000	24000	Redaction Requested					8B				False	False	False		True
 4897719	20016	1007804	0	Juliana For Illinois		2026-01-09 00:00:00	1000	1000	PO Box 372		Chicago	IL	60690     	6B	Donation to federal acct			False	False	True		False
 4897720	20016	1007804	0	Holt	Horace	2026-01-28 00:00:00	500	500	2801 S King		Chicago	IL	60636     	8B	Dj services			False	False	True		False
 4897721	20016	1007804	0	Heat Inc Valet		2026-01-28 00:00:00	1600	1600	5726 W Washington Blvd		Chicago	IL	60644     	8B	Valet services			False	False	True		False
@@ -305750,7 +305749,6 @@
 4900705	40500	1007941	0	ActBlue		2025-06-12 00:00:00	5.93	1385.5	366 Summer St		Somerville	MA	02144-3132	8B	Fees			False	False	False		False
 4900706	40500	1007941	0	ChiTown Printing		2025-06-25 00:00:00	475	475	6025 N CIcero Ave		Chicago	IL	60646     	8B	Walk Card Printing			False	False	False		False
 4900707	40500	1007941	0	Pivot Point Strategies LLC		2025-06-04 00:00:00	3000	3000	528 Park Ave #1		Wilmette	IL	60091     	8B	Political Consulting Fees			False	False	False		False
-4900708	40500	1007941	0	Friends of Maggie O'Keefe		2025-06-03 00:00:00	1000	1000	1707 W Winona St, #1		Chicago	IL	60640     	6B	Birthday Event Contribution			False	False	False		False
 4900709	40500	1007941	0	ActBlue		2025-06-12 00:00:00	5.93	1385.5	366 Summer St		Somerville	MA	02144-3132	8B	Fees			False	False	False		False
 4900710	40500	1007941	0	ActBlue		2025-06-30 00:00:00	3.95	1385.5	366 Summer St		Somerville	MA	02144-3132	8B	Fees			False	False	False		False
 4900711	40500	1007941	0	ActBlue		2025-06-30 00:00:00	19.75	1385.5	366 Summer St		Somerville	MA	02144-3132	8B	Fees			False	False	False		False
@@ -305817,6 +305815,7 @@
 4900772	40500	1007941	0	ActBlue		2025-06-30 00:00:00	7.9	1385.5	366 Summer St		Somerville	MA	02144-3132	8B	Fees			False	False	False		False
 4900773	40500	1007941	0	ActBlue		2025-06-30 00:00:00	0.4	1385.5	366 Summer St		Somerville	MA	02144-3132	8B	Fees			False	False	False		False
 4900774	40500	1007941	0	ActBlue		2025-06-30 00:00:00	0.4	1385.5	366 Summer St		Somerville	MA	02144-3132	8B	Fees			False	False	False		False
+4900708	40500	1007941		Friends of Maggie O'Keefe		2025-06-03 00:00:00	1000	1000	Redaction Requested					6B				False	False	False		True
 4900775	40500	1007942	0	ActBlue		2025-07-23 00:00:00	9.88	1167.3	366 Summer St		Somerville	MA	02144-3132	8B	Fees			False	False	False		False
 4900776	40500	1007942	0	ActBlue		2025-07-23 00:00:00	5.93	1167.3	366 Summer St		Somerville	MA	02144-3132	8B	Fees			False	False	False		False
 4900777	40500	1007942	0	ActBlue		2025-07-23 00:00:00	19.75	1167.3	366 Summer St		Somerville	MA	02144-3132	8B	Fees			False	False	False		False
@@ -334999,7 +334998,6 @@
 4930024	34345	1015655	0	Committee to Elect Jennifer Bertino Tarrant		2026-06-18 00:00:00	250	250	903 Valencia Dr		Shorewood	IL	60404-9172	6B	Donation			False	False	False		False
 4930025	34345	1015655	0	Ellen for Education		2026-05-19 00:00:00	1000	1000	2428 W Dakin St		Chicago	IL	60618-3712	6B	Donation			False	False	False		False
 4930026	34345	1015655	0	Friends of Drake Warren		2026-06-01 00:00:00	500	500	520 W Melrose St	Apt 3G	Chicago	IL	60657-3790	6B	Donation			False	False	False		False
-4930027	34345	1015655	0	Friends of Maggie O'Keefe		2026-06-05 00:00:00	250	250	1707 W Winona St	Apt 1	Chicago	IL	60640-2745	6B	Donation			False	False	False		False
 4930028	34345	1015655	0	Friends of Will Dreher		2026-04-20 00:00:00	250	250	PO Box 27113		Seattle	WA	98165-1513	6B	Donation			False	False	False		False
 4930029	34345	1015655	0	Google		2026-04-02 00:00:00	252	756	1600 Amphitheatre Pkwy		Mountain View	CA	94043-1351	8B	Workspace Services			False	False	False		False
 4930030	34345	1015655	0	Google		2026-05-04 00:00:00	252	756	1600 Amphitheatre Pkwy		Mountain View	CA	94043-1351	8B	Workspace Services			False	False	False		False
@@ -335022,6 +335020,7 @@
 4930047	34345	1015655	0	Personal PAC		2026-04-02 00:00:00	250	250	134 N La Salle St	Ste 2040	Chicago	IL	60602-1133	6B	Donation			False	False	False		False
 4930048	34345	1015655	0	Talarico Victory Fund		2026-06-25 00:00:00	500	500	611 Pennsylvania Ave SE	Num 143	Washington	DC	20003-4303	6B	Donation			False	False	False		False
 4930049	34345	1015655	0	Ziencina	Matthew	2026-05-28 00:00:00	4000	4000	6009 S Merrimac Ave		Chicago	IL	60638-4223	8B	Political Consulting			False	False	False		False
+4930027	34345	1015655		Friends of Maggie O'Keefe		2026-06-05 00:00:00	250	250	Redaction Requested					6B				False	False	False		True
 4930050	17436	1015656	0	Awesome Campaigns Inc		2026-06-02 00:00:00	50	1090	1220 Saint Charles St.		Saint Charles	IL	60120     	8B	Fund raising - advertisement			False	False	False		False
 4930051	17436	1015656	0	Awesome Campaigns Inc		2026-06-19 00:00:00	400	1090	1220 Saint Charles St.		Saint Charles	IL	60120     	8B	Palm cards			False	False	False		False
 4930052	17436	1015656	0	Awesome Campaigns Inc		2026-06-19 00:00:00	640	1090	1220 Saint Charles St.		Saint Charles	IL	60120     	8B	Palm cards			False	False	False		False
@@ -344153,12 +344152,12 @@
 4939178	24362	1016189	0	Friends of Aja Kearney		2026-01-13 00:00:00	30000	30000	9325 South Indiana Ave		Chicago	IL	60619     	6B	Contribution			False	False	False		False
 4939179	32198	1016190	0	Associated Graphics		2026-06-25 00:00:00	276.04	276.04	525 N Lake St, Mundelein		Mundelein	IL	60060     	8B	T-Shirts			False	False	False		False
 4939180	32198	1016190	0	Democratic Party of Illinois		2026-06-03 00:00:00	160	160	PO Box 10692		Chicago	IL	60664     	6B	Contribution			False	False	False		False
-4939181	32198	1016190	0	O'Keefe	Maggie	2026-04-03 00:00:00	21050	21050	1707 W.Winona St.		Chicago	IL	60640     	8B	Campaign staff			False	False	False		False
 4939182	32198	1016190	0	Sacks	Robert	2026-05-19 00:00:00	1650	1650	641 Sunset Drive		Naperville	IL	60540     	8B	Bookkeeping Services			False	False	False		False
 4939183	32198	1016190	0	Citizens to Elect David Moore		2026-06-25 00:00:00	200	200	7726 S. Union Ave		Chicago	IL	60620     	6B	Contribution			False	False	False		False
 4939184	32198	1016190	0	USPS		2026-04-13 00:00:00	216	216	435 E Hawley St		Mundelein	IL	60060     	8B	Postage			False	False	False		False
 4939185	32198	1016190	0	Moonpie Outdoors		2026-04-09 00:00:00	350	350	218 S. 7th S\t		West Dundee	IL	60118     	8B	Donation			False	False	False		False
 4939186	32198	1016190	0	campaign for Michelle Stiff		2026-05-26 00:00:00	250	250	120 Buell Ct		Joliet	IL	60435     	6B	Contribution			False	False	False		False
+4939181	32198	1016190		O'Keefe	Maggie	2026-04-03 00:00:00	21050	21050	Redaction Requested					8B				False	False	False		True
 4939187	24362	1016191	0	Kearney	Johnnie	2026-06-17 00:00:00	2200	3700	9225 S. Indiana		Chicago	IL	60619     	8B	Campaign Work			False	False	False		False
 4939188	24362	1016191	0	Kearney	Johnnie	2026-05-26 00:00:00	1500	3700	9225 S. Indiana		Chicago	IL	60619     	8B	Campaign Work			False	False	False		False
 4939189	24362	1016191	0	Southwest Signs		2026-06-09 00:00:00	168	168	5641 West 63rd Street		Chicago	IL	60638     	8B	Signs for Office			False	False	False		False
@@ -355511,54 +355510,54 @@
 4950536	35773	1023708	0	Constant Contact		2026-09-21 00:00:00	64	183	1601 Trapelo Rd		Waltham	MA	02451     	8B	Email service			False	False	False		False
 4950537	35151	1023709	0	Banek	Jennifer	2026-09-29 00:00:00	795.79	795.79	1210 East Park Avenue		Libertyville	IL	60048     	8B	Printing			False	False	False		False
 4950538	35151	1023709	0	Squarespace		2026-09-30 00:00:00	228	228	225 Varick Street	12th Floor	New York	NY	10014     	8B	Website			False	False	False		False
-4950539	1155	1023710	0	Friends of Ram		2026-07-17 00:00:00	2500	2500	PO Box 598085		Chicago	IL	60659     	6B	Contribution			False	False	False		False
-4950540	1155	1023710	0	Peoria County Democrats		2026-09-18 00:00:00	1500	2500	3101 N Old Trail Road		Peoria	IL	61604     	6B	Contribution			False	False	False		False
-4950541	1155	1023710	0	Peoria County Democrats		2026-09-18 00:00:00	1000	2500	3101 N Old Trail Road		Peoria	IL	61604     	6B	Contribution			False	False	False		False
-4950542	1155	1023710	0	Mason County Democrats		2026-07-17 00:00:00	1000	1000	c/o Jay Briney	323 N. Promenade	Havana	IL	62644     	6B	Contribution			False	False	False		False
-4950543	1155	1023710	0	McDonough Co. Democrat Central Comm		2026-09-18 00:00:00	1000	1000	PO Box 695		Macomb	IL	61455     	6B	Contribution			False	False	False		False
-4950544	1155	1023710	0	McLean County Democrats		2026-09-18 00:00:00	2500	2500	PO Box 3411		Bloomington	IL	61702-3411	6B	Contribution			False	False	False		False
-4950545	1155	1023710	0	Friends of Don Harmon for State Senate		2026-09-10 00:00:00	30000	30000	6941 A West North Avenue		Oak Park	IL	60302     	6B	Contribution			False	False	False		False
-4950546	1155	1023710	0	Citizens for Jodi Hoos States Attorney		2026-07-17 00:00:00	1000	1000	PO Box 5156		Peoria	IL	61601     	6B	Contribution			False	False	False		False
-4950547	1155	1023710	0	Citizens for Giannoulias		2026-09-10 00:00:00	2500	2500	PO Box 8588		Chicago	IL	60680-8588	6B	Contribution			False	False	False		False
-4950548	1155	1023710	0	Friends of Dave Koehler		2026-07-17 00:00:00	2500	2500	1413 NE Madison		Peoria	IL	61603     	6B	Contribution			False	False	False		False
-4950549	1155	1023710	0	Bureau County Democratic Central Committee		2026-09-18 00:00:00	500	500	PO Box 36		Spring Valley	IL	61362     	6B	Contribution			False	False	False		False
-4950550	1155	1023710	0	Putnam County Democrats		2026-07-17 00:00:00	600	600	601 W Hopkins Avenue		Granville	IL	61326     	6B	Contribution			False	False	False		False
-4950551	1155	1023710	0	Henry County Democrats		2026-09-18 00:00:00	1000	1000	25273 N 970 Avenue		Kewanee	IL	61443     	6B	Contribution			False	False	False		False
-4950552	1155	1023710	0	Friends of Randy Stevens		2026-07-17 00:00:00	500	1500	PO Box 351		Peoria	IL	61651     	6B	Contribution			False	False	False		False
-4950553	1155	1023710	0	Friends of Randy Stevens		2026-09-18 00:00:00	1000	1500	PO Box 351		Peoria	IL	61651     	6B	Contribution			False	False	False		False
-4950554	1155	1023710	0	Friends of Ryan Spain		2026-07-17 00:00:00	1000	1000	PO Box 1575		Peoria	IL	61655     	6B	Contribution			False	False	False		False
-4950555	1155	1023710	0	People for Emanuel Welch		2026-09-10 00:00:00	30000	30000	10055 W Roosevelt road		Westchester	IL	60154     	6B	Contribution			False	False	False		False
-4950556	1155	1023710	0	Friends for Robin Davis		2026-07-17 00:00:00	650	650	PO Box 255		Henderson	IL	61439     	6B	Contribution			False	False	False		False
-4950557	1155	1023710	0	Phelps Barry & Associates LLC		2026-07-14 00:00:00	3600	3600	225 E. Cook Street		Springfield	IL	62704     	8B	Lobbyist Fees			False	False	False		False
-4950558	1155	1023710	0	Friends of Mike Haplin		2026-07-17 00:00:00	1000	1000	PO Box 6937		Rock Island	IL	61204     	6B	Contribution			False	False	False		False
-4950559	1155	1023710	0	Friends of Sharon Chung		2026-07-17 00:00:00	2000	2000	303 Landmark Drive		Normal	IL	61761     	6B	Contribution			False	False	False		False
-4950560	1155	1023710	0	Stadelman for State Senate		2026-07-17 00:00:00	1000	1000	PO Box 1551		Rockford	IL	61110     	6B	Contribution			False	False	False		False
-4950561	1155	1023710	0	Illinois Democratic County Chairmen's Assoc		2026-07-17 00:00:00	2500	2500	PO Box 3445		Springfield	IL	62708     	6B	Contribution			False	False	False		False
-4950562	1155	1023710	0	Friends of Jehan Gordon		2026-07-17 00:00:00	2500	2500	PO Box 6591		Peoria	IL	61601     	6B	Contribution			False	False	False		False
-4950563	1155	1023710	0	Tazewell County Democrats		2026-07-17 00:00:00	250	1250	PO Box 34		Pekin	IL	61555     	6B	Contribution			False	False	False		False
-4950564	1155	1023710	0	Tazewell County Democrats		2026-09-18 00:00:00	1000	1250	PO Box 34		Pekin	IL	61555     	6B	Contribution			False	False	False		False
-4950565	1155	1023710	0	Woodford County Democrats		2026-07-17 00:00:00	1000	1000	c/o David McBride	PO Box 410	Roanoke	IL	61561     	6B	Contribution			False	False	False		False
-4950566	1155	1023710	0	Henderson County Democrats		2026-09-18 00:00:00	1000	1000	PO Box 195		Gladstone	IL	61437     	6B	Contribution			False	False	False		False
-4950567	1155	1023710	0	Friends of Frerichs		2026-09-10 00:00:00	2500	2500	101 W. Grand, Suite 200		Chicago	IL	60654     	6B	Contribution			False	False	False		False
-4950568	1155	1023710	0	Citizens for Seth Lewis		2026-07-17 00:00:00	1000	1000	29W571 Sunnydale Ct		Bartlett	IL	60103     	6B	Contribution			False	False	False		False
-4950569	1155	1023710	0	Friends of Kam Buckner		2026-07-17 00:00:00	1000	1000	PO Box 53528		Chicago	IL	60653     	6B	Contribution			False	False	False		False
-4950570	1155	1023710	0	Friends of Elgie Sims		2026-07-17 00:00:00	2500	2500	8142A S. Prairie Park Place		Chicago	IL	60619     	6B	Contribution			False	False	False		False
-4950571	1155	1023710	0	Friends of Eva Dina Delgado		2026-07-17 00:00:00	1000	1000	2442 N St. Louis Avenue		Chicago	IL	60647     	6B	Contribution			False	False	False		False
-4950572	1155	1023710	0	Citizens for Marcus Evans Jr.		2026-07-17 00:00:00	2500	2500	PO Box 1043		Chicago	IL	60690     	6B	Contribution			False	False	False		False
-4950573	1155	1023710	0	Friends for Larry Walsh Jr.		2026-07-17 00:00:00	2000	2000	PO Box 69		Elmwood	IL	60421     	6B	Contribution			False	False	False		False
-4950574	1155	1023710	0	Citizens for Sanalitro		2026-07-17 00:00:00	500	500	PO Box 725232		Roselle	IL	60172     	6B	Contribution			False	False	False		False
-4950575	1155	1023710	0	Sheehan for Illinois		2026-07-17 00:00:00	500	500	18859 S Vanderbilt Avenue		Mokena	IL	60448     	6B	Contribution			False	False	False		False
-4950576	1155	1023710	0	Citizens for Mike e Hastings		2026-07-17 00:00:00	2000	2000	PO Box 16		Tinley Park	IL	60477     	6B	Contribution			False	False	False		False
-4950577	1155	1023710	0	Joyce for Senate		2026-07-17 00:00:00	2000	2000	PO Box 131		Essex	IL	60935     	6B	Contribution			False	False	False		False
-4950578	1155	1023710	0	Friends of Dennis Killian		2026-07-17 00:00:00	500	500	18389 Kickapoo Lane		Hudson	IL	61748     	6B	Contribution			False	False	False		False
-4950579	1155	1023710	0	Friends of Farley		2026-07-17 00:00:00	1000	2500	1016 Sawgrass drive		Normal	IL	61761     	6B	Contribution			False	False	False		False
-4950580	1155	1023710	0	Friends of Farley		2026-09-18 00:00:00	1500	2500	1016 Sawgrass drive		Normal	IL	61761     	6B	Contribution			False	False	False		False
-4950581	1155	1023710	0	Croke for Illinois		2026-08-17 00:00:00	2500	2500	220 N Green Street		Chicago	IL	60607     	6B	Contribution			False	False	False		False
-4950582	1155	1023710	0	Raoul for Illinois		2026-09-10 00:00:00	7000	7000	PO Box 10600		Chicago	IL	60610     	6B	Contribution			False	False	False		False
-4950583	1155	1023710	0	Crockett for Clerk		2026-09-18 00:00:00	1500	1500	PO Box 3004		Bloomington	IL	61702     	6B	Contribution			False	False	False		False
-4950584	1155	1023710	0	NAACP Galesburg Branch		2026-09-18 00:00:00	1000	1000	PO Box 248		Galesburg	IL	61402     	6B	Contribution			False	False	False		False
-4950585	1155	1023710	0	Friends of Jennifer Brown		2026-09-18 00:00:00	1000	1000	311 Clover Court		Bloomington	IL	61704     	8B	Contribution			False	False	False		False
-4950586	1155	1023710	0	Bloomington-Normal Solidarity PAC		2026-09-18 00:00:00	1500	1500	PO Box 3396		Bloomington	IL	61702     	6B	Contribution			False	False	False		False
+4950539	1155	1023710	0	Friends of Ram		2026-07-17 00:00:00	2500	2500	PO Box 598085		Chicago	IL	60659     	6B	Contribution			False	False	True		False
+4950540	1155	1023710	0	Peoria County Democrats		2026-09-18 00:00:00	1500	2500	3101 N Old Trail Road		Peoria	IL	61604     	6B	Contribution			False	False	True		False
+4950541	1155	1023710	0	Peoria County Democrats		2026-09-18 00:00:00	1000	2500	3101 N Old Trail Road		Peoria	IL	61604     	6B	Contribution			False	False	True		False
+4950542	1155	1023710	0	Mason County Democrats		2026-07-17 00:00:00	1000	1000	c/o Jay Briney	323 N. Promenade	Havana	IL	62644     	6B	Contribution			False	False	True		False
+4950543	1155	1023710	0	McDonough Co. Democrat Central Comm		2026-09-18 00:00:00	1000	1000	PO Box 695		Macomb	IL	61455     	6B	Contribution			False	False	True		False
+4950544	1155	1023710	0	McLean County Democrats		2026-09-18 00:00:00	2500	2500	PO Box 3411		Bloomington	IL	61702-3411	6B	Contribution			False	False	True		False
+4950545	1155	1023710	0	Friends of Don Harmon for State Senate		2026-09-10 00:00:00	30000	30000	6941 A West North Avenue		Oak Park	IL	60302     	6B	Contribution			False	False	True		False
+4950546	1155	1023710	0	Citizens for Jodi Hoos States Attorney		2026-07-17 00:00:00	1000	1000	PO Box 5156		Peoria	IL	61601     	6B	Contribution			False	False	True		False
+4950547	1155	1023710	0	Citizens for Giannoulias		2026-09-10 00:00:00	2500	2500	PO Box 8588		Chicago	IL	60680-8588	6B	Contribution			False	False	True		False
+4950548	1155	1023710	0	Friends of Dave Koehler		2026-07-17 00:00:00	2500	2500	1413 NE Madison		Peoria	IL	61603     	6B	Contribution			False	False	True		False
+4950549	1155	1023710	0	Bureau County Democratic Central Committee		2026-09-18 00:00:00	500	500	PO Box 36		Spring Valley	IL	61362     	6B	Contribution			False	False	True		False
+4950550	1155	1023710	0	Putnam County Democrats		2026-07-17 00:00:00	600	600	601 W Hopkins Avenue		Granville	IL	61326     	6B	Contribution			False	False	True		False
+4950551	1155	1023710	0	Henry County Democrats		2026-09-18 00:00:00	1000	1000	25273 N 970 Avenue		Kewanee	IL	61443     	6B	Contribution			False	False	True		False
+4950552	1155	1023710	0	Friends of Randy Stevens		2026-07-17 00:00:00	500	1500	PO Box 351		Peoria	IL	61651     	6B	Contribution			False	False	True		False
+4950553	1155	1023710	0	Friends of Randy Stevens		2026-09-18 00:00:00	1000	1500	PO Box 351		Peoria	IL	61651     	6B	Contribution			False	False	True		False
+4950554	1155	1023710	0	Friends of Ryan Spain		2026-07-17 00:00:00	1000	1000	PO Box 1575		Peoria	IL	61655     	6B	Contribution			False	False	True		False
+4950555	1155	1023710	0	People for Emanuel Welch		2026-09-10 00:00:00	30000	30000	10055 W Roosevelt road		Westchester	IL	60154     	6B	Contribution			False	False	True		False
+4950556	1155	1023710	0	Friends for Robin Davis		2026-07-17 00:00:00	650	650	PO Box 255		Henderson	IL	61439     	6B	Contribution			False	False	True		False
+4950557	1155	1023710	0	Phelps Barry & Associates LLC		2026-07-14 00:00:00	3600	3600	225 E. Cook Street		Springfield	IL	62704     	8B	Lobbyist Fees			False	False	True		False
+4950558	1155	1023710	0	Friends of Mike Haplin		2026-07-17 00:00:00	1000	1000	PO Box 6937		Rock Island	IL	61204     	6B	Contribution			False	False	True		False
+4950559	1155	1023710	0	Friends of Sharon Chung		2026-07-17 00:00:00	2000	2000	303 Landmark Drive		Normal	IL	61761     	6B	Contribution			False	False	True		False
+4950560	1155	1023710	0	Stadelman for State Senate		2026-07-17 00:00:00	1000	1000	PO Box 1551		Rockford	IL	61110     	6B	Contribution			False	False	True		False
+4950561	1155	1023710	0	Illinois Democratic County Chairmen's Assoc		2026-07-17 00:00:00	2500	2500	PO Box 3445		Springfield	IL	62708     	6B	Contribution			False	False	True		False
+4950562	1155	1023710	0	Friends of Jehan Gordon		2026-07-17 00:00:00	2500	2500	PO Box 6591		Peoria	IL	61601     	6B	Contribution			False	False	True		False
+4950563	1155	1023710	0	Tazewell County Democrats		2026-07-17 00:00:00	250	1250	PO Box 34		Pekin	IL	61555     	6B	Contribution			False	False	True		False
+4950564	1155	1023710	0	Tazewell County Democrats		2026-09-18 00:00:00	1000	1250	PO Box 34		Pekin	IL	61555     	6B	Contribution			False	False	True		False
+4950565	1155	1023710	0	Woodford County Democrats		2026-07-17 00:00:00	1000	1000	c/o David McBride	PO Box 410	Roanoke	IL	61561     	6B	Contribution			False	False	True		False
+4950566	1155	1023710	0	Henderson County Democrats		2026-09-18 00:00:00	1000	1000	PO Box 195		Gladstone	IL	61437     	6B	Contribution			False	False	True		False
+4950567	1155	1023710	0	Friends of Frerichs		2026-09-10 00:00:00	2500	2500	101 W. Grand, Suite 200		Chicago	IL	60654     	6B	Contribution			False	False	True		False
+4950568	1155	1023710	0	Citizens for Seth Lewis		2026-07-17 00:00:00	1000	1000	29W571 Sunnydale Ct		Bartlett	IL	60103     	6B	Contribution			False	False	True		False
+4950569	1155	1023710	0	Friends of Kam Buckner		2026-07-17 00:00:00	1000	1000	PO Box 53528		Chicago	IL	60653     	6B	Contribution			False	False	True		False
+4950570	1155	1023710	0	Friends of Elgie Sims		2026-07-17 00:00:00	2500	2500	8142A S. Prairie Park Place		Chicago	IL	60619     	6B	Contribution			False	False	True		False
+4950571	1155	1023710	0	Friends of Eva Dina Delgado		2026-07-17 00:00:00	1000	1000	2442 N St. Louis Avenue		Chicago	IL	60647     	6B	Contribution			False	False	True		False
+4950572	1155	1023710	0	Citizens for Marcus Evans Jr.		2026-07-17 00:00:00	2500	2500	PO Box 1043		Chicago	IL	60690     	6B	Contribution			False	False	True		False
+4950573	1155	1023710	0	Friends for Larry Walsh Jr.		2026-07-17 00:00:00	2000	2000	PO Box 69		Elmwood	IL	60421     	6B	Contribution			False	False	True		False
+4950574	1155	1023710	0	Citizens for Sanalitro		2026-07-17 00:00:00	500	500	PO Box 725232		Roselle	IL	60172     	6B	Contribution			False	False	True		False
+4950575	1155	1023710	0	Sheehan for Illinois		2026-07-17 00:00:00	500	500	18859 S Vanderbilt Avenue		Mokena	IL	60448     	6B	Contribution			False	False	True		False
+4950576	1155	1023710	0	Citizens for Mike e Hastings		2026-07-17 00:00:00	2000	2000	PO Box 16		Tinley Park	IL	60477     	6B	Contribution			False	False	True		False
+4950577	1155	1023710	0	Joyce for Senate		2026-07-17 00:00:00	2000	2000	PO Box 131		Essex	IL	60935     	6B	Contribution			False	False	True		False
+4950578	1155	1023710	0	Friends of Dennis Killian		2026-07-17 00:00:00	500	500	18389 Kickapoo Lane		Hudson	IL	61748     	6B	Contribution			False	False	True		False
+4950579	1155	1023710	0	Friends of Farley		2026-07-17 00:00:00	1000	2500	1016 Sawgrass drive		Normal	IL	61761     	6B	Contribution			False	False	True		False
+4950580	1155	1023710	0	Friends of Farley		2026-09-18 00:00:00	1500	2500	1016 Sawgrass drive		Normal	IL	61761     	6B	Contribution			False	False	True		False
+4950581	1155	1023710	0	Croke for Illinois		2026-08-17 00:00:00	2500	2500	220 N Green Street		Chicago	IL	60607     	6B	Contribution			False	False	True		False
+4950582	1155	1023710	0	Raoul for Illinois		2026-09-10 00:00:00	7000	7000	PO Box 10600		Chicago	IL	60610     	6B	Contribution			False	False	True		False
+4950583	1155	1023710	0	Crockett for Clerk		2026-09-18 00:00:00	1500	1500	PO Box 3004		Bloomington	IL	61702     	6B	Contribution			False	False	True		False
+4950584	1155	1023710	0	NAACP Galesburg Branch		2026-09-18 00:00:00	1000	1000	PO Box 248		Galesburg	IL	61402     	6B	Contribution			False	False	True		False
+4950585	1155	1023710	0	Friends of Jennifer Brown		2026-09-18 00:00:00	1000	1000	311 Clover Court		Bloomington	IL	61704     	8B	Contribution			False	False	True		False
+4950586	1155	1023710	0	Bloomington-Normal Solidarity PAC		2026-09-18 00:00:00	1500	1500	PO Box 3396		Bloomington	IL	61702     	6B	Contribution			False	False	True		False
 4950587	6263	1023715	0	Citizens for Michael E. Hastings		2026-08-12 00:00:00	1000	1000	P O Box 162		Tinley Park	IL	60477     	6B	Contribution			False	False	False		False
 4950588	6263	1023715	0	Citizens for Castro		2026-08-12 00:00:00	1000	1000	P. O. Box 1506		Elgin	IL	60121     	6B	Contribution			False	False	False		False
 4950589	6263	1023715	0	Committee to Elect Jessica Dixon Heitman		2026-08-12 00:00:00	1000	1000	25046 West Blakely Dr		Plainfield	IL	60585     	6B	Contribution			False	False	False		False
@@ -364142,9 +364141,9 @@
 4959167	35419	1025405	0	Lahood for Congress		2026-07-29 00:00:00	250	250	P.O. Box 10735		Peoria	IL	61612     	8B	Donation			False	False	False		False
 4959168	35419	1025405	0	Falmouth Road Race		2026-08-03 00:00:00	300	300	205 Worcester Ct		Falmouth	MA	02541     	8B	Donation			False	False	False		False
 4959169	35419	1025405	0	Bee Hive Electric		2026-09-22 00:00:00	1950	1950	7405 Grace Drive		Roscoe	IL	61073     	8B	Transportation electric work vehicle			False	False	False		False
-4959170	380	1025407	0	Nyberg	Randy	2026-09-05 00:00:00	3911.4	3911.4	109 Williams Dr.		Harrisburg	IL	62946     	6B	meat purchase			False	False	False		False
-4959171	380	1025407	0	Crawford Campground Cemetary		2026-08-30 00:00:00	200	200	Crawford Cemetary		Equality	IL	62934     	6B	Contribution			False	False	False		False
-4959172	380	1025407	0	Drone	Randy	2026-09-17 00:00:00	180	180	Main street		Ridgway	IL	62971     	6B	Reimbursement			False	False	False		False
+4959170	380	1025407	0	Nyberg	Randy	2026-09-05 00:00:00	3911.4	3911.4	109 Williams Dr.		Harrisburg	IL	62946     	6B	meat purchase			False	False	True		False
+4959171	380	1025407	0	Crawford Campground Cemetary		2026-08-30 00:00:00	200	200	Crawford Cemetary		Equality	IL	62934     	6B	Contribution			False	False	True		False
+4959172	380	1025407	0	Drone	Randy	2026-09-17 00:00:00	180	180	Main street		Ridgway	IL	62971     	6B	Reimbursement			False	False	True		False
 4959173	560	1025408	0	Friends of Omar Aquino		2026-07-22 00:00:00	1000	1000	1000 N. Rockwell		Chicago	IL	60622     	6B	Omar Aquino, STATE SENATE 2nd IL			False	False	False		False
 4959174	560	1025408	0	Citizens for Arellano		2026-09-22 00:00:00	250	250	310 N. Jefferson Ave		Dixon	IL	61021     	6B	Li Arellano, STATE SENATE 37th IL			False	False	False		False
 4959175	560	1025408	0	Balkema for State Senate		2026-07-14 00:00:00	500	500	26617 Samantha Ct		Channahon	IL	60410     	6B	Chris Balkema, STATE SENATE 53rd IL			False	False	False		False
@@ -397686,9 +397685,9 @@
 4992720	41327	1028368	0	Resonance Campaigns		2026-10-22 00:00:00	10649.63	0	1319 F St NW Ste 301 #220		Washington	DC	20004     	9B	Mailing	Jesus Ayala	Chicago Board of Education 7A	True	False	False		False
 4992721	41327	1028368	0	Resonance Campaigns		2026-10-22 00:00:00	172594.68	0	1319 F St NW Ste 301 #220		Washington	DC	20004     	9B	Mailing	Jessica Biggs	President of the Chicago Board of Education	True	False	False		False
 4992722	41288	1028375	0	Change Media Group		2026-10-22 00:00:00	20000	0	PMB 285		St. Clair Shores	MI	48080     	9B	Campaign advertising	Marc Parker	Circuit Judge Madison 3rd Judicial Circuit	True	False	False		False
-4992723	40842	1028388	0	dorothea design		2026-06-15 00:00:00	195	195				IL	          	8B	Palm cards			False	False	False		False
-4992724	40842	1028388	0	yomo ent		2026-06-01 00:00:00	250	250				IL	          	8B	Photography			False	False	False		False
-4992725	40842	1028388	0	johnson	bruce	2026-05-11 00:00:00	200	200				IL	          	8B	Dj			False	False	False		False
+4992723	40842	1028388	0	dorothea design		2026-06-15 00:00:00	195	195				IL	          	8B	Palm cards			False	False	True		False
+4992724	40842	1028388	0	yomo ent		2026-06-01 00:00:00	250	250				IL	          	8B	Photography			False	False	True		False
+4992725	40842	1028388	0	johnson	bruce	2026-05-11 00:00:00	200	200				IL	          	8B	Dj			False	False	True		False
 4992726	41012	1028393	0	Sage Media Planning & Placement		2026-10-20 00:00:00	12923.92	0	1319 F St NW Ste 301		Washington	DC	20004     	9B	Digital Ad	Michelle Pierre	Chicago Board of Education 1B	True	False	False		False
 4992727	41012	1028393	0	Sage Media Planning & Placement		2026-10-20 00:00:00	12944.71	0	1319 F St NW Ste 301		Washington	DC	20004     	9B	Digital Ad	Pete Gonzales	Chicago Board of Education 3A	True	False	False		False
 4992728	41012	1028393	0	Sage Media Planning & Placement		2026-10-20 00:00:00	12168.09	0	1319 F St NW Ste 301		Washington	DC	20004     	9B	Digital Ad	Jesus Ayala	Chicago Board of Education 7A	True	False	False		False
@@ -398803,3 +398802,57 @@
 4993837	121	1029589	0	Citizens for Olivero		2026-07-19 00:00:00	2500	2500	3003 Parkside		Peru	IL	61354     	6B	Contribution			False	False	False		False
 4993838	121	1029589	0	Ryan Myers for Regional Superintendent of Schools		2026-07-19 00:00:00	500	500	3380 E. 14th Rd.		Ottawa	IL	61350     	6B	Contribution			False	False	False		False
 4993839	121	1029589	0	Lauren Underwood for Congress		2026-07-19 00:00:00	500	500	13400 S. Rt. 59	Ste. 116, box 248	Plainfield	IL	60585     	6B	Contribution			False	False	False		False
+4993840	380	1029615	0	Crawford Campground Cemetary		2026-08-30 00:00:00	200	200	Crawford Cemetary		Equality	IL	62934     	6B	Contribution			False	False	False		False
+4993841	380	1029615	0	TK Vinyl Signs		2026-09-17 00:00:00	180	180	501 West Elm St.		Ridgway	IL	62979     	6B	Reimbursement- Randy Drone			False	False	False		False
+4993842	380	1029615	0	Big John's		2026-09-05 00:00:00	3911.4	3911.4	hwy 142		Eldorado	IL	62930     	6B	Reimbursement for meat purchase to Randy Nyberg			False	False	False		False
+4993843	1155	1029630	0	Friends of Ram		2026-07-17 00:00:00	2500	2500	PO Box 598085		Chicago	IL	60659     	6B	Contribution			False	False	False		False
+4993844	1155	1029630	0	Peoria County Democrats		2026-09-18 00:00:00	1500	2500	3101 N Old Trail Road		Peoria	IL	61604     	6B	Contribution			False	False	False		False
+4993845	1155	1029630	0	Peoria County Democrats		2026-09-18 00:00:00	1000	2500	3101 N Old Trail Road		Peoria	IL	61604     	6B	Contribution			False	False	False		False
+4993846	1155	1029630	0	Mason County Democrats		2026-07-17 00:00:00	1000	1000	c/o Jay Briney	323 N. Promenade	Havana	IL	62644     	6B	Contribution			False	False	False		False
+4993847	1155	1029630	0	McDonough Co. Democrat Central Comm		2026-09-18 00:00:00	1000	1000	PO Box 695		Macomb	IL	61455     	6B	Contribution			False	False	False		False
+4993848	1155	1029630	0	McLean County Democrats		2026-09-18 00:00:00	2500	2500	PO Box 3411		Bloomington	IL	61702-3411	6B	Contribution			False	False	False		False
+4993849	1155	1029630	0	Friends of Kam Buckner		2026-07-17 00:00:00	1000	1000	PO Box 53528		Chicago	IL	60653     	6B	Contribution			False	False	False		False
+4993850	1155	1029630	0	Friends of Elgie Sims		2026-07-17 00:00:00	2500	2500	8142A S. Prairie Park Place		Chicago	IL	60619     	6B	Contribution			False	False	False		False
+4993851	1155	1029630	0	Friends of Eva Dina Delgado		2026-07-17 00:00:00	1000	1000	2442 N St. Louis Avenue		Chicago	IL	60647     	6B	Contribution			False	False	False		False
+4993852	1155	1029630	0	Citizens for Marcus Evans Jr.		2026-07-17 00:00:00	2500	2500	PO Box 1043		Chicago	IL	60690     	6B	Contribution			False	False	False		False
+4993853	1155	1029630	0	Friends for Larry Walsh Jr.		2026-07-17 00:00:00	2000	2000	PO Box 69		Elmwood	IL	60421     	6B	Contribution			False	False	False		False
+4993854	1155	1029630	0	Citizens for Sanalitro		2026-07-17 00:00:00	500	500	PO Box 725232		Roselle	IL	60172     	6B	Contribution			False	False	False		False
+4993855	1155	1029630	0	Sheehan for Illinois		2026-07-17 00:00:00	500	500	18859 S Vanderbilt Avenue		Mokena	IL	60448     	6B	Contribution			False	False	False		False
+4993856	1155	1029630	0	Citizens for Mike e Hastings		2026-07-17 00:00:00	2000	2000	PO Box 16		Tinley Park	IL	60477     	6B	Contribution			False	False	False		False
+4993857	1155	1029630	0	Joyce for Senate		2026-07-17 00:00:00	2000	2000	PO Box 131		Essex	IL	60935     	6B	Contribution			False	False	False		False
+4993858	1155	1029630	0	Friends of Dennis Killian		2026-07-17 00:00:00	500	500	18389 Kickapoo Lane		Hudson	IL	61748     	6B	Contribution			False	False	False		False
+4993859	1155	1029630	0	Friends of Farley		2026-07-17 00:00:00	1000	2500	1016 Sawgrass drive		Normal	IL	61761     	6B	Contribution			False	False	False		False
+4993860	1155	1029630	0	Friends of Farley		2026-09-18 00:00:00	1500	2500	1016 Sawgrass drive		Normal	IL	61761     	6B	Contribution			False	False	False		False
+4993861	1155	1029630	0	Croke for Illinois		2026-08-17 00:00:00	2500	2500	220 N Green Street		Chicago	IL	60607     	6B	Contribution			False	False	False		False
+4993862	1155	1029630	0	Raoul for Illinois		2026-09-10 00:00:00	7000	7000	PO Box 10600		Chicago	IL	60610     	6B	Contribution			False	False	False		False
+4993863	1155	1029630	0	Crockett for Clerk		2026-09-18 00:00:00	1500	1500	PO Box 3004		Bloomington	IL	61702     	6B	Contribution			False	False	False		False
+4993864	1155	1029630	0	NAACP Galesburg Branch		2026-09-18 00:00:00	1000	1000	PO Box 248		Galesburg	IL	61402     	6B	Contribution			False	False	False		False
+4993865	1155	1029630	0	Friends of Jennifer Brown		2026-09-18 00:00:00	1000	1000	311 Clover Court		Bloomington	IL	61704     	8B	Contribution			False	False	False		False
+4993866	1155	1029630	0	Bloomington-Normal Solidarity PAC		2026-09-18 00:00:00	1500	1500	PO Box 3396		Bloomington	IL	61702     	6B	Contribution			False	False	False		False
+4993867	1155	1029630	0	Friends of Don Harmon for State Senate		2026-09-10 00:00:00	30000	30000	6941 A West North Avenue		Oak Park	IL	60302     	6B	Contribution			False	False	False		False
+4993868	1155	1029630	0	Citizens for Jodi Hoos States Attorney		2026-07-17 00:00:00	1000	1000	PO Box 5156		Peoria	IL	61601     	6B	Contribution			False	False	False		False
+4993869	1155	1029630	0	Citizens for Giannoulias		2026-09-10 00:00:00	2500	2500	PO Box 8588		Chicago	IL	60680-8588	6B	Contribution			False	False	False		False
+4993870	1155	1029630	0	Friends of Dave Koehler		2026-07-17 00:00:00	2500	2500	1413 NE Madison		Peoria	IL	61603     	6B	Contribution			False	False	False		False
+4993871	1155	1029630	0	Bureau County Democratic Central Committee		2026-09-18 00:00:00	500	500	PO Box 36		Spring Valley	IL	61362     	6B	Contribution			False	False	False		False
+4993872	1155	1029630	0	Putnam County Democrats		2026-07-17 00:00:00	600	600	601 W Hopkins Avenue		Granville	IL	61326     	6B	Contribution			False	False	False		False
+4993873	1155	1029630	0	Henry County Democrats		2026-09-18 00:00:00	1000	1000	25273 N 970 Avenue		Kewanee	IL	61443     	6B	Contribution			False	False	False		False
+4993874	1155	1029630	0	Friends of Randy Stevens		2026-07-17 00:00:00	500	1500	PO Box 351		Peoria	IL	61651     	6B	Contribution			False	False	False		False
+4993875	1155	1029630	0	Friends of Randy Stevens		2026-09-18 00:00:00	1000	1500	PO Box 351		Peoria	IL	61651     	6B	Contribution			False	False	False		False
+4993876	1155	1029630	0	Friends of Ryan Spain		2026-07-17 00:00:00	1000	1000	PO Box 1575		Peoria	IL	61655     	6B	Contribution			False	False	False		False
+4993877	1155	1029630	0	People for Emanuel Welch		2026-09-10 00:00:00	30000	30000	10055 W Roosevelt road		Westchester	IL	60154     	6B	Contribution			False	False	False		False
+4993878	1155	1029630	0	Friends for Robin Davis		2026-07-17 00:00:00	650	650	PO Box 255		Henderson	IL	61439     	6B	Contribution			False	False	False		False
+4993879	1155	1029630	0	Phelps Barry & Associates LLC		2026-07-14 00:00:00	3600	3600	225 E. Cook Street		Springfield	IL	62704     	8B	Lobbyist Fees			False	False	False		False
+4993880	1155	1029630	0	Friends of Mike Haplin		2026-07-17 00:00:00	1000	1000	PO Box 6937		Rock Island	IL	61204     	6B	Contribution			False	False	False		False
+4993881	1155	1029630	0	Friends of Sharon Chung		2026-07-17 00:00:00	2000	2000	303 Landmark Drive		Normal	IL	61761     	6B	Contribution			False	False	False		False
+4993882	1155	1029630	0	Stadelman for State Senate		2026-07-17 00:00:00	1000	1000	PO Box 1551		Rockford	IL	61110     	6B	Contribution			False	False	False		False
+4993883	1155	1029630	0	Illinois Democratic County Chairmen's Assoc		2026-07-17 00:00:00	2500	2500	PO Box 3445		Springfield	IL	62708     	6B	Contribution			False	False	False		False
+4993884	1155	1029630	0	Friends of Jehan Gordon		2026-07-17 00:00:00	2500	2500	PO Box 6591		Peoria	IL	61601     	6B	Contribution			False	False	False		False
+4993885	1155	1029630	0	Tazewell County Democrats		2026-07-17 00:00:00	250	1250	PO Box 34		Pekin	IL	61555     	6B	Contribution			False	False	False		False
+4993886	1155	1029630	0	Tazewell County Democrats		2026-09-18 00:00:00	1000	1250	PO Box 34		Pekin	IL	61555     	6B	Contribution			False	False	False		False
+4993887	1155	1029630	0	Woodford County Democrats		2026-07-17 00:00:00	1000	1000	c/o David McBride	PO Box 410	Roanoke	IL	61561     	6B	Contribution			False	False	False		False
+4993888	1155	1029630	0	Henderson County Democrats		2026-09-18 00:00:00	1000	1000	PO Box 195		Gladstone	IL	61437     	6B	Contribution			False	False	False		False
+4993889	1155	1029630	0	Friends of Frerichs		2026-09-10 00:00:00	2500	2500	101 W. Grand, Suite 200		Chicago	IL	60654     	6B	Contribution			False	False	False		False
+4993890	1155	1029630	0	Citizens for Seth Lewis		2026-07-17 00:00:00	1000	1000	29W571 Sunnydale Ct		Bartlett	IL	60103     	6B	Contribution			False	False	False		False
+4993891	40842	1029638	0	johnson	bruce	2026-05-11 00:00:00	200	200				IL	          	8B	Dj			False	False	False		False
+4993892	40842	1029638	0	dorothea design		2026-06-15 00:00:00	195	195				IL	          	8B	Palm cards			False	False	False		False
+4993893	40842	1029638	0	yomo ent		2026-06-01 00:00:00	250	250				IL	          	8B	Photography			False	False	False		False
