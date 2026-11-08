@@ -62656,6 +62656,7 @@ ID	CandidateID	ElectionType	ElectionYear	IncChallOpen	WonLost	FairCampaign	Limit
 85337	46283	GP	2022	    	Won 	False	False	
 85338	46283	GE	2022	    	Lost	False	False	
 83775	46285	CE	2023	Chal	Won 	False	True	Self Funding Disclosure
+101975	46285	CE	2027	Inc 	    	False	False	
 83776	46286	GE	2022	Chal	Lost	False	False	
 85055	46287	CP	2023	Chal	Lost	False	False	
 83777	46288	GP	2022	Chal	Won 	False	False	
@@ -66520,6 +66521,7 @@ ID	CandidateID	ElectionType	ElectionYear	IncChallOpen	WonLost	FairCampaign	Limit
 101296	54082	CP	2027	Chal	    	False	True	Limits Off for Race
 101303	54083	GE	2026	Chal	    	False	True	Limits Off for Race
 101306	54084	CE	2027	    	    	False	False	
+101974	54085	CP	2027	    	    	False	False	
 101309	54086	CE	2027	    	    	True	False	
 101318	54087	GP	2026	Chal	Won 	False	False	
 101319	54087	GE	2026	Chal	    	False	False	

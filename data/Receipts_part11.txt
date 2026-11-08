@@ -89607,62 +89607,62 @@
 6651547	34110	1016010		Illinois Pork Producers Association State Pork PAC		2026-06-30 00:00:00	200	200	0			6411 S. 6th Street		Springfield	IL	62712     	2A							  	          	False		False
 6651548	34448	1016011		Carpenters Advancement PAC Fund		2026-04-06 00:00:00	72800	72800	0			12 East Erie Street		Chicago	IL	60611-2796	2A							  	          	False		False
 6651549	34448	1016011		Juliana for Illinois		2026-04-06 00:00:00	1000	1000	0			PO Box 15845		Washington	DC	20003     	2A							  	          	False		False
-6651550	40760	1016013		Hoffman	Jackie	2026-06-30 00:00:00	250	250	0			431 N Lawndale	1	Chicago	IL	60624     	1A							  	          	False		False
-6651551	40760	1016013		Robinson	Claude	2026-06-30 00:00:00	250	250	0			8401 S. Kimbark Avenue		Chicago	IL	60619     	1A							  	          	False		False
-6651552	40760	1016013		Auguste	Alexandra	2026-06-30 00:00:00	500	500	0			18 Tyler St		Hyde Park	MA	02136     	1A							  	          	False		False
-6651553	40760	1016013		Stricklin	Jennifer	2026-06-30 00:00:00	500	500	0			970 Old Green Bay Rd		Winnetka	IL	60093     	1A							  	          	False		False
-6651554	40760	1016013		McGee	Lutalo	2026-06-30 00:00:00	500	500	0			7300 S Cottage Grove		Chicago	IL	60619     	1A							  	          	False		False
-6651555	40760	1016013		Landau	Daniella	2026-06-30 00:00:00	250	250	0			3616 Raymond Street		Chevy Chase	MD	20815     	1A							  	          	False		False
-6651556	40760	1016013		Houlihan	Michael	2026-06-30 00:00:00	1000	1000	0			1100 N Lake Shore drive,		Chicago,	IL	60611     	1A							  	          	False		False
-6651557	40760	1016013		Yakoubou	Ajara	2026-06-30 00:00:00	250	250	0			2014 Crosswind Dr		Plainfield	IL	60586     	1A							  	          	False		False
-6651558	40760	1016013		Cross	Charlie	2026-06-29 00:00:00	250	250	0			17712 Chestnut Avenue		Country Club Hills	IL	60478     	1A							  	          	False		False
-6651559	40760	1016013		Gordon	Frances	2026-06-27 00:00:00	250	250	0			4132 W Madison St		Chicago	IL	60624     	1A							  	          	False		False
-6651560	40760	1016013		Braun	Adam	2026-06-26 00:00:00	500	500	0			4194 N. Clarendon	Apt. 1	Chicago	IL	60613     	2A							  	          	False		False
-6651561	40760	1016013		Shomon	Dan	2026-06-24 00:00:00	250	250	0			7800 North Milwaukee Avenue		Niles	IL	60714     	1A							  	          	False		False
-6651562	40760	1016013		Roberts	Sarah	2026-06-23 00:00:00	200	224	0			8158 S. Indiana		Chicago	IL	60619     	1A							  	          	False		False
-6651563	40760	1016013		Murphy	Thomas	2026-06-23 00:00:00	250	250	0			840 N lake shore dr, apt 802		Chicago	IL	60611     	1A							  	          	False		False
-6651564	40760	1016013		Balthazar	Chris	2026-06-22 00:00:00	250	250	0			9 N Cicero Ave		Chicago	IL	60644     	1A							  	          	False		False
-6651565	40760	1016013		Jackson	Tenille	2026-06-17 00:00:00	500	500	0			100 Rocklyn Court		Bolingbrook	IL	60440     	1A							  	          	False		False
-6651566	40760	1016013		Smith	Leo	2026-06-29 00:00:00	2500	2500	0			2550 N. Lakeview, 2503S		Chicago	IL	60614     	1A							  	          	False		False
-6651567	40760	1016013		Shlofrock	John	2026-06-15 00:00:00	500	500	0			465 Central Avenue 100		Northfield	IL	60093     	1A							  	          	False		False
-6651568	40760	1016013		Harris	Jermaine	2026-06-15 00:00:00	250	250	0			4347 W. Cermak Rd		Chicago	IL	60623     	1A							  	          	False		False
-6651569	40760	1016013		Roberts	Sarah	2026-06-14 00:00:00	8	224	0			8158 S. Indiana		Chicago	IL	60619     	1A							  	          	False		False
-6651570	40760	1016013		McFadden	Kady	2026-06-10 00:00:00	250	250	0			1133 Leonard Pl.		Evanston	IL	60201     	1A							  	          	False		False
-6651571	40760	1016013		Riggs	Kevin	2026-05-29 00:00:00	500	500	0			789 Forest Green Drive		O'Fallon	IL	62269     	1A							  	          	False		False
-6651572	40760	1016013		Roberts	Sarah	2026-05-14 00:00:00	8	224	0			8158 S. Indiana		Chicago	IL	60619     	1A							  	          	False		False
-6651573	40760	1016013		Roberts	Sarah	2026-04-14 00:00:00	8	224	0			8158 S. Indiana		Chicago	IL	60619     	1A							  	          	False		False
-6651574	40760	1016013		Dring	David	2026-06-30 00:00:00	250	250	0			2028 W. Division	#402	Chicago	IL	60622     	1A							  	          	False		False
-6651575	40760	1016013		Friends of Jawaharial O. Williams		2026-06-30 00:00:00	300	300	0			1648 W. Warren Blvd		Chicago	IL	60612     	1A							  	          	False		False
-6651576	40760	1016013		Strickland	Eric/Diahann	2026-06-30 00:00:00	200	200	0			4252 W. 21st Pl		Chicago	IL	60623     	1A							  	          	False		False
-6651577	40760	1016013		Ivory Holmes, LLC		2026-06-30 00:00:00	250	250	0			7061 W. North Avenue	#524	Oak Park	IL	60302     	1A							  	          	False		False
-6651578	40760	1016013		The Bass Group		2026-06-30 00:00:00	200	200	0			4112 W. 21st Place		Chicago	IL	60623     	1A							  	          	False		False
-6651579	40760	1016013		Kesser Group LLC		2026-06-30 00:00:00	500	500	0			4655 W. Chase Avenue		Lincolnwood	IL	60712     	2A							  	          	False		False
-6651580	40760	1016013		Superior Ambulance Service, Inc.		2026-06-30 00:00:00	250	250	0			395 W. Lake Street		Elmhurst	IL	60126     	1A							  	          	False		False
-6651581	40760	1016013		Ironworkers District Council of Chicago & Vicinity PAC		2026-06-30 00:00:00	1000	1000	0			2700 South River Road	Suite 118	Des Plaines	IL	60018     	1A							  	          	False		False
-6651582	40760	1016013		Citizens to Elect Ronald M. Superior		2026-06-30 00:00:00	1000	1000	0			1807 Broadway Avenue		Melrose Park	IL	60160     	1A							  	          	False		False
-6651583	40760	1016013		Ronan	Maren	2026-06-30 00:00:00	500	500	0			319 Rugeley Road		Western Springs	IL	60558     	1A							  	          	False		False
-6651584	40760	1016013		McDermott	Sean	2026-06-30 00:00:00	250	250	0			1218 W. Plainfield Road		Countryside	IL	60525     	1A							  	          	False		False
-6651585	40760	1016013		Floyd Floyd & Associates LLC		2026-06-30 00:00:00	1000	1000	0			401 William Street	# 6274	River Forest	IL	60305     	1A							  	          	False		False
-6651586	40760	1016013		Social Gaming Leadership Alliance		2026-06-30 00:00:00	2500	2500	0			1600 Eye Street NW	Suite 900	Washington	DC	20006     	1A							  	          	False		False
-6651587	40760	1016013		IL Trial Lawyers Association Political Action Committee		2026-06-30 00:00:00	1000	1000	0			401 W. Edwards Street		Springfield	IL	62704     	1A							  	          	False		False
-6651588	40760	1016013		Craig Willert Consulting, INC		2026-06-30 00:00:00	500	500	0			3602 N. Keeler Avenue		Chicago	IL	60641     	1A							  	          	False		False
-6651589	40760	1016013		Taft Stettinius & Hollister LLP		2026-04-27 00:00:00	500	500	0			301 East Fourth Street	Suite 2800	Cincinnati	OH	45202     	1A							  	          	False		False
-6651590	40760	1016013		Chicago Land Operators Joint Labor-Management PAC		2026-06-10 00:00:00	5000	5000	0			6200 Joliet Road		Countryside	IL	60525     	1A							  	          	False		False
-6651591	40760	1016013		Illinois Federation of Public Employees COPE		2026-06-16 00:00:00	1000	1000	0			4 Lawrence SW		Springfield	IL	62704     	1A							  	          	False		False
-6651592	40760	1016013		Associated Beer Distributors of IL Political Action Committe		2026-06-18 00:00:00	1000	1000	0			PO Box 396		Springfield	IL	62705     	1A							  	          	False		False
-6651593	40760	1016013		IL State Medical Society Political Action Committee		2026-06-15 00:00:00	500	500	0			20 N. Michigan Avenue	Suite 700	Chicago	IL	60602     	1A							  	          	False		False
-6651594	40760	1016013		Whipple	Ben	2026-06-23 00:00:00	250	250	0			614 Melrose Avenue		Kenilworth	IL	60043     	1A							  	          	False		False
-6651595	40760	1016013		Cook County College Teachers Union-COPE		2026-06-04 00:00:00	500	500	0			1901  W. Carrol Avenue	Ste 200	Chicago	IL	60612     	1A							  	          	False		False
-6651596	40760	1016013		Brinkley	Alexis	2026-06-30 00:00:00	250	250	0			1917 Brier Glen Drive		Plainfield	IL	60586     	1A							  	          	False		False
-6651597	40760	1016013		Prescott	James	2026-06-30 00:00:00	250	250	0			244 Forest Avenue		Oak Park	IL	60302     	1A							  	          	False		False
-6651598	40760	1016013		DAlessandro	John	2026-06-30 00:00:00	500	500	0			220 N. Green St		Chicago	IL	60607     	1A							  	          	False		False
-6651599	40760	1016013		Clayborne	James	2026-06-30 00:00:00	500	500	0			10 Persimmon Ridge		Belleville	IL	62223     	1A							  	          	False		False
-6651600	40760	1016013		Cozen O'Connor		2026-06-23 00:00:00	250	250	0			1650 Market Street	Suite 2800	Philadelphia	PA	19103     	1A							  	          	False		False
-6651601	40760	1016013		People for Yolanda Morris		2026-06-06 00:00:00	250	250	0			4335 W. 21st Street		Chicago	IL	60623     	1A							  	          	False		False
-6651602	40760	1016013		CSX Transportation Inc. State Campaign Account		2026-06-29 00:00:00	500	500	0			500 Water Street		Jacksonville	FL	32202     	1A							  	          	False		False
-6651603	40760	1016013		Glass	Jeffrey	2026-06-26 00:00:00	250	250	0			1235 S. Prairie Avenue	Apt. 1702	Chicago	IL	60605     	1A							  	          	False		False
-6651604	40760	1016013		AFL-CIO		2026-06-16 00:00:00	250	250	0			126 N. Scott Street		Joliet	IL	60432     	1A							  	          	False		False
-6651605	40760	1016013		Chicagoland Apartment Association		2026-06-30 00:00:00	250	250	0			500 W. Madison Street	Ste 1000	Chicago	IL	60661     	1A							  	          	False		False
+6651550	40760	1016013		Hoffman	Jackie	2026-06-30 00:00:00	250	250	0			431 N Lawndale	1	Chicago	IL	60624     	1A							  	          	True		False
+6651551	40760	1016013		Robinson	Claude	2026-06-30 00:00:00	250	250	0			8401 S. Kimbark Avenue		Chicago	IL	60619     	1A							  	          	True		False
+6651552	40760	1016013		Auguste	Alexandra	2026-06-30 00:00:00	500	500	0			18 Tyler St		Hyde Park	MA	02136     	1A							  	          	True		False
+6651553	40760	1016013		Stricklin	Jennifer	2026-06-30 00:00:00	500	500	0			970 Old Green Bay Rd		Winnetka	IL	60093     	1A							  	          	True		False
+6651554	40760	1016013		McGee	Lutalo	2026-06-30 00:00:00	500	500	0			7300 S Cottage Grove		Chicago	IL	60619     	1A							  	          	True		False
+6651555	40760	1016013		Landau	Daniella	2026-06-30 00:00:00	250	250	0			3616 Raymond Street		Chevy Chase	MD	20815     	1A							  	          	True		False
+6651556	40760	1016013		Houlihan	Michael	2026-06-30 00:00:00	1000	1000	0			1100 N Lake Shore drive,		Chicago,	IL	60611     	1A							  	          	True		False
+6651557	40760	1016013		Yakoubou	Ajara	2026-06-30 00:00:00	250	250	0			2014 Crosswind Dr		Plainfield	IL	60586     	1A							  	          	True		False
+6651558	40760	1016013		Cross	Charlie	2026-06-29 00:00:00	250	250	0			17712 Chestnut Avenue		Country Club Hills	IL	60478     	1A							  	          	True		False
+6651559	40760	1016013		Gordon	Frances	2026-06-27 00:00:00	250	250	0			4132 W Madison St		Chicago	IL	60624     	1A							  	          	True		False
+6651560	40760	1016013		Braun	Adam	2026-06-26 00:00:00	500	500	0			4194 N. Clarendon	Apt. 1	Chicago	IL	60613     	2A							  	          	True		False
+6651561	40760	1016013		Shomon	Dan	2026-06-24 00:00:00	250	250	0			7800 North Milwaukee Avenue		Niles	IL	60714     	1A							  	          	True		False
+6651562	40760	1016013		Roberts	Sarah	2026-06-23 00:00:00	200	224	0			8158 S. Indiana		Chicago	IL	60619     	1A							  	          	True		False
+6651563	40760	1016013		Murphy	Thomas	2026-06-23 00:00:00	250	250	0			840 N lake shore dr, apt 802		Chicago	IL	60611     	1A							  	          	True		False
+6651564	40760	1016013		Balthazar	Chris	2026-06-22 00:00:00	250	250	0			9 N Cicero Ave		Chicago	IL	60644     	1A							  	          	True		False
+6651565	40760	1016013		Jackson	Tenille	2026-06-17 00:00:00	500	500	0			100 Rocklyn Court		Bolingbrook	IL	60440     	1A							  	          	True		False
+6651566	40760	1016013		Smith	Leo	2026-06-29 00:00:00	2500	2500	0			2550 N. Lakeview, 2503S		Chicago	IL	60614     	1A							  	          	True		False
+6651567	40760	1016013		Shlofrock	John	2026-06-15 00:00:00	500	500	0			465 Central Avenue 100		Northfield	IL	60093     	1A							  	          	True		False
+6651568	40760	1016013		Harris	Jermaine	2026-06-15 00:00:00	250	250	0			4347 W. Cermak Rd		Chicago	IL	60623     	1A							  	          	True		False
+6651569	40760	1016013		Roberts	Sarah	2026-06-14 00:00:00	8	224	0			8158 S. Indiana		Chicago	IL	60619     	1A							  	          	True		False
+6651570	40760	1016013		McFadden	Kady	2026-06-10 00:00:00	250	250	0			1133 Leonard Pl.		Evanston	IL	60201     	1A							  	          	True		False
+6651571	40760	1016013		Riggs	Kevin	2026-05-29 00:00:00	500	500	0			789 Forest Green Drive		O'Fallon	IL	62269     	1A							  	          	True		False
+6651572	40760	1016013		Roberts	Sarah	2026-05-14 00:00:00	8	224	0			8158 S. Indiana		Chicago	IL	60619     	1A							  	          	True		False
+6651573	40760	1016013		Roberts	Sarah	2026-04-14 00:00:00	8	224	0			8158 S. Indiana		Chicago	IL	60619     	1A							  	          	True		False
+6651574	40760	1016013		Dring	David	2026-06-30 00:00:00	250	250	0			2028 W. Division	#402	Chicago	IL	60622     	1A							  	          	True		False
+6651575	40760	1016013		Friends of Jawaharial O. Williams		2026-06-30 00:00:00	300	300	0			1648 W. Warren Blvd		Chicago	IL	60612     	1A							  	          	True		False
+6651576	40760	1016013		Strickland	Eric/Diahann	2026-06-30 00:00:00	200	200	0			4252 W. 21st Pl		Chicago	IL	60623     	1A							  	          	True		False
+6651577	40760	1016013		Ivory Holmes, LLC		2026-06-30 00:00:00	250	250	0			7061 W. North Avenue	#524	Oak Park	IL	60302     	1A							  	          	True		False
+6651578	40760	1016013		The Bass Group		2026-06-30 00:00:00	200	200	0			4112 W. 21st Place		Chicago	IL	60623     	1A							  	          	True		False
+6651579	40760	1016013		Kesser Group LLC		2026-06-30 00:00:00	500	500	0			4655 W. Chase Avenue		Lincolnwood	IL	60712     	2A							  	          	True		False
+6651580	40760	1016013		Superior Ambulance Service, Inc.		2026-06-30 00:00:00	250	250	0			395 W. Lake Street		Elmhurst	IL	60126     	1A							  	          	True		False
+6651581	40760	1016013		Ironworkers District Council of Chicago & Vicinity PAC		2026-06-30 00:00:00	1000	1000	0			2700 South River Road	Suite 118	Des Plaines	IL	60018     	1A							  	          	True		False
+6651582	40760	1016013		Citizens to Elect Ronald M. Superior		2026-06-30 00:00:00	1000	1000	0			1807 Broadway Avenue		Melrose Park	IL	60160     	1A							  	          	True		False
+6651583	40760	1016013		Ronan	Maren	2026-06-30 00:00:00	500	500	0			319 Rugeley Road		Western Springs	IL	60558     	1A							  	          	True		False
+6651584	40760	1016013		McDermott	Sean	2026-06-30 00:00:00	250	250	0			1218 W. Plainfield Road		Countryside	IL	60525     	1A							  	          	True		False
+6651585	40760	1016013		Floyd Floyd & Associates LLC		2026-06-30 00:00:00	1000	1000	0			401 William Street	# 6274	River Forest	IL	60305     	1A							  	          	True		False
+6651586	40760	1016013		Social Gaming Leadership Alliance		2026-06-30 00:00:00	2500	2500	0			1600 Eye Street NW	Suite 900	Washington	DC	20006     	1A							  	          	True		False
+6651587	40760	1016013		IL Trial Lawyers Association Political Action Committee		2026-06-30 00:00:00	1000	1000	0			401 W. Edwards Street		Springfield	IL	62704     	1A							  	          	True		False
+6651588	40760	1016013		Craig Willert Consulting, INC		2026-06-30 00:00:00	500	500	0			3602 N. Keeler Avenue		Chicago	IL	60641     	1A							  	          	True		False
+6651589	40760	1016013		Taft Stettinius & Hollister LLP		2026-04-27 00:00:00	500	500	0			301 East Fourth Street	Suite 2800	Cincinnati	OH	45202     	1A							  	          	True		False
+6651590	40760	1016013		Chicago Land Operators Joint Labor-Management PAC		2026-06-10 00:00:00	5000	5000	0			6200 Joliet Road		Countryside	IL	60525     	1A							  	          	True		False
+6651591	40760	1016013		Illinois Federation of Public Employees COPE		2026-06-16 00:00:00	1000	1000	0			4 Lawrence SW		Springfield	IL	62704     	1A							  	          	True		False
+6651592	40760	1016013		Associated Beer Distributors of IL Political Action Committe		2026-06-18 00:00:00	1000	1000	0			PO Box 396		Springfield	IL	62705     	1A							  	          	True		False
+6651593	40760	1016013		IL State Medical Society Political Action Committee		2026-06-15 00:00:00	500	500	0			20 N. Michigan Avenue	Suite 700	Chicago	IL	60602     	1A							  	          	True		False
+6651594	40760	1016013		Whipple	Ben	2026-06-23 00:00:00	250	250	0			614 Melrose Avenue		Kenilworth	IL	60043     	1A							  	          	True		False
+6651595	40760	1016013		Cook County College Teachers Union-COPE		2026-06-04 00:00:00	500	500	0			1901  W. Carrol Avenue	Ste 200	Chicago	IL	60612     	1A							  	          	True		False
+6651596	40760	1016013		Brinkley	Alexis	2026-06-30 00:00:00	250	250	0			1917 Brier Glen Drive		Plainfield	IL	60586     	1A							  	          	True		False
+6651597	40760	1016013		Prescott	James	2026-06-30 00:00:00	250	250	0			244 Forest Avenue		Oak Park	IL	60302     	1A							  	          	True		False
+6651598	40760	1016013		DAlessandro	John	2026-06-30 00:00:00	500	500	0			220 N. Green St		Chicago	IL	60607     	1A							  	          	True		False
+6651599	40760	1016013		Clayborne	James	2026-06-30 00:00:00	500	500	0			10 Persimmon Ridge		Belleville	IL	62223     	1A							  	          	True		False
+6651600	40760	1016013		Cozen O'Connor		2026-06-23 00:00:00	250	250	0			1650 Market Street	Suite 2800	Philadelphia	PA	19103     	1A							  	          	True		False
+6651601	40760	1016013		People for Yolanda Morris		2026-06-06 00:00:00	250	250	0			4335 W. 21st Street		Chicago	IL	60623     	1A							  	          	True		False
+6651602	40760	1016013		CSX Transportation Inc. State Campaign Account		2026-06-29 00:00:00	500	500	0			500 Water Street		Jacksonville	FL	32202     	1A							  	          	True		False
+6651603	40760	1016013		Glass	Jeffrey	2026-06-26 00:00:00	250	250	0			1235 S. Prairie Avenue	Apt. 1702	Chicago	IL	60605     	1A							  	          	True		False
+6651604	40760	1016013		AFL-CIO		2026-06-16 00:00:00	250	250	0			126 N. Scott Street		Joliet	IL	60432     	1A							  	          	True		False
+6651605	40760	1016013		Chicagoland Apartment Association		2026-06-30 00:00:00	250	250	0			500 W. Madison Street	Ste 1000	Chicago	IL	60661     	1A							  	          	True		False
 6651606	36936	1016014		Calderon	Juan	2026-05-11 00:00:00	500	500	0			2615 W. Division Street	Unit 2	Chicago	IL	60622     	2A							  	          	False		False
 6651607	40854	1016015		Hunt	Lawrence	2026-04-07 00:00:00	250	250	0			8120 Binford Dr		Orland Park	IL	60462     	1A							  	          	True	USA	False
 6651608	40854	1016015		Scott	Michael J	2026-06-23 00:00:00	500	500	0			5213 S Kenwood Ave		Chicago	IL	60615     	1A							  	          	True		False
@@ -152532,98 +152532,98 @@
 6714472	41261	1027289		Urban Center NFP		2026-08-21 00:00:00	657.63	6880.13	0			4043 N Ravenswood	Suite 225	chicago	IL	60613     	5A	Consulting	On the Ballot LLC		3257 N Sheffield		Chicago	IL	60657     	False		False
 6714473	41261	1027289		Common Ground Collective PAC		2026-08-21 00:00:00	166.67	1558.64	0			875 N Michigan Ave	FL 31	Chicago	IL	60611     	5A	Legal fees	Kasper	Michael	151 N Franklin	suite 2500	chicago	IL	60606     	False		False
 6714474	41261	1027289		INCS ACTION PAC		2026-09-16 00:00:00	166.67	9538.27	0			150 N MICHIGAN AVE	suite 430	chicago	IL	60601     	5A	Consulting	Kasper	Michael	151 N Franklin	suite 2500	chicago	IL	60606     	False		False
-6714475	1205	1027291		Bonnema	Jacob	2026-07-01 00:00:00	5	240	0			717 S. Clark St. Unit 2104		Chicago	IL	60605     	1A							  	          	False		False
-6714476	1205	1027291		Lacplesis	Kristina	2026-07-02 00:00:00	100	300	0			6529 Taylor Dr.		Woodridge	IL	60517     	1A							  	          	False		False
-6714477	1205	1027291		Schneider	Adam	2026-07-03 00:00:00	90	270	0			13980 E 1130th Rd.		Marshall	IL	62441     	1A							  	          	False		False
-6714478	1205	1027291		Spitzner	Mason	2026-07-03 00:00:00	100	300	0			895 County Road 2095 E		Fairfield	IL	62837     	1A							  	          	False		False
-6714479	1205	1027291		Domescik-Rink	Tami	2026-07-03 00:00:00	25	175	0			1 Conestoga Dr		Auburn	IL	62615     	1A							  	          	False		False
-6714480	1205	1027291		Shimi	Sawsan	2026-07-06 00:00:00	100	300	0			801 S Financial Pl Apt 1816		Chicago	IL	60605     	1A							  	          	False		False
-6714481	1205	1027291		Hackett	Gretchen	2026-07-08 00:00:00	200	675	0	CRNA	Methodist Medical	608 S Stillwater Dr.		Chillicothe	IL	61523     	1A							  	          	False		False
-6714482	1205	1027291		Oskvarek	Victor	2026-07-09 00:00:00	100	300	0			22406 S. Camelot Ct.		Joliet	IL	60404     	1A							  	          	False		False
-6714483	1205	1027291		Fiali	Dawn Y.	2026-07-11 00:00:00	100	300	0			2046 W. Hutchinson St.		Chicago	IL	60618     	1A							  	          	False		False
-6714484	1205	1027291		Feczko	Julia	2026-07-11 00:00:00	160	480	0			4007 N. Paulina St. Apt. 35		Chicago	IL	60613     	1A							  	          	False		False
-6714485	1205	1027291		Loek	Wayne	2026-07-12 00:00:00	125	925	0	Certified Registered Nurse Anesthetist	Self employed	1228 Richfield Ct.		Woodbridge	IL	60517     	1A							  	          	False		False
-6714486	1205	1027291		Carroll	Nathan	2026-07-14 00:00:00	84	252	0			10761 E 775th Ave		Robinson	IL	62454     	1A							  	          	False		False
-6714487	1205	1027291		Bonnema	Jacob	2026-07-15 00:00:00	50	240	0			717 S. Clark St. Unit 2104		Chicago	IL	60605     	1A							  	          	False		False
-6714488	1205	1027291		Oldani	Joseph M.	2026-07-15 00:00:00	200	600	0	Nurse Anesthetist	OSF Healthcare	1302 W. Saint Louis St.		West Frankfort	IL	62896     	1A							  	          	False		False
-6714489	1205	1027291		Orona	Kathryn	2026-07-15 00:00:00	100	300	0			3077 Seekonk Ave.		Elgin	IL	60124     	1A							  	          	False		False
-6714490	1205	1027291		Miles	David A.	2026-07-16 00:00:00	100	300	0			20544 Hickory Ct.		Frankfort	IL	60423     	1A							  	          	False		False
-6714491	1205	1027291		Jordan	Shari	2026-07-16 00:00:00	100	300	0			692 Stonebridge Dr.		Bolingbrook	IL	60490     	1A							  	          	False		False
-6714492	1205	1027291		Collier	Nicholas	2026-07-17 00:00:00	50	1650	0	Certified Registered Nurse Anesthetist	Memorial Medical Center	13806 Saddle Tramp Lane		Athens	IL	62613     	1A							  	          	False		False
-6714493	1205	1027291		Domescik-Rink	Tami	2026-07-17 00:00:00	25	175	0			1 Conestoga Dr		Auburn	IL	62615     	1A							  	          	False		False
-6714494	1205	1027291		Bonnema	Jacob	2026-07-18 00:00:00	25	240	0			717 S. Clark St. Unit 2104		Chicago	IL	60605     	1A							  	          	False		False
-6714495	1205	1027291		Smith	Allison	2026-07-19 00:00:00	100	300	0			10517 Yankee Ridge Dr.		Frankfort	IL	60423     	1A							  	          	False		False
-6714496	1205	1027291		Cox	Jennifer	2026-07-20 00:00:00	100	300	0			2007 Ridgemore Dr.		Bartlett	IL	60103     	1A							  	          	False		False
-6714497	1205	1027291		Banek	Jennifer	2026-07-21 00:00:00	35	405	0			1210 East Park Ave.		Libertyville	IL	60048     	1A							  	          	False		False
-6714498	1205	1027291		King	Daniel	2026-07-22 00:00:00	100	300	0			3821 N Kilpatrick Ave		Chicago	IL	60641     	1A							  	          	False		False
-6714499	1205	1027291		Hackett	Gretchen	2026-07-22 00:00:00	25	675	0	CRNA	Methodist Medical	608 S Stillwater Dr.		Chillicothe	IL	61523     	1A							  	          	False		False
-6714500	1205	1027291		Banek	Jennifer	2026-07-22 00:00:00	100	405	0			1210 East Park Ave.		Libertyville	IL	60048     	1A							  	          	False		False
-6714501	1205	1027291		Novak	Mary Fran	2026-07-28 00:00:00	100	300	0			14412 Mallard Dr.		Homer Glen	IL	60491     	1A							  	          	False		False
-6714502	1205	1027291		Rubens	Germaine	2026-07-30 00:00:00	100	300	0			2922 Twin Oaks Drive		Highland Park	IL	60035     	1A							  	          	False		False
-6714503	1205	1027291		Domescik-Rink	Tami	2026-07-31 00:00:00	25	175	0			1 Conestoga Dr		Auburn	IL	62615     	1A							  	          	False		False
-6714504	1205	1027291		Bonnema	Jacob	2026-08-01 00:00:00	5	240	0			717 S. Clark St. Unit 2104		Chicago	IL	60605     	1A							  	          	False		False
-6714505	1205	1027291		Lacplesis	Kristina	2026-08-02 00:00:00	100	300	0			6529 Taylor Dr.		Woodridge	IL	60517     	1A							  	          	False		False
-6714506	1205	1027291		Schneider	Adam	2026-08-03 00:00:00	90	270	0			13980 E 1130th Rd.		Marshall	IL	62441     	1A							  	          	False		False
-6714507	1205	1027291		Abraham	Lindsey	2026-08-03 00:00:00	100	200	0			1201 S Prairie Ave Apt 4103		Chicago	IL	60605     	1A							  	          	False		False
-6714508	1205	1027291		Spitzner	Mason	2026-08-03 00:00:00	100	300	0			895 County Road 2095 E		Fairfield	IL	62837     	1A							  	          	False		False
-6714509	1205	1027291		Shimi	Sawsan	2026-08-06 00:00:00	100	300	0			801 S Financial Pl Apt 1816		Chicago	IL	60605     	1A							  	          	False		False
-6714510	1205	1027291		Hackett	Gretchen	2026-08-08 00:00:00	200	675	0	CRNA	Methodist Medical	608 S Stillwater Dr.		Chillicothe	IL	61523     	1A							  	          	False		False
-6714511	1205	1027291		Fiali	Dawn Y.	2026-08-11 00:00:00	100	300	0			2046 W. Hutchinson St.		Chicago	IL	60618     	1A							  	          	False		False
-6714512	1205	1027291		Feczko	Julia	2026-08-11 00:00:00	160	480	0			4007 N. Paulina St. Apt. 35		Chicago	IL	60613     	1A							  	          	False		False
-6714513	1205	1027291		Loek	Wayne	2026-08-12 00:00:00	125	925	0	Certified Registered Nurse Anesthetist	Self employed	1228 Richfield Ct.		Woodbridge	IL	60517     	1A							  	          	False		False
-6714514	1205	1027291		Carroll	Nathan	2026-08-14 00:00:00	84	252	0			10761 E 775th Ave		Robinson	IL	62454     	1A							  	          	False		False
-6714515	1205	1027291		Domescik-Rink	Tami	2026-08-14 00:00:00	25	175	0			1 Conestoga Dr		Auburn	IL	62615     	1A							  	          	False		False
-6714516	1205	1027291		Bonnema	Jacob	2026-08-15 00:00:00	50	240	0			717 S. Clark St. Unit 2104		Chicago	IL	60605     	1A							  	          	False		False
-6714517	1205	1027291		Oldani	Joseph M.	2026-08-15 00:00:00	200	600	0	Nurse Anesthetist	OSF Healthcare	1302 W. Saint Louis St.		West Frankfort	IL	62896     	1A							  	          	False		False
-6714518	1205	1027291		Orona	Kathryn	2026-08-15 00:00:00	100	300	0			3077 Seekonk Ave.		Elgin	IL	60124     	1A							  	          	False		False
-6714519	1205	1027291		Miles	David A.	2026-08-16 00:00:00	100	300	0			20544 Hickory Ct.		Frankfort	IL	60423     	1A							  	          	False		False
-6714520	1205	1027291		Jordan	Shari	2026-08-16 00:00:00	100	300	0			692 Stonebridge Dr.		Bolingbrook	IL	60490     	1A							  	          	False		False
-6714521	1205	1027291		Collier	Nicholas	2026-08-17 00:00:00	50	1650	0	Certified Registered Nurse Anesthetist	Memorial Medical Center	13806 Saddle Tramp Lane		Athens	IL	62613     	1A							  	          	False		False
-6714522	1205	1027291		Oskvarek	Victor	2026-08-17 00:00:00	100	300	0			22406 S. Camelot Ct.		Joliet	IL	60404     	1A							  	          	False		False
-6714523	1205	1027291		Bonnema	Jacob	2026-08-18 00:00:00	25	240	0			717 S. Clark St. Unit 2104		Chicago	IL	60605     	1A							  	          	False		False
-6714524	1205	1027291		Smith	Allison	2026-08-19 00:00:00	100	300	0			10517 Yankee Ridge Dr.		Frankfort	IL	60423     	1A							  	          	False		False
-6714525	1205	1027291		Harris	Margaret	2026-08-19 00:00:00	250	250	0			12709 Greenwood Ave		Blue Island	IL	60406     	1A							  	          	False		False
-6714526	1205	1027291		Cox	Jennifer	2026-08-20 00:00:00	100	300	0			2007 Ridgemore Dr.		Bartlett	IL	60103     	1A							  	          	False		False
-6714527	1205	1027291		Banek	Jennifer	2026-08-21 00:00:00	35	405	0			1210 East Park Ave.		Libertyville	IL	60048     	1A							  	          	False		False
-6714528	1205	1027291		King	Daniel	2026-08-22 00:00:00	100	300	0			3821 N Kilpatrick Ave		Chicago	IL	60641     	1A							  	          	False		False
-6714529	1205	1027291		Hackett	Gretchen	2026-08-22 00:00:00	25	675	0	CRNA	Methodist Medical	608 S Stillwater Dr.		Chillicothe	IL	61523     	1A							  	          	False		False
-6714530	1205	1027291		Banek	Jennifer	2026-08-22 00:00:00	100	405	0			1210 East Park Ave.		Libertyville	IL	60048     	1A							  	          	False		False
-6714531	1205	1027291		Suresh	Avni	2026-08-26 00:00:00	365	365	0			2622 N. Halsted St. Apt. 2		Chicago	IL	60614     	1A							  	          	False		False
-6714532	1205	1027291		Novak	Mary Fran	2026-08-28 00:00:00	100	300	0			14412 Mallard Dr.		Homer Glen	IL	60491     	1A							  	          	False		False
-6714533	1205	1027291		Domescik-Rink	Tami	2026-08-28 00:00:00	25	175	0			1 Conestoga Dr		Auburn	IL	62615     	1A							  	          	False		False
-6714534	1205	1027291		Rubens	Germaine	2026-08-30 00:00:00	100	300	0			2922 Twin Oaks Drive		Highland Park	IL	60035     	1A							  	          	False		False
-6714535	1205	1027291		Bonnema	Jacob	2026-09-01 00:00:00	5	240	0			717 S. Clark St. Unit 2104		Chicago	IL	60605     	1A							  	          	False		False
-6714536	1205	1027291		Lacplesis	Kristina	2026-09-02 00:00:00	100	300	0			6529 Taylor Dr.		Woodridge	IL	60517     	1A							  	          	False		False
-6714537	1205	1027291		Schneider	Adam	2026-09-03 00:00:00	90	270	0			13980 E 1130th Rd.		Marshall	IL	62441     	1A							  	          	False		False
-6714538	1205	1027291		Abraham	Lindsey	2026-09-03 00:00:00	100	200	0			1201 S Prairie Ave Apt 4103		Chicago	IL	60605     	1A							  	          	False		False
-6714539	1205	1027291		Spitzner	Mason	2026-09-03 00:00:00	100	300	0			895 County Road 2095 E		Fairfield	IL	62837     	1A							  	          	False		False
-6714540	1205	1027291		Shimi	Sawsan	2026-09-06 00:00:00	100	300	0			801 S Financial Pl Apt 1816		Chicago	IL	60605     	1A							  	          	False		False
-6714541	1205	1027291		Hackett	Gretchen	2026-09-08 00:00:00	200	675	0	CRNA	Methodist Medical	608 S Stillwater Dr.		Chillicothe	IL	61523     	1A							  	          	False		False
-6714542	1205	1027291		Collier	Nicholas	2026-09-09 00:00:00	1500	1650	0	Certified Registered Nurse Anesthetist	Memorial Medical Center	13806 Saddle Tramp Lane		Athens	IL	62613     	1A							  	          	False		False
-6714543	1205	1027291		Oskvarek	Victor	2026-09-09 00:00:00	100	300	0			22406 S. Camelot Ct.		Joliet	IL	60404     	1A							  	          	False		False
-6714544	1205	1027291		Fiali	Dawn Y.	2026-09-11 00:00:00	100	300	0			2046 W. Hutchinson St.		Chicago	IL	60618     	1A							  	          	False		False
-6714545	1205	1027291		Feczko	Julia	2026-09-11 00:00:00	160	480	0			4007 N. Paulina St. Apt. 35		Chicago	IL	60613     	1A							  	          	False		False
-6714546	1205	1027291		Domescik-Rink	Tami	2026-09-11 00:00:00	25	175	0			1 Conestoga Dr		Auburn	IL	62615     	1A							  	          	False		False
-6714547	1205	1027291		Loek	Wayne	2026-09-12 00:00:00	125	925	0	Certified Registered Nurse Anesthetist	Self employed	1228 Richfield Ct.		Woodbridge	IL	60517     	1A							  	          	False		False
-6714548	1205	1027291		Carroll	Nathan	2026-09-14 00:00:00	84	252	0			10761 E 775th Ave		Robinson	IL	62454     	1A							  	          	False		False
-6714549	1205	1027291		Bonnema	Jacob	2026-09-15 00:00:00	50	240	0			717 S. Clark St. Unit 2104		Chicago	IL	60605     	1A							  	          	False		False
-6714550	1205	1027291		Oldani	Joseph M.	2026-09-15 00:00:00	200	600	0	Nurse Anesthetist	OSF Healthcare	1302 W. Saint Louis St.		West Frankfort	IL	62896     	1A							  	          	False		False
-6714551	1205	1027291		Orona	Kathryn	2026-09-15 00:00:00	100	300	0			3077 Seekonk Ave.		Elgin	IL	60124     	1A							  	          	False		False
-6714552	1205	1027291		Miles	David A.	2026-09-16 00:00:00	100	300	0			20544 Hickory Ct.		Frankfort	IL	60423     	1A							  	          	False		False
-6714553	1205	1027291		Jordan	Shari	2026-09-16 00:00:00	100	300	0			692 Stonebridge Dr.		Bolingbrook	IL	60490     	1A							  	          	False		False
-6714554	1205	1027291		Collier	Nicholas	2026-09-17 00:00:00	50	1650	0	Certified Registered Nurse Anesthetist	Memorial Medical Center	13806 Saddle Tramp Lane		Athens	IL	62613     	1A							  	          	False		False
-6714555	1205	1027291		Loek	Wayne	2026-09-17 00:00:00	50	925	0	Certified Registered Nurse Anesthetist	Self employed	1228 Richfield Ct.		Woodbridge	IL	60517     	1A							  	          	False		False
-6714556	1205	1027291		Bonnema	Jacob	2026-09-18 00:00:00	25	240	0			717 S. Clark St. Unit 2104		Chicago	IL	60605     	1A							  	          	False		False
-6714557	1205	1027291		Smith	Allison	2026-09-19 00:00:00	100	300	0			10517 Yankee Ridge Dr.		Frankfort	IL	60423     	1A							  	          	False		False
-6714558	1205	1027291		Cox	Jennifer	2026-09-20 00:00:00	100	300	0			2007 Ridgemore Dr.		Bartlett	IL	60103     	1A							  	          	False		False
-6714559	1205	1027291		Banek	Jennifer	2026-09-21 00:00:00	35	405	0			1210 East Park Ave.		Libertyville	IL	60048     	1A							  	          	False		False
-6714560	1205	1027291		King	Daniel	2026-09-22 00:00:00	100	300	0			3821 N Kilpatrick Ave		Chicago	IL	60641     	1A							  	          	False		False
-6714561	1205	1027291		Hackett	Gretchen	2026-09-22 00:00:00	25	675	0	CRNA	Methodist Medical	608 S Stillwater Dr.		Chillicothe	IL	61523     	1A							  	          	False		False
-6714562	1205	1027291		Banek	Jennifer	2026-09-22 00:00:00	100	405	0			1210 East Park Ave.		Libertyville	IL	60048     	1A							  	          	False		False
-6714563	1205	1027291		Domescik-Rink	Tami	2026-09-25 00:00:00	25	175	0			1 Conestoga Dr		Auburn	IL	62615     	1A							  	          	False		False
-6714564	1205	1027291		Loek	Wayne	2026-09-26 00:00:00	500	925	0	Certified Registered Nurse Anesthetist	Self employed	1228 Richfield Ct.		Woodbridge	IL	60517     	1A							  	          	False		False
-6714565	1205	1027291		Novak	Mary Fran	2026-09-28 00:00:00	100	300	0			14412 Mallard Dr.		Homer Glen	IL	60491     	1A							  	          	False		False
-6714566	1205	1027291		Rubens	Germaine	2026-09-30 00:00:00	100	300	0			2922 Twin Oaks Drive		Highland Park	IL	60035     	1A							  	          	False		False
+6714475	1205	1027291		Bonnema	Jacob	2026-07-01 00:00:00	5	240	0			717 S. Clark St. Unit 2104		Chicago	IL	60605     	1A							  	          	True		False
+6714476	1205	1027291		Lacplesis	Kristina	2026-07-02 00:00:00	100	300	0			6529 Taylor Dr.		Woodridge	IL	60517     	1A							  	          	True		False
+6714477	1205	1027291		Schneider	Adam	2026-07-03 00:00:00	90	270	0			13980 E 1130th Rd.		Marshall	IL	62441     	1A							  	          	True		False
+6714478	1205	1027291		Spitzner	Mason	2026-07-03 00:00:00	100	300	0			895 County Road 2095 E		Fairfield	IL	62837     	1A							  	          	True		False
+6714479	1205	1027291		Domescik-Rink	Tami	2026-07-03 00:00:00	25	175	0			1 Conestoga Dr		Auburn	IL	62615     	1A							  	          	True		False
+6714480	1205	1027291		Shimi	Sawsan	2026-07-06 00:00:00	100	300	0			801 S Financial Pl Apt 1816		Chicago	IL	60605     	1A							  	          	True		False
+6714481	1205	1027291		Hackett	Gretchen	2026-07-08 00:00:00	200	675	0	CRNA	Methodist Medical	608 S Stillwater Dr.		Chillicothe	IL	61523     	1A							  	          	True		False
+6714482	1205	1027291		Oskvarek	Victor	2026-07-09 00:00:00	100	300	0			22406 S. Camelot Ct.		Joliet	IL	60404     	1A							  	          	True		False
+6714483	1205	1027291		Fiali	Dawn Y.	2026-07-11 00:00:00	100	300	0			2046 W. Hutchinson St.		Chicago	IL	60618     	1A							  	          	True		False
+6714484	1205	1027291		Feczko	Julia	2026-07-11 00:00:00	160	480	0			4007 N. Paulina St. Apt. 35		Chicago	IL	60613     	1A							  	          	True		False
+6714485	1205	1027291		Loek	Wayne	2026-07-12 00:00:00	125	925	0	Certified Registered Nurse Anesthetist	Self employed	1228 Richfield Ct.		Woodbridge	IL	60517     	1A							  	          	True		False
+6714486	1205	1027291		Carroll	Nathan	2026-07-14 00:00:00	84	252	0			10761 E 775th Ave		Robinson	IL	62454     	1A							  	          	True		False
+6714487	1205	1027291		Bonnema	Jacob	2026-07-15 00:00:00	50	240	0			717 S. Clark St. Unit 2104		Chicago	IL	60605     	1A							  	          	True		False
+6714488	1205	1027291		Oldani	Joseph M.	2026-07-15 00:00:00	200	600	0	Nurse Anesthetist	OSF Healthcare	1302 W. Saint Louis St.		West Frankfort	IL	62896     	1A							  	          	True		False
+6714489	1205	1027291		Orona	Kathryn	2026-07-15 00:00:00	100	300	0			3077 Seekonk Ave.		Elgin	IL	60124     	1A							  	          	True		False
+6714490	1205	1027291		Miles	David A.	2026-07-16 00:00:00	100	300	0			20544 Hickory Ct.		Frankfort	IL	60423     	1A							  	          	True		False
+6714491	1205	1027291		Jordan	Shari	2026-07-16 00:00:00	100	300	0			692 Stonebridge Dr.		Bolingbrook	IL	60490     	1A							  	          	True		False
+6714492	1205	1027291		Collier	Nicholas	2026-07-17 00:00:00	50	1650	0	Certified Registered Nurse Anesthetist	Memorial Medical Center	13806 Saddle Tramp Lane		Athens	IL	62613     	1A							  	          	True		False
+6714493	1205	1027291		Domescik-Rink	Tami	2026-07-17 00:00:00	25	175	0			1 Conestoga Dr		Auburn	IL	62615     	1A							  	          	True		False
+6714494	1205	1027291		Bonnema	Jacob	2026-07-18 00:00:00	25	240	0			717 S. Clark St. Unit 2104		Chicago	IL	60605     	1A							  	          	True		False
+6714495	1205	1027291		Smith	Allison	2026-07-19 00:00:00	100	300	0			10517 Yankee Ridge Dr.		Frankfort	IL	60423     	1A							  	          	True		False
+6714496	1205	1027291		Cox	Jennifer	2026-07-20 00:00:00	100	300	0			2007 Ridgemore Dr.		Bartlett	IL	60103     	1A							  	          	True		False
+6714497	1205	1027291		Banek	Jennifer	2026-07-21 00:00:00	35	405	0			1210 East Park Ave.		Libertyville	IL	60048     	1A							  	          	True		False
+6714498	1205	1027291		King	Daniel	2026-07-22 00:00:00	100	300	0			3821 N Kilpatrick Ave		Chicago	IL	60641     	1A							  	          	True		False
+6714499	1205	1027291		Hackett	Gretchen	2026-07-22 00:00:00	25	675	0	CRNA	Methodist Medical	608 S Stillwater Dr.		Chillicothe	IL	61523     	1A							  	          	True		False
+6714500	1205	1027291		Banek	Jennifer	2026-07-22 00:00:00	100	405	0			1210 East Park Ave.		Libertyville	IL	60048     	1A							  	          	True		False
+6714501	1205	1027291		Novak	Mary Fran	2026-07-28 00:00:00	100	300	0			14412 Mallard Dr.		Homer Glen	IL	60491     	1A							  	          	True		False
+6714502	1205	1027291		Rubens	Germaine	2026-07-30 00:00:00	100	300	0			2922 Twin Oaks Drive		Highland Park	IL	60035     	1A							  	          	True		False
+6714503	1205	1027291		Domescik-Rink	Tami	2026-07-31 00:00:00	25	175	0			1 Conestoga Dr		Auburn	IL	62615     	1A							  	          	True		False
+6714504	1205	1027291		Bonnema	Jacob	2026-08-01 00:00:00	5	240	0			717 S. Clark St. Unit 2104		Chicago	IL	60605     	1A							  	          	True		False
+6714505	1205	1027291		Lacplesis	Kristina	2026-08-02 00:00:00	100	300	0			6529 Taylor Dr.		Woodridge	IL	60517     	1A							  	          	True		False
+6714506	1205	1027291		Schneider	Adam	2026-08-03 00:00:00	90	270	0			13980 E 1130th Rd.		Marshall	IL	62441     	1A							  	          	True		False
+6714507	1205	1027291		Abraham	Lindsey	2026-08-03 00:00:00	100	200	0			1201 S Prairie Ave Apt 4103		Chicago	IL	60605     	1A							  	          	True		False
+6714508	1205	1027291		Spitzner	Mason	2026-08-03 00:00:00	100	300	0			895 County Road 2095 E		Fairfield	IL	62837     	1A							  	          	True		False
+6714509	1205	1027291		Shimi	Sawsan	2026-08-06 00:00:00	100	300	0			801 S Financial Pl Apt 1816		Chicago	IL	60605     	1A							  	          	True		False
+6714510	1205	1027291		Hackett	Gretchen	2026-08-08 00:00:00	200	675	0	CRNA	Methodist Medical	608 S Stillwater Dr.		Chillicothe	IL	61523     	1A							  	          	True		False
+6714511	1205	1027291		Fiali	Dawn Y.	2026-08-11 00:00:00	100	300	0			2046 W. Hutchinson St.		Chicago	IL	60618     	1A							  	          	True		False
+6714512	1205	1027291		Feczko	Julia	2026-08-11 00:00:00	160	480	0			4007 N. Paulina St. Apt. 35		Chicago	IL	60613     	1A							  	          	True		False
+6714513	1205	1027291		Loek	Wayne	2026-08-12 00:00:00	125	925	0	Certified Registered Nurse Anesthetist	Self employed	1228 Richfield Ct.		Woodbridge	IL	60517     	1A							  	          	True		False
+6714514	1205	1027291		Carroll	Nathan	2026-08-14 00:00:00	84	252	0			10761 E 775th Ave		Robinson	IL	62454     	1A							  	          	True		False
+6714515	1205	1027291		Domescik-Rink	Tami	2026-08-14 00:00:00	25	175	0			1 Conestoga Dr		Auburn	IL	62615     	1A							  	          	True		False
+6714516	1205	1027291		Bonnema	Jacob	2026-08-15 00:00:00	50	240	0			717 S. Clark St. Unit 2104		Chicago	IL	60605     	1A							  	          	True		False
+6714517	1205	1027291		Oldani	Joseph M.	2026-08-15 00:00:00	200	600	0	Nurse Anesthetist	OSF Healthcare	1302 W. Saint Louis St.		West Frankfort	IL	62896     	1A							  	          	True		False
+6714518	1205	1027291		Orona	Kathryn	2026-08-15 00:00:00	100	300	0			3077 Seekonk Ave.		Elgin	IL	60124     	1A							  	          	True		False
+6714519	1205	1027291		Miles	David A.	2026-08-16 00:00:00	100	300	0			20544 Hickory Ct.		Frankfort	IL	60423     	1A							  	          	True		False
+6714520	1205	1027291		Jordan	Shari	2026-08-16 00:00:00	100	300	0			692 Stonebridge Dr.		Bolingbrook	IL	60490     	1A							  	          	True		False
+6714521	1205	1027291		Collier	Nicholas	2026-08-17 00:00:00	50	1650	0	Certified Registered Nurse Anesthetist	Memorial Medical Center	13806 Saddle Tramp Lane		Athens	IL	62613     	1A							  	          	True		False
+6714522	1205	1027291		Oskvarek	Victor	2026-08-17 00:00:00	100	300	0			22406 S. Camelot Ct.		Joliet	IL	60404     	1A							  	          	True		False
+6714523	1205	1027291		Bonnema	Jacob	2026-08-18 00:00:00	25	240	0			717 S. Clark St. Unit 2104		Chicago	IL	60605     	1A							  	          	True		False
+6714524	1205	1027291		Smith	Allison	2026-08-19 00:00:00	100	300	0			10517 Yankee Ridge Dr.		Frankfort	IL	60423     	1A							  	          	True		False
+6714525	1205	1027291		Harris	Margaret	2026-08-19 00:00:00	250	250	0			12709 Greenwood Ave		Blue Island	IL	60406     	1A							  	          	True		False
+6714526	1205	1027291		Cox	Jennifer	2026-08-20 00:00:00	100	300	0			2007 Ridgemore Dr.		Bartlett	IL	60103     	1A							  	          	True		False
+6714527	1205	1027291		Banek	Jennifer	2026-08-21 00:00:00	35	405	0			1210 East Park Ave.		Libertyville	IL	60048     	1A							  	          	True		False
+6714528	1205	1027291		King	Daniel	2026-08-22 00:00:00	100	300	0			3821 N Kilpatrick Ave		Chicago	IL	60641     	1A							  	          	True		False
+6714529	1205	1027291		Hackett	Gretchen	2026-08-22 00:00:00	25	675	0	CRNA	Methodist Medical	608 S Stillwater Dr.		Chillicothe	IL	61523     	1A							  	          	True		False
+6714530	1205	1027291		Banek	Jennifer	2026-08-22 00:00:00	100	405	0			1210 East Park Ave.		Libertyville	IL	60048     	1A							  	          	True		False
+6714531	1205	1027291		Suresh	Avni	2026-08-26 00:00:00	365	365	0			2622 N. Halsted St. Apt. 2		Chicago	IL	60614     	1A							  	          	True		False
+6714532	1205	1027291		Novak	Mary Fran	2026-08-28 00:00:00	100	300	0			14412 Mallard Dr.		Homer Glen	IL	60491     	1A							  	          	True		False
+6714533	1205	1027291		Domescik-Rink	Tami	2026-08-28 00:00:00	25	175	0			1 Conestoga Dr		Auburn	IL	62615     	1A							  	          	True		False
+6714534	1205	1027291		Rubens	Germaine	2026-08-30 00:00:00	100	300	0			2922 Twin Oaks Drive		Highland Park	IL	60035     	1A							  	          	True		False
+6714535	1205	1027291		Bonnema	Jacob	2026-09-01 00:00:00	5	240	0			717 S. Clark St. Unit 2104		Chicago	IL	60605     	1A							  	          	True		False
+6714536	1205	1027291		Lacplesis	Kristina	2026-09-02 00:00:00	100	300	0			6529 Taylor Dr.		Woodridge	IL	60517     	1A							  	          	True		False
+6714537	1205	1027291		Schneider	Adam	2026-09-03 00:00:00	90	270	0			13980 E 1130th Rd.		Marshall	IL	62441     	1A							  	          	True		False
+6714538	1205	1027291		Abraham	Lindsey	2026-09-03 00:00:00	100	200	0			1201 S Prairie Ave Apt 4103		Chicago	IL	60605     	1A							  	          	True		False
+6714539	1205	1027291		Spitzner	Mason	2026-09-03 00:00:00	100	300	0			895 County Road 2095 E		Fairfield	IL	62837     	1A							  	          	True		False
+6714540	1205	1027291		Shimi	Sawsan	2026-09-06 00:00:00	100	300	0			801 S Financial Pl Apt 1816		Chicago	IL	60605     	1A							  	          	True		False
+6714541	1205	1027291		Hackett	Gretchen	2026-09-08 00:00:00	200	675	0	CRNA	Methodist Medical	608 S Stillwater Dr.		Chillicothe	IL	61523     	1A							  	          	True		False
+6714542	1205	1027291		Collier	Nicholas	2026-09-09 00:00:00	1500	1650	0	Certified Registered Nurse Anesthetist	Memorial Medical Center	13806 Saddle Tramp Lane		Athens	IL	62613     	1A							  	          	True		False
+6714543	1205	1027291		Oskvarek	Victor	2026-09-09 00:00:00	100	300	0			22406 S. Camelot Ct.		Joliet	IL	60404     	1A							  	          	True		False
+6714544	1205	1027291		Fiali	Dawn Y.	2026-09-11 00:00:00	100	300	0			2046 W. Hutchinson St.		Chicago	IL	60618     	1A							  	          	True		False
+6714545	1205	1027291		Feczko	Julia	2026-09-11 00:00:00	160	480	0			4007 N. Paulina St. Apt. 35		Chicago	IL	60613     	1A							  	          	True		False
+6714546	1205	1027291		Domescik-Rink	Tami	2026-09-11 00:00:00	25	175	0			1 Conestoga Dr		Auburn	IL	62615     	1A							  	          	True		False
+6714547	1205	1027291		Loek	Wayne	2026-09-12 00:00:00	125	925	0	Certified Registered Nurse Anesthetist	Self employed	1228 Richfield Ct.		Woodbridge	IL	60517     	1A							  	          	True		False
+6714548	1205	1027291		Carroll	Nathan	2026-09-14 00:00:00	84	252	0			10761 E 775th Ave		Robinson	IL	62454     	1A							  	          	True		False
+6714549	1205	1027291		Bonnema	Jacob	2026-09-15 00:00:00	50	240	0			717 S. Clark St. Unit 2104		Chicago	IL	60605     	1A							  	          	True		False
+6714550	1205	1027291		Oldani	Joseph M.	2026-09-15 00:00:00	200	600	0	Nurse Anesthetist	OSF Healthcare	1302 W. Saint Louis St.		West Frankfort	IL	62896     	1A							  	          	True		False
+6714551	1205	1027291		Orona	Kathryn	2026-09-15 00:00:00	100	300	0			3077 Seekonk Ave.		Elgin	IL	60124     	1A							  	          	True		False
+6714552	1205	1027291		Miles	David A.	2026-09-16 00:00:00	100	300	0			20544 Hickory Ct.		Frankfort	IL	60423     	1A							  	          	True		False
+6714553	1205	1027291		Jordan	Shari	2026-09-16 00:00:00	100	300	0			692 Stonebridge Dr.		Bolingbrook	IL	60490     	1A							  	          	True		False
+6714554	1205	1027291		Collier	Nicholas	2026-09-17 00:00:00	50	1650	0	Certified Registered Nurse Anesthetist	Memorial Medical Center	13806 Saddle Tramp Lane		Athens	IL	62613     	1A							  	          	True		False
+6714555	1205	1027291		Loek	Wayne	2026-09-17 00:00:00	50	925	0	Certified Registered Nurse Anesthetist	Self employed	1228 Richfield Ct.		Woodbridge	IL	60517     	1A							  	          	True		False
+6714556	1205	1027291		Bonnema	Jacob	2026-09-18 00:00:00	25	240	0			717 S. Clark St. Unit 2104		Chicago	IL	60605     	1A							  	          	True		False
+6714557	1205	1027291		Smith	Allison	2026-09-19 00:00:00	100	300	0			10517 Yankee Ridge Dr.		Frankfort	IL	60423     	1A							  	          	True		False
+6714558	1205	1027291		Cox	Jennifer	2026-09-20 00:00:00	100	300	0			2007 Ridgemore Dr.		Bartlett	IL	60103     	1A							  	          	True		False
+6714559	1205	1027291		Banek	Jennifer	2026-09-21 00:00:00	35	405	0			1210 East Park Ave.		Libertyville	IL	60048     	1A							  	          	True		False
+6714560	1205	1027291		King	Daniel	2026-09-22 00:00:00	100	300	0			3821 N Kilpatrick Ave		Chicago	IL	60641     	1A							  	          	True		False
+6714561	1205	1027291		Hackett	Gretchen	2026-09-22 00:00:00	25	675	0	CRNA	Methodist Medical	608 S Stillwater Dr.		Chillicothe	IL	61523     	1A							  	          	True		False
+6714562	1205	1027291		Banek	Jennifer	2026-09-22 00:00:00	100	405	0			1210 East Park Ave.		Libertyville	IL	60048     	1A							  	          	True		False
+6714563	1205	1027291		Domescik-Rink	Tami	2026-09-25 00:00:00	25	175	0			1 Conestoga Dr		Auburn	IL	62615     	1A							  	          	True		False
+6714564	1205	1027291		Loek	Wayne	2026-09-26 00:00:00	500	925	0	Certified Registered Nurse Anesthetist	Self employed	1228 Richfield Ct.		Woodbridge	IL	60517     	1A							  	          	True		False
+6714565	1205	1027291		Novak	Mary Fran	2026-09-28 00:00:00	100	300	0			14412 Mallard Dr.		Homer Glen	IL	60491     	1A							  	          	True		False
+6714566	1205	1027291		Rubens	Germaine	2026-09-30 00:00:00	100	300	0			2922 Twin Oaks Drive		Highland Park	IL	60035     	1A							  	          	True		False
 6714567	39026	1027293		IBEW Local 364 Political Action Fund		2026-10-15 00:00:00	1000	0	0			6820 MIll Rd		Rockford	IL	61108     	2A							  	          	False		False
 6714568	31984	1027294		Stasch	Julia	2026-09-19 00:00:00	2500	2500	0	Retired	None	1200 N Lake Shore Dr, Unit 801		Chicago	IL	60610     	1A							  	          	False		False
 6714569	31984	1027294		Kelly	Sean	2026-09-19 00:00:00	1000	1000	0	GC	Why Not Iron	4425 W Kinzie		Chicago	IL	60624     	1A							  	          	False		False
@@ -161624,3 +161624,281 @@
 6723564	21431	1029657		Weil	Edward	2026-11-04 00:00:00	2500	0	0	Attorney	Dykema Gossett, PLLC	91 Lakeview Ter		Highland Park	IL	60035     	1A							  	          	False		False
 6723565	34964	1029658		Ochoa	Juan	2026-11-02 00:00:00	3000	0	0	Facility Manager	Miramar Mechanical Group	5858 S Nottingham		Chicago	IL	60638     	1A							  	          	False		False
 6723566	177	1029659		Sydnor, Jr.	James W.	2026-11-04 00:00:00	1000	0	0	Farmer	Self-employed	PO BOX 9193		Peoria	IL	61612     	1A							  	          	False		False
+6723567	143	1029662		Prairie Band Potawatomi Nation		2026-11-06 00:00:00	5000	0	0			16281Q Road		Mayetta	KS	66509     	1A							  	          	False		False
+6723568	405	1029664		UAW Illinois Political Action Committee		2026-11-06 00:00:00	10000	0	0			900 E. Center St.		Ottawa	IL	61350     	2A							  	          	False		False
+6723569	35756	1029666		I.P.A.C.E		2026-11-04 00:00:00	10000	0	0			100 E. Edwards St		Springfield	IL	62704     	1A							  	          	False		False
+6723570	35756	1029666		Ironworkers District Council of Chicago &Vicinity PAC		2026-11-05 00:00:00	1000	0	0			2700 South River Road Suite 118		Des Plaines	IL	60018     	1A							  	          	False		False
+6723571	35756	1029666		Teamsters Volunteers in Politics		2026-11-05 00:00:00	1000	0	0			160 N Market Street		Willow Springs	IL	60480     	1A							  	          	False		False
+6723572	35756	1029666		Lucky Lincoln Gaming LLC		2026-11-05 00:00:00	5000	0	0			3945 N. Neenah Ave		Chicago	IL	60634     	1A							  	          	False		False
+6723573	35756	1029666		Aristotle International Inc, FBO Amazon.com services LLC		2026-11-05 00:00:00	1000	0	0			205 Pennsylvania Ave		Washington	DC	20003     	1A							  	          	False		False
+6723574	497	1029667		Goodman	Ann D.	2026-11-05 00:00:00	8000	0	0	None	None	813 Moseley Road		Highland Park	IL	60035     	1A							  	          	False	USA	False
+6723575	497	1029667		Keen	Jim	2026-11-05 00:00:00	1000	0	0	Doctor	Northwestern	41 W768 Hunters Hill Dr		St Charles	IL	60175     	1A							  	          	False		False
+6723576	1170	1029670		Illinois AFL-CIO COPE		2026-11-05 00:00:00	55046.64	0	0			534 S 2nd St	Ste 200	Springfield	IL	62701     	2A							  	          	False		False
+6723577	675	1029672		Olutoye MD	Toyin	2026-11-05 00:00:00	1000	0	0	Physician	Ann and Robert H. Lurie Childrens Hosp of Chicago	600 North Lake Shore Dr.	Unit 1005	Chicago	IL	60611-5080	1A							  	          	False		False
+6723578	675	1029672		Welday	Douglas	2026-11-05 00:00:00	1000	0	0	Chief Financial Officer	Endeavor Health	2153 Coral Ln.		Glenview	IL	60026-8010	1A							  	          	False		False
+6723579	675	1029672		Rasmussen	Teresa	2026-11-05 00:00:00	1000	0	0	Chief Nursing Officer	Loyola University Medical Center	8637 Center St.		River Grove	IL	60171-1365	1A							  	          	False		False
+6723580	41198	1029673	1029673-1	Wang 1305 Michigan Ave Inc		2026-11-05 00:00:00	40000	0	40000			336 Skokie Ct		Wilmette	IL	60091     	3A		Wang 1305 Michigan Ave Inc		336 Skokie Ct		Wilmette	IL	60091     	False		False
+6723581	639	1029674		SHEET METAL WORKERS' INTL ASSOCIATION		2026-11-05 00:00:00	6000	0	0			4550 ROOSEVELT ROAD		HILLSIDE	IL	60162     	1A							  	          	False		False
+6723582	23208	1029675		UFCW LOCAL 881 (MEMBERSHIP DUES NOT EXCEEDING $150)		2026-11-06 00:00:00	31387	0	0			1350 E TOUHY AVE, STE 300E		DES PLAINES	IL	60018-3705	1A							  	          	False	U.S.A.	False
+6723583	25532	1029676		Chicago Land Operators Joint Labor Management PAC		2026-11-05 00:00:00	1000	0	0			6200 Joliet Road		Countryside	IL	60525     	2A							  	          	False		False
+6723584	25532	1029676		Zillow Group, Inc PAC		2026-11-05 00:00:00	1000	0	0			1301 Second Ave, Floor 31		Seattle	WA	98101     	1A							  	          	False		False
+6723585	40760	1029679		Illinois Trial Lawyers Assn PAC		2026-11-05 00:00:00	1000	0	0			401 W Edwards St		Springfield	IL	62704     	2A							  	          	False		False
+6723586	40760	1029679		Google Client Services LLC		2026-11-05 00:00:00	1000	0	0			1600 Amphitheatre Pkwy		Mountain View	CA	94043     	1A							  	          	False		False
+6723587	40760	1029679		Teamsters Volunteers in Politics		2026-11-05 00:00:00	1000	0	0			160 Market St		Willow Springs	IL	60460     	2A							  	          	False		False
+6723588	40760	1029679		Smith	Leo	2026-11-05 00:00:00	4800	0	0	not employed	not employed	5348 N Lakewood		Chicago	IL	60640     	1A							  	          	False		False
+6723589	1126	1029680		Chicago REALTORS		2026-11-06 00:00:00	3830	0	0			430 N Michigan Ave	Suite 800	Chicago	IL	60611     	1A							  	          	False		False
+6723590	6505	1029681		Romanucci & Blandin, LLC		2026-11-06 00:00:00	5000	0	0			321 N. Clark St. Ste 900		Chicago	IL	60654     	1A							  	          	False		False
+6723591	6505	1029681		Laduzinsky & Schoop PC		2026-11-06 00:00:00	11250	0	0			1327 W. Washington Street Ste 5G-H		Chicago	IL	60607     	5A	Professional Services	Laduzinsky & Schoop PC		1327 W. Washington Street Ste 5G-H		Chicago	IL	60607     	False		False
+6723592	41442	1029682		Mohling	Maureen	2026-11-04 00:00:00	1000	1000	0	Not Employed	Not Employed	2500 Indigo Ln		Glenview	IL	60026-7797	1A							  	          	False		False
+6723593	34210	1029684		AFSCME Council 31		2026-11-04 00:00:00	1500	1500	0			615 S 2nd St		Springfield	IL	62704-2503	1A							  	          	False		False
+6723594	34210	1029684		Barton Management, Inc		2026-11-04 00:00:00	1000	1000	0			465 Central Ave	Ste 100	Northfield	IL	60093-3045	1A							  	          	False		False
+6723595	34210	1029684		Chico	Gery J.	2026-11-04 00:00:00	1000	1000	0	Attorney	Chico & Nunes	333 W Wacker Dr	Ste 1800	Chicago	IL	60606-1288	1A							  	          	False		False
+6723596	34210	1029684		Christy Webber Landscapes		2026-11-04 00:00:00	5000	5000	0			2900 W Ferdinand St		Chicago	IL	60612-1640	1A							  	          	False		False
+6723597	34210	1029684		Cooney & Conway		2026-11-04 00:00:00	5000	5000	0			120 N La Salle St	Ste 3000	Chicago	IL	60602-2492	1A							  	          	False		False
+6723598	34210	1029684		Illinois Health and Hospital Association		2026-11-04 00:00:00	2500	2500	0			1151 E Warrenville Rd	Ste M	Naperville	IL	60563-9340	1A							  	          	False		False
+6723599	34210	1029684		Indiana, Illinois, Iowa Foundation for Fair Contracting		2026-11-04 00:00:00	5000	5000	0			6170 Joliet Rd	Ste 200	Countryside	IL	60525-4066	1A							  	          	False		False
+6723600	34210	1029684		Nekritz	Elaine	2026-11-04 00:00:00	3000	3000	0	Consultant	Nekritz Amdor Andersson Group	3 the Court of Island Pt		Northbrook	IL	60062-3210	1A							  	          	False		False
+6723601	34210	1029684		Potter	James R.	2026-11-04 00:00:00	1000	2000	0	Attorney	Londrigan, Potter And Randle	300 E Ash St	Apt 1	Springfield	IL	62703-3473	1A							  	          	False		False
+6723602	34210	1029684		Potter	James R.	2026-11-04 00:00:00	1000	2000	0	Attorney	Londrigan, Potter And Randle	300 E Ash St	Apt 1	Springfield	IL	62703-3473	1A							  	          	False		False
+6723603	34210	1029684		Shore	Debra	2026-11-04 00:00:00	1500	2000	0	Retired	Retired	9232 Avers Ave		Evanston	IL	60203-1502	1A							  	          	False		False
+6723604	34210	1029684		Singer	William S.	2026-11-04 00:00:00	1500	1500	0	Retired	Retired	333 W Wolf Point Plz		Chicago	IL	60654-8878	1A							  	          	False		False
+6723605	34210	1029684		Ullico Inc.		2026-11-04 00:00:00	10000	10000	0			8403 Colesville Rd		Silver Spring	MD	20910-6331	1A							  	          	False		False
+6723606	34210	1029684		Chicagoland Operators Joint Labor-Management PAC		2026-11-04 00:00:00	5000	5000	0			6170 Joliet Rd	Ste 200	Countryside	IL	60525-4066	2A							  	          	False		False
+6723607	34210	1029684		Committee to Elect Jay C. Hoffman		2026-11-04 00:00:00	1000	2000	0			PO Box 23738		Belleville	IL	62223-0738	2A							  	          	False		False
+6723608	34210	1029684		Friends of Cheri Bustos		2026-11-04 00:00:00	1000	1000	0			910 17th St NW	Ste 925	Washington	DC	20006-2641	2A							  	          	False		False
+6723609	34210	1029684		Friends of Tracy Katz Muhl		2026-11-04 00:00:00	2000	2000	0			3710 Commercial Ave	Ste 5	Northbrook	IL	60062-1843	2A							  	          	False		False
+6723610	34210	1029684		Houlihan Campaign Fund		2026-11-04 00:00:00	1000	6000	0			2409 Country Club Dr		Springfield	IL	62704-3215	2A							  	          	False		False
+6723611	34210	1029684		IBEW Local Union 134 State & Municipal PAC		2026-11-04 00:00:00	2500	2500	0			2722 S DR MARTIN LUTHER KING JR Dr		Chicago	IL	60616     	2A							  	          	False		False
+6723612	34210	1029684		Illinois Pipe Trades Association		2026-11-04 00:00:00	1000	1000	0			534 S 2nd St	Ste 311	Springfield	IL	62701-1763	2A							  	          	False		False
+6723613	34210	1029684		Illinois Trial Lawyers Association		2026-11-04 00:00:00	2500	2500	0			401 W Edwards St		Springfield	IL	62704-1917	2A							  	          	False		False
+6723614	34210	1029684		JB For Governor		2026-11-04 00:00:00	14600	14600	0			PO Box A3801		Chicago	IL	60690-3801	2A							  	          	False		False
+6723615	34210	1029684		Tammy for Illinois		2026-11-04 00:00:00	3000	3000	0			PO Box 10793		Chicago	IL	60610-0793	2A							  	          	False		False
+6723616	34210	1029684		UFCW Local 881		2026-11-04 00:00:00	1000	1000	0			1350 E Touhy Ave	Ste 300	Des Plaines	IL	60018-3303	2A							  	          	False		False
+6723617	40597	1029685		Vala	Frank	2026-11-06 00:00:00	5000	0	0			405 N. MacArthur Blvd		Springfield	IL	62702     	1A							  	          	False		False
+6723618	40597	1029685		Operating Engineers Local 965 PEC		2026-11-06 00:00:00	2500	0	0			3520 E Cook		Springfield	IL	62703     	1A							  	          	False		False
+6723619	40760	1029686		Whipple	Ben	2026-06-23 00:00:00	250	250	0			614 Melrose Avenue		Kenilworth	IL	60043     	1A							  	          	False		False
+6723620	40760	1029686		Cook County College Teachers Union-COPE		2026-06-04 00:00:00	500	500	0			1901  W. Carrol Avenue	Ste 200	Chicago	IL	60612     	1A							  	          	False		False
+6723621	40760	1029686		Brinkley	Alexis	2026-06-30 00:00:00	250	250	0			1917 Brier Glen Drive		Plainfield	IL	60586     	1A							  	          	False		False
+6723622	40760	1029686		Chicago Land Operators Joint Labor-Management PAC		2026-06-10 00:00:00	5000	5000	0			6200 Joliet Road		Countryside	IL	60525     	1A							  	          	False		False
+6723623	40760	1029686		Illinois Federation of Public Employees COPE		2026-06-16 00:00:00	1000	1000	0			4 Lawrence SW		Springfield	IL	62704     	1A							  	          	False		False
+6723624	40760	1029686		Associated Beer Distributors of IL Political Action Committe		2026-06-18 00:00:00	1000	1000	0			PO Box 396		Springfield	IL	62705     	1A							  	          	False		False
+6723625	40760	1029686		IL State Medical Society Political Action Committee		2026-06-15 00:00:00	500	500	0			20 N. Michigan Avenue	Suite 700	Chicago	IL	60602     	1A							  	          	False		False
+6723626	40760	1029686		Hoffman	Jackie	2026-06-30 00:00:00	250	250	0			431 N Lawndale	1	Chicago	IL	60624     	1A							  	          	False		False
+6723627	40760	1029686		Robinson	Claude	2026-06-30 00:00:00	250	250	0			8401 S. Kimbark Avenue		Chicago	IL	60619     	1A							  	          	False		False
+6723628	40760	1029686		Auguste	Alexandra	2026-06-30 00:00:00	500	500	0			18 Tyler St		Hyde Park	MA	02136     	1A							  	          	False		False
+6723629	40760	1029686		Stricklin	Jennifer	2026-06-30 00:00:00	500	500	0			970 Old Green Bay Rd		Winnetka	IL	60093     	1A							  	          	False		False
+6723630	40760	1029686		Murphy	Thomas	2026-06-23 00:00:00	250	250	0			840 N lake shore dr, apt 802		Chicago	IL	60611     	1A							  	          	False		False
+6723631	40760	1029686		Balthazar	Chris	2026-06-22 00:00:00	250	250	0			9 N Cicero Ave		Chicago	IL	60644     	1A							  	          	False		False
+6723632	40760	1029686		Jackson	Tenille	2026-06-17 00:00:00	500	500	0			100 Rocklyn Court		Bolingbrook	IL	60440     	1A							  	          	False		False
+6723633	40760	1029686		Smith	Leo	2026-06-29 00:00:00	2500	2500	0	not employed	not employed	5348 N Lakewood		Chicago	IL	60640     	1A							  	          	False		False
+6723634	40760	1029686		Shlofrock	John	2026-06-15 00:00:00	500	500	0			465 Central Avenue 100		Northfield	IL	60093     	1A							  	          	False		False
+6723635	40760	1029686		Harris	Jermaine	2026-06-15 00:00:00	250	250	0			4347 W. Cermak Rd		Chicago	IL	60623     	1A							  	          	False		False
+6723636	40760	1029686		Roberts	Sarah	2026-06-14 00:00:00	8	224	0			8158 S. Indiana		Chicago	IL	60619     	1A							  	          	False		False
+6723637	40760	1029686		McFadden	Kady	2026-06-10 00:00:00	250	250	0			1133 Leonard Pl.		Evanston	IL	60201     	1A							  	          	False		False
+6723638	40760	1029686		Riggs	Kevin	2026-05-29 00:00:00	500	500	0			789 Forest Green Drive		O'Fallon	IL	62269     	1A							  	          	False		False
+6723639	40760	1029686		Roberts	Sarah	2026-05-14 00:00:00	8	224	0			8158 S. Indiana		Chicago	IL	60619     	1A							  	          	False		False
+6723640	40760	1029686		Roberts	Sarah	2026-04-14 00:00:00	8	224	0			8158 S. Indiana		Chicago	IL	60619     	1A							  	          	False		False
+6723641	40760	1029686		Prescott	James	2026-06-30 00:00:00	250	250	0			244 Forest Avenue		Oak Park	IL	60302     	1A							  	          	False		False
+6723642	40760	1029686		DAlessandro	John	2026-06-30 00:00:00	500	500	0			220 N. Green St		Chicago	IL	60607     	1A							  	          	False		False
+6723643	40760	1029686		Clayborne	James	2026-06-30 00:00:00	500	500	0			10 Persimmon Ridge		Belleville	IL	62223     	1A							  	          	False		False
+6723644	40760	1029686		Cozen O'Connor		2026-06-23 00:00:00	250	250	0			1650 Market Street	Suite 2800	Philadelphia	PA	19103     	1A							  	          	False		False
+6723645	40760	1029686		People for Yolanda Morris		2026-06-06 00:00:00	250	250	0			4335 W. 21st Street		Chicago	IL	60623     	1A							  	          	False		False
+6723646	40760	1029686		CSX Transportation Inc. State Campaign Account		2026-06-29 00:00:00	500	500	0			500 Water Street		Jacksonville	FL	32202     	1A							  	          	False		False
+6723647	40760	1029686		Glass	Jeffrey	2026-06-26 00:00:00	250	250	0			1235 S. Prairie Avenue	Apt. 1702	Chicago	IL	60605     	1A							  	          	False		False
+6723648	40760	1029686		AFL-CIO		2026-06-16 00:00:00	250	250	0			126 N. Scott Street		Joliet	IL	60432     	1A							  	          	False		False
+6723649	40760	1029686		Chicagoland Apartment Association		2026-06-30 00:00:00	250	250	0			500 W. Madison Street	Ste 1000	Chicago	IL	60661     	1A							  	          	False		False
+6723650	40760	1029686		Taft Stettinius & Hollister LLP		2026-04-27 00:00:00	500	500	0			301 East Fourth Street	Suite 2800	Cincinnati	OH	45202     	1A							  	          	False		False
+6723651	40760	1029686		McGee	Lutalo	2026-06-30 00:00:00	500	500	0			7300 S Cottage Grove		Chicago	IL	60619     	1A							  	          	False		False
+6723652	40760	1029686		Landau	Daniella	2026-06-30 00:00:00	250	250	0			3616 Raymond Street		Chevy Chase	MD	20815     	1A							  	          	False		False
+6723653	40760	1029686		Houlihan	Michael	2026-06-30 00:00:00	1000	1000	0	Lobbyist	Drexwood Partners	1100 N Lake Shore drive,		Chicago,	IL	60611     	1A							  	          	False		False
+6723654	40760	1029686		Yakoubou	Ajara	2026-06-30 00:00:00	250	250	0			2014 Crosswind Dr		Plainfield	IL	60586     	1A							  	          	False		False
+6723655	40760	1029686		Cross	Charlie	2026-06-29 00:00:00	250	250	0			17712 Chestnut Avenue		Country Club Hills	IL	60478     	1A							  	          	False		False
+6723656	40760	1029686		Gordon	Frances	2026-06-27 00:00:00	250	250	0			4132 W Madison St		Chicago	IL	60624     	1A							  	          	False		False
+6723657	40760	1029686		Braun	Adam	2026-06-26 00:00:00	500	500	0			4194 N. Clarendon	Apt. 1	Chicago	IL	60613     	2A							  	          	False		False
+6723658	40760	1029686		Shomon	Dan	2026-06-24 00:00:00	250	250	0			7800 North Milwaukee Avenue		Niles	IL	60714     	1A							  	          	False		False
+6723659	40760	1029686		Roberts	Sarah	2026-06-23 00:00:00	200	224	0			8158 S. Indiana		Chicago	IL	60619     	1A							  	          	False		False
+6723660	40760	1029686		Dring	David	2026-06-30 00:00:00	250	250	0			2028 W. Division	#402	Chicago	IL	60622     	1A							  	          	False		False
+6723661	40760	1029686		Friends of Jawaharial O. Williams		2026-06-30 00:00:00	300	300	0			1648 W. Warren Blvd		Chicago	IL	60612     	1A							  	          	False		False
+6723662	40760	1029686		Strickland	Eric/Diahann	2026-06-30 00:00:00	200	200	0			4252 W. 21st Pl		Chicago	IL	60623     	1A							  	          	False		False
+6723663	40760	1029686		Ivory Holmes, LLC		2026-06-30 00:00:00	250	250	0			7061 W. North Avenue	#524	Oak Park	IL	60302     	1A							  	          	False		False
+6723664	40760	1029686		The Bass Group		2026-06-30 00:00:00	200	200	0			4112 W. 21st Place		Chicago	IL	60623     	1A							  	          	False		False
+6723665	40760	1029686		Kesser Group LLC		2026-06-30 00:00:00	500	500	0			4655 W. Chase Avenue		Lincolnwood	IL	60712     	2A							  	          	False		False
+6723666	40760	1029686		Superior Ambulance Service, Inc.		2026-06-30 00:00:00	250	250	0			395 W. Lake Street		Elmhurst	IL	60126     	1A							  	          	False		False
+6723667	40760	1029686		Ironworkers District Council of Chicago & Vicinity PAC		2026-06-30 00:00:00	1000	1000	0			2700 South River Road	Suite 118	Des Plaines	IL	60018     	1A							  	          	False		False
+6723668	40760	1029686		Citizens to Elect Ronald M. Superior		2026-06-30 00:00:00	1000	1000	0			1807 Broadway Avenue		Melrose Park	IL	60160     	1A							  	          	False		False
+6723669	40760	1029686		Ronan	Maren	2026-06-30 00:00:00	500	500	0			319 Rugeley Road		Western Springs	IL	60558     	1A							  	          	False		False
+6723670	40760	1029686		McDermott	Sean	2026-06-30 00:00:00	250	250	0			1218 W. Plainfield Road		Countryside	IL	60525     	1A							  	          	False		False
+6723671	40760	1029686		Floyd Floyd & Associates LLC		2026-06-30 00:00:00	1000	1000	0			401 William Street	# 6274	River Forest	IL	60305     	1A							  	          	False		False
+6723672	40760	1029686		Social Gaming Leadership Alliance		2026-06-30 00:00:00	2500	2500	0			1600 Eye Street NW	Suite 900	Washington	DC	20006     	1A							  	          	False		False
+6723673	40760	1029686		IL Trial Lawyers Association Political Action Committee		2026-06-30 00:00:00	1000	1000	0			401 W. Edwards Street		Springfield	IL	62704     	1A							  	          	False		False
+6723674	40760	1029686		Craig Willert Consulting, INC		2026-06-30 00:00:00	500	500	0			3602 N. Keeler Avenue		Chicago	IL	60641     	1A							  	          	False		False
+6723675	18261	1029687		Seliga	Joseph	2026-11-03 00:00:00	1000	1000	0	Attorney	Mayer Brown LLP	33 W 14th St		Chicago	IL	60605-2725	1A							  	          	False		False
+6723676	31771	1029689		IBEW Local Union 461 (Dues Check-off)		2026-11-06 00:00:00	2554.06	0	0			591 Sullivan Road, Suite 100		Aurora	IL	60506     	1A							  	          	False		False
+6723677	31771	1029689		IBEW Local Union 461 (Dues Check-off)		2026-11-06 00:00:00	2684.74	0	0			591 Sullivan Road, Suite 100		Aurora	IL	60506     	1A							  	          	False		False
+6723678	41210	1029690		Bolanos	Maria	2026-11-04 00:00:00	1000	0	0			820 E. 48th Street		Chicago	IL	60615     	1A							  	          	False		False
+6723679	41210	1029690		Active Society-State Fund		2026-11-05 00:00:00	3000	0	0			540 N. Dearborn St.	PO Box 10289	Chicago	IL	60610     	2A							  	          	False		False
+6723680	41210	1029690		Dowd, Bloch, Bennett, Cervone, Auerbach, & Yokich LLP,		2026-11-05 00:00:00	2500	0	0			8 S Michigan Ave	Fl 19	Chicago	IL	60603     	1A							  	          	False		False
+6723681	37283	1029691		IPACE		2026-11-06 00:00:00	5000	0	0			100 E Edwards St		Springfield	IL	62704     	2A							  	          	False		False
+6723682	37283	1029691		Chevron		2026-11-06 00:00:00	1000	0	0			P.O. Box 6042		San Ramon	CA	94583     	1A							  	          	False		False
+6723683	41215	1029692		Ford	Kathleen	2026-11-05 00:00:00	1500	0	0	Party Chair	LaSalle Co Democrats	1160 Saint Vincent Ave		LaSalle	IL	61301     	1A							  	          	False		False
+6723684	40800	1029694		SCHULMAN	Marc	2026-11-04 00:00:00	1000	0	0	President	Eli's cheesecake	6701 W Forest Preserve Drivre		Chicago	IL	60634     	1A							  	          	False		False
+6723685	40800	1029694		Singh	Balvinder	2026-11-04 00:00:00	1500	0	0	Self employed	Self employed	6828 n kilborn		Lincolnwood	IL	60712     	1A							  	          	False		False
+6723686	40800	1029694		Komarnytskyy	Oleg	2026-11-06 00:00:00	1000	0	0	realtor	KOMAR	5048 Octavia		Harwood Heights	IL	60706     	1A							  	          	False		False
+6723687	40800	1029694		Panychevnyy	Roman	2026-11-06 00:00:00	1000	0	0	President	Moloko Inc.	538 N.Western Ave.		Chicago	IL	60612     	1A							  	          	False		False
+6723688	40800	1029694		Kiley	Roger	2026-11-06 00:00:00	1500	0	0	Not Employed	Not Employed	130 N Garland Ct	#4904	Chicago	IL	60602     	1A							  	          	False		False
+6723689	40800	1029694		O'Leary	Gregory	2026-11-06 00:00:00	15000	0	0	Principal	Chesley, Taft & Associates, LLC.	1035 W Belden Ave, Unit 2		Chicago	IL	60614     	1A							  	          	False		False
+6723690	36638	1029695		Illinois Trial Lawyers Political Action Committee		2026-11-06 00:00:00	2500	0	0			401 W. Edwards Street		Springfield	IL	62704     	2A							  	          	False		False
+6723691	36638	1029695		Ben Lazare Consulting		2026-11-06 00:00:00	1500	0	0			601 W. Monroe Street		Springfield	IL	62704     	1A							  	          	False		False
+6723692	36638	1029695		Carpentry Advancement PAC		2026-11-06 00:00:00	2500	0	0			12 East Erie Street		Chicago	IL	60611     	2A							  	          	False		False
+6723693	36638	1029695		Cook County College Teachers Union COPE		2026-11-06 00:00:00	2500	0	0			1901 W. Carrol Ave, STE 200		Chicago	IL	60612     	2A							  	          	False		False
+6723694	36638	1029695		I.U.O.E. Local 399		2026-11-06 00:00:00	1000	0	0			2260 S Grove St		Chicago	IL	60616     	2A							  	          	False		False
+6723695	36638	1029695		Teamsters Volunteers in Politics PAC		2026-11-06 00:00:00	1000	0	0			160 Market Streeet		Willow Springs	IL	60480     	2A							  	          	False		False
+6723696	36638	1029695		Raila & Associates PC		2026-11-06 00:00:00	1000	0	0			230 W Superior Street	Ste 500	Chicago	IL	60654     	1A							  	          	False		False
+6723697	36638	1029695		UIC United Faculty COPE		2026-11-06 00:00:00	1000	0	0			1016 W Jackson Blvd		Chicago	IL	60607     	2A							  	          	False		False
+6723698	19328	1029697		Illinois Merchants PAC team		2026-11-04 00:00:00	3743.71	4050.07	0			216 W Jackson Blvd	Ste 915	Chicago	IL	60606-6969	5A	Banquet Space	Union League Club		65 W Jackson Blvd		Chicago	IL	60604-3507	False		False
+6723699	40016	1029698		IHA Political Action Committee		2026-11-05 00:00:00	1500	0	0			700 South Second St		Springfield	IL	62701     	2A							  	          	False		False
+6723700	40016	1029698		I.U.O.E. Local 399 Political Education Fund		2026-11-05 00:00:00	1000	0	0			2260 S Grove St		Chicago	IL	60616     	2A							  	          	False		False
+6723701	40016	1029698		Fox Security Inc dba Rush Solutions		2026-11-05 00:00:00	1500	0	0			21141 Governors Hwy 203		Matteson	IL	60448     	1A							  	          	False		False
+6723702	40016	1029698		Duffin	Grace	2026-11-05 00:00:00	1000	0	0	Regional VP	Comcast	8149 Katy Lane		Orland Park	IL	60462     	1A							  	          	False		False
+6723703	40016	1029698		Sanders	Leslie	2026-11-05 00:00:00	1500	0	0	Pastor	Hope Church	1352 West 61st		Chicago	IL	60605     	1A							  	          	False		False
+6723704	40016	1029698		Johnson	Rashod	2026-11-05 00:00:00	1000	0	0	Car Sales	TRG Leasing LLC	2760 Twin Palms Circle		Las Vegas	NV	89117     	1A							  	          	False		False
+6723705	40016	1029698		Smith	Leo	2026-11-05 00:00:00	5000	0	0	not employed	not employed	2550 N Lakeview #2503S		Chicago	IL	60614     	1A							  	          	False		False
+6723706	40016	1029698		Chicago Land Operators Joint Labor-Mgmt PAC		2026-11-05 00:00:00	2500	0	0			6200 Joliet Rd		Countryside	IL	60525     	2A							  	          	False		False
+6723707	40016	1029698		Nelson	Latonya	2026-11-05 00:00:00	1000	0	0	General Contracting	The Nelson Group	120 S Hamlin Blvd		Chicago	IL	60624     	1A							  	          	False		False
+6723708	40016	1029698		Alvarez	Michael	2026-11-05 00:00:00	1500	0	0	Consultant	Alvarez and Associates	6139 N Kilpatrick		Chicago	IL	60646     	1A							  	          	False		False
+6723709	40016	1029698		Premier Hospitality LLC		2026-11-05 00:00:00	1000	0	0			8150 W 111th St #12		Palos Hills	IL	60455     	1A							  	          	False		False
+6723710	40016	1029698		Teele	Terry	2026-11-05 00:00:00	1000	0	0	Consultant	The Rory Group	212 W Washington St		Chicago	IL	60606     	1A							  	          	False		False
+6723711	40016	1029698		Thomas R Raines Attorney at Law LLC		2026-11-05 00:00:00	1500	0	0			20 N Wacker Dr #556		Chicago	IL	60606     	1A							  	          	False		False
+6723712	41276	1029699		Google Client Services LLC		2026-11-06 00:00:00	11600	0	0			1600 Ampitheatre Pkwy		Mountain View	CA	94043     	1A							  	          	False		False
+6723713	41276	1029699		Teamsters Volunteers In Politics		2026-11-06 00:00:00	5000	0	0			160 Market Street		Willow Springs	IL	60480     	2A							  	          	False		False
+6723714	41276	1029699		Personal PAC		2026-11-06 00:00:00	1250	0	0			540 N Dearborn		Chicago	IL	60610     	5A	Digital Ads	Delta Current Strategies LLC		616 Pailer Ave		Harvey	LA	70058     	False		False
+6723715	41276	1029699		Personal PAC		2026-11-06 00:00:00	2000	0	0			540 N Dearborn		Chicago	IL	60610     	5A	Digital Ads	Delta Current Strategies LLC		616 Pailer Ave		Harvey	LA	70058     	False		False
+6723716	35818	1029700		IBEW Illinois PAC		2026-11-06 00:00:00	72800	0	0			900 Seventh Street NW		Washington	DC	20001     	2A							  	          	False		False
+6723717	35818	1029700		Stand For Children PAC		2026-11-06 00:00:00	1000	0	0			850 W. Jackson Blvd.	Suite 330	Chicago	IL	60607     	2A							  	          	False		False
+6723718	39860	1029701		KASPRZYK	MIKE	2026-11-05 00:00:00	3800	0	0			5413 SUMTER LANE		Springfield	IL	62711     	1A							  	          	False		False
+6723719	39860	1029701		BUCCIFERRO, III	GUY	2026-11-05 00:00:00	14600	0	0			45 STATE ST		Beloit	WI	53511     	1A							  	          	False		False
+6723720	39543	1029702		UIC United Faculty COPE		2026-11-04 00:00:00	1000	0	0			1016 W.  Jackson Blvd		Chicago	IL	60607     	2A							  	          	False		False
+6723721	38623	1029704		Agman		2026-11-04 00:00:00	5000	0	0			15 E Oak St		Chicago	IL	60611     	1A							  	          	False		False
+6723722	38623	1029704		McGowan	Christopher	2026-11-06 00:00:00	5000	0	0	Adjunct Professor	Booth School of Business	4338 N. Greenview Ave.		Chicago	IL	60613     	1A							  	          	False		False
+6723723	393	1029705		Democratic Party of Illinois-Non Federal		2026-11-06 00:00:00	24100	0	0			PO Box 641466		Chicago	IL	60664     	2A							  	          	False		False
+6723724	40928	1029706		Khalil	Nadeya	2026-11-06 00:00:00	2500	0	0	Principal	Icon Capital Group	1345 N. Campbell Ave.		Chicago	IL	60622     	1A							  	          	False		False
+6723725	163	1029707		Friends of Elyse Hoffenberg		2026-11-06 00:00:00	15000	0	0			1030 S. Stone Avenue		La Grange	IL	60525     	2A							  	          	False		False
+6723726	163	1029707		Local 134 State & Municipal PAC		2026-11-06 00:00:00	10000	0	0			2722 S. Dr. Martin Luther King Jr.		Chicago	IL	60616     	2A							  	          	False		False
+6723727	163	1029707		Landek	Steven	2026-11-06 00:00:00	10000	0	0			7701 S. Ferdinand		Bridgeview	IL	60455     	1A							  	          	False		False
+6723728	163	1029707		Citizens for Steve Landek		2026-11-06 00:00:00	10000	0	0			7674 W 63rd St.		Summit	IL	60501     	2A							  	          	False		False
+6723729	163	1029707		Comcast		2026-11-06 00:00:00	7500	0	0			1701 JFK Boulevard		Philadelphia	IL	19103     	1A							  	          	False		False
+6723730	163	1029707		Chicago Land Operators Joint Labor-Management PAC		2026-11-06 00:00:00	5000	0	0			6200 Joliet Road		Countryside	IL	60525     	2A							  	          	False		False
+6723731	163	1029707		I.U.O.E. Local 399 Political Education Fund		2026-11-06 00:00:00	5000	0	0			2260 S. Grove Street		Chicago	IL	60616     	2A							  	          	False		False
+6723732	163	1029707		Friends of Ruth Cruz		2026-11-06 00:00:00	1000	0	0			2831 N. Moody Avenue, Chicago, IL 6		Chicago	IL	60634-5016	2A							  	          	False		False
+6723733	163	1029707		Tai Ginsberg & Associates LLC		2026-11-06 00:00:00	2000	0	0			200 Massachusetts Ave. NW	Fl 7	Washington	DC	20001-1429	1A							  	          	False		False
+6723734	163	1029707		Ruff	Rebecca	2026-11-06 00:00:00	5000	0	0	Not Employed	Not Employed	3240 N Lake Shore Dr. 14D		Chicago	IL	60657     	1A							  	          	False		False
+6723735	163	1029707		Citizens for John Kelly		2026-11-06 00:00:00	5000	0	0			100 E. Bellevue Pl Apt 22C		Chicago	IL	60611     	2A							  	          	False		False
+6723736	163	1029707		Illinois Hotel & Motel Pac (IHMPAC)		2026-11-06 00:00:00	2500	0	0			17 E. Monroe St., Ste 325		Chicago	IL	60603     	2A							  	          	False		False
+6723737	163	1029707		Karry L Young Development, LLC		2026-11-06 00:00:00	2000	0	0			1010 Bellwood Ave		Bellwood	IL	60104     	1A							  	          	False		False
+6723738	163	1029707		Jee Interests, Inc		2026-11-06 00:00:00	1000	0	0			6033 N. Forest Glen Ave		Chicago	IL	60646     	1A							  	          	False		False
+6723739	41290	1029708		Alafia Production Group, Inc.		2026-11-02 00:00:00	1500	0	0			4030 S. Calumet Ave.		Chicago	IL	60653     	1A							  	          	False		False
+6723740	34336	1029709		Hass	Debra	2026-11-05 00:00:00	1000	0	0	Consultant	Self Employed	5523 S. Dorchester		Chicago	IL	60637     	1A							  	          	False		False
+6723741	20799	1029710		Architectural & Ornamental Iron Workers Local 63, IPAL Fund		2026-11-06 00:00:00	1050	0	0			2205 Enterprise Drive, Ste. 502		Westchester	IL	60154     	2A							  	          	False		False
+6723742	20799	1029710		Teamsters Local Union No. 700 Political Action Comm Account		2026-11-06 00:00:00	1000	0	0			1300 West Higgins Road, Ste. 301		Park Ridge	IL	60048     	2A							  	          	False		False
+6723743	1205	1029711		Collier	Nicholas	2026-09-09 00:00:00	1500	1650	0	Certified Registered Nurse Anesthetist	Memorial Medical Center	13806 Saddle Tramp Lane		Athens	IL	62613     	1A							  	          	False		False
+6723744	1205	1029711		King	Daniel	2026-07-22 00:00:00	100	300	0			3821 N Kilpatrick Ave		Chicago	IL	60641     	1A							  	          	False		False
+6723745	1205	1029711		King	Daniel	2026-08-22 00:00:00	100	300	0			3821 N Kilpatrick Ave		Chicago	IL	60641     	1A							  	          	False		False
+6723746	1205	1029711		King	Daniel	2026-09-22 00:00:00	100	300	0			3821 N Kilpatrick Ave		Chicago	IL	60641     	1A							  	          	False		False
+6723747	1205	1029711		Miles	David A.	2026-07-16 00:00:00	100	300	0			20544 Hickory Ct.		Frankfort	IL	60423     	1A							  	          	False		False
+6723748	1205	1029711		Miles	David A.	2026-08-16 00:00:00	100	300	0			20544 Hickory Ct.		Frankfort	IL	60423     	1A							  	          	False		False
+6723749	1205	1029711		Miles	David A.	2026-09-16 00:00:00	100	300	0			20544 Hickory Ct.		Frankfort	IL	60423     	1A							  	          	False		False
+6723750	1205	1029711		Fiali	Dawn Y.	2026-07-11 00:00:00	100	300	0			2046 W. Hutchinson St.		Chicago	IL	60618     	1A							  	          	False		False
+6723751	1205	1029711		Fiali	Dawn Y.	2026-08-11 00:00:00	100	300	0			2046 W. Hutchinson St.		Chicago	IL	60618     	1A							  	          	False		False
+6723752	1205	1029711		Fiali	Dawn Y.	2026-09-11 00:00:00	100	300	0			2046 W. Hutchinson St.		Chicago	IL	60618     	1A							  	          	False		False
+6723753	1205	1029711		Rubens	Germaine	2026-07-30 00:00:00	100	300	0			2922 Twin Oaks Drive		Highland Park	IL	60035     	1A							  	          	False		False
+6723754	1205	1029711		Rubens	Germaine	2026-08-30 00:00:00	100	300	0			2922 Twin Oaks Drive		Highland Park	IL	60035     	1A							  	          	False		False
+6723755	1205	1029711		Rubens	Germaine	2026-09-30 00:00:00	100	300	0			2922 Twin Oaks Drive		Highland Park	IL	60035     	1A							  	          	False		False
+6723756	1205	1029711		Hackett	Gretchen	2026-07-08 00:00:00	200	675	0	CRNA	Methodist Medical	608 S Stillwater Dr.		Chillicothe	IL	61523     	1A							  	          	False		False
+6723757	1205	1029711		Hackett	Gretchen	2026-07-22 00:00:00	25	675	0	CRNA	Methodist Medical	608 S Stillwater Dr.		Chillicothe	IL	61523     	1A							  	          	False		False
+6723758	1205	1029711		Hackett	Gretchen	2026-08-08 00:00:00	200	675	0	CRNA	Methodist Medical	608 S Stillwater Dr.		Chillicothe	IL	61523     	1A							  	          	False		False
+6723759	1205	1029711		Hackett	Gretchen	2026-08-22 00:00:00	25	675	0	CRNA	Methodist Medical	608 S Stillwater Dr.		Chillicothe	IL	61523     	1A							  	          	False		False
+6723760	1205	1029711		Hackett	Gretchen	2026-09-08 00:00:00	200	675	0	CRNA	Methodist Medical	608 S Stillwater Dr.		Chillicothe	IL	61523     	1A							  	          	False		False
+6723761	1205	1029711		Hackett	Gretchen	2026-09-22 00:00:00	25	675	0	CRNA	Methodist Medical	608 S Stillwater Dr.		Chillicothe	IL	61523     	1A							  	          	False		False
+6723762	1205	1029711		Bonnema	Jacob	2026-07-01 00:00:00	5	240	0			717 S. Clark St. Unit 2104		Chicago	IL	60605     	1A							  	          	False		False
+6723763	1205	1029711		Bonnema	Jacob	2026-07-15 00:00:00	50	240	0			717 S. Clark St. Unit 2104		Chicago	IL	60605     	1A							  	          	False		False
+6723764	1205	1029711		Bonnema	Jacob	2026-07-18 00:00:00	25	240	0			717 S. Clark St. Unit 2104		Chicago	IL	60605     	1A							  	          	False		False
+6723765	1205	1029711		Bonnema	Jacob	2026-08-01 00:00:00	5	240	0			717 S. Clark St. Unit 2104		Chicago	IL	60605     	1A							  	          	False		False
+6723766	1205	1029711		Bonnema	Jacob	2026-08-15 00:00:00	50	240	0			717 S. Clark St. Unit 2104		Chicago	IL	60605     	1A							  	          	False		False
+6723767	1205	1029711		Bonnema	Jacob	2026-08-18 00:00:00	25	240	0			717 S. Clark St. Unit 2104		Chicago	IL	60605     	1A							  	          	False		False
+6723768	1205	1029711		Bonnema	Jacob	2026-09-01 00:00:00	5	240	0			717 S. Clark St. Unit 2104		Chicago	IL	60605     	1A							  	          	False		False
+6723769	1205	1029711		Bonnema	Jacob	2026-09-15 00:00:00	50	240	0			717 S. Clark St. Unit 2104		Chicago	IL	60605     	1A							  	          	False		False
+6723770	1205	1029711		Banek	Jennifer	2026-07-21 00:00:00	35	405	0			1210 East Park Ave.		Libertyville	IL	60048     	1A							  	          	False		False
+6723771	1205	1029711		Banek	Jennifer	2026-07-22 00:00:00	100	405	0			1210 East Park Ave.		Libertyville	IL	60048     	1A							  	          	False		False
+6723772	1205	1029711		Banek	Jennifer	2026-08-21 00:00:00	35	405	0			1210 East Park Ave.		Libertyville	IL	60048     	1A							  	          	False		False
+6723773	1205	1029711		Banek	Jennifer	2026-08-22 00:00:00	100	405	0			1210 East Park Ave.		Libertyville	IL	60048     	1A							  	          	False		False
+6723774	1205	1029711		Banek	Jennifer	2026-09-21 00:00:00	35	405	0			1210 East Park Ave.		Libertyville	IL	60048     	1A							  	          	False		False
+6723775	1205	1029711		Banek	Jennifer	2026-09-22 00:00:00	100	405	0			1210 East Park Ave.		Libertyville	IL	60048     	1A							  	          	False		False
+6723776	1205	1029711		Cox	Jennifer	2026-07-20 00:00:00	100	300	0			2007 Ridgemore Dr.		Bartlett	IL	60103     	1A							  	          	False		False
+6723777	1205	1029711		Cox	Jennifer	2026-08-20 00:00:00	100	300	0			2007 Ridgemore Dr.		Bartlett	IL	60103     	1A							  	          	False		False
+6723778	1205	1029711		Cox	Jennifer	2026-09-20 00:00:00	100	300	0			2007 Ridgemore Dr.		Bartlett	IL	60103     	1A							  	          	False		False
+6723779	1205	1029711		Oldani	Joseph M.	2026-07-15 00:00:00	200	600	0	Nurse Anesthetist	OSF Healthcare	1302 W. Saint Louis St.		West Frankfort	IL	62896     	1A							  	          	False		False
+6723780	1205	1029711		Oldani	Joseph M.	2026-08-15 00:00:00	200	600	0	Nurse Anesthetist	OSF Healthcare	1302 W. Saint Louis St.		West Frankfort	IL	62896     	1A							  	          	False		False
+6723781	1205	1029711		Oldani	Joseph M.	2026-09-15 00:00:00	200	600	0	Nurse Anesthetist	OSF Healthcare	1302 W. Saint Louis St.		West Frankfort	IL	62896     	1A							  	          	False		False
+6723782	1205	1029711		Feczko	Julia	2026-07-11 00:00:00	160	480	0			4007 N. Paulina St. Apt. 35		Chicago	IL	60613     	1A							  	          	False		False
+6723783	1205	1029711		Feczko	Julia	2026-08-11 00:00:00	160	480	0			4007 N. Paulina St. Apt. 35		Chicago	IL	60613     	1A							  	          	False		False
+6723784	1205	1029711		Feczko	Julia	2026-09-11 00:00:00	160	480	0			4007 N. Paulina St. Apt. 35		Chicago	IL	60613     	1A							  	          	False		False
+6723785	1205	1029711		Orona	Kathryn	2026-07-15 00:00:00	100	300	0			3077 Seekonk Ave.		Elgin	IL	60124     	1A							  	          	False		False
+6723786	1205	1029711		Orona	Kathryn	2026-08-15 00:00:00	100	300	0			3077 Seekonk Ave.		Elgin	IL	60124     	1A							  	          	False		False
+6723787	1205	1029711		Orona	Kathryn	2026-09-15 00:00:00	100	300	0			3077 Seekonk Ave.		Elgin	IL	60124     	1A							  	          	False		False
+6723788	1205	1029711		Lacplesis	Kristina	2026-07-02 00:00:00	100	300	0			6529 Taylor Dr.		Woodridge	IL	60517     	1A							  	          	False		False
+6723789	1205	1029711		Lacplesis	Kristina	2026-08-02 00:00:00	100	300	0			6529 Taylor Dr.		Woodridge	IL	60517     	1A							  	          	False		False
+6723790	1205	1029711		Lacplesis	Kristina	2026-09-02 00:00:00	100	300	0			6529 Taylor Dr.		Woodridge	IL	60517     	1A							  	          	False		False
+6723791	1205	1029711		Abraham	Lindsey	2026-08-03 00:00:00	100	200	0			1201 S Prairie Ave Apt 4103		Chicago	IL	60605     	1A							  	          	False		False
+6723792	1205	1029711		Abraham	Lindsey	2026-09-03 00:00:00	100	200	0			1201 S Prairie Ave Apt 4103		Chicago	IL	60605     	1A							  	          	False		False
+6723793	1205	1029711		Harris	Margaret	2026-08-19 00:00:00	250	250	0			12709 Greenwood Ave		Blue Island	IL	60406     	1A							  	          	False		False
+6723794	1205	1029711		Novak	Mary Fran	2026-07-28 00:00:00	100	300	0			14412 Mallard Dr.		Homer Glen	IL	60491     	1A							  	          	False		False
+6723795	1205	1029711		Novak	Mary Fran	2026-08-28 00:00:00	100	300	0			14412 Mallard Dr.		Homer Glen	IL	60491     	1A							  	          	False		False
+6723796	1205	1029711		Novak	Mary Fran	2026-09-28 00:00:00	100	300	0			14412 Mallard Dr.		Homer Glen	IL	60491     	1A							  	          	False		False
+6723797	1205	1029711		Spitzner	Mason	2026-07-03 00:00:00	100	300	0			895 County Road 2095 E		Fairfield	IL	62837     	1A							  	          	False		False
+6723798	1205	1029711		Spitzner	Mason	2026-08-03 00:00:00	100	300	0			895 County Road 2095 E		Fairfield	IL	62837     	1A							  	          	False		False
+6723799	1205	1029711		Spitzner	Mason	2026-09-03 00:00:00	100	300	0			895 County Road 2095 E		Fairfield	IL	62837     	1A							  	          	False		False
+6723800	1205	1029711		Carroll	Nathan	2026-07-14 00:00:00	84	252	0			10761 E 775th Ave		Robinson	IL	62454     	1A							  	          	False		False
+6723801	1205	1029711		Carroll	Nathan	2026-08-14 00:00:00	84	252	0			10761 E 775th Ave		Robinson	IL	62454     	1A							  	          	False		False
+6723802	1205	1029711		Carroll	Nathan	2026-09-14 00:00:00	84	252	0			10761 E 775th Ave		Robinson	IL	62454     	1A							  	          	False		False
+6723803	1205	1029711		Collier	Nicholas	2026-07-17 00:00:00	50	1650	0	Certified Registered Nurse Anesthetist	Memorial Medical Center	13806 Saddle Tramp Lane		Athens	IL	62613     	1A							  	          	False		False
+6723804	1205	1029711		Collier	Nicholas	2026-08-17 00:00:00	50	1650	0	Certified Registered Nurse Anesthetist	Memorial Medical Center	13806 Saddle Tramp Lane		Athens	IL	62613     	1A							  	          	False		False
+6723805	1205	1029711		Collier	Nicholas	2026-09-17 00:00:00	50	1650	0	Certified Registered Nurse Anesthetist	Memorial Medical Center	13806 Saddle Tramp Lane		Athens	IL	62613     	1A							  	          	False		False
+6723806	1205	1029711		Shimi	Sawsan	2026-07-06 00:00:00	100	300	0			801 S Financial Pl Apt 1816		Chicago	IL	60605     	1A							  	          	False		False
+6723807	1205	1029711		Shimi	Sawsan	2026-08-06 00:00:00	100	300	0			801 S Financial Pl Apt 1816		Chicago	IL	60605     	1A							  	          	False		False
+6723808	1205	1029711		Shimi	Sawsan	2026-09-06 00:00:00	100	300	0			801 S Financial Pl Apt 1816		Chicago	IL	60605     	1A							  	          	False		False
+6723809	1205	1029711		Jordan	Shari	2026-07-16 00:00:00	100	300	0			692 Stonebridge Dr.		Bolingbrook	IL	60490     	1A							  	          	False		False
+6723810	1205	1029711		Jordan	Shari	2026-08-16 00:00:00	100	300	0			692 Stonebridge Dr.		Bolingbrook	IL	60490     	1A							  	          	False		False
+6723811	1205	1029711		Jordan	Shari	2026-09-16 00:00:00	100	300	0			692 Stonebridge Dr.		Bolingbrook	IL	60490     	1A							  	          	False		False
+6723812	1205	1029711		Domescik-Rink	Tami	2026-07-03 00:00:00	25	175	0			1 Conestoga Dr		Auburn	IL	62615     	1A							  	          	False		False
+6723813	1205	1029711		Domescik-Rink	Tami	2026-07-17 00:00:00	25	175	0			1 Conestoga Dr		Auburn	IL	62615     	1A							  	          	False		False
+6723814	1205	1029711		Domescik-Rink	Tami	2026-07-31 00:00:00	25	175	0			1 Conestoga Dr		Auburn	IL	62615     	1A							  	          	False		False
+6723815	1205	1029711		Domescik-Rink	Tami	2026-08-14 00:00:00	25	175	0			1 Conestoga Dr		Auburn	IL	62615     	1A							  	          	False		False
+6723816	1205	1029711		Domescik-Rink	Tami	2026-08-28 00:00:00	25	175	0			1 Conestoga Dr		Auburn	IL	62615     	1A							  	          	False		False
+6723817	1205	1029711		Domescik-Rink	Tami	2026-09-11 00:00:00	25	175	0			1 Conestoga Dr		Auburn	IL	62615     	1A							  	          	False		False
+6723818	1205	1029711		Domescik-Rink	Tami	2026-09-25 00:00:00	25	175	0			1 Conestoga Dr		Auburn	IL	62615     	1A							  	          	False		False
+6723819	1205	1029711		Oskvarek	Victor	2026-07-09 00:00:00	100	300	0			22406 S. Camelot Ct.		Joliet	IL	60404     	1A							  	          	False		False
+6723820	1205	1029711		Oskvarek	Victor	2026-08-17 00:00:00	100	300	0			22406 S. Camelot Ct.		Joliet	IL	60404     	1A							  	          	False		False
+6723821	1205	1029711		Oskvarek	Victor	2026-09-09 00:00:00	100	300	0			22406 S. Camelot Ct.		Joliet	IL	60404     	1A							  	          	False		False
+6723822	1205	1029711		Loek	Wayne	2026-07-12 00:00:00	125	925	0	Certified Registered Nurse Anesthetist	Self employed	1228 Richfield Ct.		Woodbridge	IL	60517     	1A							  	          	False		False
+6723823	1205	1029711		Loek	Wayne	2026-08-12 00:00:00	125	925	0	Certified Registered Nurse Anesthetist	Self employed	1228 Richfield Ct.		Woodbridge	IL	60517     	1A							  	          	False		False
+6723824	1205	1029711		Loek	Wayne	2026-09-17 00:00:00	50	925	0	Certified Registered Nurse Anesthetist	Self employed	1228 Richfield Ct.		Woodbridge	IL	60517     	1A							  	          	False		False
+6723825	1205	1029711		Loek	Wayne	2026-09-26 00:00:00	500	925	0	Certified Registered Nurse Anesthetist	Self employed	1228 Richfield Ct.		Woodbridge	IL	60517     	1A							  	          	False		False
+6723826	1205	1029711		Bonnema	Jacob	2026-09-18 00:00:00	25	240	0			717 S. Clark St. Unit 2104		Chicago	IL	60605     	1A							  	          	False		False
+6723827	1205	1029711		Loek	Wayne	2026-09-12 00:00:00	125	925	0	Certified Registered Nurse Anesthetist	Self employed	1228 Richfield Ct.		Woodbridge	IL	60517     	1A							  	          	False		False
+6723828	1205	1029711		The Maurer Group		2026-07-31 00:00:00	158.74	562.51	0			110 North Wacker Drive 17th Fl		Chicago	IL	60606     	4A	Interest/dividends received, The Maurer Group						  	          	False		False
+6723829	1205	1029711		The Maurer Group		2026-08-31 00:00:00	200.77	562.51	0			110 North Wacker Drive 17th Fl		Chicago	IL	60606     	4A	Interest/dividends received, The Maurer Group						  	          	False		False
+6723830	1205	1029711		The Maurer Group		2026-09-30 00:00:00	203	562.51	0			110 North Wacker Drive 17th Fl		Chicago	IL	60606     	4A	Interest/dividends received, The Maurer Group						  	          	False		False
+6723831	1205	1029711		Schneider	Adam	2026-07-03 00:00:00	90	270	0			13980 E 1130th Rd.		Marshall	IL	62441     	1A							  	          	False		False
+6723832	1205	1029711		Schneider	Adam	2026-08-03 00:00:00	90	270	0			13980 E 1130th Rd.		Marshall	IL	62441     	1A							  	          	False		False
+6723833	1205	1029711		Schneider	Adam	2026-09-03 00:00:00	90	270	0			13980 E 1130th Rd.		Marshall	IL	62441     	1A							  	          	False		False
+6723834	1205	1029711		Smith	Allison	2026-07-19 00:00:00	100	300	0			10517 Yankee Ridge Dr.		Frankfort	IL	60423     	1A							  	          	False		False
+6723835	1205	1029711		Smith	Allison	2026-09-19 00:00:00	100	300	0			10517 Yankee Ridge Dr.		Frankfort	IL	60423     	1A							  	          	False		False
+6723836	1205	1029711		Smith	Allison	2026-08-19 00:00:00	100	300	0			10517 Yankee Ridge Dr.		Frankfort	IL	60423     	1A							  	          	False		False
+6723837	1205	1029711		Suresh	Avni	2026-08-26 00:00:00	365	365	0			2622 N. Halsted St. Apt. 2		Chicago	IL	60614     	1A							  	          	False		False
+6723838	17385	1029712		Gas Plus, Inc		2026-11-06 00:00:00	1500	0	0			3309 S Harvey Ave.		Berwyn	IL	60402     	1A							  	          	False		False
+6723839	17385	1029712		Illinois Pipe Trades PAC Account		2026-11-06 00:00:00	2000	0	0			534 South Second Street, STE 311		Springfield	IL	62701     	2A							  	          	False		False
+6723840	17385	1029712		ELI LILLY and Company & Sub		2026-11-06 00:00:00	1000	0	0			Lilly Corp Center	Drop Code 1870	Indianapolis	IN	46285     	2A							  	          	False		False
+6723841	17385	1029712		Aristotie International, Inc. FBO		2026-11-06 00:00:00	2000	0	0			205 Pennsylvania  Ave, SE		Washington	DC	20003-1107	1A							  	          	False		False
+6723842	17385	1029712		CQ Strategies & Consulting		2026-11-06 00:00:00	1000	0	0			8425 S Michigan Ave		Chicago	IL	60619     	1A							  	          	False		False
+6723843	17385	1029712		Google Client Services LLC		2026-11-06 00:00:00	3000	0	0			1600 Amphitheatre Parkway		Mountain View	CA	94043     	1A							  	          	False		False
+6723844	317	1029713		Friends of Doris Turner		2026-11-06 00:00:00	3800	0	0			2100 East Lawrence Avenue		Springfield	IL	62703     	2A							  	          	False		False

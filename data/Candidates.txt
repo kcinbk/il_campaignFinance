@@ -14662,6 +14662,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 14836	Kazarian	Greg	512 Greenvale		Lake Forest	IL	60045	State Senator	Senate	30 	Lake	Republican	False
 48766	Kazmark	Heather	331 83rd St.		Bolingbrook	IL	60440	Hwy Commissioner	Township	Lisle		Democratic	False
 47682	Kazmark	Heather	331 83rd Street		Bolingbrook	IL	60440	Trustee	Township	Naperville	DuPage	Democratic	False
+54431	Kazmi	Ali	893 Meadowridge Dr.		Aurora	IL	60504     	Alderperson	Ward	8	DuPage		False
 15873	Kazmierczak	Walter	1705 Parkview Way	Unit 206	Park Ridge	IL	60068	Trustee	Township	Maine	Cook	Republican	False
 39403	Kazmierczak	Walter	1705 Parkview Way	Unit 206	Park Ridge	IL	60068	Hwy Commissioner	Township	Maine	Cook	Republican	False
 944	Kazmierski, Jr	Joseph G	1232 N Elliott Avenue		Park Ridge	IL	60068	Judge	Circuit Court	Cook	Cook	Republican	False
@@ -31642,6 +31643,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 47507	Williams	Karyn	2539 S. 17th Ave.		Broadview	IL	60155	Trustee	Village	Broadview	Cook		False
 24210	Williams	Kenneth	15960 Wausau		South Holland	IL	60473	State Representative	Representative	29 	Cook	Democratic	False
 54016	Williams	Kenny	10910 S Wabash Ave		Chicago	IL	60628     	State Senator	Senate	14	Cook	Democratic	False
+54432	Williams	Kenny	10910 S Wabash Ave		Chicago	IL	60628     	Alderperson	City	Chicago	Cook	Non Partisan	False
 11759	Williams	Kevin	17861 Sarah Ct		Country Club Hills	IL	60478	Commissioner	Park	Country Club 	Cook	Independent	False
 10100	Williams	Kevin C	311 Ladue Dr		Mt Carmel	IL	62863	Trustee	Comm College	Wabash	Wabash	Non Partisan	False
 8249	Williams	Kevin T	RR 2	Box 356	Effingham	IL	62401	Sheriff	County	Effingham 	Effingham	Democratic	False

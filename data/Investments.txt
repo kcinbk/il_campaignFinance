@@ -24913,7 +24913,7 @@ ID	CommitteeID	FiledDocID	Description	PurchaseDate	PurchaseShares	PurchasePrice	
 37093	35096	1027262	Investment purchase	2026-03-02 00:00:00	0	5000	5000	0		Byline Bank		4701 N Clark St		Chicago	IL	60640     	False	
 37094	279	1027266	7 month CD for purpose of creating a scholarship dedicated to Libby Chumley	2023-07-25 00:00:00	0	1000.82	-21.75	0		Taylorville Community Credit Union		422 West Main Cross		Taylorville	IL	62569     	True	
 37095	14305	1027281	Supplies	2026-09-01 00:00:00	0	13.22	13.22	0		AMAZON.COM		410 Terry Ave., North		Seattle	WA	98109     	False	
-37096	1205	1027291	Merrill Lynch Initial Payment	2022-12-13 00:00:00	0	5000	66807.32	0		The Maurer Group		110 North Wacker Drive 17th Fl		Chicago	IL	60606     	False	
+37096	1205	1027291	Merrill Lynch Initial Payment	2022-12-13 00:00:00	0	5000	66807.32	0		The Maurer Group		110 North Wacker Drive 17th Fl		Chicago	IL	60606     	True	
 37097	37243	1027305	Loan Made	2025-10-03 00:00:00	0	1106.41	206.26	0		Caparelli-Ruff	Lisa	15048 W OCONNELL DR		HOMER GLEN	IL	60491-9783	False	
 37098	25937	1027322	Loan made	2022-02-22 00:00:00	0	5000	5000	0		Committee to Elect Chris Taliaferro		5730 W. Midway Park		Chicago	IL	60644     	False	
 37099	25937	1027322	Loan made	2022-05-13 00:00:00	0	5000	913.74	0		Committee to Elect Chris Taliaferro		5730 W. Midway Park		Chicago	IL	60644     	False	
@@ -24967,3 +24967,4 @@ ID	CommitteeID	FiledDocID	Description	PurchaseDate	PurchaseShares	PurchasePrice	
 37147	25491	1028321	Loan Made	2024-05-10 00:00:00	0	1500	1500	0		NewsBank		5801 Pelican Bay Blvd, Ste 600		Naples	FL	34108     	False	
 37148	32198	1028545	CHKN TOKEN 1 share = $0.000935703494927 initial purchase 8.87 million shares	2024-11-30 00:00:00	0	8299.69	20.49	0		CHKN TOKEN		262 Market Square Ct Ste D		Lake Forest	IL	60045     	False	
 37149	23813	1029161	Investment purchase	2023-04-25 00:00:00	0	300000	300000	0		Byline Bank		10 S Madison St		Oswego	IL	60543     	False	
+37150	1205	1029711	Merrill Lynch Initial Payment	2022-12-13 00:00:00	0	5000	66807.32	0		The Maurer Group		110 North Wacker Drive 17th Fl		Chicago	IL	60606     	False	

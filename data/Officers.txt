@@ -11739,6 +11739,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 22184	Collins	Kevin P	847 Jackson Ave		River Forest	IL	60305     	Chair	(708)366-7086       	False
 40747	Collins	Kim	6007 N Olympia		Chicago	IL		Chair	773-467-9604        	False
 85337	Collins	Lakesia	PO Box 53528		Chicago	IL	60653     	Treasurer	                    	False
+100667	Collins	Lakesia	PO Box 10116		Chicago	IL	60610     	Chair	                    	False
+100668	Collins	Lakesia.	PO Box 10116		Chicago	IL	60610     	Treasurer	                    	False
 31705	Collins	Lanelle	1425 Lincoln Ave		North Chicago	IL	60064     	Treasurer	(847) 689-4570      	False
 13758	Collins	Lillie M	154 Russell		E St Louis	IL	62207     	Treasurer	274-9889            	False
 98347	Collins	Lisa D.	2617 Westinghouse Drive		Shiloh	IL	62221     	Chair	618.920.0028        	False
@@ -33243,6 +33245,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 34954	Kaziwkewicz	James J	1166 S Vermont		Palatine	IL	60067     	Treasurer	847/358-6806        	False
 61928	Kazmark	Heather	15111 S James St, Unit 103		Plainfield	IL	60544     	Chair	815-514-1696        	False
 87033	Kazmi	Ali	893 Meadowridge Dr.		Aurora	IL	60504     	Treasurer	612-483-6069        	False
+100666	Kazmi	Ali	893 Meadowridge Dr.		Aurora	IL	60504     	Chair	612-483-6069        	False
 31755	Kazmier	Kevin	8 Wescott Lane		South Barrington	IL	60010     	Chair		False
 36992	Kazmier	Penny	8 Wescott Lane		South Barrington	IL	60010     	Co-Chair		False
 88840	Kazmiercak	Alex T.	11534 S. Avenue J		Chicago	IL	60617     	Treasurer	773.746.4710        	False

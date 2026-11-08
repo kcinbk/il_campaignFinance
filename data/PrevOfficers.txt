@@ -23551,6 +23551,8 @@ ID	CommitteeID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	ResignD
 35649	35669	Corrigan	Sheila	2411 Suffolk		Joliet	IL	60451     	Treasurer	2022-08-25 09:12:35.620000000	False
 37312	35669	Maine	David	2757 Mollly Ct		New Lenox	IL	60451     	Treasurer	2023-08-21 08:10:41.033000000	False
 43072	35669	Kinnan	Laura	124 Maple Ln		New Lenox	IL	60451     	Secretary	2026-06-25 14:00:48.317000000	False
+43311	35678	Andrich	Shabatayah	4243 W. Addison St.		Chicago	IL	60641     	Chair	2026-11-06 10:16:11.633000000	False
+43312	35678	Bryant	Felecia	206 N Lamon		Chicago	IL	60644     	Treasurer	2026-11-06 10:16:14.180000000	False
 37150	35685	Krahn	Dave	515 Danbury Dr		Oswego	IL	60543     	Treasurer	2023-04-28 14:53:24.680000000	False
 37151	35685	Slusser	Chris	617 12th Street		Wood River	IL	62095     	Chair	2023-04-28 14:53:27.060000000	False
 38928	35685	Elik	Amy	PO Box 205		Alton	IL	62002     	Treasurer	2024-08-14 12:07:03.843000000	False
