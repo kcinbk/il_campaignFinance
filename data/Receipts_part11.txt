@@ -161902,3 +161902,27 @@
 6723842	17385	1029712		CQ Strategies & Consulting		2026-11-06 00:00:00	1000	0	0			8425 S Michigan Ave		Chicago	IL	60619     	1A							  	          	False		False
 6723843	17385	1029712		Google Client Services LLC		2026-11-06 00:00:00	3000	0	0			1600 Amphitheatre Parkway		Mountain View	CA	94043     	1A							  	          	False		False
 6723844	317	1029713		Friends of Doris Turner		2026-11-06 00:00:00	3800	0	0			2100 East Lawrence Avenue		Springfield	IL	62703     	2A							  	          	False		False
+6723845	497	1029714		Braendel	Catherine	2026-11-06 00:00:00	1496.82	0	0	Principal	Cain Partners	1355 E 50th St		Chicago	IL	60615     	1A							  	          	False		False
+6723846	24296	1029715		Clayton	Fay	2026-11-06 00:00:00	23968.18	0	0	Retired	Retired	999 Michigan Ave Apt 2C		Evanston	IL	60202     	1A							  	          	False		False
+6723847	40735	1029716		Porfirio	Mike	2026-11-03 00:00:00	1000	1000	0	State Senator	11th Legislative District	522 S 10th Ave		La Grange	IL	60525-3034	1A							  	          	False		False
+6723848	40846	1029717		Czmiel	Timothy P	2026-11-07 00:00:00	1000	0	0	Best Faith Effort	Best Faith Effort	100 Seattle Slew Lane		Fairview	TX	75069-1232	1A							  	          	False		False
+6723849	40846	1029717		RESIDCO		2026-11-06 00:00:00	10700	0	0			70 W. Madison	Ste 2200	Chicago	IL	60602     	1A							  	          	False		False
+6723850	450	1029718		IFT COPE Member Dues		2026-11-07 00:00:00	5392.45	0	0			700 College		Springfield	IL	62704     	4A	Rebate						  	          	False		False
+6723851	20022	1029719		IAFF Fire PAC		2026-11-07 00:00:00	1782.87	0	0			1750 New York Ave. NW		Washington	DC	20006     	2A							  	          	False		False
+6723852	20022	1029719		IAFF Fire PAC		2026-11-07 00:00:00	7157.28	0	0			1750 New York Ave. NW		Washington	DC	20006     	2A							  	          	False		False
+6723853	40823	1029720		Democratic Party of Illinois		2026-11-06 00:00:00	40209.99	0	0			PO Box 10692		Chicago	IL	60610     	5A	Mailing	Deliver Strategies, LLC		PO Box 100970		Arlington,	IL	22210     	False		False
+6723854	39648	1029721		PMI US Corporate Services		2026-11-05 00:00:00	1500	0	0			205 Pennsylvanie Avenue		Washington	DC	20003     	1A							  	          	False		False
+6723855	25649	1029722		Phillips 66 Company		2026-11-05 00:00:00	1000	0	0			205 NW 63rd St	Suite 160	Oklahoma City	OK	73116     	1A							  	          	False		False
+6723856	25649	1029722		Chicago Firefighters Union Local #2 PAC		2026-11-05 00:00:00	1000	0	0			440 W 43rd St		Chicago	IL	60509     	2A							  	          	False		False
+6723857	25649	1029722		Chicago Land Operators Joint Labor-Management PAC		2026-11-05 00:00:00	2000	0	0			6200 Joliet Road		Countryside	IL	60525     	2A							  	          	False		False
+6723858	25649	1029722		Health Care Council of IL PAC		2026-11-05 00:00:00	1000	0	0			1201 South 4th St		Springfield	IL	62703     	2A							  	          	False		False
+6723859	25649	1029722		Tennant	Aaron	2026-11-05 00:00:00	5000	0	0			PO Box 765		Orion	IL	61273     	1A							  	          	False		False
+6723860	25649	1029722		UnitedHealth Group PAC		2026-11-05 00:00:00	1000	0	0			701 Pennsylvania Ave, NW	Suite 600	Washington	DC	20004     	2A							  	          	False		False
+6723861	23100	1029723	1029723-1	EARLS	Aubrey	2026-11-07 00:00:00	3500	0	3500	RETIRED	RETIRED	37 N Long Ave		Chicago	IL	60644     	3A		EARLS	Aubrey	37 N Long Ave		Chicago	IL	60644     	False		False
+6723862	36629	1029724		Downstate Operators Joint Labor-Management PAC		2026-11-08 00:00:00	10000	0	0			6408 W. Plank Road		Peoria	IL	61604     	2A							  	          	False		False
+6723863	22816	1029725		Henderson	Perylndria	2026-11-07 00:00:00	1500	0	0	Accounts Payable Specialist	Clayco Comstruction	8640 Evans Ave		St. Louis	MO	63134     	1A							  	          	False		False
+6723864	22816	1029725		IHA Political Action Committee		2026-11-08 00:00:00	1500	0	0			700 South Second Street		Springfield	IL	62704     	1A							  	          	False		False
+6723865	22816	1029725		WSP USA INC		2026-11-08 00:00:00	1500	0	0			USAACCOUNTSPAYABLE@WSP.COM	One Penn Plaza	New York	NY	10119     	1A							  	          	False		False
+6723866	25208	1029726		IEA		2026-11-06 00:00:00	7455	0	0			100 E. Edwards St,		Springfield	IL	62704     	2A							  	          	False		False
+6723867	37482	1029727		Salvi	Kathy	2026-11-09 00:00:00	1000	0	0	Attorney	Self	24558 Lake Fairfield Ln		Mundelein	IL	60060     	1A							  	          	False		False
+6723868	41080	1029728		New Democrats Caucus		2026-11-09 00:00:00	2500	0	0			4200 W Lawrence Ave Ste B		Chicago	IL	60630     	2A							  	          	False		False

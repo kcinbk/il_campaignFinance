@@ -341234,17 +341234,17 @@ ord Park	IL	60499     	8B	Fuel			False	False	False		False
 4936260	34448	1016011	0	Friends for Katie Stuart		2026-06-30 00:00:00	1000	1000	PO Box 591		Edwardsville	IL	62025     	6B				False	False	False		False
 4936261	40764	1016012	0	Strategy A LLC		2026-04-23 00:00:00	1000	1000	2800 N Orchard St	#302	Chicago	IL	60657     	8B	Digital			False	False	False		False
 4936262	40764	1016012	0	Crockett for Clerk		2026-04-20 00:00:00	1000	1000	PO Box 3004		Bloomington	IL	61702     	6B	Contribution to Candidate			False	False	False		False
-4936263	40760	1016013	0	Gougis	Ryan	2026-04-09 00:00:00	1000	1000				IL	          	8B	Campaign Work			False	False	False		False
-4936264	40760	1016013	0	Harris	Langston	2026-04-09 00:00:00	500	500	1819 N NASHVILLE AVE		Elmwood Park	IL	60707     	8B	Campaign Work			False	False	False		False
-4936265	40760	1016013	0	Cross	Charlie	2026-04-07 00:00:00	250	250	17712 Chestnut Avenue		Country Club Hills	IL	60478     	8B	Campaign Work			False	False	False		False
-4936266	40760	1016013	0	Lyft		2026-06-04 00:00:00	44.86	191.88				IL	          	8B	Transportation			False	False	False		False
-4936267	40760	1016013	0	Lyft		2026-06-16 00:00:00	28.2	191.88				IL	          	8B	Transportation			False	False	False		False
-4936268	40760	1016013	0	Lyft		2026-06-14 00:00:00	44.12	191.88				IL	          	8B	Transportation			False	False	False		False
-4936269	40760	1016013	0	Lyft		2026-06-12 00:00:00	74.7	191.88				IL	          	8B	Transportation			False	False	False		False
-4936270	40760	1016013	0	Mitchell	Touissant	2026-04-07 00:00:00	500	600	8214 S. Kingston Avenue		Chicago	IL	60617     	8B	Campaign Work			False	False	False		False
-4936271	40760	1016013	0	Mitchell	Touissant	2026-06-15 00:00:00	100	600	8214 S. Kingston Avenue		Chicago	IL	60617     	8B	Campaign Work			False	False	False		False
-4936272	40760	1016013	0	Karen	Cross	2026-04-07 00:00:00	250	250	17712 Chestnut Avenue		Country Club Hills	IL	60478     	8B	Campaign Work			False	False	False		False
-4936273	40760	1016013	0	Banks	Cherish	2026-04-14 00:00:00	500	500	2530 N Sacramento Ave, apt 103		Chicago	IL	60647     	8B	Campaign Work			False	False	False		False
+4936263	40760	1016013	0	Gougis	Ryan	2026-04-09 00:00:00	1000	1000				IL	          	8B	Campaign Work			False	False	True		False
+4936264	40760	1016013	0	Harris	Langston	2026-04-09 00:00:00	500	500	1819 N NASHVILLE AVE		Elmwood Park	IL	60707     	8B	Campaign Work			False	False	True		False
+4936265	40760	1016013	0	Cross	Charlie	2026-04-07 00:00:00	250	250	17712 Chestnut Avenue		Country Club Hills	IL	60478     	8B	Campaign Work			False	False	True		False
+4936266	40760	1016013	0	Lyft		2026-06-04 00:00:00	44.86	191.88				IL	          	8B	Transportation			False	False	True		False
+4936267	40760	1016013	0	Lyft		2026-06-16 00:00:00	28.2	191.88				IL	          	8B	Transportation			False	False	True		False
+4936268	40760	1016013	0	Lyft		2026-06-14 00:00:00	44.12	191.88				IL	          	8B	Transportation			False	False	True		False
+4936269	40760	1016013	0	Lyft		2026-06-12 00:00:00	74.7	191.88				IL	          	8B	Transportation			False	False	True		False
+4936270	40760	1016013	0	Mitchell	Touissant	2026-04-07 00:00:00	500	600	8214 S. Kingston Avenue		Chicago	IL	60617     	8B	Campaign Work			False	False	True		False
+4936271	40760	1016013	0	Mitchell	Touissant	2026-06-15 00:00:00	100	600	8214 S. Kingston Avenue		Chicago	IL	60617     	8B	Campaign Work			False	False	True		False
+4936272	40760	1016013	0	Karen	Cross	2026-04-07 00:00:00	250	250	17712 Chestnut Avenue		Country Club Hills	IL	60478     	8B	Campaign Work			False	False	True		False
+4936273	40760	1016013	0	Banks	Cherish	2026-04-14 00:00:00	500	500	2530 N Sacramento Ave, apt 103		Chicago	IL	60647     	8B	Campaign Work			False	False	True		False
 4936274	36936	1016014	0	Friends of Alma Anaya		2026-06-03 00:00:00	500	500	4140 S. Archer		Chicago	IL	60632     	8B	Donation			False	False	False		False
 4936275	36936	1016014	0	Patty Garcia for Congress		2026-05-15 00:00:00	1000	1000	PO BOX 1021		Melrose Park	IL	60161     	8B	Donation			False	False	False		False
 4936276	40854	1016015	0	Democratic Party of Illinois 04		2026-06-11 00:00:00	1000	1000	PO Box 32201		Chicago	IL	60632     	6B	Contribution			False	False	True		False
@@ -398856,3 +398856,56 @@ ord Park	IL	60499     	8B	Fuel			False	False	False		False
 4993891	40842	1029638	0	johnson	bruce	2026-05-11 00:00:00	200	200				IL	          	8B	Dj			False	False	False		False
 4993892	40842	1029638	0	dorothea design		2026-06-15 00:00:00	195	195				IL	          	8B	Palm cards			False	False	False		False
 4993893	40842	1029638	0	yomo ent		2026-06-01 00:00:00	250	250				IL	          	8B	Photography			False	False	False		False
+4993894	40018	1029669	0	Joong Boo Market		2026-10-31 00:00:00	64.13	310.49	5800 N Pulaski Rd, Chicago, IL 6064		Chicago	IL	60646     	8B	Food for volunteers			False	False	False		False
+4993895	40018	1029669	0	Joong Boo Market		2026-10-31 00:00:00	53.12	310.49	5800 N Pulaski Rd, Chicago, IL 6064		Chicago	IL	60646     	8B	Food and drinks for election day watch party			False	False	False		False
+4993896	40018	1029669	0	Joong Boo Market		2026-10-31 00:00:00	53.96	310.49	5800 N Pulaski Rd, Chicago, IL 6064		Chicago	IL	60646     	8B	Food and drinks to prepare for appreaction party for volunteers after election			False	False	False		False
+4993897	40018	1029669	0	Joong Boo Market		2026-10-31 00:00:00	51.88	310.49	5800 N Pulaski Rd, Chicago, IL 6064		Chicago	IL	60646     	8B	Food and drinks for volunteers who working on election day			False	False	False		False
+4993898	40018	1029669	0	Joong Boo Market		2026-10-31 00:00:00	87.4	310.49	5800 N Pulaski Rd, Chicago, IL 6064		Chicago	IL	60646     	8B	Food			False	False	False		False
+4993899	40760	1029686	0	Karen	Cross	2026-04-07 00:00:00	250	250	17712 Chestnut Avenue		Country Club Hills	IL	60478     	8B	Campaign Work			False	False	False		False
+4993900	40760	1029686	0	Cross	Charlie	2026-04-07 00:00:00	250	250	17712 Chestnut Avenue		Country Club Hills	IL	60478     	8B	Campaign Work			False	False	False		False
+4993901	40760	1029686	0	Mitchell	Touissant	2026-04-07 00:00:00	500	600	8214 S. Kingston Avenue		Chicago	IL	60617     	8B	Campaign Work			False	False	False		False
+4993902	40760	1029686	0	Harris	Langston	2026-04-09 00:00:00	500	500	1819 N NASHVILLE AVE		Elmwood Park	IL	60707     	8B	Campaign Work			False	False	False		False
+4993903	40760	1029686	0	Gougis	Ryan	2026-04-09 00:00:00	1000	1000	4540 N Albany Ave #1		Chicago	IL	60625     	8B	Campaign Work			False	False	False		False
+4993904	40760	1029686	0	Banks	Cherish	2026-04-14 00:00:00	500	500	2530 N Sacramento Ave, apt 103		Chicago	IL	60647     	8B	Campaign Work			False	False	False		False
+4993905	40760	1029686	0	Lyft		2026-06-04 00:00:00	44.86	191.88	185 Berry St #5000		San Francisco	CA	94107     	8B	Transportation			False	False	False		False
+4993906	40760	1029686	0	Lyft		2026-06-16 00:00:00	28.2	191.88	185 Berry St #5000		San Francisco	CA	94107     	8B	Transportation			False	False	False		False
+4993907	40760	1029686	0	Lyft		2026-06-14 00:00:00	44.12	191.88	185 Berry St #5000		San Francisco	CA	94107     	8B	Transportation			False	False	False		False
+4993908	40760	1029686	0	Lyft		2026-06-12 00:00:00	74.7	191.88	185 Berry St #5000		San Francisco	CA	94107     	8B	Transportation			False	False	False		False
+4993909	40760	1029686	0	Mitchell	Touissant	2026-06-15 00:00:00	100	600	8214 S. Kingston Avenue		Chicago	IL	60617     	8B	Campaign Work			False	False	False		False
+4993910	1205	1029711	0	Friends of Bob Morgan		2026-07-28 00:00:00	5000	5000	PO Box 1074		Deerfield	IL	60015     	6B	Contribution			False	False	False		False
+4993911	1205	1029711	0	Friends of Napoleon Harris		2026-07-28 00:00:00	2000	2000	PO Box 429		Flossmoor	IL	60422     	6B	Contribution			False	False	False		False
+4993912	1205	1029711	0	Friends of Theresa Mah		2026-07-28 00:00:00	1500	1500	3500 N. Lakewood Ave.		Chicago	IL	60657     	6B	Contribution			False	False	False		False
+4993913	1205	1029711	0	Friends of Christopher Belt		2026-07-28 00:00:00	1500	1500	5111 West Main Street		Belleville	IL	62226     	6B	Contribution			False	False	False		False
+4993914	1205	1029711	0	Friends for Celina Villanueva		2026-07-28 00:00:00	2000	2000	4140 S. Archer Ave Suite N		Chicago	IL	60632     	6B	Contribution			False	False	False		False
+4993915	1205	1029711	0	Friends of Emil Jones III		2026-07-28 00:00:00	3000	3000	11357 S Lowe Ave		Chicago	IL	60628     	6B	Contribution			False	False	False		False
+4993916	1205	1029711	0	Friends for Anna Moeller		2026-07-28 00:00:00	1000	1000	PO Box 1086		Elgin	IL	60121     	6B	Contribution			False	False	False		False
+4993917	1205	1029711	0	Ram for IL - 05 State Central Comitteeman		2026-07-28 00:00:00	1000	1000	PO Box 598085		Chicago	IL	60659     	6B	Contribution			False	False	False		False
+4993918	1205	1029711	0	Citizens for Debbie Meyers Martin		2026-07-28 00:00:00	1500	1500	PO  Box 181		Olympia Fields	IL	60461     	6B	Contribution			False	False	False		False
+4993919	1205	1029711	0	People for Yolanda Morris		2026-07-28 00:00:00	500	500	PO Box 23096		Chicago	IL	60623     	6B	Transfer out			False	False	False		False
+4993920	1205	1029711	0	Friends of Lisa J. Davis		2026-07-28 00:00:00	2000	2000	9359 S. Kedzie Ave	PO Box 42861	Evergreen Park	IL	60805     	6B	Contribution			False	False	False		False
+4993921	1205	1029711	0	Friends of Don Harmon for State Senate		2026-07-28 00:00:00	25000	25000	6939 W. North Ave.		Oak Park	IL	60302     	6B	Contribution			False	False	False		False
+4993922	1205	1029711	0	Friends of Adriane Johnson		2026-07-28 00:00:00	2000	2000	2033 N. Milwaukee Ave., #214		Riverwoods	IL	60015     	6B	Contribution			False	False	False		False
+4993923	1205	1029711	0	Friends of Omar Aquino		2026-07-28 00:00:00	1000	1000	1008 N. Rockwell St.		Chicago	IL	60622     	6B	Contribution			False	False	False		False
+4993924	1205	1029711	0	Barbara S. Mason Campaign Services		2026-07-29 00:00:00	600	600	43 Trailridge Lane		Springfield	IL	62704     	8B	Electronic filing			False	False	False		False
+4993925	1205	1029711	0	Illinois Senate Democratic Fund		2026-07-02 00:00:00	250	250	PO Box 5537		Springfield	IL	62705     	6B	Contribution			False	False	False		False
+4993926	1205	1029711	0	Friends of Kam Buckner		2026-07-28 00:00:00	2000	2000	Po Box 53528		Chicago	IL	60653     	6B	Contribution			False	False	False		False
+4993927	1205	1029711	0	Mary Beth Canty for Illinois		2026-07-08 00:00:00	450	3900	14 E. Northwest Highway		Arlington Heights	IL	60004     	6B	Contribution			False	False	False		False
+4993928	1205	1029711	0	Mary Beth Canty for Illinois		2026-07-13 00:00:00	450	3900	14 E. Northwest Highway		Arlington Heights	IL	60004     	6B	Contribution			False	False	False		False
+4993929	1205	1029711	0	Mary Beth Canty for Illinois		2026-07-28 00:00:00	3000	3900	14 E. Northwest Highway		Arlington Heights	IL	60004     	6B	Contribution			False	False	False		False
+4993930	1205	1029711	0	Friends of LaPointe		2026-07-28 00:00:00	1000	1000	PO Box 30160		Chicago	IL	60630     	6B	Contribution			False	False	False		False
+4993931	1205	1029711	0	Friends of Mattie Hunter		2026-07-28 00:00:00	1500	1500	PO Box 439430		Chicago	IL	60643     	6B	Contribution			False	False	False		False
+4993932	1205	1029711	0	Friends of Jawaharial Omarr Williams		2026-07-28 00:00:00	1000	1000	1648 W. Warren Blvd		Chicago	IL	60612     	6B	Contribution			False	False	False		False
+4993933	1205	1029711	0	Friends of Elgie Sims		2026-07-28 00:00:00	2000	2000	8142 A S. Prairie Park Place		Chicago	IL	60619-4800	6B	Contribution			False	False	False		False
+4993934	1205	1029711	0	The People for Emanuel "Chris" Welch		2026-07-28 00:00:00	25000	25000	233 Oak Ridge Avenue		Hillside	IL	60162     	6B	Contribution			False	False	False		False
+4993935	1205	1029711	0	Friends of Ryan Spain		2026-07-14 00:00:00	250	250	Po Box 1575		Peoria	IL	61655     	6B	Contribution			False	False	False		False
+4993936	1205	1029711	0	Friends of Lakesia		2026-07-28 00:00:00	5000	5000	POBox 10116		Chicago	IL	60610     	6B	Contribution			False	False	False		False
+4993937	1205	1029711	0	Citizens for Marcus C Evans Jr.		2026-07-28 00:00:00	2000	2000	PO Box 1043		Chicago	IL	60690     	6B	Contribution			False	False	False		False
+4993938	1205	1029711	0	Cervantes for Illinois		2026-07-28 00:00:00	1000	1000	3335 S Hoyne Ave Apt Basement		Chicago	IL	60608     	6B	Contribution			False	False	False		False
+4993939	1205	1029711	0	Friends & Family of Nabeela Syed		2026-07-28 00:00:00	2000	2000	PO Box 1128		Palatine	IL	60078     	6B	Contribution			False	False	False		False
+4993940	1205	1029711	0	Supporters of Jenny Levin		2026-07-28 00:00:00	1500	1500	PO Box 111		Palatine	IL	60078     	6B	Contribution			False	False	False		False
+4993941	1205	1029711	0	Maria for 52		2026-07-28 00:00:00	2000	2000	c/o Maria Peterson	125 Carriage Rd	North Barrington	IL	60010     	6B	Contribution			False	False	False		False
+4993942	1205	1029711	0	Friends of Karen Battaglia		2026-07-28 00:00:00	2000	3000	PO Box 308		Antioch	IL	60002     	6B	Contribution			False	False	False		False
+4993943	1205	1029711	0	Friends of Karen Battaglia		2026-08-20 00:00:00	1000	3000	PO Box 308		Antioch	IL	60002     	6B	Contribution			False	False	False		False
+4993944	1205	1029711	0	National Conference of State Legislators		2026-07-28 00:00:00	2500	2500	7700 E 1st Place		Denver	CO	80230     	8B	Donation			False	False	False		False
+4993945	1205	1029711	0	Democratic Party of Illinois		2026-08-14 00:00:00	1000	1000	PO Box 10692		Chicago	IL	60610     	6B	Contribution			False	False	False		False
+4993946	1205	1029711	0	Illinois Legislative Black Caucus Foundation		2026-07-28 00:00:00	2500	2500	PO Box 10423		Springfield	IL	62705     	8B				False	False	False		False
