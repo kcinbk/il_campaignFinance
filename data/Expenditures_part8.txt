@@ -398909,3 +398909,7 @@ ord Park	IL	60499     	8B	Fuel			False	False	False		False
 4993944	1205	1029711	0	National Conference of State Legislators		2026-07-28 00:00:00	2500	2500	7700 E 1st Place		Denver	CO	80230     	8B	Donation			False	False	False		False
 4993945	1205	1029711	0	Democratic Party of Illinois		2026-08-14 00:00:00	1000	1000	PO Box 10692		Chicago	IL	60610     	6B	Contribution			False	False	False		False
 4993946	1205	1029711	0	Illinois Legislative Black Caucus Foundation		2026-07-28 00:00:00	2500	2500	PO Box 10423		Springfield	IL	62705     	8B				False	False	False		False
+4993947	41327	1029785	0	Nineteen Sixty Campaigns LLC		2026-11-06 00:00:00	11826.06	0	4540 N Ravenswood Ave		Chicago	IL	60640     	9B	Texting	Jessica Biggs	President of the Chicago Board of Education	True	False	False		False
+4993948	41327	1029785	0	Nineteen Sixty Campaigns LLC		2026-11-06 00:00:00	6949.8	0	4540 N Ravenswood Ave		Chicago	IL	60640     	9B	Field	Jessica Biggs	President of the Chicago Board of Education	True	False	False		False
+4993949	23100	1029800	0	Pericles Abassi		2026-11-08 00:00:00	2000	0				IL	          	9B	Consulting	CARMELITA P EARLS	37TH WARD ALDERWOMAN	True	False	False		False
+4993950	23100	1029800	0	Lawyer Associates		2026-11-08 00:00:00	1500	0				IL	          	9B	Consulting	CARMELITA P EARLS	37TH WARD ALDERWOMAN	True	False	False		False

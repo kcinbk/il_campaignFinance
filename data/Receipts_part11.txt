@@ -161926,3 +161926,190 @@
 6723866	25208	1029726		IEA		2026-11-06 00:00:00	7455	0	0			100 E. Edwards St,		Springfield	IL	62704     	2A							  	          	False		False
 6723867	37482	1029727		Salvi	Kathy	2026-11-09 00:00:00	1000	0	0	Attorney	Self	24558 Lake Fairfield Ln		Mundelein	IL	60060     	1A							  	          	False		False
 6723868	41080	1029728		New Democrats Caucus		2026-11-09 00:00:00	2500	0	0			4200 W Lawrence Ave Ste B		Chicago	IL	60630     	2A							  	          	False		False
+6723869	1015	1029734		Niko For District 9		2026-11-06 00:00:00	2238.8	0	0			10946 Sawgrass Lane		Huntley	IL	60142     	2A							  	          	False		False
+6723870	1015	1029734		Illinois Republican Party		2026-11-09 00:00:00	1049.82	0	0			PO Box 78		Springfield	IL	62705     	5A	Text Messaging	Opn Sesame		850 NW Federal HWY PMB 132		Stuart	FL	34994     	False		False
+6723871	34008	1029735		Rocket		2026-11-08 00:00:00	1000	0	0			1050 Woodward Ave		Detriot	MI	48226     	1A							  	          	False		False
+6723872	34008	1029735		Anthropic PBC		2026-11-08 00:00:00	2700	0	0			548 Market St., PMB 90375		San Francisco	CA	94104     	1A							  	          	False		False
+6723873	34008	1029735		Anthropic PBC		2026-11-08 00:00:00	7300	0	0			548 Market St., PMB 90375		San Francisco	CA	94104     	1A							  	          	False		False
+6723874	41264	1029737		IUOE Local 399 Political Education Fund		2026-11-05 00:00:00	1500	0	0			2260 Grove Street		Chicago	IL	60616-1823	2A							  	          	False		False
+6723875	40496	1029738		Chicago Land Operators Joint Labor Management PAC		2026-11-06 00:00:00	1000	0	0			6200 Joliet Road		Countryside	IL	60525     	2A							  	          	False		False
+6723876	40496	1029738		Illinois Senate Republican Campaign Committee		2026-11-06 00:00:00	2844.53	0	0			PO Box 3422		Springfield	IL	62708     	5A	Staff insurance	Central Management Services		Premium Management Services	PO Box 10077	Springfield	IL	62791-0077	False		False
+6723877	462	1029739		Cook County Democratic Party		2026-11-05 00:00:00	1000	0	0			111 W. Washington Street		Chicago	IL	60602     	2A							  	          	False		False
+6723878	25522	1029740		Illinois Senate Republican Campaign Committee		2026-11-06 00:00:00	1459.3	0	0			PO Box 3422		Springfield	IL	62708     	5A	Staff insurance	Central Management Services		Premium Collection Unit	PO Box 10077	Springfield	IL	62791-0077	False		False
+6723879	32297	1029744		157 Hospitality, Inc.		2026-11-05 00:00:00	1283.4	0	0			3080 S. State Rt 157		Edwardsville	IL	62025     	5A	Staff lodging	Comfort Inn Edwardsville		3080 S. State Rt 157		Edwardsville	IL	62025     	False		False
+6723880	32297	1029744		Illinois Senate Republican Campaign Committee		2026-11-06 00:00:00	2367.16	0	0			PO Box 3422		Springfield	IL	62708     	5A	Staff insurance	Central Management Services		Premium Collection Unit	PO Box 10077	Springfield	IL	62791-0077	False		False
+6723881	24058	1029745		Illinois Republican Party		2026-11-09 00:00:00	8191.37	0	0			PO Box 78		Springfield	IL	62705     	5A	Voter contact-text messages	OPN Sesame		850 NW Federal Hwy,PMB 132		Stuart	FL	34994     	False		False
+6723882	40942	1029746		Liautaud	James	2026-11-05 00:00:00	9257.52	0	0	Founder	Jimmy John's	4224 Two Rivers Ln		Franklin	TN	37069     	5A	Fund raising - food	Gibson's		1028 North Rush Street		Chicago	IL	60611     	False		False
+6723883	34639	1029747		Illinois Trial Lawyers Association PAC		2026-11-07 00:00:00	1000	0	0			401 s. Edwards St		Springfield	IL	62704     	2A							  	          	False		False
+6723884	34639	1029747		Chicago Land Operators Joint Labor-Management PAC		2026-11-07 00:00:00	6000	0	0			6200 Joliet Road		Countryside	IL	60525     	2A							  	          	False		False
+6723885	34639	1029747		Lake County Federation of Teachers - COPE		2026-11-07 00:00:00	1000	0	0			248 Ambrogio Dr		Gurnee	IL	60031     	2A							  	          	False		False
+6723886	34639	1029747		Ziegler	Daniel M	2026-11-07 00:00:00	4300	0	0	Best effort	Best effort	10378 Sugar Pine Rd		Truckee	CA	96161     	1A							  	          	False		False
+6723887	34639	1029747		Illinois Laborers' Legislative Committee		2026-11-07 00:00:00	2500	0	0			1 N Old State Capitol Plz Ste 525		Springfield	IL	62701     	2A							  	          	False		False
+6723888	34639	1029747		LiUNA Chicago Laborers' District Council PAC		2026-11-07 00:00:00	3000	0	0			999 McClintock Dr	Suite 300	Burr Ridge	IL	60527     	2A							  	          	False		False
+6723889	34639	1029747		Carpentry Advancement PAC		2026-11-07 00:00:00	2500	0	0			12 E Erie St		Chicago	IL	60611     	2A							  	          	False		False
+6723890	34639	1029747		Ironworkers District Council of Chicago PAC		2026-11-07 00:00:00	1000	0	0			2700 South River Rd	Suite 118	Des Plaines	IL	60018     	2A							  	          	False		False
+6723891	34639	1029747		Schneider for Congress		2026-11-07 00:00:00	2000	0	0			PO Box 1318		Deerfield	IL	60015     	2A							  	          	False		False
+6723892	34639	1029747		Saunders	William	2026-11-07 00:00:00	7300	0	0			PO Box 78092		San Francisco	CA	94107     	1A							  	          	False		False
+6723893	34639	1029747		UnitedHealth Group PAC		2026-11-07 00:00:00	1000	0	0			701 Pennsyvania Ave	Suite 600	Washington	DC	20004     	2A							  	          	False		False
+6723894	34639	1029747		Foster	Lauren	2026-11-07 00:00:00	7300	0	0	Not employed	Not employed	1233 Shrader St		San Francisco	CA	94117     	1A							  	          	False		False
+6723895	16283	1029748		Lopez	Gabriel	2026-11-06 00:00:00	1000	1000	0	Consultant	Gabriel Lopez and Associates	3307 S 61st Ct		Cicero	IL	60804-3726	1A							  	          	False		False
+6723896	41427	1029749		Steigerwalat	Linda	2026-11-09 00:00:00	1000	0	0	retired	retired	8783 Old Greenbay Rd		Plesant Parie	IL	53158     	1A							  	          	False		False
+6723897	23800	1029750		Illinois Republican Party		2026-11-09 00:00:00	1085.89	0	0			Po Box 64897		Chicago	IL	60664     	5A	Voter Contact - Text Messages	Opn Sesame		850 NW Federal HWY, PMB 132		Stuart	FL	34994     	False		False
+6723898	40747	1029751		Southern Glazer's Wine & Spirits		2026-11-09 00:00:00	1805.33	0	0			300 E. Crossroads Parkway		Bollingbrook	IL	60440     	5A	Beverages	Southern Glazer's Wine & Spirits		300 E. Crossroads Parkway		Bollingbrook	IL	60440     	False		False
+6723899	41429	1029752		Helm Group		2026-11-09 00:00:00	10000	0	0			2283 US-20		Freeport	IL	61032     	1A							  	          	False		False
+6723900	35707	1029753		Illinois Republican Party		2026-11-09 00:00:00	1137.86	0	0			PO Box 78		Springfield	IL	62705     	5A	Voter contact - Text messages	Opn Sesame		850 NW Federal Hwy, PMB 132		Stuart	FL	34994     	False		False
+6723901	41006	1029754		Illinois Republican Party		2026-11-09 00:00:00	2212.57	0	0			PO Box 78		Springfield	IL	62705     	5A	Voter Contact - Text messages	Opn Sesame		850 NW Federal Hwy, PMB 132		Stuart	FL	34994     	False		False
+6723902	41008	1029755		Friends of Deborah Conroy		2026-11-08 00:00:00	9888.65	0	0			PO Box 6721		Villa Park	IL	60181     	5A	Printing	Navigate Campaigns		1328 Florida Ave NW		Washington	DC	20009     	False		False
+6723903	41276	1029756		Sacks	Michael	2026-11-09 00:00:00	7300	0	0	Chairman & CEO	GCM Grosvenor	833 Central Ave #1155		Highland Park	IL	60035     	1A							  	          	False		False
+6723904	22716	1029757		Citizens to Elect Ronald M. Serpico		2026-11-05 00:00:00	1000	0	0			1807 Broadway Ave		Melrose Park	IL	60160     	2A							  	          	False		False
+6723905	31869	1029758		Committee to Elect Jay Hoffman		2026-11-09 00:00:00	1538.25	0	0			PO Box 23738		Belleville	IL	62223     	5A	Fundraiser food/drinks	Fairmount Park Casino		9301 Collinsville Rd		Collinsville	IL	62234     	False		False
+6723906	40729	1029759		Friends of Ann M Williams		2026-11-09 00:00:00	1000	0	0			4044 N Lincoln Ave		Chicago	IL	60618     	2A							  	          	False		False
+6723907	41290	1029761		Stasch	Julia	2026-11-01 00:00:00	1000	0	0			1200 N Lake Shore Dr. Apt. 801		Chicago	IL	60614     	1A							  	          	False		False
+6723908	41370	1029762		Williams Architects		2026-11-03 00:00:00	2355.66	0	0			One Pierce Place, Suite 550W		Itasca	IL	60143     	5A	Mailing						  	          	False		False
+6723909	41370	1029762		Beyond Your Base		2026-11-03 00:00:00	3212	0	0			8181 Arista Place, Ste 100		Broomfield	CO	80021     	5A	Website						  	          	False		False
+6723910	36448	1029763		Urban Center PAC		2026-11-06 00:00:00	1000	0	0			5100 W Grand Ave - PO Box 39138		Chicago	IL	60639     	2A							  	          	False		False
+6723911	40848	1029764		LIUNA Chicago Laborers District Council PAC		2026-11-09 00:00:00	1000	0	0			999 McClintock Drive	Suite 300	Burr Ridge	IL	60527     	2A							  	          	False		False
+6723912	40848	1029764		SMART local 265		2026-11-09 00:00:00	1000	0	0			3110 Woodcreek Drive		Downers Grove	IL	60515     	2A							  	          	False		False
+6723913	40848	1029764		Teamsters Volunteers in Politics		2026-11-09 00:00:00	2500	0	0			160 Market St		Willow Springs	IL	60480     	2A							  	          	False		False
+6723914	40848	1029764		Teamsters Volunteers in Politics		2026-11-09 00:00:00	1000	0	0			160 Market St		Willow Springs	IL	60480     	2A							  	          	False		False
+6723915	40848	1029764		Illinois Trial Lawyers Association PAC		2026-11-09 00:00:00	2500	0	0			401 W Edwards St		Springfield	IL	62704     	1A							  	          	False		False
+6723916	40848	1029764		Sacks	Michael J.	2026-11-09 00:00:00	7300	0	0			833 Central Ave	#1155	Highland Park	IL	60035     	1A							  	          	False		False
+6723917	89	1029766		O'Brien	Lynn	2026-11-04 00:00:00	1800	1800	0	President/COO	WoMen's Physical Therapy Institute	270 Sebby Lane		Lake Zurich	IL	60047     	1A							  	          	False		False
+6723918	35786	1029767		Amazon.com Services LLC		2026-11-09 00:00:00	2500	4500	0			205 Pennsylvania Ave SE		Washington	DC	20003-1164	1A							  	          	False		False
+6723919	35786	1029767		Amazon.com Services LLC		2026-11-09 00:00:00	1500	4500	0			205 Pennsylvania Ave SE		Washington	DC	20003-1164	1A							  	          	False		False
+6723920	35786	1029767		Chevron Policy Govt & Policy Affairs		2026-11-09 00:00:00	1000	1000	0			PO Box 6042		San Ramon	CA	94583-0742	1A							  	          	False		False
+6723921	35786	1029767		Vistra Corp		2026-11-09 00:00:00	1000	1000	0			133 S 4th St	Ste 306	Springfield	IL	62701-1232	1A							  	          	False		False
+6723922	35786	1029767		Walmart		2026-11-09 00:00:00	1000	1000	0			3320 S Cicero Ave		Cicero	IL	60804-4531	1A							  	          	False		False
+6723923	35786	1029767		Carpentry Advancement Political Action Committee Fund		2026-11-09 00:00:00	2500	2500	0			12 E Erie St		Chicago	IL	60611-2795	2A							  	          	False		False
+6723924	35786	1029767		Illinois Pipe Trades PEF		2026-11-09 00:00:00	2500	2500	0			534 S 2nd St	Ste 311	Springfield	IL	62701-1763	2A							  	          	False		False
+6723925	35786	1029767		Mechanical Industry PAC		2026-11-09 00:00:00	1000	1000	0			7065 Veterans Blvd		Burr Ridge	IL	60527-5624	2A							  	          	False		False
+6723926	16502	1029768		Uber Technologies, Inc.		2026-11-09 00:00:00	2500	0	0			2350 Kerner Blvd.	Ste. 250	San Rafael	CA	94901     	1A							  	          	False		False
+6723927	16502	1029768		Bramlett	Lonnie	2026-11-09 00:00:00	1000	0	0			11807 W Bramlett Ct		Orland Park	IL	60467     	1A							  	          	False		False
+6723928	25591	1029769		Anderson	Mark	2026-11-07 00:00:00	1000	1000	0	Retired	Retired	542 S Washington Ave		Park Ridge	IL	60068-4156	1A							  	          	False		False
+6723929	39384	1029770		Personal PAC		2026-11-09 00:00:00	2786.52	0	0			PO Box 10881		Chicago	IL	60610     	5A	Digital ads	Delta Current Strategies LLC		616 Pailet Avenue		Harvey	LA	70058     	False		False
+6723930	37009	1029771		Personal PAC		2026-11-09 00:00:00	6133.81	0	0			PO Box 10881		Chicago	IL	60610     	5A	Digital ads	Delta Current Strategies LLC		616 Pailet Avenue		Harvey	LA	70058     	False		False
+6723931	14021	1029772		Hussain	Mahjabeen	2026-11-09 00:00:00	7000	0	0			407 E 17th street		Lombard	IL	60148     	1A							  	          	False		False
+6723932	14021	1029772		Qazi	Kaleem	2026-11-09 00:00:00	7000	0	0			6050 Covered Wagon Trl		Flint	MI	48532-2100	1A							  	          	False		False
+6723933	6239	1029773		APEX Clean Energy Holdings, LLC		2026-11-05 00:00:00	5000	5000	0			120 Garrett St	Ste 700	Charlottesville	VA	22902-5613	1A							  	          	False		False
+6723934	6239	1029773		Merck Sharp & Dohme LLC		2026-11-05 00:00:00	1000	1000	0			2350 Kerner Blvd	Ste 250	San Rafael	CA	94901-5596	1A							  	          	False		False
+6723935	6239	1029773		DLGA		2026-11-06 00:00:00	30000	30000	0			1620 I St NW	Ste 900	Washington	DC	20006-4035	2A							  	          	False		False
+6723936	6239	1029773		Friends of Willie Preston		2026-11-04 00:00:00	2500	2500	0			7706 S Wood St		Chicago	IL	60620-4443	2A							  	          	False		False
+6723937	35678	1029774		Illinois AFL-CIO COPE		2026-11-09 00:00:00	1000	0	0			534 S. 2nd Street	Suite 200	Springfield	IL	62701     	2A							  	          	False		False
+6723938	35678	1029774		Chicagoland Operators Joint Labor-Management PAC		2026-11-09 00:00:00	6000	0	0			6200 Joliet Road		Countryside	IL	60525     	2A							  	          	False		False
+6723939	35678	1029774		Teamsters Volunteers in Politics		2026-11-09 00:00:00	1000	0	0			160 Market St		Willow Springs	IL	60480     	2A							  	          	False		False
+6723940	35678	1029774		McDonald's Corporation		2026-11-09 00:00:00	2000	0	0			110 N Carpenter St		Chicago	IL	60607     	1A							  	          	False		False
+6723941	35678	1029774		Illinois Trial Lawyers Association PAC		2026-11-09 00:00:00	1000	0	0			401 W. Edwards Street	PO Box 5000	Springfield	IL	62704     	2A							  	          	False		False
+6723942	35678	1029774		Illinois Pipe Trades PEF		2026-11-09 00:00:00	1000	0	0			534 S 2nd St Ste 311		Springfield	IL	62701     	2A							  	          	False		False
+6723943	35678	1029774		Lazare	Ben	2026-11-09 00:00:00	2500	0	0	Consultant	Ben Lazare Consulting	2433 N Rockwell St		Chicago	IL	60647     	1A							  	          	False		False
+6723944	35678	1029774		Health Care Council of Illinois PAC		2026-11-09 00:00:00	2500	0	0			431 E Adams St Ste 220		Springfield	IL	62701     	2A							  	          	False		False
+6723945	35678	1029774		Uber Technologies, Inc.		2026-11-09 00:00:00	2500	0	0			2350 Kerner Blvd Ste 250		San Rafael	CA	94901     	1A							  	          	False		False
+6723946	35678	1029774		Social Gaming and Leadership Alliance		2026-11-09 00:00:00	2500	0	0			1600 I St NW Ste 900		Washington	DC	20006     	1A							  	          	False		False
+6723947	675	1029776		Johnson	Gabrielle	2026-11-08 00:00:00	1000	0	0	President	Endeavor Health	30 W Erie	Unit 802	Chicago	IL	60654-3817	1A							  	          	False		False
+6723948	619	1029777		Eric Sorensen for Illinois		2026-11-09 00:00:00	1000	0	0			PO Box 1172		Moline	IL	61265     	2A							  	          	False		False
+6723949	41101	1029778	1029778-1	Grasso	Gary	2026-11-09 00:00:00	5600	0	5600			38 Blaine Street, Ste. 100		Hinsdale	IL	60521     	3A		Grasso	Gary	38 Blaine Street, Ste. 100		Hinsdale	IL	60521     	False		False
+6723950	15622	1029779		Teamsters Volunteers in Politics		2026-11-09 00:00:00	2500	0	0			160 Market Street		Willow Springs	IL	60480     	2A							  	          	False		False
+6723951	17049	1029780		Iron Workers Local Union 112-conduit of member contributions		2026-11-04 00:00:00	9297.69	0	0			3003 North Main Street		East Peoria	IL	61611     	1A							  	          	False		False
+6723952	41101	1029781	1029781-1	Grasso	Gary	2026-11-06 00:00:00	10000	0	10000			38 Blaine Street, Ste. 100		Hinsdale	IL	60521     	3A		Grasso	Gary	38 Blaine Street, Ste. 100		Hinsdale	IL	60521     	False		False
+6723953	41029	1029783		Illinois Republican Party		2026-11-09 00:00:00	17172.6	0	0			PO Box 78		Springfield	IL	62705     	5A	Voter Contact	Opn Sesame		850 NW Federal Hgwy	PMB 132	Stuart	FL	34994     	False		False
+6723954	39465	1029784		Illinois Republican Party		2026-11-09 00:00:00	1260.37	0	0			PO Box 78		Springfield	IL	62705     	5A	Voter Contact	Opn Sesame		850 NW Federal Hwy	PMB 132	Stuart	FL	34994     	False		False
+6723955	35480	1029786		United Union of Roofers, Waterproofers and Allied Workers		2026-11-09 00:00:00	2000	0	0			1660 L St NW	Ste 800	Washington	DC	20036     	1A							  	          	False		False
+6723956	35480	1029786		PhRMA		2026-11-09 00:00:00	1500	0	0			670 Maine Ave SW	Ste 1000	Washington	DC	20024     	1A							  	          	False		False
+6723957	35480	1029786		Trajectory Energy Holdings		2026-11-09 00:00:00	2500	0	0			355 Lincolnwood Rd		Highland Park	IL	60035     	1A							  	          	False		False
+6723958	35480	1029786		Fraternal Order of Police Chicago Lodge No. 7		2026-11-09 00:00:00	2500	0	0			1412 W Washington Blvd		Chicago	IL	60607     	1A							  	          	False		False
+6723959	35480	1029786		Illinois Lawyers PAC		2026-11-09 00:00:00	1000	0	0			424 S 2nd St		Springfield	IL	62701     	1A							  	          	False		False
+6723960	35480	1029786		Realtor PAC		2026-11-09 00:00:00	5000	0	0			PO Box 19451		Springfield	IL	62794     	1A							  	          	False		False
+6723961	35480	1029786		UFCW Local 881 PAC		2026-11-09 00:00:00	5000	0	0			1350 E Touhy Ave	Ste 300E	Des Plaines	IL	60018     	1A							  	          	False		False
+6723962	35480	1029786		SEIU Healthcare IL IN PAC		2026-11-09 00:00:00	1000	0	0			2229 S Halsted St		Chicago	IL	60608     	1A							  	          	False		False
+6723963	35480	1029786		Chicago Land Operators Joint Labor-Management PAC		2026-11-09 00:00:00	6000	0	0			6200 Joliet Rd		Countryside	IL	60525     	1A							  	          	False		False
+6723964	35480	1029786		Constellation Energy Generation		2026-11-09 00:00:00	5000	0	0			1310 Point St	13th Floor	Baltimore	MD	21231     	1A							  	          	False		False
+6723965	35480	1029786		IBEW Local 364 Political Action Fund		2026-11-09 00:00:00	1000	0	0			6820 Mill Rd.		Rockford	IL	61108     	1A							  	          	False		False
+6723966	35480	1029786		LIUNA Chicago Laborers District Council PAC		2026-11-09 00:00:00	5000	0	0			999 McClintock Dr	Ste 300	Burr Ridge	IL	60527     	1A							  	          	False		False
+6723967	35480	1029786		Roofers and Waterproofers Local 11 PAC		2026-11-09 00:00:00	2500	0	0			2021 Swift Dr	Ste A	Oak Brook	IL	60523     	1A							  	          	False		False
+6723968	35480	1029786		Nicor Gas		2026-11-09 00:00:00	1000	0	0			1844 Ferry Rd		Naperville	IL	60563     	1A							  	          	False		False
+6723969	35480	1029786		Health Care Service Corporate Employees' PAC		2026-11-09 00:00:00	1000	0	0			300 E Randolph St	Legal Dept	Chicago	IL	60601     	1A							  	          	False		False
+6723970	35480	1029786		McDonalds Corporation PAC		2026-11-09 00:00:00	3000	0	0			711 Jorie Blvd	Dept. 213	Oak Brook	IL	60523     	1A							  	          	False		False
+6723971	35480	1029786		Aristotle International Inc		2026-11-09 00:00:00	2000	0	0			205 Pennsylvania Ave SE		Washington	DC	20003     	1A							  	          	False		False
+6723972	35480	1029786		PMI US Corporate Services		2026-11-09 00:00:00	2500	0	0			205 Pennsylvania Ave SE		Washington	DC	20003     	1A							  	          	False		False
+6723973	35480	1029786		Carbon Solutions Group		2026-11-09 00:00:00	2000	0	0			2045 W Grand Ave	STE B	Chicago	IL	60612     	1A							  	          	False		False
+6723974	35480	1029786		PCI Gaming Authority		2026-11-09 00:00:00	2000	0	0			303 Poarch Rd		Atmore	AL	36502     	1A							  	          	False		False
+6723975	35480	1029786		Base Power Company		2026-11-09 00:00:00	5000	0	0			205 E Riverside Dr	Ste 100	Austin	TX	78704     	1A							  	          	False		False
+6723976	35480	1029786		Porter	Jon	2026-11-09 00:00:00	2000	0	0	Consultant	Porter Group	101 Constitution Ave NW		Washington	DC	20001     	1A							  	          	False		False
+6723977	37202	1029787		Illinois Republican Party		2026-11-09 00:00:00	1550.48	0	0			P.O. Box 78		Springfield	IL	62705     	5A	Voter Contact	Opn Sesame		850 NW Federal Hwy	PMB 132	Stuart	FL	34994     	False		False
+6723978	24013	1029788		Chicago Land Operators Joint Labor-Management PAC		2026-11-09 00:00:00	6000	0	0			6200 Joliet Road		Countryside	IL	60525     	2A							  	          	False		False
+6723979	40747	1029789		Bayran	Edith	2026-11-02 00:00:00	5000	0	0			420 East Waterside Drive		Chicago	IL	60601     	1A							  	          	False		False
+6723980	40747	1029789		Kruschka	Karyn	2026-11-02 00:00:00	2000	0	0			1409 N Dearborn St		Chicago	IL	60610     	1A							  	          	False		False
+6723981	40747	1029789		Tully	Matthew	2026-11-02 00:00:00	1000	0	0	Attorney	Tully & Associates	222 N. LaSalle Street		Chicago	IL	60601     	1A							  	          	False		False
+6723982	40747	1029789		Dandamudi	Rama	2026-11-02 00:00:00	2500	0	0	President	Snadiero Chicago	110 West Kinzie Street	Floor 2	Chicago	IL	60654     	1A							  	          	False		False
+6723983	40747	1029789		Smith	Charles	2026-11-02 00:00:00	3000	0	0	Sales	CS Insurance	1018 S. May St.		Chicago	IL	60607     	1A							  	          	False		False
+6723984	40747	1029789		Goldberg	Brian	2026-11-02 00:00:00	5000	0	0	CEO/Founder	LG Group	363 W. Ontario St.		Chicago	IL	60654     	1A							  	          	False		False
+6723985	40747	1029789		Leaders for Tomorrow-State		2026-11-02 00:00:00	10000	0	0			3520 S Morgan Street		Chicago	IL	60609     	2A							  	          	False		False
+6723986	40747	1029789		Magnolia Windows LLC		2026-11-02 00:00:00	1500	0	0			371 Randy Rd		Carol Stream	IL	60188     	1A							  	          	False		False
+6723987	40747	1029789		Wirtz	Arthur M	2026-11-02 00:00:00	1000	0	0			3 Henneberry Ln		Golf	IL	60029     	1A							  	          	False		False
+6723988	40747	1029789		Savarise Consulting LLC		2026-11-02 00:00:00	1000	0	0			206 Northhampton LN		Lincolnshire	IL	60069     	1A							  	          	False		False
+6723989	18261	1029790		Fleming	James	2026-11-06 00:00:00	1000	1000	0	Self	James Fleming	1370 E 53rd St	Apt 2	Chicago	IL	60615-4496	1A							  	          	False		False
+6723990	18261	1029790		Peck	Kerry	2026-11-06 00:00:00	1500	1500	0	Managing Partner	Peck Ritchey LLC	321 S Plymouth Ct	Fl 66	Chicago	IL	60604-3917	1A							  	          	False		False
+6723991	34198	1029791		Banks	Kenya	2026-11-02 00:00:00	2500	2500	0	Information Requested	Information Requested				ZZ	          	1A							  	          	False		False
+6723992	34198	1029791		Cohen	Cathy	2026-11-02 00:00:00	1000	1000	0	Professor	University of Chicago	4616 S Woodlawn Ave		Chicago	IL	60653-4410	1A							  	          	False		False
+6723993	34198	1029791		Crawford	Malcolm	2026-11-02 00:00:00	1000	1000	0	Executive Director	Austin African American Business Networking Assoc	5820 W Chicago Ave		Chicago	IL	60651-2546	1A							  	          	False		False
+6723994	34198	1029791		D & B Logistics LLC		2026-11-02 00:00:00	5000	5000	0			1200 W 35th St		Chicago	IL	60609-1305	1A							  	          	False		False
+6723995	34198	1029791		Garcia	Maya	2026-11-02 00:00:00	2500	2500	0	Corporate Relations Manager	Exelon	3429 W Grenshaw St		Chicago	IL	60624-4314	1A							  	          	False		False
+6723996	34198	1029791		Garcia	Rocio	2026-11-02 00:00:00	1000	1135	0	Senior Organizing Director	Grassroots Collaborative	2727 S Bonfield St		Chicago	IL	60608-5701	1A							  	          	False		False
+6723997	34198	1029791		Herrera	Jorge	2026-11-02 00:00:00	1000	1000	0	Training Specialist	AXA Partners	2330 S Millard Ave		Chicago	IL	60623-3109	1A							  	          	False		False
+6723998	34198	1029791		Ho	Nicky	2026-11-02 00:00:00	2000	2000	0	Owner	Classic Nails	8640 S Lafayette Ave		Chicago	IL	60620-1301	1A							  	          	False		False
+6723999	34198	1029791		Javid	Arshad	2026-11-02 00:00:00	1000	1000	0	President	Cafe Descartes	5819 N Washtenaw Ave		Chicago	IL	60659-3911	1A							  	          	False		False
+6724000	34198	1029791		Lee	Lisa	2026-11-02 00:00:00	5000	5000	0	Exeuctive Director	National Public Housing Museum	PO Box 998		Downers Grove	IL	60515-0998	1A							  	          	False		False
+6724001	34198	1029791		MP Snow Service		2026-11-02 00:00:00	2500	2500	0			3233 S Princeton Ave		Chicago	IL	60616-3613	1A							  	          	False		False
+6724002	34198	1029791		Nesis	Daniel	2026-11-02 00:00:00	1000	2500	0	Assistant General Manager	Monterrey Security	3803 N Marshfield Ave	Apt 3	Chicago	IL	60613-6971	1A							  	          	False		False
+6724003	34198	1029791		Ransby	Barbara	2026-11-02 00:00:00	1000	1000	0	Professor	University of Illinois	5830 S Stony Island Ave		Chicago	IL	60637-2058	1A							  	          	False		False
+6724004	34198	1029791		Ruffolo	Sam R.	2026-11-02 00:00:00	3000	8000	0	Retired	Not Employed	3653 S Normal Ave		Chicago	IL	60609-1723	1A							  	          	False		False
+6724005	34198	1029791		Schneider	Charles J	2026-11-02 00:00:00	2500	2500	0	Accountant	Charles J. Schneider Ltd.	8170 Cass Ave		Darien	IL	60561-5013	1A							  	          	False		False
+6724006	34198	1029791		Sherman Dodge Crysler Jeep Ram		2026-11-02 00:00:00	2500	2500	0			7601 Skokie Blvd		Skokie	IL	60077-3001	1A							  	          	False		False
+6724007	34198	1029791		T & B Limited Partnership		2026-11-02 00:00:00	1500	3000	0			4450 S Morgan St		Chicago	IL	60609-3336	1A							  	          	False		False
+6724008	34198	1029791		Teofilo Mattson	Corina Maria	2026-11-02 00:00:00	1000	1000	0	Licensed Marriage & Family Therapist	Live Oak	2424 W Coyle Ave		Chicago	IL	60645-4610	1A							  	          	False		False
+6724009	34198	1029791		The Legacy Begins Now LLC		2026-11-02 00:00:00	7500	7500	0			1820 Shetland Rd		Naperville	IL	60565-1785	1A							  	          	False		False
+6724010	34198	1029791		Tyler	William	2026-11-02 00:00:00	2500	10000	0	Owner	LBD Consulting, Inc.	1200 W 35th St		Chicago	IL	60609-1305	1A							  	          	False		False
+6724011	34198	1029791		Tyler	William	2026-11-02 00:00:00	2500	10000	0	Owner	LBD Consulting, Inc.	1200 W 35th St		Chicago	IL	60609-1305	1A							  	          	False		False
+6724012	34198	1029791		Vincent	Myrtle J.	2026-11-02 00:00:00	2500	4500	0	Retired	Not Employed	6815 S Michigan Ave		Chicago	IL	60637-3907	1A							  	          	False		False
+6724013	40966	1029792		Laborer's International Union Local 32		2026-11-09 00:00:00	1000	0	0			7404 CherryVale North Blvd		Rockford	IL	61112     	2A							  	          	False		False
+6724014	35462	1029793		VGW LUCKYLAND INC		2026-11-09 00:00:00	2000	0	0			2995 55TH ST #20763		BOULDER	CO	80308     	1A							  	          	False		False
+6724015	35462	1029793		Porter	Jon	2026-11-09 00:00:00	2000	0	0			101 Constitution Ave. NW		Washington	DC	20001     	1A							  	          	False		False
+6724016	35462	1029793		Caesars Enterprise Services LLC		2026-11-09 00:00:00	1314.71	0	0			1 Caesars Palace Drive		Las Vegas	NE	89109     	5A	Fund raising - food	Caesars Enterprise Services LLC		1 Caesars Palace Drive		Las Vegas	NE	89109     	False		False
+6724017	39609	1029794		United Union of Roofers, Waterproofers & Allied Workers		2026-11-09 00:00:00	2000	0	0			1660 L Street N.W. Suite 800		Washington DC	IL	20036     	2A							  	          	False		False
+6724018	39609	1029794		Health Care Service Corporation Employees PAC		2026-11-09 00:00:00	1000	0	0			300 E Randolph		Chicago	IL	60601     	2A							  	          	False		False
+6724019	39609	1029794		Illinois Soybean Growers PAC		2026-11-09 00:00:00	1000	0	0			1108 Trinity Lane		Bloomington	IL	61704     	2A							  	          	False		False
+6724020	39609	1029794		Illinois Society of Anesthesiologists		2026-11-09 00:00:00	1000	0	0			6737 W Washington St	Suite 4210	Milwaukee	WI	53214     	2A							  	          	False		False
+6724021	39609	1029795		Democrats for the Illinois House		2026-11-09 00:00:00	17221.64	0	0			10055 W Roosevelt Rd, Suite A	Suite D	Westchester	IL	60154     	2A							  	          	False		False
+6724022	553	1029796		Chicago Journeymen Plumbers/ LU 130 UA		2026-11-09 00:00:00	5000	0	0			1340 W. Washongton Blvd.		Chicago	IL	60607     	1A							  	          	False		False
+6724023	41068	1029797		Sierra Club Illinois Chapter PAC		2026-11-03 00:00:00	1185.75	0	0			70 E Lake St	Suite 1500	Chicago	IL	60608     	5A	Staff time for voter outreach	Foley	Claire	1230 N Greenview Apt 3F		Chicago	IL	60642     	False		False
+6724024	34241	1029798		Anthropic PBC		2026-11-09 00:00:00	7300	0	0			548 Market St, PMB 90375		San Francisco	CA	94104     	1A							  	          	False		False
+6724025	34374	1029799	1029799-1	EMF		2026-11-06 00:00:00	50000	0	50000			815 W 63rd Street	4th Floor	Chicago	IL	60621     	3A		EMF		815 W 63rd Street	4th Floor	Chicago	IL	60621     	False		False
+6724026	17549	1029801		Watters, Wolf, Bub & Hansmann LLC		2026-11-09 00:00:00	2000	0	0			600 Kellwood Parkway Suite 120		Chesterfield	MO	63017     	1A							  	          	False		False
+6724027	25956	1029802		Supermercado El Guero #8 Inc		2026-11-06 00:00:00	2000	0	0			2101 W Cermak Rd		Chicago	IL	          	1A							  	          	False		False
+6724028	25956	1029802		BP Food Shop		2026-11-05 00:00:00	3000	0	0			1955 W Cermak Rd		Chicago	IL	          	1A							  	          	False		False
+6724029	37001	1029803		Teamsters Local Union No. 743		2026-11-09 00:00:00	1000	0	0			4620 S Tripp Ave		Chicago	IL	60632     	2A							  	          	False		False
+6724030	37001	1029803		Committee to Elect Emma Lozano		2026-11-09 00:00:00	1000	0	0			3561 S Archer #1035		Chicago	IL	60609     	2A							  	          	False		False
+6724031	17549	1029804		BW Stennis Corp		2026-11-09 00:00:00	6000	0	0			P O Box 451		O’Fallon	IL	62269     	1A							  	          	False		False
+6724032	26023	1029805		Bronner	Gila	2026-11-06 00:00:00	1000	0	0	Government Consulting	Bronner Group LLC	284 Prospect		Highland Park	IL	60035     	1A							  	          	False		False
+6724033	26023	1029805		Dalesandro	Dave	2026-11-06 00:00:00	2500	0	0	CEO	JB DEVELOPMENT INC	590 KILDEER DRIVE		Bolingbrook	IL	60440     	1A							  	          	False		False
+6724034	26023	1029805		Neri	Jorge	2026-11-06 00:00:00	1000	0	0	Self-employed	Neri Group LLC	7980 Chicago Ave		River Forest	IL	60305     	1A							  	          	False		False
+6724035	26023	1029805		Motew	Ken	2026-11-06 00:00:00	1000	0	0	Principal	Ken Motew	516 N OGDEN AVE STE 137		Chicago	IL	60642     	1A							  	          	False		False
+6724036	26023	1029805		Rudzki	Zachary	2026-11-06 00:00:00	4000	0	0	Real Estate	Self-Employed	2027 W Division Suite 1A		Chicago	IL	60622     	1A							  	          	False		False
+6724037	26023	1029805		Wuest	Jack	2026-11-06 00:00:00	2000	0	0	Administration	Alternative Schools Network	1807 W Sunnyside Ave		Chicago	IL	60640     	1A							  	          	False		False
+6724038	26023	1029805		Huffman	Craig	2026-11-06 00:00:00	1500	0	0	CEO	Metro Edge	20 N Wacker Drive STE 1000		Chicago	IL	60606     	1A							  	          	False		False
+6724039	26023	1029805		Daley	John	2026-11-06 00:00:00	1500	0	0	Government Relations	Daley Strategy	3530 S Halsted		Chicago	IL	60609     	1A							  	          	False		False
+6724040	26023	1029805		Langdon	Neal	2026-11-06 00:00:00	1250	0	0	Attorney	Neal & Leroy LLC	20 S. Clark St		Chicago	IL	60603     	1A							  	          	False		False
+6724041	26023	1029805		Ijaz	Nadir	2026-11-06 00:00:00	1250	0	0	Health Care Mangement	Insight Health Systems	1258 Reserve Drive		Rochester	MI	48307     	1A							  	          	False		False
+6724042	26023	1029805		Lopez	Baldemar	2026-11-06 00:00:00	1000	0	0	Lawyer	Self-Employed	77 W Washington St 1313		Chicago	IL	60602     	1A							  	          	False		False
+6724043	26023	1029805		Munoz	Antonio	2026-11-06 00:00:00	1000	0	0	Self-Employed	Self-Employed	3211 S Hamilton Ave		Chicago	IL	60608     	1A							  	          	False		False
+6724044	26023	1029805		Friends of Jaime Andrade		2026-11-06 00:00:00	1000	0	0			P.O. Box 18380		Chicago	IL	60618     	2A							  	          	False		False
+6724045	26023	1029805		Gaynor	Paul	2026-11-06 00:00:00	1000	0	0	Attorney	G&R Public Law	900 North Lake Shore Drive Apt 2709		Chicago	IL	60611     	1A							  	          	False		False
+6724046	26023	1029805		Druss	Lissa	2026-11-06 00:00:00	1000	0	0	Government Relations	Strategia Consulting	1827 N 79th Court		Elmwood Park	IL	60707     	1A							  	          	False		False
+6724047	26023	1029805		Clayborne	James	2026-11-06 00:00:00	1000	0	0	Lawyer	Clayborne Law pllc	10 Persimmon Ridge		Belleville	IL	62223     	1A							  	          	False		False
+6724048	26023	1029805		Lowery	Donald	2026-11-06 00:00:00	1000	0	0	Public Affairs	Nielsen	224 E 52nd St Apt. 3		New York	NY	10022     	1A							  	          	False		False
+6724049	22882	1029806		Amgen Inc, State Pac		2026-11-09 00:00:00	1000	0	0			One Amen Center Dr		Thousand Oaks	CA	91320     	2A							  	          	False		False
+6724050	22882	1029806		Health Care Service PAC/Blue Cross		2026-11-09 00:00:00	1000	0	0			217  E Monroe		Springfield	IL	62702     	2A							  	          	False		False
+6724051	22882	1029806		Cboe		2026-11-09 00:00:00	1000	0	0			6800 W 115th Street	Ste 260	Overland Park	KS	66211     	2A							  	          	False		False
+6724052	4334	1029807		John Kasperek Co., Inc.		2026-11-07 00:00:00	2000	0	0			1471 Ring Road		Calumet City	IL	60409     	1A							  	          	False		False
+6724053	4334	1029807		BME Electric, Inc		2026-11-07 00:00:00	1000	0	0			9935 S. 76th Ave.		Bridgeview	IL	60455     	1A							  	          	False		False
+6724054	41503	1029808		Wachowski	Lilly	2026-11-04 00:00:00	1000	0	0		Not Employed	1722 W Gregory St		Chicago	IL	60640     	1A							  	          	False		False
+6724055	37026	1029809		Illinois Republican Organization		2026-11-09 00:00:00	10921.59	0	0			PO Box 78.		Springfield	IL	62705     	5A	Phone bank	Opn Sesame		850 NW Federal Hwy, PMB 132		Stuart	FL	34994     	False		False

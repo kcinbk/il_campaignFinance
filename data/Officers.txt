@@ -4085,6 +4085,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 5403	Bell	Willie	2219 S Central Ave		Rockford	IL	61102     	Chair		False
 38223	Bell MD	Stephen W	c/o Sang Co Medical Society Inc	611 N 6th St	Springfield	IL	62702     	Treasurer	544-8491            	False
 100582	Bell Sr.	Gary T.	22340 Strassburg Ave		Sauk Village	IL	60411     	Chair	708.314.6507        	False
+100673	Bell Sr.	Gary T.	22340 Strassburg Ave		Sauk Village	IL	60411     	Treasurer	708.314.6507        	False
 48017	Bell-Cousin	Kelli	PO Box 1026		Chicago Heights	IL	60412     	Treasurer	312.572.9824        	False
 33889	Bell-Yovkovich	Teri	725 Memorial Dr		Calumet City	IL	60409     	Chair	708/891-6504        	False
 42810	Bell-Zuccarelli	Darline	1630 S Central Park Ave	#2	Chicago	IL	60623     	Treasurer	773-762-0194        	False
@@ -17952,8 +17953,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 92101	Eliasoff	Elline	9116 Karlov Avenue		Skokie	IL	60076     	Treasurer	847.962.9155        	False
 4107	Elich	Danice	1101 S. Taylor		Oak Park	IL	60304     	Chair	                    	False
 26100	Elick	Sasha	748 Washington Ave Apt 19		Alton	IL	62002     	Chair	618/978-8889        	False
-47139	Elik	Amy	PO Box 205		Alton	IL	62002     	Treasurer	618.593.7023        	False
 81369	Elik	Amy	Redaction Requested					Chair		True
+47139	Elik	Amy	Redaction Requested					Treasurer		True
 80801	Eliopoulos	Jeannette	2241 N. Clybourn Ave #1		Chicago	IL	60614     	Treasurer	773-744-2010        	False
 30910	Eliot	Gail	59 W Hale St		Palatine	IL	60067     	Co-Chair		False
 30909	Eliot	Jay	59 W Hale St		Palatine	IL	60067     	Chair		False
@@ -18607,6 +18608,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 41131	Evans	Julie	1427 Windfield Dr		Sycamore	IL	60178     	Treasurer		False
 48458	Evans	Julie.	520 W Legion Ave		Columbia	IL	62236     	Treasurer	618.530.5008        	False
 44167	Evans	Kelly	4345 W 206th		Matteson	IL	60443     	Treasurer	708-212-4647        	False
+100674	Evans	Kevin	1414 Parkside Drive		Peoria	IL	61606     	Treasurer	309.550.4598        	False
 18100	Evans	Kim	257 S Winter		Paxton	IL	60957     	Chair	217/379-3428        	False
 48882	Evans	Kip	32415 N Alleghany Rd		Grayslake	IL	60030     	Treasurer	                    	False
 85524	Evans	Lucy	1221 River Oak Drive		Naperville	IL	60565     	Chair	                    	False
@@ -18698,6 +18700,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 27523	Ewert	Russ	2106 N Magnolia		Chicago	IL	60614     	Treasurer	(773) 883-9002      	False
 27522	Ewert	Russell H	2106 N Magnolia		Chicago	IL	60614     	Chair	(773) 883-9002      	False
 69730	Ewing	Brandon	644 Lenox Ave. Apt 2		Waukegan	IL	60085     	Chair	847.809.5462        	False
+100669	Ewing	Brandon	332 4th St.		Waukegan	IL	60085     	Treasurer	847.809.5462        	False
 13743	Ewing	Daniel W	1315 Merrimac Pl		Aurora	IL	60506     	Chair	(708)896-9259       	False
 50523	Ewing	Eric	13343 US Hwy 24		Rushville	IL	62681     	Treasurer	217.248.5648        	False
 5484	Ewing	Jerry	RR #3		Rushville	IL	62681     	Vice Chair		False
@@ -37286,6 +37289,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 44649	Ledvora	Patrick	2225 Black Oak Cr		Lisle	IL	60532     	Co-Chair	630/527-8895        	False
 52200	Lee	Abraham J	9403 Bay Colony Dr.  Apt  3E		Des Plaines	IL	60016     	Treasurer	224-388-0196        	False
 91658	Lee	Allyson	1996 Raleigh Place		Hoffman Estates	IL	60169     	Treasurer	                    	False
+100670	Lee	Andy	6 Rockne Dr.		Manteno	IL	60950     	Chair	815.712.6561        	False
 52057	Lee	Anna	1636 Sycamore St		Des Plaines	IL	60018     	Treasurer	773.319.1500        	False
 1849	Lee	Belinda D.	1924 N. Burling		Chicago	IL	60614     	Chair	                    	False
 37744	Lee	Bob	1238 Prairie Orchid Ln		Grayslake	IL	60030     	Treasurer	312/213-9256        	False
@@ -37335,6 +37339,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 79570	Lee	Laura H	19125 N Cleone Rd		Martinsville	IL	62442     	Chair	217.549.5619        	False
 79571	Lee	Laura H	19125 N Cleone Rd		Martinsville	IL	62442     	Treasurer	217.549.5619        	False
 22454	Lee	Lillian	3720 W Highland Pl		Country Club Hills	IL	60478     	Treasurer	                    	False
+100671	Lee	Maureen	6 Rockne Dr.		Manteno	IL	60950     	Treasurer	708.297.0556        	False
 62282	Lee	Meeghan N	102 Heritage Ct.		Aledo	IL	61231     	Chair	309.269.2117        	False
 62283	Lee	Meeghan N	102 Heritage Ct.		Aledo	IL	61231     	Treasurer	309.269.2117        	False
 30726	Lee	Michael J	2316 Kentuck Ct		Naperville	IL	60564     	Treasurer	630/904-6393        	False
@@ -46587,6 +46592,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 48747	Murvine	Allen	500 Jordan		Island Lake	IL	60042     	Treasurer	815.347.7814        	False
 28879	Musa	Italo	4949 Harrison Ave	Ste 102	Rockford	IL	61108     	Treasurer	815/398-0995        	False
 13538	Musacchio	Annalisa	2244 N. Harlem, Unit #11		Elmwood Park	IL	60635     	Treasurer	(708) 452-4850      	False
+100672	Musaev	Adam	3148 N. Oakley Ave., Unit 2s		Chicago	IL	60618     	Chair	224.664.1004        	False
 62432	Musch	Lisa	155 W. Morton Ave.		Jacksonville	IL	62650     	Treasurer	217.245.2174        	False
 26392	Muscolino	Nancy	8408 Wadsworth		Willow Springs	IL	60480     	Chair	                    	False
 35427	Muscolino	Steven	8408 Wadsworth Ln		Willow Springs	IL	60480     	Chair	(708) 839-1850      	False

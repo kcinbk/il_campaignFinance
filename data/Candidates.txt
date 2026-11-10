@@ -7852,6 +7852,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 12124	Dyke	Jeffery S				IL	60014	Commissioner	Park	Tinley Park	Cook/Will	Non Partisan	False
 21561	Dykstra	David	514 Shoshoni Tr		Lake Villa	IL	60046	Trustee	Village	Lake Villa	Lake	Non Partisan	False
 39027	Dykstra	Joan	311 W Chruch St		Savoy	IL	61874	President	Village	Savoy	Champaign		False
+54434	Dykstra	Rich	7562 Wheeler Drive		Orland Park	IL	60462     	Trustee	Village	Orland Park			False
 10711	Dyrcz	William	1108 Plaza Dr		New Lenox	IL	60451	Member	County Board	Will 7  	Will	Republican	False
 2007	Dysert	Marion E						Treasurer	County	Vermilion	Vermilion	Republican	False
 37926	Dyson	David	13731 Lawndale		Robbins	IL	60472	Mayor	Village	Robbins	Cook	Democratic	False
@@ -10425,6 +10426,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 13079	Gomez	Jose "Charlie"	151 N Michigan	#3315	Chicago	IL	60601	Assessor	County	Cook 	Cook	Republican	False
 15528	Gomez	Maria	1810 N 36th Avenue		Stone Park	IL	60161	Clerk	Village	Stone Park	Cook		False
 34508	Gomez	Martha	4102 S Oak Park Ave		Stickney	IL	60402	Trustee	Village	Stickney		Non Partisan	False
+54437	Gomez-Valadez	Roberto	12616 Irving Ave.		Blue Island	IL	60406     	Member	School	Board	Cook	Non Partisan	False
 27030	Gomillia	Keith	16648 Central Park Ave		Markham	IL	60428	Trustee	Township	Bremen	Cook		False
 25994	Gomolinski	Bill "Gomo"	4612 S Clausen		Western Springs	IL	60558	Judge	Subcircuit Court	Cook 4  	Cook	Democratic	False
 17228	Gomolinski	William E	8855 S Roberts Rd		Hickory Hills	IL	60457	Member	County Board	Cook 16 	Cook	Democratic	False
@@ -16413,6 +16415,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 23587	Ledvora	Gary John	2225 Black Oak Ct		Lisle	IL	60532	Mayor	Village	Lisle	DuPage		False
 27689	Lee	Abraham J	9403 Bay Colony Dr.  Apt 3E		Des Plaines	IL	60016-3665	Trustee	Township	Maine	Cook	Democratic	False
 11332	Lee	Amy M	501 King Arthur Way		Bolingbrook	IL	60440	Trustee	Village	Bolingbrook	Will		False
+54436	Lee	Andrew	6 Rockne Dr.		Manteno	IL	60950     	Trustee	Village	Manteno	Kankakee	Non Partisan	False
 5958	Lee	Barb	606 W 33rd Ave		Milan	IL	61264	Clerk	Village	Milan	Rock Island	Democratic	False
 7057	Lee	Becky	2397th St		Moline	IL	61265	Clerk	City	Moline	Rock Island	Republican	False
 4706	Lee	Catherine M	445 W Shady Lane		Barrington	IL	60010	State Representative	Representative	64 	Lake	Democratic	False
@@ -16793,6 +16796,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 40487	Lindberg	Melissa	4901 N Monticello	#1	Chicago	IL	60625	Committeewoman	Congressional	5  	Cook	Democratic	False
 39093	Lindberg	Robin H	26626 N Wilton Rd		Wauconda	IL	60084	Trustee	Township	Wauconda	Lake		False
 42114	Lindblom	Derek	1232 W. Draper		Chicago	IL	60614	Alderperson	Ward	Chicago 43 	Cook	Non Partisan	False
+54433	Lindbloom	Bridget	13560 Mohawk Lane		Orland Park	IL	60462     	Trustee	Village	Oak Park			False
 18162	Lindbloom	Robert	11665 W 195th St		Mokena	IL	60448	Commissioner	Park	Mokena	Will	Non Partis	False
 43152	Lindemann	Clifford	112 Louie Ave.		Bluford	IL	62814	State Representative	Representative	115	Jefferson	Republican	False
 2433	Linder	Donald Ray	3117 S Giles		Chicago	IL		Alderperson	Ward	Chicago 2  	Cook	Non Partisan	False
@@ -26886,6 +26890,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 26521	Sierens	Desiree	731 Buttonwood Ln		Marengo	IL	60152	State's Attorney	County	Bureau	Bureau	Republican	False
 12065	Sieron	Stan						Assessor	Township	Stookey	St Clair		False
 53496	Sierra	Alexander	3032 West Seibold St.		Peoria	IL	61605     	Trustee	Park	Peoria	Peoria	Democratic	False
+54438	Sierra	Alexander	3032 West Seibold St.		Peoria	IL	61605     	President	Park	Peoria		Democratic	False
 54006	Sierra	Norma Rios	PO Box 47334		Chicago	IL	60647	Member	School	Chicago 3A	Cook	Non Partisan	False
 11684	Siers	Jan	17 N 765 Powers Rd		Gilberts	IL	60136	Assessor	Township	Rutland	Kane	Republican	False
 50888	Sievers	Christina	16709 S Sunset Ridge		Lockport	IL	60441     	Trustee	Township	Homer		Republican	False
@@ -31450,6 +31455,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 15024	Whittington	Hilda R	4836 1/2 South Drexel Boulevard		Chicago	IL	60615	Judge	Circuit Court	Cook		Democratic	False
 19821	Whittington Jr	Joseph	15633 S Myrtle Ave		Harvey	IL	60426	Trustee	Comm College	510	Cook		False
 18268	Whittington Jr	Joseph	15633 S Myrtle Ave		Harvey	IL	60426	Alderperson	Ward	Harvey 2  	Cook		False
+54435	Wholley	Joe	14130 Scott Ln		Orland Park	IL	60462     	Trustee	Village	Orland Park			False
 1419	Whyte	Alice L						Trustee	Village	Schaumburg	Cook		False
 21628	Wiatr	Erik J	9929 S Cook Ave		Oak Lawn	IL	60453	Trustee	Library	Oak Lawn	Cook	Non Partisan	False
 954	Wiberg	Suzi	13755 Kickapoo		Lockport	IL	60441	Member	County Board	Will 7  	Will	Republican	False

@@ -8742,6 +8742,7 @@ ID	CommitteeID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	ResignD
 35698	4882	Couvall	Peter	2324 S Bonnie Brook Ln		Waukegan	IL	60087     	Chair	2022-09-13 08:50:58.727000000	False
 35699	4882	Koss	David	230 Gillett Avenue		Waukegan	IL	60085     	Treasurer	2022-09-13 08:51:05.930000000	False
 38823	4882	White	J. Chawn	917 E. Fairfield Ct		Waukegan	IL	60085     	Treasurer	2024-06-21 12:31:26.200000000	False
+43313	4882	Swank	Danielle	767 Whiteoaks Lane		Highland Park	IL	60035     	Treasurer	2026-11-09 09:01:35.947000000	False
 1561	4883	Anderson	C R	114 Mohawk Dr		N Barrington	IL	60010     	Treasurer	1992-02-13 00:00:00	False
 1562	4883	Anderson	Rich	114 Mohawk Drive		N Barrington	IL	60010     	Chair	1992-02-13 00:00:00	False
 938	4883	Schindler	Burton	338 W. Roslyn		Barrington	IL	60010     	Treasurer	1991-01-14 00:00:00	False
@@ -24338,6 +24339,7 @@ ID	CommitteeID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	ResignD
 42256	40569	Ferrall	Charlie	3436 W 23rd St	2nd Floor, Unit A	Chicago	IL	60623     	Chair	2025-03-12 08:56:27.533000000	False
 42957	40589	Rule	James J	339 Magnolia Ave		Morton	IL	61550     	Treasurer	2026-05-07 14:30:48.167000000	False
 42292	40605	Sierra	Christopher	1251 S. 2nd Street		Louisville	KY	40203     	Treasurer	2025-03-25 12:31:59.700000000	False
+43314	40605	Sierra	Angela	3032 West Seibold Street		Peoria	IL	61605     	Treasurer	2026-11-09 16:18:54.980000000	False
 42712	40607	Larkin	Ian	PO Box 311		Winnetka	IL	60093     	Chair	2026-01-22 08:20:45.403000000	False
 42713	40607	Wynnychenko	Theodore	PO Box 311		Winnetka	IL	60093     	Treasurer	2026-01-22 08:20:48.690000000	False
 43280	40617	Shofner	Joyce	102 Aspen Court		Clinton	IL	61727     	Treasurer	2026-10-05 12:37:30.013000000	False
