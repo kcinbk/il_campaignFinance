@@ -349122,27 +349122,27 @@ ord Park	IL	60499     	8B	Fuel			False	False	False		False
 4944148	346	1021502	0	Dick's Sporting Goods		2026-07-06 00:00:00	219.5	219.5	1250 E Main St.		Carbondale	IL	62901     	8B	Awards			False	False	False		False
 4944149	346	1021502	0	Oriental Trading		2026-08-03 00:00:00	203.19	203.19	PO Box 2308		Omaha	NE	68103     	8B	Promotional items			False	False	False		False
 4944150	346	1021502	0	United States Liability Insurance Company		2026-07-15 00:00:00	618	618	PO Box 62778		Baltimore	MD	21264     	8B	Insurance			False	False	False		False
-4944151	172	1021503	0	Walmart		2026-08-14 00:00:00	61.24	186.59	10000 Bartel Blvd		Galena	IL	61036     	8B	Campaign Work			False	False	False		False
-4944152	172	1021503	0	Walmart		2026-08-27 00:00:00	74.79	186.59	10000 Bartel Blvd		Galena	IL	61036     	8B	Campaign Work			False	False	False		False
-4944153	172	1021503	0	Walmart		2026-08-31 00:00:00	50.56	186.59	10000 Bartel Blvd		Galena	IL	61036     	8B	Food			False	False	False		False
-4944154	172	1021503	0	McCoy Insurance		2026-09-02 00:00:00	185	185	412 S. Main		Galena	IL	61036     	8B	Insurance			False	False	False		False
-4944155	172	1021503	0	Minuteman Press		2026-07-24 00:00:00	141.84	1270.58	5128 N. 2nd Street		Loves Park	IL	61111     	8B	Printing			False	False	False		False
-4944156	172	1021503	0	Minuteman Press		2026-08-27 00:00:00	849.86	1270.58	5128 N. 2nd Street		Loves Park	IL	61111     	8B	Printing			False	False	False		False
-4944157	172	1021503	0	Minuteman Press		2026-08-27 00:00:00	278.88	1270.58	5128 N. 2nd Street		Loves Park	IL	61111     	8B	Printing			False	False	False		False
-4944158	172	1021503	0	United States Postal Service		2026-07-07 00:00:00	106	210	Commerce St		Galena	IL	61036     	8B	Post office box			False	False	False		False
-4944159	172	1021503	0	United States Postal Service		2026-09-28 00:00:00	104	210	Commerce St		Galena	IL	61036     	8B	Campaign Work			False	False	False		False
-4944160	172	1021503	0	Worsham, Mark		2026-07-24 00:00:00	1000	4200	603 Ridge		Galena	IL	61036     	8B	Rent			False	False	False		False
-4944161	172	1021503	0	Worsham, Mark		2026-07-01 00:00:00	1000	4200	603 Ridge		Galena	IL	61036     	8B	Rent			False	False	False		False
-4944162	172	1021503	0	Worsham, Mark		2026-09-01 00:00:00	1100	4200	603 Ridge		Galena	IL	61036     	8B	Rent			False	False	False		False
-4944163	172	1021503	0	Worsham, Mark		2026-09-29 00:00:00	1100	4200	603 Ridge		Galena	IL	61036     	8B	Rent			False	False	False		False
-4944164	172	1021503	0	Hy Vee		2026-09-29 00:00:00	3904.25	3904.25	3500 Dodge Street		Dubuque	IA	52003     	8B	Fund raising - food			False	False	False		False
-4944165	172	1021503	0	Gallagher	Lynn	2026-09-15 00:00:00	317.5	317.5	320 Elk Street		Galena	IL	61036     	8B	Campaign Work			False	False	False		False
-4944166	172	1021503	0	C & N Embroidery		2026-09-15 00:00:00	216.5	216.5	705 S, Dodge St		Galena	IL	61036     	8B	Fund raising - advertisement			False	False	False		False
-4944167	172	1021503	0	Elizabeth Community Center		2026-08-14 00:00:00	180	446	402 West St		Elizabeth	IL	61028     	8B	Rent			False	False	False		False
-4944168	172	1021503	0	Elizabeth Community Center		2026-08-27 00:00:00	266	446	402 West St		Elizabeth	IL	61028     	8B	Rent			False	False	False		False
-4944169	172	1021503	0	Hanover Township Library		2026-08-27 00:00:00	200	200	204 Jefferson Street		Hanover	IL	61041     	8B	Donation			False	False	False		False
-4944170	172	1021503	0	HIghland for Jo Daviess		2026-09-15 00:00:00	317.5	317.5	20 Truman Drive		East Dubuque	IL	61025     	8B	Campaign Work			False	False	False		False
-4944171	172	1021503	0	Paul Nolly for Congress		2026-09-17 00:00:00	500	500	PO Box 2166		Loves Park	IL	61130     	8B	Campaign Work			False	False	False		False
+4944151	172	1021503	0	Walmart		2026-08-14 00:00:00	61.24	186.59	10000 Bartel Blvd		Galena	IL	61036     	8B	Campaign Work			False	False	True		False
+4944152	172	1021503	0	Walmart		2026-08-27 00:00:00	74.79	186.59	10000 Bartel Blvd		Galena	IL	61036     	8B	Campaign Work			False	False	True		False
+4944153	172	1021503	0	Walmart		2026-08-31 00:00:00	50.56	186.59	10000 Bartel Blvd		Galena	IL	61036     	8B	Food			False	False	True		False
+4944154	172	1021503	0	McCoy Insurance		2026-09-02 00:00:00	185	185	412 S. Main		Galena	IL	61036     	8B	Insurance			False	False	True		False
+4944155	172	1021503	0	Minuteman Press		2026-07-24 00:00:00	141.84	1270.58	5128 N. 2nd Street		Loves Park	IL	61111     	8B	Printing			False	False	True		False
+4944156	172	1021503	0	Minuteman Press		2026-08-27 00:00:00	849.86	1270.58	5128 N. 2nd Street		Loves Park	IL	61111     	8B	Printing			False	False	True		False
+4944157	172	1021503	0	Minuteman Press		2026-08-27 00:00:00	278.88	1270.58	5128 N. 2nd Street		Loves Park	IL	61111     	8B	Printing			False	False	True		False
+4944158	172	1021503	0	United States Postal Service		2026-07-07 00:00:00	106	210	Commerce St		Galena	IL	61036     	8B	Post office box			False	False	True		False
+4944159	172	1021503	0	United States Postal Service		2026-09-28 00:00:00	104	210	Commerce St		Galena	IL	61036     	8B	Campaign Work			False	False	True		False
+4944160	172	1021503	0	Worsham, Mark		2026-07-24 00:00:00	1000	4200	603 Ridge		Galena	IL	61036     	8B	Rent			False	False	True		False
+4944161	172	1021503	0	Worsham, Mark		2026-07-01 00:00:00	1000	4200	603 Ridge		Galena	IL	61036     	8B	Rent			False	False	True		False
+4944162	172	1021503	0	Worsham, Mark		2026-09-01 00:00:00	1100	4200	603 Ridge		Galena	IL	61036     	8B	Rent			False	False	True		False
+4944163	172	1021503	0	Worsham, Mark		2026-09-29 00:00:00	1100	4200	603 Ridge		Galena	IL	61036     	8B	Rent			False	False	True		False
+4944164	172	1021503	0	Hy Vee		2026-09-29 00:00:00	3904.25	3904.25	3500 Dodge Street		Dubuque	IA	52003     	8B	Fund raising - food			False	False	True		False
+4944165	172	1021503	0	Gallagher	Lynn	2026-09-15 00:00:00	317.5	317.5	320 Elk Street		Galena	IL	61036     	8B	Campaign Work			False	False	True		False
+4944166	172	1021503	0	C & N Embroidery		2026-09-15 00:00:00	216.5	216.5	705 S, Dodge St		Galena	IL	61036     	8B	Fund raising - advertisement			False	False	True		False
+4944167	172	1021503	0	Elizabeth Community Center		2026-08-14 00:00:00	180	446	402 West St		Elizabeth	IL	61028     	8B	Rent			False	False	True		False
+4944168	172	1021503	0	Elizabeth Community Center		2026-08-27 00:00:00	266	446	402 West St		Elizabeth	IL	61028     	8B	Rent			False	False	True		False
+4944169	172	1021503	0	Hanover Township Library		2026-08-27 00:00:00	200	200	204 Jefferson Street		Hanover	IL	61041     	8B	Donation			False	False	True		False
+4944170	172	1021503	0	HIghland for Jo Daviess		2026-09-15 00:00:00	317.5	317.5	20 Truman Drive		East Dubuque	IL	61025     	8B	Campaign Work			False	False	True		False
+4944171	172	1021503	0	Paul Nolly for Congress		2026-09-17 00:00:00	500	500	PO Box 2166		Loves Park	IL	61130     	8B	Campaign Work			False	False	True		False
 4944172	32491	1021505	0	Joliet Park Foundation		2026-09-26 00:00:00	350	350	3000 West Jefferson St		Joliet	IL	60435     	8B	Donation			False	False	False		False
 4944173	32160	1021507	0	United States Postal Service		2026-07-15 00:00:00	202	202	1956 2nd Ave		Rock Island	IL	61201-9700	8B	Post office box			False	False	False		False
 4944174	32160	1021507	0	Quad City Labor Day Parade Alliance Committee		2026-08-05 00:00:00	325	325	4600 46th Ave	Ste #4	Rock Island	IL	61201     	8B	Ad book			False	False	False		False
@@ -398913,3 +398913,24 @@ ord Park	IL	60499     	8B	Fuel			False	False	False		False
 4993948	41327	1029785	0	Nineteen Sixty Campaigns LLC		2026-11-06 00:00:00	6949.8	0	4540 N Ravenswood Ave		Chicago	IL	60640     	9B	Field	Jessica Biggs	President of the Chicago Board of Education	True	False	False		False
 4993949	23100	1029800	0	Pericles Abassi		2026-11-08 00:00:00	2000	0				IL	          	9B	Consulting	CARMELITA P EARLS	37TH WARD ALDERWOMAN	True	False	False		False
 4993950	23100	1029800	0	Lawyer Associates		2026-11-08 00:00:00	1500	0				IL	          	9B	Consulting	CARMELITA P EARLS	37TH WARD ALDERWOMAN	True	False	False		False
+4993951	172	1029820	0	Walmart		2026-08-14 00:00:00	61.24	186.59	10000 Bartel Blvd		Galena	IL	61036     	8B	Campaign Work			False	False	False		False
+4993952	172	1029820	0	Walmart		2026-08-27 00:00:00	74.79	186.59	10000 Bartel Blvd		Galena	IL	61036     	8B	Campaign Work			False	False	False		False
+4993953	172	1029820	0	Walmart		2026-08-31 00:00:00	50.56	186.59	10000 Bartel Blvd		Galena	IL	61036     	8B	Food			False	False	False		False
+4993954	172	1029820	0	Gallagher	Lynn	2026-09-15 00:00:00	317.5	317.5	320 Elk Street		Galena	IL	61036     	8B	Campaign Work			False	False	False		False
+4993955	172	1029820	0	C & N Embroidery		2026-09-15 00:00:00	216.5	216.5	705 S, Dodge St		Galena	IL	61036     	8B	Fund raising - advertisement			False	False	False		False
+4993956	172	1029820	0	Elizabeth Community Center		2026-08-14 00:00:00	180	446	402 West St		Elizabeth	IL	61028     	8B	Rent			False	False	False		False
+4993957	172	1029820	0	Elizabeth Community Center		2026-08-27 00:00:00	266	446	402 West St		Elizabeth	IL	61028     	8B	Rent			False	False	False		False
+4993958	172	1029820	0	Hanover Township Library		2026-08-27 00:00:00	200	200	204 Jefferson Street		Hanover	IL	61041     	8B	Donation			False	False	False		False
+4993959	172	1029820	0	HIghland for Jo Daviess		2026-09-15 00:00:00	317.5	317.5	20 Truman Drive		East Dubuque	IL	61025     	8B	Campaign Work			False	False	False		False
+4993960	172	1029820	0	Paul Nolly for Congress		2026-09-17 00:00:00	500	500	PO Box 2166		Loves Park	IL	61130     	8B	Campaign Work			False	False	False		False
+4993961	172	1029820	0	McCoy Insurance		2026-09-02 00:00:00	185	185	412 S. Main		Galena	IL	61036     	8B	Insurance			False	False	False		False
+4993962	172	1029820	0	Minuteman Press		2026-08-27 00:00:00	849.86	1270.58	5128 N. 2nd Street		Loves Park	IL	61111     	8B	Printing			False	False	False		False
+4993963	172	1029820	0	Minuteman Press		2026-08-27 00:00:00	278.88	1270.58	5128 N. 2nd Street		Loves Park	IL	61111     	8B	Printing			False	False	False		False
+4993964	172	1029820	0	Minuteman Press		2026-07-24 00:00:00	141.84	1270.58	5128 N. 2nd Street		Loves Park	IL	61111     	8B	Printing			False	False	False		False
+4993965	172	1029820	0	United States Postal Service		2026-09-28 00:00:00	104	210	Commerce St		Galena	IL	61036     	8B	Campaign Work			False	False	False		False
+4993966	172	1029820	0	United States Postal Service		2026-07-07 00:00:00	106	210	Commerce St		Galena	IL	61036     	8B	Post office box			False	False	False		False
+4993967	172	1029820	0	Worsham, Mark		2026-07-01 00:00:00	1000	4200	603 Ridge		Galena	IL	61036     	8B	Rent			False	False	False		False
+4993968	172	1029820	0	Worsham, Mark		2026-09-01 00:00:00	1100	4200	603 Ridge		Galena	IL	61036     	8B	Rent			False	False	False		False
+4993969	172	1029820	0	Worsham, Mark		2026-09-29 00:00:00	1100	4200	603 Ridge		Galena	IL	61036     	8B	Rent			False	False	False		False
+4993970	172	1029820	0	Worsham, Mark		2026-07-24 00:00:00	1000	4200	603 Ridge		Galena	IL	61036     	8B	Rent			False	False	False		False
+4993971	172	1029820	0	Hy Vee		2026-09-29 00:00:00	3904.25	3904.25	3500 Dodge Street		Dubuque	IA	52003     	8B	Fund raising - food			False	False	False		False

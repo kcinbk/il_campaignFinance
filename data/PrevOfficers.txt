@@ -6071,6 +6071,8 @@ ID	CommitteeID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	ResignD
 33362	1056	Carlock	Hugh	5880 S. Sixth Street Rd.		Springfield	IL	62703     	Chair	2020-09-15 13:29:03.360000000	False
 43043	1056	Moon	Joe	5880 S. Sixth Street Rd.		Springfield	IL	62703     	Treasurer	2026-06-16 10:56:26.220000000	False
 43044	1056	Biamonte	Frank	5880 S. Sixth Street Rd.		Springfield	IL	62703     	Chair	2026-06-16 10:56:30.720000000	False
+43315	1056	Dykstra	Andrew	5880 S. Sixth Street Rd. E		Springfield	IL	62703     	Chair	2026-11-10 11:36:25.250000000	False
+43316	1056	Howell	Kevin	5880 S. Sixth St. Rd. E		Springfield	IL	62703     	Treasurer	2026-11-10 11:36:34.340000000	False
 4134	1058	Reach	Dale	850 Belleview Place		Herrin	IL	62948     	Treasurer	1995-08-17 00:00:00	False
 115	1058	Williams	Braxton B.	509 California		Carterville	IL	62918     	Treasurer	1989-10-06 00:00:00	False
 16647	1059	Jordan	Arnold M.	4 E. 111th Street		Chicago	IL	60628     	Treasurer	2012-10-03 09:24:55.703000000	False

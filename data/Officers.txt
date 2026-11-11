@@ -17396,7 +17396,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 41007	Dykeman	Ellen	1415 Turks Cap Rd		Grayslake	IL	60030     	Treasurer	847.543.9951        	False
 20655	Dykhouse	Charles F	2710 Greenbriar Ln		Peoria	IL	61614     	Treasurer	309/671-2881        	False
 8388	Dykla	Michael	3630 W. George		Chicago	IL	60618     	Chair	(312)772-6630       	False
-99955	Dykstra	Andrew	5880 S. Sixth Street Rd. E		Springfield	IL	62703     	Chair	                    	False
+99955	Dykstra	Andrew	5880 S. Sixth Street Rd. E		Springfield	IL	62703     	Treasurer	                    	False
 80331	Dykstra	Daniel	2218 Boysenberry	Apt. #3	Springfield	IL	62711     	Treasurer	                    	False
 41163	Dykstra	David	514 Shoshoni Tr		Lake Villa	IL	60046     	Treasurer		False
 61979	Dykstra	Greg	311 W Church		Savoy	IL	61874     	Chair	217.778.6111        	False
@@ -17951,6 +17951,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 49735	Elias Jr	Juan L	2201 N Maplewood Ave		Chicago	IL	60647     	Chair	773-592-0411        	False
 92100	Eliasoff	Elline	9116 Karlov Avenue		Skokie	IL	60076     	Chair	847.962.9155        	False
 92101	Eliasoff	Elline	9116 Karlov Avenue		Skokie	IL	60076     	Treasurer	847.962.9155        	False
+100675	Eliathamby	Julie C.	2812 N. Bigelow Court		Peoria	IL	61604     	Chair	309.363.3200        	False
 4107	Elich	Danice	1101 S. Taylor		Oak Park	IL	60304     	Chair	                    	False
 26100	Elick	Sasha	748 Washington Ave Apt 19		Alton	IL	62002     	Chair	618/978-8889        	False
 81369	Elik	Amy	Redaction Requested					Chair		True
@@ -43902,6 +43903,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 14529	Michalowski	Enid	4979 Crofton Dr		Rockford	IL	61114     	Treasurer	                    	False
 23368	Michals	Michelle	5121 Hawthorn Ln		Lisle	IL	60532     	Treasurer	                    	False
 68136	Michalski	Gerri	14 Hickory St		Frankfort	IL	60423     	Treasurer	815.464.1730        	False
+100676	Michanicou	Alexandros	6409 N. Camelot Rd.		Peoria	IL	61615     	Treasurer	309.370.1430        	False
 16718	Michau	Donna	14051 S. Kickapoo Trail		Lockport	IL	60441     	Treasurer	                    	False
 52718	Michaud	Dawn	938 Harrison St		Galesburg	IL	61402     	Chair	309.686.7688        	False
 100413	Michaud	Isobel	180 Shelley Lane		Wheaton	IL	60189     	Chair	630.408.7939        	False
@@ -68889,6 +68891,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 78323	Waller	Sharon	4916 N Francisco Ave		Chicago	IL	60625     	Treasurer	773.860.7588        	False
 78784	Waller	Tina	20 Willow Lane		Anna	IL	62906     	Chair	618.697.3050        	False
 7113	Waller	Tina	20 Willow Lane		Anna	IL	62906     	Treasurer	618.697.3050        	False
+100677	Waller	Trent	5880 S. Sixth St. Rd		Springfield	IL	62703     	Chair	                    	False
 17772	Waller-nyman	Dianne	888 Carol Lane		Crete	IL	60417     	Chair	708/672-9112        	False
 46873	Wallett	Laura	315 Denton Ln		South Elgin	IL	60177     	Treasurer	                    	False
 46872	Wallett	Richard	315 Denton Ln		South Elgin	IL	60177     	Chair	                    	False
