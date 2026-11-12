@@ -8093,6 +8093,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 26047	Elenz	Tim	5 Plumtree Ct		Streamwood	IL	60107	State Senator	Senate	22 	Cook	Democratic	False
 43278	Elias	Juan "Johnny"	2821 N Springfield Avenue		Chicago	IL	60618	Committee Person	Ward	Chicago 30	Cook	Democratic	False
 43134	Elias	Kelly	716 400th St		Williamsville	IL	62693	Circuit Clerk	County	Logan	Logan	Republican	False
+54440	Eliathamby	Julie C.	2812 N. Bigelow Court		Peoria	IL	61604     	Councilman	City	Peoria	Peoria	Non Partisan	False
 43093	Elik	Amy	Redaction Requested					State Representative	Representative	111	Madison	Republican	True
 1809	Elkins	Forrest						Sheriff	County	Marion 	Marion	Republican	False
 4332	Elkins	Stephen	PO Box 5		Lawndale	IL	61725	Circuit Clerk	County	Logan 	Logan	Republican	False
@@ -16538,6 +16539,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 16400	Lenzini	Ralph	309 Oak Terrace Ave		Highwood	IL	60040	Alderperson	Ward	Highwood 3  			False
 47396	Leon	Bruce	2949 W Fitch Ave		Chicago	IL	60645	Committee Person	Ward	50	Cook	Democratic	False
 47614	Leon	Bruce	2949 W Fitch Ave		Chicago	IL	60645	Board Member	School	Chicago 2	Cook	Democratic	False
+54439	Leon	Bruce	2949 W. Fitch Ave.		Chicago	IL	60645     	Treasurer	City	Chicago		Non Partisan	False
 18121	Leonard	Andrea M	1331 Anthony Ct		Waukegan	IL	60087	Alderperson	Ward	Waukegan 8  	Lake	Independent	False
 53356	Leonard	Dr Ariana	18455 Stedhall Rd		Homewood	IL	60430	Member	School	Flossmoor	Cook	Non Partisan	False
 16052	Leonard	Janine C	3543 Salem Court		Islaen Lake	IL	60042	Clerk	Village	Island Lake	Lake		False

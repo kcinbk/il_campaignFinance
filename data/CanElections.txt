@@ -27014,6 +27014,7 @@ ID	CandidateID	ElectionType	ElectionYear	IncChallOpen	WonLost	FairCampaign	Limit
 61041	14117	CP	2015	Inc 	Won 	False	False	
 76072	14117	CP	2019	Inc 	Won 	False	False	
 85252	14117	CP	2023	Inc 	Won 	False	False	
+101979	14117	CP	2027	Inc 	    	False	False	
 24619	14121	CP	1999	Chal	Lost	False	False	 
 24621	14123	CP	1999	Chal	Lost	False	False	 
 40186	14125	CP	2007		Won 	False	False	 
@@ -57598,6 +57599,7 @@ ID	CandidateID	ElectionType	ElectionYear	IncChallOpen	WonLost	FairCampaign	Limit
 76232	42466	CE	2019	    	Lost	False	False	
 86948	42467	CE	2019	Open	Won 	False	False	
 86949	42467	CE	2023	Inc 	Won 	False	False	
+101982	42467	CE	2027	Inc 	    	False	False	
 75528	42468	CE	2019	Open	Lost	False	False	
 75527	42469	CE	2019	    	Lost	False	False	
 75529	42470	CE	2019	    	Won 	False	False	
@@ -58038,6 +58040,7 @@ ID	CandidateID	ElectionType	ElectionYear	IncChallOpen	WonLost	FairCampaign	Limit
 101462	42767	GE	2026	Ret 	    	False	False	
 76139	42768	CE	2019	    	Won 	False	False	
 87488	42768	CE	2023	Inc 	Won 	False	False	
+101984	42768	CE	2027	Inc 	    	False	False	
 76134	42769	CP	2019	    	Lost	False	False	
 76161	42770	CE	2015	Inc 	Won 	False	False	
 76162	42770	CE	2011	    	Won 	False	False	
@@ -66789,7 +66792,7 @@ ID	CandidateID	ElectionType	ElectionYear	IncChallOpen	WonLost	FairCampaign	Limit
 101853	54330	CP	2027	    	    	False	False	
 101854	54331	CE	2027	    	    	False	False	
 101855	54332	GE	2026	Chal	    	False	False	
-101856	54333	CE	2027	    	    	False	False	
+101856	54333	CE	2027	Chal	    	False	False	
 101857	54334	CP	2027	Open	    	False	False	
 101859	54337	GE	2026	Open	    	False	False	
 101860	54338	CE	2027	    	    	False	False	
@@ -66858,3 +66861,11 @@ ID	CandidateID	ElectionType	ElectionYear	IncChallOpen	WonLost	FairCampaign	Limit
 101966	54420	CP	2027	Chal	    	False	False	
 101969	54426	CP	2027	Chal	    	False	False	
 101971	54427	CE	2027	Open	    	False	False	
+101977	54428	CE	2027	    	    	False	False	
+101976	54429	CE	2027	    	    	False	False	
+101978	54430	CE	2027	    	    	False	False	
+101981	54431	CE	2027	Chal	    	False	False	
+101980	54432	CP	2027	Chal	    	False	False	
+101986	54436	CE	2027	    	    	False	False	
+101985	54437	CE	2027	    	    	False	False	
+101983	54438	CE	2027	Chal	    	False	False	
