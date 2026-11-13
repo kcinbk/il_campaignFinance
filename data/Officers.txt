@@ -129,6 +129,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 35798	Acardo	John	1092 Aspen Ct	Apt 1	DeKalb	IL	60115     	Treasurer		False
 51772	Acardo	John	1271 Mason St		DeKalb	IL	60115     	Chair	815.797.9036        	False
 98041	Acas	Bruce	14452 S Provencal Dr		Homer Glen	IL	60491     	Treasurer	630-330-4821        	False
+100678	Accardo	Megan	248 Ambroglo Drive		Gurnee	IL	60031     	Chair	847.525.1399        	False
 53594	Acciari	Jerry J	8455 Ozark Ave		Niles	IL	60714     	Treasurer	847-967-8248        	False
 53593	Acciari	Jerry J	8455 Ozark Ave		Niles	IL	60714     	Chair	847-967-8248        	False
 89476	Acerra	Heather	325 N. Prairie Street		Galesburg	IL	61401-3716	Chair	                    	False
@@ -12546,6 +12547,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 79106	Cortez	Luz M	6100 S Whipple		Chicago	IL	60629     	Treasurer	773.698.2551        	False
 11784	Cortez	Pauline	2929 N Southport		Chicago	IL		Treasurer		False
 45171	Corvo	Judy	943 Wenonah Ave		Oak Park	IL	60304     	Administrator	708.369-2500        	False
+100683	Corwin	Alexandra	8045 Kenneth Ave.		Skokie	IL	60076     	Chair	847.579.9108        	False
+100684	Corwin	Alexandra	8045 Kenneth Ave.		Skokie	IL	60076     	Treasurer	847.579.9108        	False
 6409	Corwin	Darlene	17216 W. Brights Court		Illinois City	IL	61259     	Chair	309-798-2480        	False
 80178	Corwin	William C	10066 W Mawman		Waukegan	IL	60087-2431	Treasurer	847-848-3165        	False
 54247	Cory	Angie	16496 Yates Rd		Grafton	IL	62037     	Chair	                    	False
@@ -14017,6 +14020,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 42261	Dammrich	Thom	10 S Riverside Plz, Ste 800		Chicago	IL	60606     	Chair		False
 44544	Damron	Tara	216 Haller Ave		Romeoville	IL	60446     	Treasurer	815-349-6163        	False
 47056	Dan	Anderson	19029 S Saddlebrook Dr		Shorewood	IL	60404     	Chair	814-782-4177        	False
+100680	Dan	Charles	2754 Sheridan Rd.		Evanston	IL	60201     	Treasurer	404.580.3401        	False
 7076	Danaher	William J.	6620 S. Kolin Ave.		Chicago	IL	          	Chair	(312)581-7616       	False
 46659	Danajka	Michelle R	Law Offices of John F Argoudelis LL	15133 S Route 59	Plainfield	IL	60544     	BookKeeper	815-436-9410        	False
 42992	Danay	Stephen J	15030 42nd St W		Milan	IL	61624     	Treasurer	309/372-4470        	False
@@ -20042,7 +20046,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 11306	Floreth	Fred	625 N Franklin		Litchfield	IL	62056-1618	Treasurer	217/324-4860 OR 598 	False
 32499	Florez	Veronica	2523 S Claremont		Chicago	IL		Treasurer	773/254-5049        	False
 32504	Florez	Veronica	2523 S Claremont		Chicago	IL		Bookkeeper	773/254-5049        	False
-92029	Florian	Karen	248 Ambrogio Drive		Gurnee	IL	60031     	Treasurer	847.558.3351        	False
+92029	Florian	Karen	248 Ambrogio Drive		Gurnee	IL	60031     	Treasurer	847.623.7725        	False
 1700	Florina	John	1029 S. 4th Street		Springfield	IL	62703     	Chair	217/528-6455        	False
 2339	Florini	Jean A	424 E Mattox		Sullivan	IL	61951     	Treasurer	                    	False
 2336	Florini	Joseph J	424 E Mattox		Sullivan	IL	61951     	Chair	                    	False
@@ -23553,6 +23557,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 53758	Gordils	Deb Leticia	3401 N Narragansett		Chicago	IL	60634     	Chair	773.759.7086        	False
 100132	Gordils	Maria	3843 N Richmond		Chicago	IL	60618     	Chair	773-655-4715        	False
 100131	Gordils	Ramona	3653 N Albany		Chicago	IL	60618     	Treasurer	773-759-3311        	False
+100681	Gordon	Andrew	4709 Golf Rd, Suite 1100		Skokie	IL	60076     	Chair	                    	False
+100682	Gordon	Andrew	4709 Golf Rd, Suite 1100		Skokie	IL	60076     	Treasurer	                    	False
 42337	Gordon	Annie	821 S Kickapoo Ln		Peoria	IL	61604     	Chair	309/657-0373 (cell) 	False
 21700	Gordon	Barbara E(Betsy	209 N. Hunter St		Lebanon	IL	62254     	Treasurer	618/537-4519        	False
 51774	Gordon	Bernadette	2657 E Lawrence		Springfield	IL	62703     	Treasurer	217.303.6192        	False
@@ -34693,6 +34699,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 37027	Klingelsmith	Edward L	182 Eagle Ridge		O'Fallon	IL	62269     	Chair	618/624-8245        	False
 81548	Klingemann	Daniel	1507 Hawkeye Court		Carterville	IL	62918     	Chair	                    	False
 81549	Klingemann	Sarah	1507 Hawkeye Court		Carterville	IL	62918     	Treasurer	                    	False
+100679	Klingensmith	Neil	2759 Asbury Ave.		Evanston	IL	60201     	Chair	262.309.1712        	False
 19939	Klinger	Michael	613 Broadway		Quincy	IL	62301     	Chair	217-223-3670        	False
 22178	Klingler	Paul	424 N 5th St		Belleville	IL	62220     	Chair	                    	False
 4744	Klingler	W. Gerald	1600 Ruth Place		Springfield	IL	62704     	Chair	                    	False

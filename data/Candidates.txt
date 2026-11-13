@@ -5647,6 +5647,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 46542	Cortez	Michael	810 W Lakeside Pl	Unit 306	Chicago	IL	60640	Alderperson	Ward	Chicago 46	Cook	Non Partisan	False
 45572	Cortina	Michael G	6720 Rhode Island Trail		Crystal Lake	IL	60012	Judge - Burke Vacancy	Appellate Court	2		Democratic	False
 11666	Cortney	William	13941 Richardson		Robbins	IL	60472	Trustee	Village	Robbins	Cook		False
+54444	Corwin	Alexandra	8045 Kenneth Ave.		Skokie	IL	60076     	Member	School	69	Cook		False
 5803	Cory	Brian	1203 Crystal Lake Rd		Lake In The Hills	IL	60102	President	Village	Lake In The Hills	McHenry		False
 46881	Coryell	Misty	2215 Ridgefield Dr		Belvidere	IL	61008	Member	School	100	Boone	Non Partisan	False
 473	Cosentino	Jerry	12855 Ponderosa Drive		Palos Heights	IL	60463	Secretary of State	Statewide		Cook	Democratic	False
@@ -10528,6 +10529,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 4564	Gord	Jim	RR #1		Sandwich	IL	60548	Member	School	430	DeKalb/Kendall/LaSal	Non Partisan	False
 17970	Gordils	Deb	3653 N Albany		Chicago	IL	60618	Alderperson	Ward	Chicago 33 	Cook	Independent	False
 54197	Gordils	Maria	3843 N Richmond		Chicago	IL	60618	Alderperson	Ward	33	Cook		False
+54443	Gordon	Andrew	4709 Golf Rd, Suite 1100		Skokie	IL	60076     	Trustee	Village	Wilmette	Cook	Non Partisan	False
 27389	Gordon	Bernadette	2657 E Lawrence Ave		Springfield	IL	67203	Trustee	Township	Capital	Sangamon	Democratic	False
 18601	Gordon	Careen M	582 W Daisy Pl		Coal City	IL	60416	State Representative	Representative	75 	Grundy	Democratic	False
 20918	Gordon	Don	1228 W Lunt Ave		Chicago	IL	60626	Alderperson	Ward	Chicago 49 	Cook	Non Partisan	False
@@ -13958,6 +13960,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 46454	Johnson	Brandon	5715 W. Superior		Chicago	IL	60644	Mayor	City	Chicago		Non Partisan	False
 40671	Johnson	Brandon	5715 W Superior		Chicago	IL	60644	Commissioner	County Board	Cook	Cook	Democratic	False
 53383	Johnson	Brian	736 Mineral Creek Dr.		Colona	IL	61241     	Mayor	City	Colona		Independent	False
+54442	Johnson	Brian	716 Ingleside Place		Evanston	IL	60201     	Member	School	65	Cook	Non Partisan	False
 46719	Johnson	C B	5248 W Gladys Ave		Chicago	IL	60644	Alderperson	Ward	Chicago 29	Cook	Democratic	False
 43538	Johnson	Callie	944 Bartlett Terrace		Libertyville	IL	60048	Member	School	70	Lake	Non Partisan	False
 12812	Johnson	Calvin Omar	3236 W Polk Street		Chicago	IL	60624	Committee Person	Ward	Chicago 24 	Cook	Republican	False
@@ -20573,6 +20576,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 31879	Murphy	Michael	10015 S Clifton Park Ave		Evergreen Park	IL	60642	Trustee	Comm College	524	Cook	Non Partisan	False
 47478	Murphy	Michael	4354 W Schubert Ave		Chicago	IL	60639	Circuit Clerk	County	Cook	Cook	Libertarian	False
 53754	Murphy	Michael	4920 W. Walton St.		Chicago	IL	60651     	President	County Board	Cook	Cook	Libertarian	False
+54441	Murphy	Michael	4920 W. Walton St.		Chicago	IL	60651     	Alderperson	City	Chicago	Cook	Non Partisan	False
 20521	Murphy	Michael James	20 N Merrill		Park Ridge	IL	60068	Judge	Appellate Court	1	Cook	Democratic	False
 25693	Murphy	Michael L	3666- 192nd St		Lansing	IL	60438	Trustee	Village	Lansing	Cook	Independent	False
 40651	Murphy	Mike	8012 Wilson Terrace		Springfield	IL	62712	State Representative	Representative	99 	Sangamon	Republican	False

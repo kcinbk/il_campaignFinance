@@ -8699,6 +8699,7 @@ ID	CommitteeID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	ResignD
 35048	4876	Mackey	Raymond M.	248 Ambrogio Drive		Gurnee	IL	60031     	Treasurer	2021-11-05 08:04:32.233000000	False
 38875	4876	Regnier	Kelly	248 Ambrogio Drive		Gurnee	IL	60031     	Chair	2024-07-17 09:20:10.773000000	False
 38876	4876	Smith	Brian	248 Ambrogio Drive		Gurnee	IL	60031     	Treasurer	2024-07-17 09:20:15.807000000	False
+43317	4876	Bickham	Carol	248 Ambrogio Drive		Gurnee	IL	60031     	Chair	2026-11-12 08:55:59.107000000	False
 2050	4877	Stevens	George R.	120 Brierfield Court		Lake Bluff	IL	60044     	Treasurer	1992-09-18 00:00:00	False
 1218	4877	Wilkins	Gerald	362 W. Prospect		Lake Bluff	IL	60044     	Treasurer	1991-07-22 00:00:00	False
 8479	4877	Campton	Terry	472 Mawman Avenue		Lake Bluff	IL	60044     	Treasurer	2001-09-13 14:10:56	False

@@ -27629,6 +27629,7 @@ ID	CandidateID	ElectionType	ElectionYear	IncChallOpen	WonLost	FairCampaign	Limit
 66864	14630	CE	2017	Inc 	Won 	True	False	
 78589	14630	CP	2021	Inc 	Won 	False	False	
 81923	14630	CE	2021	Inc 	Won 	False	False	
+101990	14630	CE	2027	    	    	False	False	
 39395	14631	GP	2006	Inc 	Won 	False	False	 
 39397	14631	GE	2006	Inc 	Won 	False	False	 
 47475	14631	GP	2010	Inc 	Won 	False	False	 
@@ -53973,6 +53974,7 @@ ID	CandidateID	ElectionType	ElectionYear	IncChallOpen	WonLost	FairCampaign	Limit
 75620	34451	CP	2019	    	Won 	False	False	
 76049	34451	CE	2019	    	Won 	False	False	
 85440	34451	CE	2023	Inc 	Won 	False	False	
+101988	34451	CE	2027	Inc 	    	False	False	
 64638	34452	GP	2016	Chal	Won 	False	False	
 64639	34452	GE	2016	Chal	Won 	False	False	
 77262	34452	GP	2020	Inc 	Lost	False	False	
@@ -54428,6 +54430,7 @@ ID	CandidateID	ElectionType	ElectionYear	IncChallOpen	WonLost	FairCampaign	Limit
 75617	37654	CP	2019	Inc 	Won 	False	False	
 76114	37654	CE	2019	Inc 	Won 	False	False	
 85441	37654	CE	2023	Inc 	Won 	False	False	
+101989	37654	CE	2027	Inc 	    	False	False	
 66853	37655	CE	2017	    	Lost	False	False	
 66851	37656	GP	2016	Open	Won 	False	False	
 66852	37656	GE	2016	Open	Won 	False	False	
@@ -57443,6 +57446,7 @@ ID	CandidateID	ElectionType	ElectionYear	IncChallOpen	WonLost	FairCampaign	Limit
 75350	42345	CP	2019	Open	Won 	False	False	
 76090	42345	CE	2019	Open	Won 	False	True	Limits Off for Race
 85240	42345	CP	2023	Inc 	Won 	False	False	
+101994	42345	CP	2027	Inc 	    	False	False	
 75351	42346	CE	2019	    	Lost	False	False	
 75357	42348	CE	2019	    	Lost	False	False	
 75358	42349	CE	2019	    	Lost	False	False	
@@ -62883,6 +62887,7 @@ ID	CandidateID	ElectionType	ElectionYear	IncChallOpen	WonLost	FairCampaign	Limit
 89445	46425	GE	2024	Chal	Won 	False	False	
 84839	46426	GE	2022	Open	Lost	False	False	
 84840	46427	CE	2023	Inc 	Won 	False	False	
+101991	46427	CE	2027	Inc 	    	False	False	
 84845	46428	CP	2023	Open	Won 	False	False	
 84846	46429	CP	2023	Open	Lost	False	False	
 84926	46430	CP	2023	Open	Won 	False	False	
@@ -63280,6 +63285,7 @@ ID	CandidateID	ElectionType	ElectionYear	IncChallOpen	WonLost	FairCampaign	Limit
 85384	46703	CE	2023	    	Lost	False	False	
 85385	46704	CE	2023	    	Lost	False	False	
 85439	46705	CE	2023	Chal	Lost	False	False	
+101992	46705	CE	2027	    	    	False	False	
 85459	46706	CP	2023	Chal	Lost	False	False	
 85487	46707	CE	2023	    	Lost	False	False	
 85504	46708	CP	2023	Open	Won 	False	False	
@@ -66869,3 +66875,8 @@ ID	CandidateID	ElectionType	ElectionYear	IncChallOpen	WonLost	FairCampaign	Limit
 101986	54436	CE	2027	    	    	False	False	
 101985	54437	CE	2027	    	    	False	False	
 101983	54438	CE	2027	Chal	    	False	False	
+101993	54439	CP	2027	Chal	    	False	False	
+101987	54440	CE	2027	    	    	False	False	
+101995	54442	CE	2027	    	    	False	False	
+101996	54443	CE	2027	    	    	False	False	
+101997	54444	CE	2027	    	    	False	False	
