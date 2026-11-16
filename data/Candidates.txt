@@ -130,6 +130,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 12427	Adams	Laretta					60411	Tax Collector	Township	Bloom	Cook		False
 10084	Adams	Mark	3434 Clifford		Evanston	IL	60210	Member	School	65	Cook	Non Partisan	False
 46921	Adams	Mark	1605 Whitmer Court		Bloomington	IL	61704	Member	School	5	McLean		False
+54445	Adams	Mark	1605 Whitmer Court		Bloomington	IL	61704     	Alderperson	Ward	8		Non Partisan	False
 12448	Adams	Nancy L				IL		Trustee	Township	Calumet	Cook		False
 5805	Adams	Richard "Dick"	900 N Webster	Po Box 87	Taylorville	IL	62568	Mayor	City	Taylorville	Christian		False
 17356	Adams	Rodney C	1845 E Rand Rd	Ste 211	Arlington Heights	IL	60004	Committeeman	Township	Wheeling	Cook	Republican	False
@@ -17378,6 +17379,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 28547	Mack	James A	Redaction Requested					Judge	Circuit Court	10	Putnam	Republican	True
 15308	Mack	James A "Jimmy"	302 E Market St	PO Box 331	Hennepin	IL	61327	State's Attorney	County	Putnam	Putnam	Republican	False
 43294	Mack	Jeffrey	5115 Carpenter St		Downers Grove	IL	60515	Auditor	County	Dupage	DuPage	Republican	False
+54446	Mack	Onita	4400 North Broadway		Chicago	IL	60613	Alderperson	Ward	46	Cook	Independent	False
 20369	Mack	Philip J	37320 N Hwy 59		Lake Villa	IL	60046	Member	School	37	Lake		False
 54247	Mack	Yolonda	PO Box 19396		Chicago	IL	60619     	Alderperson	Ward	Chicago 8	Cook	Non Partisan	False
 40821	Mackay	Jeff			Wheaton	IL	60187	Judge	Circuit Court	18	DuPage	Republican	False

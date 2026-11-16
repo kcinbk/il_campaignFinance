@@ -57446,7 +57446,7 @@ ID	CandidateID	ElectionType	ElectionYear	IncChallOpen	WonLost	FairCampaign	Limit
 75350	42345	CP	2019	Open	Won 	False	False	
 76090	42345	CE	2019	Open	Won 	False	True	Limits Off for Race
 85240	42345	CP	2023	Inc 	Won 	False	False	
-101994	42345	CP	2027	Inc 	    	False	False	
+101994	42345	CP	2027	Inc 	    	False	True	Limits Off for Race
 75351	42346	CE	2019	    	Lost	False	False	
 75357	42348	CE	2019	    	Lost	False	False	
 75358	42349	CE	2019	    	Lost	False	False	
@@ -66875,8 +66875,10 @@ ID	CandidateID	ElectionType	ElectionYear	IncChallOpen	WonLost	FairCampaign	Limit
 101986	54436	CE	2027	    	    	False	False	
 101985	54437	CE	2027	    	    	False	False	
 101983	54438	CE	2027	Chal	    	False	False	
-101993	54439	CP	2027	Chal	    	False	False	
+101993	54439	CP	2027	Chal	    	False	True	Self Funding Disclosure
 101987	54440	CE	2027	    	    	False	False	
 101995	54442	CE	2027	    	    	False	False	
 101996	54443	CE	2027	    	    	False	False	
 101997	54444	CE	2027	    	    	False	False	
+101999	54445	CE	2027	Chal	    	False	False	
+101998	54446	CP	2027	Chal	    	False	False	

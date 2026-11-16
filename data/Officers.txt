@@ -23553,6 +23553,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 80910	Gorda	Troy	228 Nottingham Rd.		Springfield	IL	62704-5266	Chair	                    	False
 9968	Gorden	Ken			Blue Mound	IL	62513     	Chair	                    	False
 30868	Gorden	Paul	One Brickyard Dr		Bloomington	I 	61701     	Co-Chair		False
+100688	Gordhan	Khel	11 Lexis Court		Bloomington	IL	61704     	Treasurer	309.826.6064        	False
 33383	Gordils	Deb	3653 N Albany		Chicago	IL	60618     	Chair		False
 53758	Gordils	Deb Leticia	3401 N Narragansett		Chicago	IL	60634     	Chair	773.759.7086        	False
 100132	Gordils	Maria	3843 N Richmond		Chicago	IL	60618     	Chair	773-655-4715        	False
@@ -25006,6 +25007,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 85144	Gutierrez	Angel	5816 West 55th Street		Chicago	IL	60638     	Chair	773.573.5486        	False
 85145	Gutierrez	Angel	5816 West 55th Street		Chicago	IL	60638     	Treasurer	773.573.5486        	False
 91877	Gutierrez	Angel.	5828 S. Newcastle Avenue		Chicago	IL	60638     	Chair	312.339.4715        	False
+100685	Gutierrez	Angel.	5828 S. Newcastle Avenue		Chicago	IL	60638     	Treasurer	312.339.4715        	False
 60394	Gutierrez	Carl	62 Riverview Ct		Oswego	IL	60543     	Chair	                    	False
 85699	Gutierrez	Elsa	701 South Ada Street		Chicago	IL	60607     	Chair	312.492.6751        	False
 85700	Gutierrez	Elsa	701 South Ada Street		Chicago	IL	60607     	Treasurer	312.492.6751        	False
@@ -32118,7 +32120,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 78701	Jones	Amanda	741 Hartman Ln.		Waterloo	IL	62298     	Treasurer	773.484.6185        	False
 53634	Jones	Angela	1829 Green Bay Rd		North Chicago	IL	60064     	Treasurer	224.381.0950        	False
 100403	Jones	Antonio	3043 N Avers		Chicago	IL	60618     	Treasurer	708-769-3934        	False
-53642	Jones	Arthur	PO Box 93		Olympia Fields	IL	60461     	Chair	708.747.5108        	False
+53642	Jones	Arthur	20820 Bristol Ln		Olympia Fields	IL	60461     	Chair	312-846-5244        	False
 11890	Jones	Arthur J	6155 S. Spaulding Avenue		Chicago	IL	60629     	Treasurer		False
 11889	Jones	Arthur J	6155 S. Spaulding Avenue		Chicago	IL	60629     	Chair		False
 6857	Jones	Arthur L	10019 S. Forest		Chicago	IL	60628     	Secretary		False
@@ -32772,6 +32774,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 27246	Kaiser	Betty Rae	38355 Chicago Ave		Wadsworth	IL	60083     	Treasurer	(847)356-3113       	False
 24459	Kaiser	Betty Rae	38355 Chicago Ave		Wadsworth	IL	60083     	Chair	(847) 244-2296      	False
 20479	Kaiser	Dianne M	1034 Granville		Park Ridge	IL	60068     	Treasurer	(847)692-2716       	False
+100687	Kaiser	Joshua	7213 Deerwood Trl		McHenry	IL	60050     	Treasurer	815.451.6994        	False
 67858	Kaiser	Nizam	7517 North Kenneth Ave		Skokie	IL	60076     	Chair	                    	False
 56817	Kaiser	Scott	30 Meander Pike		Chatham	IL	62629     	Treasurer	217.836.7189        	False
 33682	Kaiser	William	510 S First St		Princeton	IL	61356     	Chair	875-2259            	False
@@ -55583,6 +55586,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 46492	Roddick	Pat	22981 Staunton Rd		New Douglas	IL	62074     	Chair	217.456.8001        	False
 4899	Roddick	Patricia	PO Box 190, RR  #1		New Douglas	IL	62074     	Chair	                    	False
 6414	Roddy	Joseph V.	77 West Washington		Chicago	IL	60602     	Chair	                    	False
+100686	Roddy	Joshua	10845 Grand Canyon Ave.		Huntley	IL	60142     	Chair	224.234.0270        	False
 98650	Rode	Lisa	4604 W. North Fox Lane #6		McHenry	IL	60050     	Chair	815.219.1099        	False
 62385	Rodely	Bruce	8558 Kimmel Rd		Du Quoin	IL	62832     	Chair	618.318.1376        	False
 82367	Rodely	Bruce	8558 Kimmel Rd		Du Quoin	IL	62832     	Treasurer	618.318.1376        	False

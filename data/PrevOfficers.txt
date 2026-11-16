@@ -24264,6 +24264,7 @@ ID	CommitteeID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	ResignD
 43293	39860	Marcinkowski	Ken	110 N. Carpenter St.		Chicago	IL	60607     	Treasurer	2026-10-15 16:34:49.140000000	False
 43174	39866	Odell	Laurie	4443 N. Malden St.		Chicago	IL	60640     	Treasurer	2026-08-10 08:20:11.107000000	False
 38915	39872	Hylton	Antonio	2691 Showplace Drive	Apt 204	Naperville	IL	60506     	Treasurer	2024-08-05 13:07:01.397000000	False
+43318	39873	Mata	Efrain	Redaction Requested					Treasurer	2026-11-13 08:18:35.377000000	True
 43150	39881	Grandberry Jr.	Earl	3410 S. Calumet Avenue	Unit 1	Chicago	IL	60616     	Chair	2026-07-24 09:24:36.087000000	False
 43151	39881	Kelly	Alicia	6800 S. Constance		Chicago	IL	60649     	Treasurer	2026-07-24 09:24:38.143000000	False
 38949	39884	Mock	Audrey	958 Polo Club Dr.		Springfield	IL	62712     	Treasurer	2024-09-09 09:00:33.570000000	False
