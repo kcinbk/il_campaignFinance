@@ -4035,6 +4035,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 12739	Callanan	Karen A	926 N Penn Rd		Plainfield	IL	60544	Supervisor	Township	Plainfield	Will	Republican	False
 17249	Callanan	Karen A	926 N Penn Rd		Plainfield	IL	60544	Treasurer	County	Will 	Will	Republican	False
 952	Callanan	Karen A	926 N Penn Rd		Plainfield	IL	60544	Member	County Board	Will 5  	Will	Republican	False
+54447	Callas	Steven	449 Edens Lane		Northfield	IL	60093     	Trustee	Village	Northfield	Cook	Non Partisan	False
 45682	Callaway	Rikki	103 S Steele Street		Palestine	IL	62451	Treasurer	County	Crawford	Crawford	Republican	False
 22850	Callero	Robert M	8715 Bruce Dr		Niles	IL	60714	President	Village	Niles	Cook	Independent	False
 16077	Callham	Wayne	15311 Royal Fox Hunt Rd		Orland Park	IL		Member	School	230	Cook		False

@@ -63483,7 +63483,7 @@ ID	CandidateID	ElectionType	ElectionYear	IncChallOpen	WonLost	FairCampaign	Limit
 86865	46876	CE	2003	Inc 	Won 	False	False	
 86866	46876	CE	1999	Inc 	Won 	False	False	
 86863	46876	CE	2023	Inc 	Lost	False	False	
-86867	46877	CE	2023	    	Lost	False	False	
+86867	46877	CE	2023	    	Lost	True	False	
 86868	46878	CE	2023	Open	Won 	False	False	
 86869	46879	CP	2023	Chal	Lost	False	False	
 86872	46880	CE	2019	    	Won 	False	False	
@@ -66882,3 +66882,4 @@ ID	CandidateID	ElectionType	ElectionYear	IncChallOpen	WonLost	FairCampaign	Limit
 101997	54444	CE	2027	    	    	False	False	
 101999	54445	CE	2027	Chal	    	False	False	
 101998	54446	CP	2027	Chal	    	False	False	
+102000	54447	CE	2027	    	    	False	False	

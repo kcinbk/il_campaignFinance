@@ -8995,6 +8995,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 5695	Callas	John S.	4640-5th Ave		Moline	IL	61265     	Treasurer	309/788-7481        	False
 81497	Callas	John.	3520 26th Ave B		Moline	IL	61265     	Treasurer	                    	False
 45085	Callas	John.	329 18th St.		Rock Island	IL	61201     	Chair	                    	False
+100689	Callas	Steven	449 Edens Lane		Northfield	IL	60093     	Chair	224.586.0093        	False
+100690	Callas	Steven	449 Edens Lane		Northfield	IL	60093     	Treasurer	224.586.0093        	False
 12822	Callaway	Howard H.	440 First Street		Washington	DC	20001     	Chair	                    	False
 18428	Callaway	Lori	306 W Healey		Champaign	IL	61820     	Treasurer	398-5196            	False
 85443	Callaway	Rikki	103 S Steele St		Palestine	IL	62451     	Chair	217.663.0346        	False
