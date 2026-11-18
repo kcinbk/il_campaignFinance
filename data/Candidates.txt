@@ -16166,6 +16166,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 46280	LaPlante	Lynn	735 Crescent Boulevard		Glen Ellyn	IL	60137	Chair	County Board	DuPage	DuPage	Democratic	False
 53795	LaPlante	Lynn	781 Willis St.		Glen Ellyn	IL	60137     	State Representative	Representative	42			False
 42961	LaPointe	Lindsey	PO Box 30161		Chicago	IL	60630	State Representative	Representative	19	Cook	Democratic	False
+54448	Lapore	Rita	17955 Semmier Ct.		Tinley Park	IL	60487     	Commissioner	Park	Tinley Park	Cook		False
 25006	LaPorte	Victor	1985 Royal Blvd		Elgin	IL	60123	Member	County Board	Kane 19 	Kane	Independent	False
 12925	Lapp	John A	RR 3		Carlinville	IL	62626	Member	School	1	Macoupin	Non Partisan	False
 17625	Lappe	Mike	5122 N Monitor		Chicago	IL	60630	Alderperson	Ward	Chicago 45 	Cook	Democratic	False
@@ -25991,6 +25992,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 26453	Schmitt	Joe	446 N Sheridan Rd #1		Waukegan	IL	60085	Member	County Board	Lake 9  	Lake	Republican	False
 46023	Schmitt	Kris Rosser	302 Collinsville Avenue		Collinsville	IL	62234	Member	County Board	Madison	Madison	Republican	False
 46845	Schmitt	Marshall J	4923 Seeley Avenue		Downers Grove	IL	60515	Mayor	Village	Downers Grove	DuPage		False
+54449	Schmitt	Sandi	223 S. Rosedale Ave.		Aurora	IL	60506     	Alderperson	Ward	5	Kane	Non Partisan	False
 17095	Schmitz	Timothy L	528 Republic Rd		Batvaia	IL	60510	State Representative	Representative	49 	Kane	Republican	False
 13043	Schmitz	Timothy L	528 Republic Road		Batavia	IL	60510	State Representative	Representative	42 	Kane	Republican	False
 26280	Schmitz	Timothy L	528 Republic Rd		Batvaia	IL	60510	State Representative	Representative	65 	Kane	Republican	False

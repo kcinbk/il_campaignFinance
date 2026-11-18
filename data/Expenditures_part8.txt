@@ -377541,9 +377541,9 @@ tates of America	False
 4972570	34378	1026499	0	Capitol Compliance Associates		2026-08-25 00:00:00	500	1500	600 Pennsylvania Ave SE #15180		Washington	DC	20003     	8B	Compliance Services			False	False	False		False
 4972571	34378	1026499	0	Capitol Compliance Associates		2026-09-23 00:00:00	500	1500	600 Pennsylvania Ave SE #15180		Washington	DC	20003     	8B	Compliance Services			False	False	False		False
 4972572	34378	1026499	0	Barrington Area Democratic Organization		2026-09-25 00:00:00	2500	2500	15 Olympic Dr.		South Barrington	IL	60010     	6B	Sponsorship			False	False	False		False
-4972573	41411	1026500	0	Law Offices of Michael C. Dorf, LLC		2026-08-28 00:00:00	5000	5000	8170 McCormick Boulevard		Skokie	IL	60076-2914	8B	Legal fees			False	False	False		False
-4972574	41411	1026500	0	J. M. Carr & Associates, Inc.		2026-09-30 00:00:00	500	500	2226 E 70th Place	2	Chicago	IL	60649     	8B	Accounting fees			False	False	False		False
-4972575	41411	1026500	0	Howard Press Printing, Inc.		2026-09-30 00:00:00	175	175	9825 W. Roosevelt Rd.		Westchester	IL	60154     	8B	Printing			False	False	False		False
+4972573	41411	1026500	0	Law Offices of Michael C. Dorf, LLC		2026-08-28 00:00:00	5000	5000	8170 McCormick Boulevard		Skokie	IL	60076-2914	8B	Legal fees			False	False	True		False
+4972574	41411	1026500	0	J. M. Carr & Associates, Inc.		2026-09-30 00:00:00	500	500	2226 E 70th Place	2	Chicago	IL	60649     	8B	Accounting fees			False	False	True		False
+4972575	41411	1026500	0	Howard Press Printing, Inc.		2026-09-30 00:00:00	175	175	9825 W. Roosevelt Rd.		Westchester	IL	60154     	8B	Printing			False	False	True		False
 4972576	25064	1026502	0	HMSDESIGNS LLC		2026-10-15 00:00:00	3500	0	3717 N Magnolia Ave		Chicago	IL	60613     	9B	Ad Production	Darby Hills	Illinois Senate District 26	True	False	False		False
 4972577	25064	1026502	0	HMSDESIGNS LLC		2026-10-15 00:00:00	3500	0	3717 N Magnolia Ave		Chicago	IL	60613     	9B	Ad Production	Doris Turner	Illinois Senate District 48	True	False	False		False
 4972578	25064	1026502	0	HMSDESIGNS LLC		2026-10-15 00:00:00	3500	0	3717 N Magnolia Ave		Chicago	IL	60613     	9B	Ad Production	Jessica Dixon Heitman	Illinois House District 97	True	False	False		False
@@ -385271,32 +385271,32 @@ tates of America	False
 4980300	38809	1026894	0	EF Design Group		2026-09-23 00:00:00	500	500	2845 W 48th Pl		Chicago	IL	60632     	8B	Printing			False	False	False		False
 4980301	38809	1026894	0	Neighbors for Andre		2026-09-28 00:00:00	180	180	6115 N. Ravenswood		Chicago	IL	60660     	8B	Latino Caucus Luncheon			False	False	False		False
 4980302	38809	1026894	0	Strategic Communications		2026-09-30 00:00:00	10000	10000	623 N. Humphrey		Oak Park	IL	60302     	8B	Consulting			False	False	False		False
-4980303	34779	1026897	0	Chassy	Grant	2026-08-26 00:00:00	30.47	1702.6	401 E Locust St	Apt B	Bloomington	IL	61701     	8B	Travel reimbursement - staff			False	False	False		False
-4980304	34779	1026897	0	Chassy	Grant	2026-08-26 00:00:00	65.82	1702.6	401 E Locust St	Apt B	Bloomington	IL	61701     	8B	Travel reimbursement - staff			False	False	False		False
-4980305	34779	1026897	0	Chassy	Grant	2026-08-26 00:00:00	700	1702.6	401 E Locust St	Apt B	Bloomington	IL	61701     	8B	Staff salaries			False	False	False		False
-4980306	34779	1026897	0	Chassy	Grant	2026-09-18 00:00:00	106.31	1702.6	401 E Locust St	Apt B	Bloomington	IL	61701     	8B	Travel reimbursement - staff			False	False	False		False
-4980307	34779	1026897	0	Chassy	Grant	2026-09-18 00:00:00	800	1702.6	401 E Locust St	Apt B	Bloomington	IL	61701     	8B	Staff salaries			False	False	False		False
-4980308	34779	1026897	0	YWCA McLean County		2026-07-24 00:00:00	250	250	1201 N. Hershey Rd.		Bloomington	IL	61704     	8B	Donation			False	False	False		False
-4980309	34779	1026897	0	McLean County Democrats		2026-09-28 00:00:00	100	600	422 N. Main St.		Bloomington	IL	61701     	8B	Donation			False	False	False		False
-4980310	34779	1026897	0	McLean County Democrats		2026-09-28 00:00:00	500	600	422 N. Main St.		Bloomington	IL	61701     	8B	Donation			False	False	False		False
-4980311	34779	1026897	0	East Peoria Chamber of Commerce		2026-08-20 00:00:00	500	500	201 Clock Tower Dr		East Peoria	IL	61611     	8B	Donation			False	False	False		False
-4980312	34779	1026897	0	Constitution Place		2026-08-04 00:00:00	105	420	712 E Empire St		Bloomington	IL	61701     	8B	Storage			False	False	False		False
-4980313	34779	1026897	0	Constitution Place		2026-07-03 00:00:00	105	420	712 E Empire St		Bloomington	IL	61701     	8B	Storage			False	False	False		False
-4980314	34779	1026897	0	Constitution Place		2026-08-04 00:00:00	105	420	712 E Empire St		Bloomington	IL	61701     	8B	Storage			False	False	False		False
-4980315	34779	1026897	0	Constitution Place		2026-09-03 00:00:00	105	420	712 E Empire St		Bloomington	IL	61701     	8B	Storage			False	False	False		False
-4980316	34779	1026897	0	Hinshaw	Jessielee	2026-09-17 00:00:00	170	170	18 Jones Lane		Bloomington	IL	61705     	8B	Reimbursement - office supplies			False	False	False		False
-4980317	34779	1026897	0	Democrats for the Illinois House		2026-08-26 00:00:00	150000	150000	10055 W. Roosevelt Rd., Suite A		Westchester	IL	60154     	8B	Donation			False	False	False		False
-4980318	34779	1026897	0	Carl's Ice Cream		2026-08-13 00:00:00	290	290	1700 W College		Normal	IL	61761     	8B	Meals			False	False	False		False
-4980319	34779	1026897	0	The Bistro		2026-07-21 00:00:00	500	500	316 N Main St		Bloomington	IL	61701     	8B	Donation			False	False	False		False
-4980320	34779	1026897	0	Enterprise Rent-A-Car		2026-07-09 00:00:00	439.45	439.45	1206 Veterans Pkwy		Bloomington	IL	          	8B	Travel - candidate			False	False	False		False
-4980321	34779	1026897	0	Lake County Democrats		2026-07-24 00:00:00	1000	1000	PO Box 671		Lake Zurich	IL	60047     	8B				False	False	False		False
-4980322	34779	1026897	0	Bloomington Parks and Recreation		2026-08-12 00:00:00	188.5	188.5	109 E Olive St		Bloomington	IL	          	8B	Donation			False	False	False		False
-4980323	34779	1026897	0	Custom Ink LLC		2026-08-18 00:00:00	413.21	413.21	PO BOX 719439		Philadelphia	PA	          	8B	Merchandise			False	False	False		False
-4980324	34779	1026897	0	USA Promo Items LLC		2026-08-19 00:00:00	1594.87	1594.87	7426 Cherry Ave Suite 210-710		Fontana	CA	          	8B	Merchandise			False	False	False		False
-4980325	34779	1026897	0	Nolley for Congress		2026-09-09 00:00:00	1000	1000	P.O. Box 2166		Loves Park	IL	61130     	8B	Contribution			False	False	False		False
-4980326	34779	1026897	0	Crockett for Clerk		2026-09-15 00:00:00	15000	15000	PO Box 3004		Bloomington	IL	61702     	8B	Contribution			False	False	False		False
-4980327	34779	1026897	0	Murphy	Chenoa	2026-09-30 00:00:00	300	300	4040 Treviso Dr	Apt 211	Springfield	IL	          	8B	Event work			False	False	False		False
-4980328	34779	1026897	0	VFW Post 454		2026-09-08 00:00:00	250	250	1006 E Lincoln St		Bloomington	IL	          	8B	Donation			False	False	False		False
+4980303	34779	1026897	0	Chassy	Grant	2026-08-26 00:00:00	30.47	1702.6	401 E Locust St	Apt B	Bloomington	IL	61701     	8B	Travel reimbursement - staff			False	False	True		False
+4980304	34779	1026897	0	Chassy	Grant	2026-08-26 00:00:00	65.82	1702.6	401 E Locust St	Apt B	Bloomington	IL	61701     	8B	Travel reimbursement - staff			False	False	True		False
+4980305	34779	1026897	0	Chassy	Grant	2026-08-26 00:00:00	700	1702.6	401 E Locust St	Apt B	Bloomington	IL	61701     	8B	Staff salaries			False	False	True		False
+4980306	34779	1026897	0	Chassy	Grant	2026-09-18 00:00:00	106.31	1702.6	401 E Locust St	Apt B	Bloomington	IL	61701     	8B	Travel reimbursement - staff			False	False	True		False
+4980307	34779	1026897	0	Chassy	Grant	2026-09-18 00:00:00	800	1702.6	401 E Locust St	Apt B	Bloomington	IL	61701     	8B	Staff salaries			False	False	True		False
+4980308	34779	1026897	0	YWCA McLean County		2026-07-24 00:00:00	250	250	1201 N. Hershey Rd.		Bloomington	IL	61704     	8B	Donation			False	False	True		False
+4980309	34779	1026897	0	McLean County Democrats		2026-09-28 00:00:00	100	600	422 N. Main St.		Bloomington	IL	61701     	8B	Donation			False	False	True		False
+4980310	34779	1026897	0	McLean County Democrats		2026-09-28 00:00:00	500	600	422 N. Main St.		Bloomington	IL	61701     	8B	Donation			False	False	True		False
+4980311	34779	1026897	0	East Peoria Chamber of Commerce		2026-08-20 00:00:00	500	500	201 Clock Tower Dr		East Peoria	IL	61611     	8B	Donation			False	False	True		False
+4980312	34779	1026897	0	Constitution Place		2026-08-04 00:00:00	105	420	712 E Empire St		Bloomington	IL	61701     	8B	Storage			False	False	True		False
+4980313	34779	1026897	0	Constitution Place		2026-07-03 00:00:00	105	420	712 E Empire St		Bloomington	IL	61701     	8B	Storage			False	False	True		False
+4980314	34779	1026897	0	Constitution Place		2026-08-04 00:00:00	105	420	712 E Empire St		Bloomington	IL	61701     	8B	Storage			False	False	True		False
+4980315	34779	1026897	0	Constitution Place		2026-09-03 00:00:00	105	420	712 E Empire St		Bloomington	IL	61701     	8B	Storage			False	False	True		False
+4980316	34779	1026897	0	Hinshaw	Jessielee	2026-09-17 00:00:00	170	170	18 Jones Lane		Bloomington	IL	61705     	8B	Reimbursement - office supplies			False	False	True		False
+4980317	34779	1026897	0	Democrats for the Illinois House		2026-08-26 00:00:00	150000	150000	10055 W. Roosevelt Rd., Suite A		Westchester	IL	60154     	8B	Donation			False	False	True		False
+4980318	34779	1026897	0	Carl's Ice Cream		2026-08-13 00:00:00	290	290	1700 W College		Normal	IL	61761     	8B	Meals			False	False	True		False
+4980319	34779	1026897	0	The Bistro		2026-07-21 00:00:00	500	500	316 N Main St		Bloomington	IL	61701     	8B	Donation			False	False	True		False
+4980320	34779	1026897	0	Enterprise Rent-A-Car		2026-07-09 00:00:00	439.45	439.45	1206 Veterans Pkwy		Bloomington	IL	          	8B	Travel - candidate			False	False	True		False
+4980321	34779	1026897	0	Lake County Democrats		2026-07-24 00:00:00	1000	1000	PO Box 671		Lake Zurich	IL	60047     	8B				False	False	True		False
+4980322	34779	1026897	0	Bloomington Parks and Recreation		2026-08-12 00:00:00	188.5	188.5	109 E Olive St		Bloomington	IL	          	8B	Donation			False	False	True		False
+4980323	34779	1026897	0	Custom Ink LLC		2026-08-18 00:00:00	413.21	413.21	PO BOX 719439		Philadelphia	PA	          	8B	Merchandise			False	False	True		False
+4980324	34779	1026897	0	USA Promo Items LLC		2026-08-19 00:00:00	1594.87	1594.87	7426 Cherry Ave Suite 210-710		Fontana	CA	          	8B	Merchandise			False	False	True		False
+4980325	34779	1026897	0	Nolley for Congress		2026-09-09 00:00:00	1000	1000	P.O. Box 2166		Loves Park	IL	61130     	8B	Contribution			False	False	True		False
+4980326	34779	1026897	0	Crockett for Clerk		2026-09-15 00:00:00	15000	15000	PO Box 3004		Bloomington	IL	61702     	8B	Contribution			False	False	True		False
+4980327	34779	1026897	0	Murphy	Chenoa	2026-09-30 00:00:00	300	300	4040 Treviso Dr	Apt 211	Springfield	IL	          	8B	Event work			False	False	True		False
+4980328	34779	1026897	0	VFW Post 454		2026-09-08 00:00:00	250	250	1006 E Lincoln St		Bloomington	IL	          	8B	Donation			False	False	True		False
 4980329	688	1026901	0	People for Emanuel "Chris" Welch		2026-08-28 00:00:00	1000	1000	1005 W. Roosevelt Rd, Suite D		Westchester	IL	60154     	6B	donation			False	False	False		False
 4980330	39858	1026902	0	Men4Choice c/o Oren Jacobson		2026-09-29 00:00:00	100	200	3420 Whirlaway Dr.	407G	Northbrook	IL	60062     	6B	Ticket purchase			False	False	False		False
 4980331	39858	1026902	0	Men4Choice c/o Oren Jacobson		2026-09-02 00:00:00	100	200	3420 Whirlaway Dr.	407G	Northbrook	IL	60062     	6B	Contribution			False	False	False		False
@@ -399700,3 +399700,30 @@ tates of America	False
 4994739	44	1030156	0	Joiner	Steve	2026-09-28 00:00:00	261.41	281.41	9020 Schuline Rd		Walsh	IL	62297     	8B	Mailing			False	False	False		False
 4994740	44	1030156	0	Friends of Chip Markel		2026-08-24 00:00:00	500	500	PO Box 2914		Carbondale	IL	62902     	6B	Contribution			False	False	False		False
 4994741	44	1030156	0	UA Local 101		2026-08-24 00:00:00	200	200	8 Premier Drive		Belleville	IL	62220     	6B	Tee sign sponsorship			False	False	False		False
+4994742	34779	1030208	0	Enterprise Rent-A-Car		2026-07-09 00:00:00	439.45	439.45	1206 Veterans Pkwy		Bloomington	IL	          	8B	Travel - candidate			False	False	False		False
+4994743	34779	1030208	0	Lake County Democrats		2026-07-24 00:00:00	1000	1000	PO Box 671		Lake Zurich	IL	60047     	8B				False	False	False		False
+4994744	34779	1030208	0	Bloomington Parks and Recreation		2026-08-12 00:00:00	188.5	188.5	109 E Olive St		Bloomington	IL	          	8B	Donation			False	False	False		False
+4994745	34779	1030208	0	Custom Ink LLC		2026-08-18 00:00:00	413.21	413.21	PO BOX 719439		Philadelphia	PA	          	8B	Merchandise			False	False	False		False
+4994746	34779	1030208	0	USA Promo Items LLC		2026-08-19 00:00:00	1594.87	1594.87	7426 Cherry Ave Suite 210-710		Fontana	CA	          	8B	Merchandise			False	False	False		False
+4994747	34779	1030208	0	Nolley for Congress		2026-09-09 00:00:00	1000	1000	P.O. Box 2166		Loves Park	IL	61130     	8B	Contribution			False	False	False		False
+4994748	34779	1030208	0	Crockett for Clerk		2026-09-15 00:00:00	15000	15000	PO Box 3004		Bloomington	IL	61702     	8B	Contribution			False	False	False		False
+4994749	34779	1030208	0	Murphy	Chenoa	2026-09-30 00:00:00	300	300	4040 Treviso Dr	Apt 211	Springfield	IL	          	8B	Event work			False	False	False		False
+4994750	34779	1030208	0	VFW Post 454		2026-09-08 00:00:00	250	250	1006 E Lincoln St		Bloomington	IL	          	8B	Donation			False	False	False		False
+4994751	34779	1030208	0	Democrats for the Illinois House		2026-08-26 00:00:00	150000	326780	10055 W. Roosevelt Rd., Suite A		Westchester	IL	60154     	8B	Donation			False	False	False		False
+4994752	34779	1030208	0	Democrats for the Illinois House		2026-09-29 00:00:00	176780	326780	10055 W. Roosevelt Rd., Suite A		Westchester	IL	60154     	6B	Donation			False	False	False		False
+4994753	34779	1030208	0	Carl's Ice Cream		2026-08-13 00:00:00	290	290	1700 W College		Normal	IL	61761     	8B	Meals			False	False	False		False
+4994754	34779	1030208	0	The Bistro		2026-07-21 00:00:00	500	500	316 N Main St		Bloomington	IL	61701     	8B	Donation			False	False	False		False
+4994755	34779	1030208	0	Chassy	Grant	2026-08-26 00:00:00	30.47	1702.6	401 E Locust St	Apt B	Bloomington	IL	61701     	8B	Travel reimbursement - staff			False	False	False		False
+4994756	34779	1030208	0	Chassy	Grant	2026-08-26 00:00:00	65.82	1702.6	401 E Locust St	Apt B	Bloomington	IL	61701     	8B	Travel reimbursement - staff			False	False	False		False
+4994757	34779	1030208	0	Chassy	Grant	2026-08-26 00:00:00	700	1702.6	401 E Locust St	Apt B	Bloomington	IL	61701     	8B	Staff salaries			False	False	False		False
+4994758	34779	1030208	0	Chassy	Grant	2026-09-18 00:00:00	106.31	1702.6	401 E Locust St	Apt B	Bloomington	IL	61701     	8B	Travel reimbursement - staff			False	False	False		False
+4994759	34779	1030208	0	Chassy	Grant	2026-09-18 00:00:00	800	1702.6	401 E Locust St	Apt B	Bloomington	IL	61701     	8B	Staff salaries			False	False	False		False
+4994760	34779	1030208	0	YWCA McLean County		2026-07-24 00:00:00	250	250	1201 N. Hershey Rd.		Bloomington	IL	61704     	8B	Donation			False	False	False		False
+4994761	34779	1030208	0	McLean County Democrats		2026-09-28 00:00:00	100	600	422 N. Main St.		Bloomington	IL	61701     	8B	Donation			False	False	False		False
+4994762	34779	1030208	0	McLean County Democrats		2026-09-28 00:00:00	500	600	422 N. Main St.		Bloomington	IL	61701     	8B	Donation			False	False	False		False
+4994763	34779	1030208	0	East Peoria Chamber of Commerce		2026-08-20 00:00:00	500	500	201 Clock Tower Dr		East Peoria	IL	61611     	8B	Donation			False	False	False		False
+4994764	34779	1030208	0	Constitution Place		2026-08-04 00:00:00	105	420	712 E Empire St		Bloomington	IL	61701     	8B	Storage			False	False	False		False
+4994765	34779	1030208	0	Constitution Place		2026-07-03 00:00:00	105	420	712 E Empire St		Bloomington	IL	61701     	8B	Storage			False	False	False		False
+4994766	34779	1030208	0	Constitution Place		2026-08-04 00:00:00	105	420	712 E Empire St		Bloomington	IL	61701     	8B	Storage			False	False	False		False
+4994767	34779	1030208	0	Constitution Place		2026-09-03 00:00:00	105	420	712 E Empire St		Bloomington	IL	61701     	8B	Storage			False	False	False		False
+4994768	34779	1030208	0	Hinshaw	Jessielee	2026-09-17 00:00:00	170	170	18 Jones Lane		Bloomington	IL	61705     	8B	Reimbursement - office supplies			False	False	False		False

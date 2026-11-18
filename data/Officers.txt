@@ -36723,6 +36723,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 78727	LaPlante	Lynn	735 Crescent Boulevard		Glen Ellyn	IL	60137     	Treasurer	                    	False
 78726	LaPlante	Lynn	781 Willis Street		Glen Ellyn	IL	60137     	Chair	312-339-8377        	False
 81049	LaPointe	Lindsey	Redaction Requested					Chair		True
+100691	Lapore	Rita	17955 Semmier Ct.		Tinley Park	IL	60487     	Chair	                    	False
+100692	Lapore	Rita	17955 Semmier Ct.		Tinley Park	IL	60487     	Treasurer	                    	False
 7408	Laporta	Nora	2746 S. Kildare Ave.		Chicago	IL	60623     	Chair	(312)521-4287       	False
 40309	LaPorta	Robert	641 Goldenrod Drive		Algonquin	IL	60102     	Treasurer		False
 15684	Laporte	Margaret	18411 Carrington Ct		Hazel Crest	IL	60429     	Chair	(773) 468-6983      	False
