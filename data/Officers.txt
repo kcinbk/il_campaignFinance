@@ -17240,6 +17240,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 8844	Durbin	Camilla E	607 Laurel Avenue		Wilmette	IL	60091     	Chair	(708) 251-9193      	False
 14022	Durbin	Eugene M	10505 Yankee Ridge		Frankfort	IL	60423     	Treasurer	(708)481-2280       	False
 28754	Durbin	Gary L	2665 Forrest Green Dr		Decatur	IL	62521     	Treasurer		False
+100693	Durbin	Jeffrey D.	405 West Walnut Street		Kirkwood	IL	61447     	Treasurer	                    	False
 69563	Durbin	Jose	40 Commerce Ln.		Lebanon	IL	62254     	Treasurer	618.402.3363        	False
 73238	Durbin	Jose L.	40 Commerce Dr		Lebanon	IL	62254     	Chair	618.499.5247        	False
 73239	Durbin	Jose L.	40 Commerce Dr		Lebanon	IL	62254     	Treasurer	618.499.5247        	False
@@ -24062,6 +24063,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 52353	Gray	Ronnie C	2255 W Ash Ave		Decatur	IL	62526     	Treasurer	217.877.6782        	False
 79119	Gray	Rozlyn	4606 N. Damen #1		Chicago	IL	60625     	Treasurer	773.784.4768        	False
 16787	Gray	Ruth	Po Box 325		Braceville	IL	60407     	Chair	815/237-8813        	False
+100696	Gray	Shannon	676 E. Thornwood Dr.		South Elgin	IL	60177     	Treasurer	630.234.2042        	False
 12739	Gray	Shirley M.	424 West 101st Place		Chicago	IL	60628     	Treasurer	(312)233-7344       	False
 51242	Gray	Stephanie M.	3119 Woodworth Place		Hazel Crest	IL	60429     	Treasurer	708.3353443         	False
 19768	Gray	Tami	2903 Prairie Meadow Dr		Champaign	IL	61821     	Treasurer	398-5099            	False
@@ -49323,6 +49325,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 86548	Ott	Christopher	3411 W Diversey Ave #7		Chicago	IL	60647     	Treasurer	773.384.0327        	False
 11694	Ott	Glenn	6116 East Drive		Loves Park	IL	61111     	Chair	                    	False
 80114	Otta	Diane	1610 E. Pershing Rd.		Decatur	IL	62526     	Treasurer	217.521.1102        	False
+100694	Otta	Diane.	796 E. Elwin Rd.		Decatur	IL	62521     	Treasurer	217.521.1102        	False
 81439	Otte	Brian	Redaction Requested					Chair		True
 81440	Otte	Brian	Redaction Requested					Treasurer		True
 11575	Otte	Graig	Redaction Requested					Chair		True
@@ -68492,6 +68495,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 52603	Voudrie	Gregory	28 Wintercress Ln		Mattoon	IL	61938     	Chair	217.235.9614        	False
 26287	Voumard	Peggy Y	3904 Aberdeen		Alton	IL	62002     	Treasurer	                    	False
 21225	Voumard, Sr	Ed	2413 Judson Ave		Alton	IL	62002     	Chair	462-2413            	False
+100695	Vowell	Sierra	568 E. Thornwood Dr.		South Elgin	IL	60177     	Chair	224.425.1537        	False
 76910	Voyles	Billy	1559 CR 1150N		Sullivan	IL	61951     	Chair	217.254.6562        	False
 26049	Voyles	Stephen G	17139 Il Rt 185		Coffeen	IL	62017     	Treasurer	217/534-2558        	False
 4045	Vrabel	Joseph	411 156th St.		Calumet City	IL	60409     	Chair	                    	False
@@ -68734,6 +68738,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 41972	Waligorski	Lisa	401 Pin Oak Dr, PO Box 107		Albers	IL	62215     	Treasurer	618/973-3800        	False
 82948	Walk	Alexander	4 Davidson Drive		Neoga	IL	62447     	Chair	217.273.7306        	False
 82949	Walk	Alexander	4 Davidson Drive		Neoga	IL	62447     	Treasurer	217.273.7306        	False
+100698	Walk	Casey	101 W. Vandalia St., Suite 300		Edwardsville	IL	62025     	Treasurer	217.663.4106        	False
 91734	Walk	Lisa	1001 Broadway Ave		Mattoon	IL	61938     	Treasurer	2172730378          	False
 18573	Walken	Andrea	1700 Pebblewood		Naperville	IL	60563     	Chair	(708)778-0200       	False
 3677	Walker	Betty M	1437 Ambassador		Ford Hts	IL	60441     	Treasurer	                    	False
@@ -72224,6 +72229,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 46321	Wolf Jr	Thomas J	400 Tower Sq	PO Box 400	Marion	IL	62959     	Chair	618.998.1122        	False
 46322	Wolf Jr	Thomas J	400 Tower Sq	PO Box 400	Marion	IL	62959     	Treasurer	618.998.1122        	False
 23733	Wolfe	Andrea	424 Devon Ln		Bolingbrook	IL	60440     	Treasurer	                    	False
+100697	Wolfe	Angela	101 W. Vandalia St., Suite 300		Edwardsville	IL	62025     	Chair	                    	False
 34167	Wolfe	Charles A	1705 DeSales St, NW	5th Fl	Washington	IL	20036     	Treasurer		False
 39242	Wolfe	Charles A	1133 15th St NW	# 350	Washington	IL	20005     	Chair	202/842-8679        	False
 6308	Wolfe	Donald C.	P.O. Box 506		Potomac	IL	61865     	Chair	                    	False

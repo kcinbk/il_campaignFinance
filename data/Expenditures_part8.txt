@@ -351441,22 +351441,22 @@ tates of America	False
 4946471	36911	1022405	0	Southland Friends of Labor		2026-08-23 00:00:00	350	350	PO Box 129		Chicago Heights	IL	60412     	6B	Contribution			False	False	False		False
 4946472	36911	1022405	0	Odyssey Limousine		2026-08-20 00:00:00	700	700			Mokena	IL	60448     	8B	Transportation			False	False	False		False
 4946473	35923	1022406	0	State Board of Elections		2026-09-08 00:00:00	450	450	2329 MacArthur Blvd,		Springfield	IL	62704     	8B	Fine for Late Filing			False	False	False		False
-4946474	40034	1022408	0	Massa Support Services		2026-09-23 00:00:00	40.26	228.51	704 Thomas St		Edwardsville	IL	62025     	8B	Accounting software subscription			False	False	False		False
-4946475	40034	1022408	0	Massa Support Services		2026-09-23 00:00:00	20.12	228.51	704 Thomas St		Edwardsville	IL	62025     	8B	Accounting Software Subscription			False	False	False		False
-4946476	40034	1022408	0	Massa Support Services		2026-09-23 00:00:00	20.12	228.51	704 Thomas St		Edwardsville	IL	62025     	8B	Accounting Software Subscription			False	False	False		False
-4946477	40034	1022408	0	Massa Support Services		2026-08-30 00:00:00	36.99	228.51	704 Thomas St		Edwardsville	IL	62025     	8B	Accounting software subscription			False	False	False		False
-4946478	40034	1022408	0	Massa Support Services		2026-08-30 00:00:00	37	228.51	704 Thomas St		Edwardsville	IL	62025     	8B	Accounting software subscription			False	False	False		False
-4946479	40034	1022408	0	Massa Support Services		2026-08-30 00:00:00	74.02	228.51	704 Thomas St		Edwardsville	IL	62025     	8B	Accounting software subscription			False	False	False		False
-4946480	40034	1022408	0	Google		2026-07-02 00:00:00	222	563.2	1600 Amphitheatre Pkwy		Mountain View	CA	94043     	8B	Computer - software			False	False	False		False
-4946481	40034	1022408	0	Google		2026-08-03 00:00:00	173.2	563.2	1600 Amphitheatre Pkwy		Mountain View	CA	94043     	8B	Computer - software			False	False	False		False
-4946482	40034	1022408	0	Google		2026-09-02 00:00:00	168	563.2	1600 Amphitheatre Pkwy		Mountain View	CA	94043     	8B	Computer - software			False	False	False		False
-4946483	40034	1022408	0	GoDaddy		2026-07-14 00:00:00	44.99	557.67	2155 E GoDaddy Way		Tempe,	AZ	85284     	8B	Bulk email			False	False	False		False
-4946484	40034	1022408	0	GoDaddy		2026-07-28 00:00:00	95.88	557.67	2155 E GoDaddy Way		Tempe,	AZ	85284     	8B	Bulk Email			False	False	False		False
-4946485	40034	1022408	0	GoDaddy		2026-08-14 00:00:00	44.99	557.67	2155 E GoDaddy Way		Tempe,	AZ	85284     	8B	Bulk email			False	False	False		False
-4946486	40034	1022408	0	GoDaddy		2026-07-29 00:00:00	61.37	557.67	2155 E GoDaddy Way		Tempe,	AZ	85284     	8B	Website			False	False	False		False
-4946487	40034	1022408	0	GoDaddy		2026-08-03 00:00:00	179.89	557.67	2155 E GoDaddy Way		Tempe,	AZ	85284     	8B	Website			False	False	False		False
-4946488	40034	1022408	0	GoDaddy		2026-09-14 00:00:00	44.99	557.67	2155 E GoDaddy Way		Tempe,	AZ	85284     	8B	Bulk email			False	False	False		False
-4946489	40034	1022408	0	GoDaddy		2026-09-09 00:00:00	85.56	557.67	2155 E GoDaddy Way		Tempe,	AZ	85284     	8B	Website			False	False	False		False
+4946474	40034	1022408	0	Massa Support Services		2026-09-23 00:00:00	40.26	228.51	704 Thomas St		Edwardsville	IL	62025     	8B	Accounting software subscription			False	False	True		False
+4946475	40034	1022408	0	Massa Support Services		2026-09-23 00:00:00	20.12	228.51	704 Thomas St		Edwardsville	IL	62025     	8B	Accounting Software Subscription			False	False	True		False
+4946476	40034	1022408	0	Massa Support Services		2026-09-23 00:00:00	20.12	228.51	704 Thomas St		Edwardsville	IL	62025     	8B	Accounting Software Subscription			False	False	True		False
+4946477	40034	1022408	0	Massa Support Services		2026-08-30 00:00:00	36.99	228.51	704 Thomas St		Edwardsville	IL	62025     	8B	Accounting software subscription			False	False	True		False
+4946478	40034	1022408	0	Massa Support Services		2026-08-30 00:00:00	37	228.51	704 Thomas St		Edwardsville	IL	62025     	8B	Accounting software subscription			False	False	True		False
+4946479	40034	1022408	0	Massa Support Services		2026-08-30 00:00:00	74.02	228.51	704 Thomas St		Edwardsville	IL	62025     	8B	Accounting software subscription			False	False	True		False
+4946480	40034	1022408	0	Google		2026-07-02 00:00:00	222	563.2	1600 Amphitheatre Pkwy		Mountain View	CA	94043     	8B	Computer - software			False	False	True		False
+4946481	40034	1022408	0	Google		2026-08-03 00:00:00	173.2	563.2	1600 Amphitheatre Pkwy		Mountain View	CA	94043     	8B	Computer - software			False	False	True		False
+4946482	40034	1022408	0	Google		2026-09-02 00:00:00	168	563.2	1600 Amphitheatre Pkwy		Mountain View	CA	94043     	8B	Computer - software			False	False	True		False
+4946483	40034	1022408	0	GoDaddy		2026-07-14 00:00:00	44.99	557.67	2155 E GoDaddy Way		Tempe,	AZ	85284     	8B	Bulk email			False	False	True		False
+4946484	40034	1022408	0	GoDaddy		2026-07-28 00:00:00	95.88	557.67	2155 E GoDaddy Way		Tempe,	AZ	85284     	8B	Bulk Email			False	False	True		False
+4946485	40034	1022408	0	GoDaddy		2026-08-14 00:00:00	44.99	557.67	2155 E GoDaddy Way		Tempe,	AZ	85284     	8B	Bulk email			False	False	True		False
+4946486	40034	1022408	0	GoDaddy		2026-07-29 00:00:00	61.37	557.67	2155 E GoDaddy Way		Tempe,	AZ	85284     	8B	Website			False	False	True		False
+4946487	40034	1022408	0	GoDaddy		2026-08-03 00:00:00	179.89	557.67	2155 E GoDaddy Way		Tempe,	AZ	85284     	8B	Website			False	False	True		False
+4946488	40034	1022408	0	GoDaddy		2026-09-14 00:00:00	44.99	557.67	2155 E GoDaddy Way		Tempe,	AZ	85284     	8B	Bulk email			False	False	True		False
+4946489	40034	1022408	0	GoDaddy		2026-09-09 00:00:00	85.56	557.67	2155 E GoDaddy Way		Tempe,	AZ	85284     	8B	Website			False	False	True		False
 4946490	37026	1022409	0	Hotels.Com		2026-07-09 00:00:00	565.54	565.54	5400 LBJ Freeway Suite 500		Dallax	TX	75240     	8B	Lodging - candidate			False	False	False		False
 4946491	37026	1022409	0	Gotprint		2026-09-12 00:00:00	98.09	220.88	7651 N San Fernando Rd		Burbank	CA	91505     	8B	Palm cards			False	False	False		False
 4946492	37026	1022409	0	Gotprint		2026-08-26 00:00:00	122.79	220.88	7651 N San Fernando Rd		Burbank	CA	91505     	8B	Palm cards			False	False	False		False
@@ -399727,3 +399727,49 @@ tates of America	False
 4994766	34779	1030208	0	Constitution Place		2026-08-04 00:00:00	105	420	712 E Empire St		Bloomington	IL	61701     	8B	Storage			False	False	False		False
 4994767	34779	1030208	0	Constitution Place		2026-09-03 00:00:00	105	420	712 E Empire St		Bloomington	IL	61701     	8B	Storage			False	False	False		False
 4994768	34779	1030208	0	Hinshaw	Jessielee	2026-09-17 00:00:00	170	170	18 Jones Lane		Bloomington	IL	61705     	8B	Reimbursement - office supplies			False	False	False		False
+4994769	41404	1030219	0	Cor Services		2026-10-30 00:00:00	940	940	1600 West Colonial Parkway		Inverness	IL	60067     	8B	Texting			False	False	False		False
+4994770	41404	1030219	0	Friends of the Bartlett Library		2026-11-10 00:00:00	256.27	256.27	800 S Bartlett Rd		Bartlett	IL	60103     	8B	Donation			False	False	False		False
+4994771	1378	1030238	0	Rezin, Friends for Sue Rezin		2026-11-18 00:00:00	1000	1000	PO Box 932		Morris	IL	60450     	6B	Contribution			False	False	False		False
+4994772	1378	1030238	0	Hastings/Citizens for Mike Hastings		2026-11-18 00:00:00	1000	1000	PO Box 162		Tinley Park	IL	60477     	6B	Contribution			False	False	False		False
+4994773	1378	1030238	0	Sims/Friends of Elgie Sims		2026-11-18 00:00:00	1000	1000	8142A S. Praiire Park Plaza		Chicago	IL	60619     	6B	Contribution			False	False	False	USA	False
+4994774	1378	1030238	0	Reick/Committee to Elect Steven Reick		2026-11-18 00:00:00	795.6	795.6	PO Box 27		Howard	IL	60033     	6B	Contribution			False	False	False		False
+4994775	1378	1030238	0	Chung/Friends of Sharon Chung		2026-11-18 00:00:00	500	500	3 Dawes Pl.		Bloomington	IL	61701     	6B	Contribution			False	False	False		False
+4994776	1378	1030238	0	Coffey/Citizens for Mike Coffey		2026-11-18 00:00:00	1000	1000	1604 Hubbard Ln.		Springfield	IL	62704     	6B	Contribution			False	False	False		False
+4994777	1378	1030238	0	Davidsmeyer/Citizens for CD Davidsmeyer		2026-11-18 00:00:00	500	500	PO Box 401		Jacksonville	IL	62651     	6B	Contribution			False	False	False		False
+4994778	1378	1030238	0	Deering/Regan for Illinois		2026-11-18 00:00:00	500	500	Po Box 922		Decatur	IL	62525     	6B	Contribution			False	False	False		False
+4994779	1378	1030238	0	Delgado/Friends for Eva Dine Delgado		2026-11-18 00:00:00	500	500	3023 N. Clark St. PMB 102		Chicago	IL	60657     	6B	Contribution			False	False	False		False
+4994780	1378	1030238	0	DeLuca/Friends for State Rep Anthony DeLuca		2026-11-18 00:00:00	500	500	852 Mackler Drive		Chicago Heights	IL	60411     	6B	Contribution			False	False	False		False
+4994781	1378	1030238	0	Elik/Citizens for Amy Elik		2026-11-18 00:00:00	500	500	Po Box 205		Alton	IL	62002     	6B	Contribution			False	False	False		False
+4994782	1378	1030238	0	Fritts/Citizens for Bradley J. Fritts		2026-11-18 00:00:00	500	500	PO Box 1014		Dixon	IL	61021     	6B	Contribution			False	False	False		False
+4994783	1378	1030238	0	Grasse/Nicole Grasse for State Representative		2026-11-18 00:00:00	500	500	PO Box 94		Mt. Prospect	IL	60056     	6B	Contribution			False	False	False		False
+4994784	1378	1030238	0	Guerrero-Cuellar/Friends of Angie Guerrero-Cuellar		2026-11-18 00:00:00	500	500	6500 S. Pulaski		Chicago	IL	60629     	6B	Contribution			False	False	False		False
+4994785	1378	1030238	0	Haas/Citizens for Jackie Haas		2026-11-18 00:00:00	500	500	Redaction Requested					6B	Contribution			False	False	False		True
+4994786	1378	1030238	0	Hirschauer/Friends of Maura Hirschauer		2026-11-18 00:00:00	1000	1000	551 Viking Dr.		Batavia	IL	60510     	6B	Contribution			False	False	False		False
+4994787	1378	1030238	0	Keicher/Friends of Jeff Keicher		2026-11-18 00:00:00	500	500	PO Box 477		Sycamore	IL	60178     	6B	Contribution			False	False	False		False
+4994788	1378	1030238	0	Ryan/Friends of Rick Ryan		2026-11-18 00:00:00	500	500	9126 S Avers		Evergreen Park	IL	60643     	6B	Contribution			False	False	False		False
+4994789	1378	1030238	0	Spain/Friends of Ryan Spain		2026-11-18 00:00:00	500	500	Po Box 1575		Peoria	IL	61655     	6B	Contribution			False	False	False		False
+4994790	1378	1030238	0	Tarver/Friends of Curtis Tarver II		2026-11-18 00:00:00	1000	1000	65 W. Jackson #134		Chicago	IL	60604     	6B	Contribution			False	False	False		False
+4994791	1378	1030238	0	Windhorst/Citizens for Patrick Windhorst		2026-11-18 00:00:00	500	500	PO Box 763		Metropolis	IL	62960     	6B	Contribution			False	False	False		False
+4994792	1378	1030238	0	Aquino/Friends of Omar Aquino		2026-11-18 00:00:00	1000	1000	1000 N Rockwell		Chicago	IL	60622     	6B	Contribution			False	False	False		False
+4994793	1378	1030238	0	Castro/Citizens for Castro		2026-11-18 00:00:00	1000	1000	Po Box 1506		Elgin	IL	60121     	6B	Contribution			False	False	False		False
+4994794	1378	1030238	0	Curran/Friends of John Curran		2026-11-18 00:00:00	1500	1500	Redaction Requested					6B	Contribution			False	False	False		True
+4994795	1378	1030238	0	Joyce/Joyce for Senate		2026-11-18 00:00:00	1000	1000	Po Box 131		Essex	IL	60935     	6B	Contribution			False	False	False		False
+4994796	1378	1030238	0	Syverson/Dave Syverson Campaign Committee		2026-11-18 00:00:00	1000	1000	555 S. Perryville Rd.		Rockford	IL	61108     	6B	Contribution			False	False	False		False
+4994797	1378	1030238	0	Tracy/Jil Tracy for State Senate		2026-11-18 00:00:00	1000	1000	1628 Fieldstone Dr.		Quincy	IL	62305     	6B	Contribution			False	False	False		False
+4994798	1378	1030238	0	Villivalim/Friends of Ram		2026-11-18 00:00:00	1000	1000	220 N. Green St.		Chicago	IL	60607     	6B	Contribution			False	False	False		False
+4994799	40034	1030256	0	Massa Support Services		2026-09-23 00:00:00	40.26	228.51	704 Thomas St		Edwardsville	IL	62025     	8B	Accounting software subscription			False	False	False		False
+4994800	40034	1030256	0	Massa Support Services		2026-09-23 00:00:00	20.12	228.51	704 Thomas St		Edwardsville	IL	62025     	8B	Accounting Software Subscription			False	False	False		False
+4994801	40034	1030256	0	Massa Support Services		2026-09-23 00:00:00	20.12	228.51	704 Thomas St		Edwardsville	IL	62025     	8B	Accounting Software Subscription			False	False	False		False
+4994802	40034	1030256	0	Massa Support Services		2026-08-30 00:00:00	36.99	228.51	704 Thomas St		Edwardsville	IL	62025     	8B	Accounting software subscription			False	False	False		False
+4994803	40034	1030256	0	Massa Support Services		2026-08-30 00:00:00	37	228.51	704 Thomas St		Edwardsville	IL	62025     	8B	Accounting software subscription			False	False	False		False
+4994804	40034	1030256	0	Massa Support Services		2026-08-30 00:00:00	74.02	228.51	704 Thomas St		Edwardsville	IL	62025     	8B	Accounting software subscription			False	False	False		False
+4994805	40034	1030256	0	Google		2026-07-02 00:00:00	222	563.2	1600 Amphitheatre Pkwy		Mountain View	CA	94043     	8B	Computer - software			False	False	False		False
+4994806	40034	1030256	0	Google		2026-08-03 00:00:00	173.2	563.2	1600 Amphitheatre Pkwy		Mountain View	CA	94043     	8B	Computer - software			False	False	False		False
+4994807	40034	1030256	0	Google		2026-09-02 00:00:00	168	563.2	1600 Amphitheatre Pkwy		Mountain View	CA	94043     	8B	Computer - software			False	False	False		False
+4994808	40034	1030256	0	GoDaddy		2026-08-03 00:00:00	179.89	557.67	2155 E GoDaddy Way		Tempe,	AZ	85284     	8B	Website			False	False	False		False
+4994809	40034	1030256	0	GoDaddy		2026-09-14 00:00:00	44.99	557.67	2155 E GoDaddy Way		Tempe,	AZ	85284     	8B	Bulk email			False	False	False		False
+4994810	40034	1030256	0	GoDaddy		2026-09-09 00:00:00	85.56	557.67	2155 E GoDaddy Way		Tempe,	AZ	85284     	8B	Website			False	False	False		False
+4994811	40034	1030256	0	GoDaddy		2026-07-14 00:00:00	44.99	557.67	2155 E GoDaddy Way		Tempe,	AZ	85284     	8B	Bulk email			False	False	False		False
+4994812	40034	1030256	0	GoDaddy		2026-07-28 00:00:00	95.88	557.67	2155 E GoDaddy Way		Tempe,	AZ	85284     	8B	Bulk Email			False	False	False		False
+4994813	40034	1030256	0	GoDaddy		2026-08-14 00:00:00	44.99	557.67	2155 E GoDaddy Way		Tempe,	AZ	85284     	8B	Bulk email			False	False	False		False
+4994814	40034	1030256	0	GoDaddy		2026-07-29 00:00:00	61.37	557.67	2155 E GoDaddy Way		Tempe,	AZ	85284     	8B	Website			False	False	False		False

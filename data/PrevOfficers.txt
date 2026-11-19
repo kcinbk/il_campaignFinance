@@ -2089,6 +2089,8 @@ ID	CommitteeID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	ResignD
 38703	324	Burgland	Cory	PO Box 943		Monmouth	IL	61462     	Chair	2024-04-25 08:16:41.297000000	False
 38704	324	Doyle	Marcus F.	401 N Main St.		Monmouth	IL	61462     	Treasurer	2024-04-25 08:20:54.247000000	False
 38832	324	Doyle	Marcus	1305 E 2nd  Ave		Monmouth	IL	61462     	Treasurer	2024-06-25 08:36:29.023000000	False
+43320	324	Morrison	Brenda	1224 N Main St		Monmouth	IL	61462     	Chair	2026-11-18 11:18:59.153000000	False
+43321	324	Parrish	Carol J	1046 140th Ave		Monmouth	IL	61462     	Treasurer	2026-11-18 11:19:09.363000000	False
 4628	325	Magruder	Steve	1266 W Tower Rd		Kankakee	IL	60901     	Treasurer	1996-04-18 00:00:00	False
 1313	325	O'brien	Patrick M.	483 Parseghian Dr.		Manteno	IL	60914     	Chair	1991-09-30 00:00:00	False
 4164	325	Wadley-foy	Caryl	498 W South St		Bradley	IL	60915     	Chair	1995-09-13 00:00:00	False
@@ -24430,4 +24432,6 @@ ID	CommitteeID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	ResignD
 43195	41281	McCue	Andrew	27 S. Prairie Ave.		Mundelein	IL	60060     	Treasurer	2026-08-28 08:06:09.167000000	False
 43157	41312	Amberh	Rich	711 Blair Ct.		Peoria	IL	61614     	Treasurer	2026-07-29 14:58:57.337000000	False
 43206	41333	Dudenhoefer	David	38 S. Main St., #103		Oconomowoc	WI	53066     	Chair	2026-08-28 15:43:25.100000000	False
+43322	41418	Froemling	Alice	693 Kateland Way		South Elgin	IL	60177     	Chair	2026-11-18 13:50:29.830000000	False
+43323	41418	Donaldson	Joseph	40w246 Ralph Waldo Emerson Lane		St. Charles	IL	60175     	Treasurer	2026-11-18 13:50:32.257000000	False
 43302	41465	Demarcko	Darlen	4247 W. Division		Chicago	IL	60651     	Chair	2026-10-23 15:43:50.277000000	False
