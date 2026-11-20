@@ -24395,6 +24395,8 @@ ID	CommitteeID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	ResignD
 43205	40887	Rauschert	Matthew	468 N 180th Street		Avon	IL	61415     	Chair	2026-08-28 12:55:54.573000000	False
 43060	40914	Koppie	Tom	40W305 Navajo Ln		Huntley	IL	60142-9648	Treasurer	2026-06-22 08:47:10.670000000	False
 42668	40921	Sullivan	Nicole	26671 N. Oakdale Lane		Mundelein	IL	60060     	Treasurer	2025-12-22 08:45:09.553000000	False
+43324	40940	Faivre	Steve	726 Somonauk Street		Sycamore	IL	60178     	Chair	2026-11-19 15:05:34.443000000	False
+43325	40940	Slingerland	Jack C.	499 East State Street		Sycamore	IL	60178     	Treasurer	2026-11-19 15:05:41.280000000	False
 42819	40953	Gallo	Jessica Linder	201 SW Adams St		Peoria	IL	61602     	Chair	2026-04-02 08:36:04.677000000	False
 42820	40953	Sierra	Alexander	201 SW Adams St		Peoria	IL	61602     	Treasurer	2026-04-02 08:36:11.977000000	False
 43177	40971	Stanton	Tom	2755 Lawndale Ave		Evanston	IL	60201     	Chair	2026-08-17 14:20:23.827000000	False

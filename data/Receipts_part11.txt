@@ -114253,24 +114253,24 @@
 6676196	19724	1023270		Citizen Farmers		2026-05-05 00:00:00	833.33	1666.66	0			PO Box 261		Lake Bluff	IL	60044     	1A							  	          	False		False
 6676197	41248	1023277		Rutzen	Michael	2026-07-07 00:00:00	1000	1000	0			29 W 238 Oak Lane		West Chicago	IL	60185     	1A							  	          	True		False
 6676198	41248	1023277		McHenry County Democratic Women		2026-07-30 00:00:00	3000	3000	0			PO Box 2117		Crystal Lake	IL	60039     	2A							  	          	True		False
-6676199	295	1023278		Majestic Distributing Company		2026-08-27 00:00:00	2500	2500	0			1255 Bowes Road		Elgin	IL	60123     	1A							  	          	False		False
-6676200	295	1023278		Searls Windows & Doors, Inc.		2026-09-01 00:00:00	2500	2500	0			16260 S Essington Rd		Plainfield	IL	60544     	1A							  	          	False		False
-6676201	295	1023278		Brakur Custom Cabinetry		2026-09-04 00:00:00	2500	2500	0			18656 S. State Route 59		Shorewood	IL	60404     	1A							  	          	False		False
-6676202	295	1023278		Home Builders and Remodelers Metro East Association		2026-09-09 00:00:00	2225	2225	0			6100 W Main Street		Maryville	IL	62062     	1A							  	          	False		False
-6676203	295	1023278		Mease	Chad	2026-09-14 00:00:00	280.5	280.5	0						IL	          	1A							  	          	False		False
-6676204	295	1023278		Stefani	Jennifer	2026-09-15 00:00:00	701.7	701.7	0		King's Court Builders				IL	          	1A							  	          	False		False
-6676205	295	1023278		Glod	Dan	2026-09-16 00:00:00	280.5	280.5	0						IL	          	1A							  	          	False		False
-6676206	295	1023278		Head	Russell	2026-09-22 00:00:00	280.5	280.5	0						IL	          	1A							  	          	False		False
-6676207	295	1023278		Martinez	Lionel	2026-09-24 00:00:00	280.5	280.5	0						IL	          	1A							  	          	False		False
-6676208	295	1023278		Jeffers	Steve	2026-09-28 00:00:00	280.5	280.5	0						IL	          	1A							  	          	False		False
-6676209	295	1023278		Wintrust Mortgage Jay Jacobson Team		2026-09-29 00:00:00	2500	2500	0			116 Tanglewood Lane		Naperville	IL	60563     	1A							  	          	False		False
-6676210	295	1023278		Briody	Pat	2026-09-29 00:00:00	280.5	280.5	0						IL	          	1A							  	          	False		False
-6676211	295	1023278		James	Nick	2026-09-29 00:00:00	280.5	280.5	0						IL	          	1A							  	          	False		False
-6676212	295	1023278		Horeni	Joshua	2026-09-30 00:00:00	280.5	280.5	0						IL	          	1A							  	          	False		False
-6676213	295	1023278		Stefani	Pete	2026-09-30 00:00:00	1606	1606	0			PO Box		Naperville	IL	60567     	5A	Bourbon barrel and whiskey						  	          	False		False
-6676214	295	1023278		Nicor		2026-09-30 00:00:00	1500	1500	0			1844 Ferry Road		Naperville	IL	60563     	5A	Blackhawks Tickets						  	          	False		False
-6676215	295	1023278		JamesHardie		2026-09-30 00:00:00	1600	1600	0			300 E Wacker Dr		Chicago	IL	60601     	5A	Catalina Club Cubs Tickets	JamesHardie		300 E Wacker Dr		Chicago	IL	60601     	False		False
-6676216	295	1023278		TimberTech		2026-09-30 00:00:00	700	700	0			1330 W Fulton Street	Suite 350	Chicago	IL	60607     	5A	100 level Cubs tickets						  	          	False		False
+6676199	295	1023278		Majestic Distributing Company		2026-08-27 00:00:00	2500	2500	0			1255 Bowes Road		Elgin	IL	60123     	1A							  	          	True		False
+6676200	295	1023278		Searls Windows & Doors, Inc.		2026-09-01 00:00:00	2500	2500	0			16260 S Essington Rd		Plainfield	IL	60544     	1A							  	          	True		False
+6676201	295	1023278		Brakur Custom Cabinetry		2026-09-04 00:00:00	2500	2500	0			18656 S. State Route 59		Shorewood	IL	60404     	1A							  	          	True		False
+6676202	295	1023278		Home Builders and Remodelers Metro East Association		2026-09-09 00:00:00	2225	2225	0			6100 W Main Street		Maryville	IL	62062     	1A							  	          	True		False
+6676203	295	1023278		Mease	Chad	2026-09-14 00:00:00	280.5	280.5	0						IL	          	1A							  	          	True		False
+6676204	295	1023278		Stefani	Jennifer	2026-09-15 00:00:00	701.7	701.7	0		King's Court Builders				IL	          	1A							  	          	True		False
+6676205	295	1023278		Glod	Dan	2026-09-16 00:00:00	280.5	280.5	0						IL	          	1A							  	          	True		False
+6676206	295	1023278		Head	Russell	2026-09-22 00:00:00	280.5	280.5	0						IL	          	1A							  	          	True		False
+6676207	295	1023278		Martinez	Lionel	2026-09-24 00:00:00	280.5	280.5	0						IL	          	1A							  	          	True		False
+6676208	295	1023278		Jeffers	Steve	2026-09-28 00:00:00	280.5	280.5	0						IL	          	1A							  	          	True		False
+6676209	295	1023278		Wintrust Mortgage Jay Jacobson Team		2026-09-29 00:00:00	2500	2500	0			116 Tanglewood Lane		Naperville	IL	60563     	1A							  	          	True		False
+6676210	295	1023278		Briody	Pat	2026-09-29 00:00:00	280.5	280.5	0						IL	          	1A							  	          	True		False
+6676211	295	1023278		James	Nick	2026-09-29 00:00:00	280.5	280.5	0						IL	          	1A							  	          	True		False
+6676212	295	1023278		Horeni	Joshua	2026-09-30 00:00:00	280.5	280.5	0						IL	          	1A							  	          	True		False
+6676213	295	1023278		Stefani	Pete	2026-09-30 00:00:00	1606	1606	0			PO Box		Naperville	IL	60567     	5A	Bourbon barrel and whiskey						  	          	True		False
+6676214	295	1023278		Nicor		2026-09-30 00:00:00	1500	1500	0			1844 Ferry Road		Naperville	IL	60563     	5A	Blackhawks Tickets						  	          	True		False
+6676215	295	1023278		JamesHardie		2026-09-30 00:00:00	1600	1600	0			300 E Wacker Dr		Chicago	IL	60601     	5A	Catalina Club Cubs Tickets	JamesHardie		300 E Wacker Dr		Chicago	IL	60601     	True		False
+6676216	295	1023278		TimberTech		2026-09-30 00:00:00	700	700	0			1330 W Fulton Street	Suite 350	Chicago	IL	60607     	5A	100 level Cubs tickets						  	          	True		False
 6676217	41202	1023280		Turk	Matthew	2026-09-30 00:00:00	1000	0	0	Executive	Intren LLC	724 Bedford Dr.		Crystal Lake	IL	60014     	1A							  	          	True		False
 6676218	18261	1023284		Duncan	Arne	2026-10-06 00:00:00	1000	1000	0	Managing Partner	Emerson Collective	5544 S Kenwood Ave		Chicago	IL	60637-1714	1A							  	          	False		False
 6676219	18261	1023284		Tristan	Homero	2026-10-06 00:00:00	1000	1000	0	Attorney	Tristan & Cervantes	150 N Wacker Dr	Ste 1550	Chicago	IL	60606-1656	1A							  	          	False		False
@@ -163907,3 +163907,109 @@
 6725850	31972	1030262		IL Senate Republican Campaign Committee		2026-11-13 00:00:00	1905.54	0	0			PO Box 3422		Springfield	IL	62708     	5A	Staff salaries	Farish	John	2812 Monmouth Ct	#3	Springfield	IL	62707     	False		False
 6725851	31972	1030262		IL Senate Republican Campaign Committee		2026-11-13 00:00:00	2006.25	0	0			PO Box 3422		Springfield	IL	62708     	5A	Staff salaries	Ralph	Miles	1904 Noble Ave		Springfield	IL	62707     	False		False
 6725852	37456	1030263	1030263-1	Kurtz	Donna	2026-11-18 00:00:00	9100	0	9100	Consultant	Self-employed	75 S. Walkup Ave		Crystal Lake	IL	60014     	3A		Kurtz	Donna	75 S. Walkup Ave		Crystal Lake	IL	60014     	False		False
+6725853	40649	1030265		Smith	Leo	2026-11-18 00:00:00	2500	0	0	Not Employed	Not Employed	5348 N. Lakewood		Chicago	IL	60640     	1A							  	          	False		False
+6725854	24262	1030266		National Association of REALTORS		2026-11-19 00:00:00	92000	0	0			430 Michigan Ave		Chicago	IL	60611     	1A							  	          	False		False
+6725855	24887	1030267		Google		2026-11-16 00:00:00	1000	0	0			1600 Amphitheatre Parkway		Mountain View	CA	94043     	1A							  	          	False		False
+6725856	24887	1030267		Amazon		2026-11-16 00:00:00	1000	0	0			205 Pennsylvania Ave SE		Washington DC	DC	20003     	1A							  	          	False		False
+6725857	538	1030268		Kozol Bros., Inc.		2026-11-18 00:00:00	2462	0	0			2010 S. Briggs St		Joliet	IL	60433     	1A							  	          	False		False
+6725858	538	1030268		LaMonica Beverages		2026-11-18 00:00:00	1263	0	0			4060 Rock Valley Pkwy		Loves Park	IL	61111     	1A							  	          	False		False
+6725859	538	1030268		Brewers Distributing Co.		2026-11-18 00:00:00	1030	0	0			2421 W. Townline Rd.		Peoria	IL	61615     	1A							  	          	False		False
+6725860	538	1030268		Elgin Beverage		2026-11-18 00:00:00	1203	0	0			300 Miles Pkwy		Bartlett	IL	60103     	1A							  	          	False		False
+6725861	538	1030268		Joseph Mullarkey Dist.		2026-11-18 00:00:00	1091	0	0			2200 Ridge Dr		Glenview	IL	60025     	1A							  	          	False		False
+6725862	1126	1030269		Neaves	Edwin	2026-11-17 00:00:00	1900	0	0	Real Estate	Berkshire Hathaway Snyder RE	3998 Renaissance Dr		Normal	IL	61761     	1A							  	          	False		False
+6725863	18261	1030270		Association Management Resources Inc		2026-11-16 00:00:00	25000	25000	0			PO Box 3015		Naperville	IL	60566-7015	1A							  	          	False		False
+6725864	18261	1030270		Cozen O'Connor		2026-11-16 00:00:00	1000	1000	0			123 N Wacker Dr	Ste 1800	Chicago	IL	60606-1770	1A							  	          	False		False
+6725865	18261	1030270		Diageo North America		2026-11-16 00:00:00	1000	1000	0			601 Massachusetts Ave NW	Ste 230	Washington	DC	20001-5369	1A							  	          	False		False
+6725866	18261	1030270		Pepsico Inc		2026-11-16 00:00:00	5000	5000	0			433 W Van Buren St		Chicago	IL	60607-0433	1A							  	          	False		False
+6725867	18261	1030270		Carpentry Advancement Political Action Committee		2026-11-16 00:00:00	33800	33800	0			12 E Erie St		Chicago	IL	60611-2795	2A							  	          	False		False
+6725868	18261	1030270		Illinois State Medical Society Pac		2026-11-16 00:00:00	3000	3000	0			20 N Michigan Ave	Ste 700	Chicago	IL	60602-4822	2A							  	          	False		False
+6725869	18261	1030270		Illinois Trial Lawyers Association PAC		2026-11-16 00:00:00	2500	2500	0			401 W Edwards St		Springfield	IL	62704-1917	2A							  	          	False		False
+6725870	18261	1030270		Schneider National Inc TransPac		2026-11-16 00:00:00	5000	5000	0			3101 Packerland Dr		Green Bay	WI	54313-6187	2A							  	          	False		False
+6725871	31795	1030272		Citizens for Laura M Murphy		2026-11-18 00:00:00	1000	1000	0			PO Box 13		Des Plaines	IL	60016-0001	1A							  	          	False		False
+6725872	31795	1030272		Vision Management Services		2026-11-18 00:00:00	5000	5000	0			325 W Huron St	Ste 700	Chicago	IL	60654-3638	1A							  	          	False		False
+6725873	31795	1030272		Ameren  IL PAC		2026-11-18 00:00:00	1000	1000	0			200 W Washington St		Springfield	IL	62701-1117	2A							  	          	False		False
+6725874	31795	1030272		Chicago J. Dineen Lodge 7 PAC		2026-11-18 00:00:00	2500	2500	0			1412 W Washington Blvd		Chicago	IL	60607-1843	2A							  	          	False		False
+6725875	31795	1030272		Chicago Land Operators Joint Labor-Management PAC		2026-11-18 00:00:00	6000	8000	0			6200 Joliet Rd		Countryside	IL	60525-3957	2A							  	          	False		False
+6725876	31795	1030272		Illinois Bankers PAC		2026-11-18 00:00:00	2500	5000	0			3201 W White Oaks Dr	Ste 400	Springfield	IL	62704-6457	2A							  	          	False		False
+6725877	31795	1030272		UAW Illinois PAC		2026-11-18 00:00:00	25000	25000	0			8000 E Jefferson Ave		Detroit	MI	48214-3963	2A							  	          	False		False
+6725878	888	1030274		IBEW DIST ACCT	IBEW	2026-11-19 00:00:00	11464.46	0	0	DIST	IBEW DIST ACCT	1100 N I 55 E FRONTAGE RD		JOLIET	IL	60431     	2A							  	          	False		False
+6725879	39473	1030275		IUOE Local 399 Political Education Fund		2026-11-16 00:00:00	1250	0	0			2260 S Grove St		Chicago	IL	60616     	2A							  	          	False		False
+6725880	39473	1030275		UIC United Faculty COPE		2026-11-16 00:00:00	2000	0	0			815 W Van Buren St, Ste 203		Chicago	IL	60607     	2A							  	          	False		False
+6725881	39473	1030275		Ben Lazare Consulting		2026-11-16 00:00:00	2500	0	0			1500 N Halsted St, Ste 200		Chicago	IL	60642     	1A							  	          	False		False
+6725882	39473	1030275		Illinois Trial Lawyers Association PAC		2026-11-16 00:00:00	2000	0	0			401 W Edwards St		Springfield	IL	62704     	2A							  	          	False		False
+6725883	39473	1030275		Chicago Land Operators Joint Labor Management PAC		2026-11-16 00:00:00	6000	0	0			6200 Joliet Road		Countryside	IL	60525     	2A							  	          	False		False
+6725884	39473	1030275		Chicago Land Operators Joint Labor Management PAC		2026-11-16 00:00:00	1000	0	0			6200 Joliet Road		Countryside	IL	60525     	2A							  	          	False		False
+6725885	39473	1030275		Citizens for Karina Villa		2026-11-16 00:00:00	1000	0	0			PO Box 457		West Chicago	IL	60186     	2A							  	          	False		False
+6725886	39473	1030275		Affordable Assisted Living Coalition		2026-11-16 00:00:00	5000	0	0			PO Box 1245		Springfield	IL	62705     	2A							  	          	False		False
+6725887	39473	1030275		Illinois Beef Association		2026-11-16 00:00:00	1000	0	0			2060 W. Iles Ste. B		Springfield	IL	62704     	2A							  	          	False		False
+6725888	39473	1030275		Elect Rachel Ventura		2026-11-16 00:00:00	1000	0	0			617 N Raynor Ave		Joliet	IL	60435     	2A							  	          	False		False
+6725889	39473	1030275		Illinois Soybean Association		2026-11-16 00:00:00	1000	0	0			1108 Trinity Ln		Bloomington	IL	61704     	2A							  	          	False		False
+6725890	38605	1030276		DORF	MICHAEL	2026-11-18 00:00:00	1000	0	0	Lawyer	Law Offices of Michael C Dorf LLC	7535 N Washtenaw		Chicago	IL	60645     	1A							  	          	False		False
+6725891	4466	1030277		MR Springbrook, LLC		2026-11-15 00:00:00	1500	0	0			55 E. Jackson Blvd	Ste. 500	Chicago	IL	60604     	5A	Headquarters rent	MR Springbrook, LLC		55 E. Jackson Blvd	Ste. 500	Chicago	IL	60604     	False		False
+6725892	41172	1030278	1030278-1	Corbett	Collin	2026-11-17 00:00:00	63500	0	63500	Candidate	Candidate	2118 S Plum Grove Rd, #208		Rolling Meadows	IL	60008     	3A		Corbett	Collin	2118 S Plum Grove Rd, #208		Rolling Meadows	IL	60008     	False		False
+6725893	38809	1030279		Teamsters Volunteers In Politics		2026-11-12 00:00:00	2500	0	0			160 Market St.		Willow Springs	IL	60480     	1A							  	          	False		False
+6725894	507	1030280		International Union of Operating Engineers Local 150 AFL-CIO		2026-11-19 00:00:00	1343	0	0			6200 Joliet Road		Countryside	IL	60525-3957	2A							  	          	False		False
+6725895	40637	1030281		Casey	Bob	2026-11-18 00:00:00	2500	0	0			1432 North State Parkway		Chicago	IL	60610     	1A							  	          	False		False
+6725896	17057	1030282		Avathon Capital		2026-11-19 00:00:00	1000.01	0	0			401 N. Michigan Ave., #3300		Chicago	IL	60611     	1A							  	          	False		False
+6725897	580	1030283		Wight & Company		2026-11-19 00:00:00	1000	0	0			2500 N Frontage Road		Darien	IL	60561     	1A							  	          	False		False
+6725898	1085	1030284		Macy's		2026-11-19 00:00:00	10000	0	0			151 W. 34th Street, Harold Square		New York	NY	10001     	2A							  	          	False		False
+6725899	1085	1030284		CVS Health		2026-11-19 00:00:00	5000	0	0			2111 Sanders Road	Suite 253	Northbrook	IL	60062     	2A							  	          	False		False
+6725900	292	1030285		House Republican Organization		2026-11-13 00:00:00	6000	0	0			PO Box 647		Morris	IL	60450     	2A							  	          	False		False
+6725901	38699	1030286		Ting	Wayne	2026-11-16 00:00:00	1500	0	0	CEO	Lime	47 Thundercloud Rd		Santa Fe	NM	87506     	1A							  	          	False		False
+6725902	39938	1030287		Committee to Elect Robert J. Lovero		2026-11-19 00:00:00	1000	0	0			6724 W. Cermak		Berwyn	IL	60402     	2A							  	          	False		False
+6725903	20955	1030288		Schaumburg Township Republican Organization		2026-11-19 00:00:00	1000	0	0			622 S. Roselle Rd.		Schaumburg	IL	60193     	2A							  	          	False		False
+6725904	295	1030289		Majestic Distributing Company		2026-08-27 00:00:00	2500	2500	0			1255 Bowes Road		Elgin	IL	60123     	1A							  	          	False		False
+6725905	295	1030289		Searls Windows & Doors, Inc.		2026-09-01 00:00:00	2500	2500	0			16260 S Essington Rd		Plainfield	IL	60544     	1A							  	          	False		False
+6725906	295	1030289		Brakur Custom Cabinetry		2026-09-04 00:00:00	2500	2500	0			18656 S. State Route 59		Shorewood	IL	60404     	1A							  	          	False		False
+6725907	295	1030289		Home Builders and Remodelers Metro East Association		2026-09-09 00:00:00	2225	2225	0			6100 W Main Street		Maryville	IL	62062     	1A							  	          	False		False
+6725908	295	1030289		Mease	Chad	2026-09-14 00:00:00	280.5	280.5	0			522 N Washington St		Naperville	IL	60563     	1A							  	          	False		False
+6725909	295	1030289		Stefani	Jennifer	2026-09-15 00:00:00	701.7	701.7	0		King's Court Builders	5891 Legacy Circle		Yorkville	IL	60560     	1A							  	          	False		False
+6725910	295	1030289		Glod	Dan	2026-09-16 00:00:00	280.5	280.5	0			902 S Randall Road		St. Charles	IL	60174     	1A							  	          	False		False
+6725911	295	1030289		Head	Russell	2026-09-22 00:00:00	280.5	280.5	0			24825 Jensen Street		Shorewood	IL	60404     	1A							  	          	False		False
+6725912	295	1030289		Martinez	Lionel	2026-09-24 00:00:00	280.5	280.5	0			4S115 Curtis Avenue		Warrenville	IL	60555     	1A							  	          	False		False
+6725913	295	1030289		Jeffers	Steve	2026-09-28 00:00:00	280.5	280.5	0			8942 Wilcox Ct		Newark	IL	60541     	1A							  	          	False		False
+6725914	295	1030289		Wintrust Mortgage Jay Jacobson Team		2026-09-29 00:00:00	2500	2500	0			116 Tanglewood Lane		Naperville	IL	60563     	1A							  	          	False		False
+6725915	295	1030289		Briody	Pat	2026-09-29 00:00:00	280.5	280.5	0			1201 W Hawthorne Ln		West Chicago	IL	60185     	1A							  	          	False		False
+6725916	295	1030289		James	Nick	2026-09-29 00:00:00	280.5	280.5	0			187 Timber View Drive		Oak Brook	IL	60523     	1A							  	          	False		False
+6725917	295	1030289		Horeni	Joshua	2026-09-30 00:00:00	280.5	280.5	0			11941 Aero Dr		Plainfield	IL	60585     	1A							  	          	False		False
+6725918	295	1030289		Stefani	Pete	2026-09-30 00:00:00	1606	1606	0	Owner	King's Court Builders, Inc.	5891 Legacy Circle		Yorkville	IL	60560     	5A	Bourbon barrel and whiskey						  	          	False		False
+6725919	295	1030289		Nicor		2026-09-30 00:00:00	1500	1500	0			1844 Ferry Road		Naperville	IL	60563     	5A	Blackhawks Tickets						  	          	False		False
+6725920	295	1030289		JamesHardie		2026-09-30 00:00:00	1600	1600	0			300 E Wacker Dr		Chicago	IL	60601     	5A	Catalina Club Cubs Tickets	JamesHardie		300 E Wacker Dr		Chicago	IL	60601     	False		False
+6725921	295	1030289		TimberTech		2026-09-30 00:00:00	700	700	0			1330 W Fulton Street	Suite 350	Chicago	IL	60607     	5A	100 level Cubs tickets						  	          	False		False
+6725922	31771	1030290		IBEW Local Union 9 (Dues Check-off)		2026-11-19 00:00:00	40681.31	0	0			4415 W. Harrison - Suite 330		Hillside	IL	60162     	1A							  	          	False		False
+6725923	31771	1030290		IBEW Local Union 146 (Dues Check-off)		2026-11-19 00:00:00	2349	0	0			3390 N Woodford Street		Decatur	IL	62526     	1A							  	          	False		False
+6725924	31771	1030291		Committee to Elect Jay C. Hoffman		2026-11-19 00:00:00	1500	0	0			PO Box 23738		Belleville	IL	62223     	4A	Refund						  	          	False		False
+6725925	1043	1030293		Illinois Association of Endodontists small aggregate ;pcal contributio		2026-11-19 00:00:00	3500	0	0			917 Madison Ave.		Wauconda	IL	60084     	1A							  	          	False		False
+6725926	41416	1030295		JB for Governor		2026-11-19 00:00:00	1500	0	0			PO Box A3801		Chicago	IL	60690-3801	2A							  	          	False		False
+6725927	41276	1030296		Personal PAC		2026-11-19 00:00:00	1617.99	0	0			540 N Dearborn		Chicago	IL	60610     	5A	Digital Ads	Delta Current Strategies LLC		616 Pailer Ave		Harvey	LA	70058     	False		False
+6725928	41276	1030296		AFSCME Council 31		2026-11-19 00:00:00	5427.31	0	0			1000 Churchill Road		Springfield	IL	62702     	5A	Election day volunteers	AFSCME Council 31		1000 Churchill Road		Springfield	IL	62702     	False		False
+6725929	39618	1030300		Democrats for the Illinois House		2026-11-19 00:00:00	8688.78	0	0			10055 W Roosevelt Rd, Ste D		Westchester	IL	60154     	2A							  	          	False		False
+6725930	39469	1030301		IceMIller PAC - IL		2026-11-16 00:00:00	1000	0	0			One American Square Suite 2900		Indianapolis	IL	46282     	2A							  	          	False		False
+6725931	40729	1030302		AFSCME Council 31		2026-11-19 00:00:00	3410.82	0	0			1000 Churchill Road		Springfield	IL	62702     	5A	Election day staff	AFSCME Council 31		1000 Churchill Road		Springfield	IL	62702     	False		False
+6725932	34975	1030303		Comcast Financial Agency Corporation		2026-11-19 00:00:00	1000	0	0			1701 JFK Boulevard		Philadelphia	PA	19103     	1A							  	          	False		False
+6725933	31665	1030304		Amazon		2026-11-19 00:00:00	1000	0	0			1200 - 12th Ave. So., Suite 1200		Seattle	WA	98144     	1A							  	          	False		False
+6725934	35786	1030306		Anthropic PBC		2026-11-17 00:00:00	2700	10000	0			548 Market St	Pmb 90	San Francisco	CA	94104-5401	1A	Actblue						  	          	False		False
+6725935	35786	1030306		Anthropic PBC		2026-11-17 00:00:00	7300	10000	0			548 Market St	Pmb 90	San Francisco	CA	94104-5401	1A	Actblue						  	          	False		False
+6725936	35786	1030306		Barnes & Thornburg LLP		2026-11-17 00:00:00	1000	1000	0			11 S Meridian St		Indianapolis	IN	46204-3506	1A							  	          	False		False
+6725937	22816	1030307		DLA Piper LLP		2026-11-19 00:00:00	1000	0	0			650 S Exeter Street	Suite 1100	Baltimore	MD	21202     	1A							  	          	False		False
+6725938	22816	1030307		Citizens For Marty Quinn		2026-11-19 00:00:00	1000	0	0			6500 S Pulaski		Chicago	IL	60629     	1A							  	          	False		False
+6725939	41429	1030308		Urban Equity Properties, LLC		2026-11-19 00:00:00	8600	0	0			321 W State St.	3rd Floor	Rockford	IL	61101     	1A							  	          	False		False
+6725940	41429	1030308		Fern	Justin	2026-11-19 00:00:00	7300	0	0	President	Urban Equity Properties	939 N 2nd Street		Rockford	IL	61107     	1A							  	          	False		False
+6725941	41429	1030308		Peifer	Kevin	2026-11-19 00:00:00	1000	0	0	Physician	Rockford Gastroenterology Associates	6315 Brigantine Lane		Rockford	IL	61114     	1A							  	          	False		False
+6725942	41010	1030309		Phillis	Richard	2026-11-18 00:00:00	1000	0	0	retired	retired	2120 Friendship Pl		Rock Island	IL	61201     	1A							  	          	False		False
+6725943	21125	1030310		Friends for Debra Silverstein		2026-11-19 00:00:00	70000	0	0			2951 W Devon	Suite B	Chicago	IL	60659     	2A							  	          	False	Cook	False
+6725944	28444	1030311		Amazon.com Services LLC		2026-11-17 00:00:00	1000	0	0			205 Pennsylvania Ave, SE		Washington	DC	20003     	1A							  	          	False		False
+6725945	41210	1030312		CTU PAC (Illinois Federation of Teachers)		2026-11-16 00:00:00	175000	0	0			1901 W Carroll Ave		Chicago	IL	60607     	2A							  	          	False		False
+6725946	41210	1030312		CTU PAC (Illinois Federation of Teachers)		2026-11-13 00:00:00	4000	0	0			1901 W Carroll Ave		Chicago	IL	60607     	5A	Communications	Kapp-Klote	H.	1325 W Farwell Ave		Chicago	IL	60625     	False		False
+6725947	41210	1030312		CTU PAC (Illinois Federation of Teachers)		2026-11-16 00:00:00	21012.5	0	0			1901 W Carroll Ave		Chicago	IL	60607     	5A	Consulting	Senior Wizdom Consulting		5833 W Race Ave		Chicago	IL	60644     	False		False
+6725948	41210	1030312		CTU PAC (Illinois Federation of Teachers)		2026-11-16 00:00:00	24531.75	0	0			1901 W Carroll Ave		Chicago	IL	60607     	5A	Consulting	EastSide Alliance		7723 S Yates Blvd	Suite 2	Chicago	IL	60649     	False		False
+6725949	41210	1030312		Our Schools PAC		2026-11-16 00:00:00	149993	0	0			53 W Jackson Blvd	Suite 1550	Chicago	IL	60604     	5A	Media	Hulsen Media Services LLC		2400 Laramie Trl		Austin	TX	78745-1572	False		False
+6725950	41210	1030312		CTU PAC (Illinois Federation of Teachers)		2026-11-16 00:00:00	5100	0	0			1901 W Carroll Ave		Chicago	IL	60607     	5A	Consulting	Manuel	Denise	706 Carnation Lane		Matteson	IL	60443     	False		False
+6725951	41210	1030312		CTU PAC (Illinois Federation of Teachers)		2026-11-16 00:00:00	20062.5	0	0			1901 W Carroll Ave		Chicago	IL	60607     	5A	Consulting	Goshen Impact Services DBA		637 Woodland Park	#305	Chicago	IL	60616     	False		False
+6725952	41210	1030312		Our Schools PAC		2026-11-16 00:00:00	6250	0	0			53 W Jackson Blvd	Suite 1550	Chicago	IL	60604     	5A	Contractual	Wolfe	Shante	1931 5th Ave		Birmingham	AL	32505     	False		False
+6725953	20255	1030313		Laborer's Local #477		2026-11-19 00:00:00	1000	0	0			1615 N. Dirksen Parkway		Springfield	IL	62702     	2A							  	          	False		False
+6725954	31665	1030314		CVS Health		2026-11-19 00:00:00	1500	0	0			1 CVS Drive		Woonsocket	RI	02895     	1A							  	          	False		False
+6725955	40924	1030315		Carpentry Advancement PAC Fund		2026-11-20 00:00:00	1000	0	0			12 East Erie St		Chicago	IL	60611     	2A							  	          	False		False
+6725956	40924	1030315		Illinois Laborers Legislative Committee		2026-11-20 00:00:00	1000	0	0			1 North Old State Capitol Plaza	Suite 525	Springfield	IL	62701     	2A							  	          	False		False
+6725957	35685	1030316		Amazon.com Services		2026-11-19 00:00:00	1000	0	0			205 Pennsylvania Ave SE		Washington	DC	20003     	1A							  	          	False		False
+6725958	41366	1030317	1030317-1	Lewandowski	Dan	2026-11-20 00:00:00	2500	0	2500	Attorney	Self Employed	3106 Carefree Dr		Rockford	IL	61114     	3A		Lewandowski	Dan	3106 Carefree Dr		Rockford	IL	61114     	False		False

@@ -11296,6 +11296,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 46425	Haider	Saba	893 Meadowridge Dr.		Aurora	IL	60504	Member	County Board	Dupage	DuPage	Democratic	False
 54034	Haider	Saba				  	          	State Representative	Representative	84		Democratic	False
 45502	Haido	Billy	5101 Suffield Ct		Skokie	IL	60077	Council	Village	Skokie	Cook	Non Partisan	False
+54450	Haigh	Tania Mattera	530 Gunderson Ave.		Oak Park	IL	60304     	Member	School	200	Cook	Non Partisan	False
 46194	Hail	Lamar	1909 W. Mesa Dr		Freeport	IL	61032	Sheriff	County	Stephenson	Stephenson	Republican	False
 39051	Hailpern	Joseph	3834 Four Winds Way		Skokie	IL	60067	Member	School	65	Cook		False
 21141	Haimann	Joseph R	848 Greenwood Ave		Carpentersville	IL	60110	Member	County Board	Kane 24 	Kane	Democratic	False
@@ -27012,6 +27013,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 1395	Simpson	Eugene C						Mayor	City	Palos Heights	Cook	Independent	False
 21807	Simpson	Gail	2704 Wellington Drive		Springfield	IL	62703	Alderperson	Ward	Springfield 2  	Sangamon	Democratic	False
 28565	Simpson	Gail	PO Box 6533		Springfield	IL	62708-6533	Mayor	City	Springfield	Sangamon		False
+54452	Simpson	Gail.	PO Box 2752		Springfield	IL	62708     	Mayor	City	Springfield		Democratic	False
 43614	Simpson	Grace	286 283rd St.		Alexis	IL	61412	State's Attorney	County	Mercer	Mercer	Republican	False
 16576	Simpson	Jim	1307 S Rodgers		Alton	IL	62002	Alderperson	Ward	Alton	Madison	Non Partisan	False
 46128	Simpson	John	822 Revere Ct		Westmont	IL	60559	Member	County Board	Dupage	DuPage	Republican	False
@@ -27240,6 +27242,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 6303	Smith	Anne M	137 N 45th St	Apt 9	Belleville	IL	62223	Trustee	Township	Belleville	St Clair		False
 49884	Smith	Anthony	300 Park, Unit 650		Calumet City	IL	60409     	Alderperson	Ward	7			False
 6731	Smith	B Scott	232 N Hickory		Centralia	IL	62801	Assessor	Township	Centralia	Marion		False
+54451	Smith	Bart Allan	8551 Center St.		River Grove	IL	60171     	Trustee	Comm College	504	Cook	Non Partisan	False
 45748	Smith	Beth Findley	826 Tomahawk Drive		Ottawa	IL	61350	Member	County Board	LaSalle	LaSalle	Republican	False
 1465	Smith	Beverly						Trustee	Village	Wilmette	Cook		False
 31901	Smith	Bill	149 Greenview Rd		Centralia	IL	62801	Councilman	City	Centralia	Marion	Non Partisan	False

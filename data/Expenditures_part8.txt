@@ -354238,21 +354238,21 @@ tates of America	False
 4949268	41248	1023277	0	Minuteman Press		2026-07-09 00:00:00	3273.38	7036.14	5128 N Second Street		Loves Park	IL	61111     	8B	Printing			False	False	True		False
 4949269	41248	1023277	0	Minuteman Press		2026-09-11 00:00:00	2843.82	7036.14	5128 N Second Street		Loves Park	IL	61111     	8B	Printing			False	False	True		False
 4949270	41248	1023277	0	Pub 47 Grill		2026-09-28 00:00:00	733.4	733.4				IL	          	8B	Fund raising - food			False	False	True		False
-4949271	295	1023278	0	Friends of John Curran		2026-07-10 00:00:00	1000	1000	PO BOX 3422		Springfield	IL	62708     	8B	Donation			False	False	False		False
-4949272	295	1023278	0	Friends of Sue Rezin		2026-07-10 00:00:00	1000	1000	P.O. Box 932		Morris	IL	60450     	8B	Donation			False	False	False		False
-4949273	295	1023278	0	Friends of Ryan Spain		2026-07-10 00:00:00	500	500	PO Box 1575		Peoria	IL	61655-1575	8B	Donation			False	False	False		False
-4949274	295	1023278	0	Syverson for Senate		2026-07-10 00:00:00	500	500	2923 E. State St.		Rockford	IL	61108     	8B	Donation			False	False	False		False
-4949275	295	1023278	0	Friends of Jeff Keicher		2026-07-10 00:00:00	1000	1000	PO Box 477		Sycamore	IL	60178     	8B	Donation			False	False	False		False
-4949276	295	1023278	0	McCombie for Illinois		2026-07-10 00:00:00	1000	1000	PO Box 71		Savanna	IL	61074     	8B	Donation			False	False	False		False
-4949277	295	1023278	0	Hyken	Dawn	2026-08-11 00:00:00	525	525	888 Paddock Drive		Carol Stream	IL	60188     	8B	Fund raising - entertainment			False	False	False		False
-4949278	295	1023278	0	Kendall County Fair Association		2026-09-01 00:00:00	500	2500	10826 IL-71		Yorkville	IL	60560     	8B	Fund raising - hall rental			False	False	False		False
-4949279	295	1023278	0	Kendall County Fair Association		2026-09-09 00:00:00	2000	2500	10826 IL-71		Yorkville	IL	60560     	8B	Fund raising - hall rental			False	False	False		False
-4949280	295	1023278	0	Bielawa	Matthew	2026-09-29 00:00:00	1800	1800				IL	          	8B	Fund raising - entertainment			False	False	False		False
-4949281	295	1023278	0	Balkema for State Senate		2026-07-10 00:00:00	500	500	P.O. Box 932		Channahon	IL	60410     	8B	Donation			False	False	False		False
-4949282	295	1023278	0	Friends of Doris Turner		2026-07-10 00:00:00	500	500	P.O. Box 1493		Springfield	IL	62708     	8B	Donation			False	False	False		False
-4949283	295	1023278	0	Citizens for Mike Coffey		2026-07-10 00:00:00	500	500	300 W Edwards Street	Ste 201	Springfield	IL	62704     	8B	Donation			False	False	False		False
-4949284	295	1023278	0	Citizens for Seth Lewis		2026-07-17 00:00:00	500	500	29W571 Sunnydale Ct		Bartlett	IL	60103     	8B	Donation			False	False	False		False
-4949285	295	1023278	0	Sheehan for Illinois		2026-07-20 00:00:00	500	500	18859 S Vanderbilt Dr		Mokena	IL	60448     	8B	Donation			False	False	False		False
+4949271	295	1023278	0	Friends of John Curran		2026-07-10 00:00:00	1000	1000	PO BOX 3422		Springfield	IL	62708     	8B	Donation			False	False	True		False
+4949272	295	1023278	0	Friends of Sue Rezin		2026-07-10 00:00:00	1000	1000	P.O. Box 932		Morris	IL	60450     	8B	Donation			False	False	True		False
+4949273	295	1023278	0	Friends of Ryan Spain		2026-07-10 00:00:00	500	500	PO Box 1575		Peoria	IL	61655-1575	8B	Donation			False	False	True		False
+4949274	295	1023278	0	Syverson for Senate		2026-07-10 00:00:00	500	500	2923 E. State St.		Rockford	IL	61108     	8B	Donation			False	False	True		False
+4949275	295	1023278	0	Friends of Jeff Keicher		2026-07-10 00:00:00	1000	1000	PO Box 477		Sycamore	IL	60178     	8B	Donation			False	False	True		False
+4949276	295	1023278	0	McCombie for Illinois		2026-07-10 00:00:00	1000	1000	PO Box 71		Savanna	IL	61074     	8B	Donation			False	False	True		False
+4949277	295	1023278	0	Hyken	Dawn	2026-08-11 00:00:00	525	525	888 Paddock Drive		Carol Stream	IL	60188     	8B	Fund raising - entertainment			False	False	True		False
+4949278	295	1023278	0	Kendall County Fair Association		2026-09-01 00:00:00	500	2500	10826 IL-71		Yorkville	IL	60560     	8B	Fund raising - hall rental			False	False	True		False
+4949279	295	1023278	0	Kendall County Fair Association		2026-09-09 00:00:00	2000	2500	10826 IL-71		Yorkville	IL	60560     	8B	Fund raising - hall rental			False	False	True		False
+4949280	295	1023278	0	Bielawa	Matthew	2026-09-29 00:00:00	1800	1800				IL	          	8B	Fund raising - entertainment			False	False	True		False
+4949281	295	1023278	0	Balkema for State Senate		2026-07-10 00:00:00	500	500	P.O. Box 932		Channahon	IL	60410     	8B	Donation			False	False	True		False
+4949282	295	1023278	0	Friends of Doris Turner		2026-07-10 00:00:00	500	500	P.O. Box 1493		Springfield	IL	62708     	8B	Donation			False	False	True		False
+4949283	295	1023278	0	Citizens for Mike Coffey		2026-07-10 00:00:00	500	500	300 W Edwards Street	Ste 201	Springfield	IL	62704     	8B	Donation			False	False	True		False
+4949284	295	1023278	0	Citizens for Seth Lewis		2026-07-17 00:00:00	500	500	29W571 Sunnydale Ct		Bartlett	IL	60103     	8B	Donation			False	False	True		False
+4949285	295	1023278	0	Sheehan for Illinois		2026-07-20 00:00:00	500	500	18859 S Vanderbilt Dr		Mokena	IL	60448     	8B	Donation			False	False	True		False
 4949286	41202	1023286	0	Sig Jam 4 Apparel		2026-09-08 00:00:00	180	180				IL	          	8B	T-Shirts			False	False	False		False
 4949287	41202	1023286	0	VCP SIGN		2026-08-31 00:00:00	1133.29	1544.43				IL	          	8B	Signs			False	False	False		False
 4949288	41202	1023286	0	VCP SIGN		2026-09-11 00:00:00	411.14	1544.43				IL	          	8B	Signs			False	False	False		False
@@ -399773,3 +399773,22 @@ tates of America	False
 4994812	40034	1030256	0	GoDaddy		2026-07-28 00:00:00	95.88	557.67	2155 E GoDaddy Way		Tempe,	AZ	85284     	8B	Bulk Email			False	False	False		False
 4994813	40034	1030256	0	GoDaddy		2026-08-14 00:00:00	44.99	557.67	2155 E GoDaddy Way		Tempe,	AZ	85284     	8B	Bulk email			False	False	False		False
 4994814	40034	1030256	0	GoDaddy		2026-07-29 00:00:00	61.37	557.67	2155 E GoDaddy Way		Tempe,	AZ	85284     	8B	Website			False	False	False		False
+4994815	40878	1030271	0	Marrello	Rachel	2026-11-19 00:00:00	1642.5	1642.5	61 northgate road		riverside	IL	60546     	8B	Principal payment, Marrello			False	False	False		False
+4994816	295	1030289	0	Friends of John Curran		2026-07-10 00:00:00	1000	1000	PO BOX 3422		Springfield	IL	62708     	8B	Donation			False	False	False		False
+4994817	295	1030289	0	Friends of Sue Rezin		2026-07-10 00:00:00	1000	1000	P.O. Box 932		Morris	IL	60450     	8B	Donation			False	False	False		False
+4994818	295	1030289	0	Friends of Ryan Spain		2026-07-10 00:00:00	500	500	PO Box 1575		Peoria	IL	61655-1575	8B	Donation			False	False	False		False
+4994819	295	1030289	0	Syverson for Senate		2026-07-10 00:00:00	500	500	2923 E. State St.		Rockford	IL	61108     	8B	Donation			False	False	False		False
+4994820	295	1030289	0	Friends of Jeff Keicher		2026-07-10 00:00:00	1000	1000	PO Box 477		Sycamore	IL	60178     	8B	Donation			False	False	False		False
+4994821	295	1030289	0	McCombie for Illinois		2026-07-10 00:00:00	1000	1000	PO Box 71		Savanna	IL	61074     	8B	Donation			False	False	False		False
+4994822	295	1030289	0	Hyken	Dawn	2026-08-11 00:00:00	525	525	888 Paddock Drive		Carol Stream	IL	60188     	8B	Fund raising - entertainment			False	False	False		False
+4994823	295	1030289	0	Kendall County Fair Association		2026-09-01 00:00:00	500	2500	10826 IL-71		Yorkville	IL	60560     	8B	Fund raising - hall rental			False	False	False		False
+4994824	295	1030289	0	Kendall County Fair Association		2026-09-09 00:00:00	2000	2500	10826 IL-71		Yorkville	IL	60560     	8B	Fund raising - hall rental			False	False	False		False
+4994825	295	1030289	0	Balkema for State Senate		2026-07-10 00:00:00	500	500	P.O. Box 932		Channahon	IL	60410     	8B	Donation			False	False	False		False
+4994826	295	1030289	0	Friends of Doris Turner		2026-07-10 00:00:00	500	500	P.O. Box 1493		Springfield	IL	62708     	8B	Donation			False	False	False		False
+4994827	295	1030289	0	Citizens for Mike Coffey		2026-07-10 00:00:00	500	500	300 W Edwards Street	Ste 201	Springfield	IL	62704     	8B	Donation			False	False	False		False
+4994828	295	1030289	0	Citizens for Seth Lewis		2026-07-17 00:00:00	500	500	29W571 Sunnydale Ct		Bartlett	IL	60103     	8B	Donation			False	False	False		False
+4994829	295	1030289	0	Sheehan for Illinois		2026-07-20 00:00:00	500	500	18859 S Vanderbilt Dr		Mokena	IL	60448     	8B	Donation			False	False	False		False
+4994830	295	1030289	0	Bielawa	Matthew	2026-09-29 00:00:00	1800	1800	394 Country Lane		Yorkville	IL	60560     	8B	Fund raising - entertainment			False	False	False		False
+4994831	17217	1030305	0	People for Emanuel Chris Welch		2026-10-12 00:00:00	3000	3000	1055 W Roosevelt Rd Suite D		Westchester	IL	60154     	6B	Contribution			False	False	False		False
+4994832	17217	1030305	0	Committee to Elect Jennifer Bertino Tarrant		2026-10-12 00:00:00	500	500	903 Valencia Dr		Shorewood	IL	60404     	6B	Contribution			False	False	False		False
+4994833	17217	1030305	0	Friends of Don Harmon for State Senate		2026-10-12 00:00:00	449.35	449.35	6939 W. North Avenue		Oak Park	IL	60302     	6B	Contribution			False	False	False		False

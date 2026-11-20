@@ -72,6 +72,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 62317	Abernathy	Dawn	321 Lenox Lane		Mundelein	IL	60060     	Chair	847.997.4705        	False
 37598	Abernathy	Linda A	2320 Butternut Ct		Champaign	IL	61821     	Chair	217/359-5133        	False
 7395	Abert	Myrna	422 Bollman		Edwardsville	IL	62025     	Treasurer	618/656-1623        	False
+100702	Abigail	Deborah	3743 W. 83rd St.		Chicago	IL	60652     	Chair	708.731.0553        	False
 39049	Abina	Tommy	1439 N Lotus Av		Chicago	IL	60651     	Chair	(312) 965-0023      	False
 10716	Ablan	Thelma	680 N Lake Shore Dr #924		Chicago	IL	60611     	Chair	(312)335-8521       	False
 53300	Ablan.	Thelma	180 E Pearson #4806		Chicago	IL	60611     	Chair	(312)640-1083       	False
@@ -5452,6 +5453,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 41922	Blonder	Steven	191 N. Wacker Drive	Suite 1900	Chicago	IL	60606     	Chair	312-521-2404        	False
 80772	Blonder	Steven	1740 Ellendale Drive		Northbrook	IL	60062     	Chair	312.521.2402        	False
 30630	Blonder	Steven P	1918 N Cleveland	Unit D	Chicago	IL	60614     	Treasurer	847/498-4915        	False
+100706	Blood	Anthony	2108 S. Wesley Ave.		Berwyn	IL	60402     	Chair	                    	False
 41289	Blood	Charles K	39W541 Walt Whitman		St Charles	IL	60175     	Treasurer	630.584.0042        	False
 23152	Bloodworth	E.F."bud"	914 N 9th		Marshall	IL	62441     	Chair	                    	False
 23153	Bloodworth	Timothy E	2 Lakeview Dr		Marshall	IL	62441     	Treasurer	217.712.0004        	False
@@ -8570,6 +8572,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 13085	Bussone	Joann	47 Mesa Road		Springfield	IL	62702     	Treasurer	546-5311            	False
 5343	Bussone	Nick	47 Mesa Road		Springfield	IL	62702     	Chair	                    	False
 5345	Bussone	Nick	47 Mesa Road		Springfield	IL	62702     	Treasurer	                    	False
+100701	Bustamante	Andrea K.	2551 Oak Street		River Grove	IL	60171     	Treasurer	708.830.2705        	False
 47965	Bustamante	Peter	150 N Michigan Ave #690		Chicago	IL	60601     	Treasurer	312/346-2072        	False
 29451	Bustamante	Peter	150 N Michigan Ave #690		Chicago	IL	60601     	Chair	                    	False
 20359	Bustamante	Peter V	190 S. Lasalle	12th Fl.	Chicago	IL	60603     	Treasurer	312/422-5715        	False
@@ -10879,6 +10882,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 62325	Ciko	Nick	2500 E. Thornwood Drive		Lindenhurst	IL	60046     	Treasurer	847.875.5895        	False
 62324	Ciko	Nick	2500 E. Thornwood Drive		Lindenhurst	IL	60046     	Chair	847.875.5895        	False
 36671	Cilluffo	Bill	120 N Washington Sq, Ste 802		Lansing	MI	48933     	Chair		False
+100707	Cimaglia	Joseph	6522 W. 33rd St.		Berwyn	IL	60402     	Treasurer	                    	False
 78442	Cimarossa	Callie	215 E. Adams		Springfield	IL	62701     	Treasurer	                    	False
 8913	Cimarossa	Debbie	1016 W Woodland Ave		Springfield	IL	62704     	Treasurer	217/971-2520        	False
 12336	Cimarossa	Deborah K.	2154 Glenwood		Springfield	IL	62704     	Chair	753-3013/786-4091(W 	False
@@ -25344,6 +25348,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 87032	Haider	Saba	893 Meadowridge Dr.		Aurora	IL	60504     	Chair	                    	False
 4023	Haider	Tom	159 N. Dearborn		Chicago	IL	60601     	Chair	                    	False
 64720	Haiduk	Matthew	825 W State St		Geneva	IL	60134-2080	Chair	630-557-6288        	False
+100699	Haigh	Tania Mattera	530 Gunderson Ave.		Oak Park	IL	60304     	Chair	708.714.7788        	False
+100700	Haigh	Tania Mattera	530 Gunderson Ave.		Oak Park	IL	60304     	Treasurer	708.714.7788        	False
 86412	Hail	Jennifer	1909 W. Mesa Dr.		Freeport	IL	61032     	Chair	815.291.7394        	False
 86413	Hail	Jennifer	1909 W. Mesa Dr.		Freeport	IL	61032     	Treasurer	815.291.7394        	False
 54370	Haile	Don	777 County Hwy 13		Keenes	IL	62851     	Chair	618.895.4936        	False
@@ -32485,6 +32491,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 44467	Jose	Shajan	5228 madison St		Skokie	IL	60077     	Chair	847-322-1181        	False
 44468	Jose	Shajan	5228 madison St		Skokie	IL	60077     	Treasurer	847-322-1181        	False
 21346	Joseph	Diane	1314 Lake Shore Dr N		Barrington	IL	60010     	Treasurer	847/382-8388        	False
+100705	Joseph	Makeda	3009 Benning Dr.		Springfield	IL	62704     	Chair	                    	False
 36142	Joseph	Sam	4926 N University St		Peoria	IL	61614     	Treasurer	309/693-8498        	False
 47335	Joseph	Sam	4926 N University St		Peoria	IL	61614     	Chair	309/693-8498        	False
 32266	Joseph	Samuel	4926 N University		Peoria	IL	61614     	Treasurer	309.635.2217        	False
@@ -46269,6 +46276,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 39804	Munaretto	Marc	900 Pyott Rd, # 101		Crystal Lake	IL	60014     	Treasurer	815.385.5590        	False
 24603	Munaretto	Marc J	662 W Surrey Lane		Algonquin	IL	60102-2013	Chair	(708)658-9309       	False
 20060	Munaretto	Marc J	662 W Surrey Lane		Algonquin	IL	60102-2013	Treasurer	(708)658-9309       	False
+100704	Munch	Joyce Klein	1950 Parkside Drive		Sycamore	IL	60178     	Chair	                    	False
 85473	Muncy	Ben	510 W Washington St Apt 2		Bloomington	IL	61701     	Chair	309.846.1231        	False
 85474	Muncy	Ben	510 W Washington St Apt 2		Bloomington	IL	61701     	Treasurer	309.846.1231        	False
 98605	Muncy	Benjamin	1110 S. Oak St.		Bloomington	IL	61701     	Chair	309.319.8064        	False
@@ -49401,6 +49409,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 23735	Owens	Bonnie	509 Carol Ave		Leroy	IL	61752     	Treasurer	309/962-9283        	False
 41180	Owens	Brenda	12 Gregg Ln		Harrisburg	IL	62946     	Treasurer	618.252.1011        	False
 69617	Owens	Carlando	20733 Sparta Court		Olympia Fields	IL	60461     	Chair	708-307-2763        	False
+100703	Owens	Catherine	8435 South Marshfield Ave.		Chicago	IL	60620     	Treasurer	773.948.0336        	False
 38511	Owens	Dana M	22249 E Cypress Rd		Canton	IL	61520     	Treasurer	309/647-0592        	False
 3769	Owens	David	3302 Lawrence Ave		S Chicago Heights	IL	60411     	Chair	708.755.1880        	False
 38152	Owens	David	3302 Lawrence Ave		S Chicago Heights	IL	60411     	Treasurer	708.755.1880        	False
@@ -49503,8 +49512,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 22391	Pace	Salvatore	684 Brantwood Ct		Elk Grove Village	IL	60007     	Treasurer	(847)364-6815       	False
 98002	Pace	Stacey	286 Shadowbrooke		Troy	IL	62294     	Chair	                    	False
 59015	Pace	Theodis	1482 W Budd Blvd		Kankakee	IL	60901     	Chair	815.953.0939        	False
-82434	Pace	Tyrone	2901 Ladera Dr		Springfield	IL	62711     	Treasurer	                    	False
 50343	Pace	Tyrone O	126 N 14th St		Springfield	IL	62703     	Treasurer	217-206-5389        	False
+82434	Pace	Tyrone O.	2901 Ladera Dr		Springfield	IL	62711     	Treasurer	                    	False
 98710	Pace	Vincent	3710 Commerical Ave #5		Northbrook	IL	60062     	Chair	224-306-9635        	False
 98711	Pace	Vincent	3710 Commerical Ave #5		Northbrook	IL	60062     	Treasurer	224-306-9635        	False
 34929	Pace III	Ole Bly	202 E 5th St		Sterling	IL	61081     	Chair	815/625-8200        	False
@@ -58359,7 +58368,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 100331	Schlottman	Katie Deane	1312 Bentham Dr.		Joliet	IL	60431     	Chair	708.516.0495        	False
 45379	Schlueter	Janice M	417 W 7th St		Beardstown	IL	62618     	Treasurer	217-323-1681        	False
 87472	Schluter	Scott	510 N State St		Marion	IL	62959     	Chair	                    	False
-12264	Schmack	Jackie	594 W State St		Sycamore	IL	60178     	Treasurer	815.757.20256       	False
+12264	Schmack	Jacqueline	594 W State St		Sycamore	IL	60178     	Treasurer	815.757.20256       	False
 39762	Schmack	Richard H	594 W State St		Sycamora	IL	60178     	Treasurer	815.895-2074        	False
 85951	Schmacker	Robert	2008 Shook Lane		Centralia	IL	62801     	Chair	                    	False
 8311	Schmaedeke	Marilyn	15407 Lisa Court		Orland Park	IL	60462     	Treasurer	(708)349-2989       	False
