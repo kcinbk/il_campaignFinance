@@ -209114,7 +209114,7 @@ rk	Shaw	Mark	1155 Highland Avenue		Lake Forest	IL	60045			False		False
 1005632	39773	  	Quarterly	False		5	  	    	2026-01-01 00:00:00	2026-03-31 00:00:00	S	2026-04-13 08:29:45	D													False		False
 1005633	17385	  	Quarterly	False		10	  	    	2026-01-01 00:00:00	2026-03-31 00:00:00	S	2026-04-13 08:31:50	I	IDIS3	Kates-Collins	Patricia	Kates-Collins	Patricia	19150 Pine Dr		Country Club Hills	IL	60478			True		False
 1005634	21479	  	Quarterly	False		1	  	    	2026-01-01 00:00:00	2026-03-31 00:00:00	S	2026-04-13 08:31:43	D													False		False
-1005635	41020	  	Quarterly	True		4	  	    	2026-01-01 00:00:00	2026-03-31 00:00:00	S	2026-04-13 08:32:23	I	IDIS3	Hemphill	Darcy	Nelson	Eric	4350 N. Broadway		Chicago	IL	60613			False	Updated receipts and disbursements	False
+1005635	41020	  	Quarterly	True		4	  	    	2026-01-01 00:00:00	2026-03-31 00:00:00	S	2026-04-13 08:32:23	I	IDIS3	Hemphill	Darcy	Nelson	Eric	4350 N. Broadway		Chicago	IL	60613			True	Updated receipts and disbursements	False
 1005636	39166	  	Quarterly	False		1	  	    	2026-01-01 00:00:00	2026-03-31 00:00:00	S	2026-04-13 08:32:57	D													False		False
 1005637	23826	  	Quarterly	False		2	  	    	2026-01-01 00:00:00	2026-03-31 00:00:00	S	2026-04-13 08:35:20	I	IDIS3	Patricia	Zack	Zack	Victor	605 Gavin Ave		Romeoville	IL	60446			False		False
 1005638	36958	  	Quarterly	False		3	  	    	2026-01-01 00:00:00	2026-03-31 00:00:00	S	2026-04-13 08:37:15	I	IDIS3	MacMurdo	James										False		False
@@ -218695,7 +218695,7 @@ rk	Shaw	Mark	1155 Highland Avenue		Lake Forest	IL	60045			False		False
 1015249	35485	  	Quarterly	False		6	  	    	2026-04-01 00:00:00	2026-06-30 00:00:00	S	2026-07-15 09:37:10	I	NGP VAN	Rinehart	Eric	Bookman	Andy	1423 Thimbleweed Rd		Grayslake	IL	60030			False		False
 1015250	34022	  	Quarterly	False		2	  	    	2026-04-01 00:00:00	2026-06-30 00:00:00	S	2026-07-15 09:38:30	I	IDIS3	Kilgore	Paul										False		False
 1015251	40786	  	Quarterly	False		1	  	    	2026-04-01 00:00:00	2026-06-30 00:00:00	S	2026-07-15 09:39:49	D													False		False
-1015252	41020	  	Quarterly	False		1	  	    	2026-04-01 00:00:00	2026-06-30 00:00:00	S	2026-07-15 09:41:36	I	IDIS3	Hemphill	Darcy	Nelson	Eric	4350 N. Broadway		Chicago	IL	60613			False		False
+1015252	41020	  	Quarterly	False		1	  	    	2026-04-01 00:00:00	2026-06-30 00:00:00	S	2026-07-15 09:41:36	I	IDIS3	Hemphill	Darcy	Nelson	Eric	4350 N. Broadway		Chicago	IL	60613			True		False
 1015253	35164	  	Quarterly	False		2	  	    	2026-04-01 00:00:00	2026-06-30 00:00:00	S	2026-07-15 09:42:53	I	NGP VAN	Nissen	Melissa										False		False
 1015254	40639	  	Quarterly	False		7	  	    	2026-04-01 00:00:00	2026-06-30 00:00:00	S	2026-07-15 09:42:58	I	IDIS3	Wilhite	Kaitlin										False		False
 1015255	39720	  	Quarterly	False		1	  	    	2026-04-01 00:00:00	2026-06-30 00:00:00	S	2026-07-15 09:44:32	I	IDIS3	CAINKAR	VINCENT	CAINKAR	VINCENT	6215 WEST 79TH STREET		BURBANK	IL	60459			False		False
@@ -225931,13 +225931,13 @@ rk	Shaw	Mark	1155 Highland Avenue		Lake Forest	IL	60045			False		False
 1022533	4432	  	Quarterly	True		4	  	    	2023-04-01 00:00:00	2023-06-30 00:00:00	S	2026-10-05 11:05:32.410000000	I	IDIS3	Curiale	Lynn										False	Collected from Monthly Meeting at Large, Meeting Collection -  changed from IND category to LMP category at the direction of the State Board of Elections.  Thank you.	False
 1022534	40356	  	Statement of Organization	True		3	  	    			S	2026-10-05 11:08:06	D													False		False
 1022535	4432	  	Quarterly	True		3	  	    	2023-10-01 00:00:00	2023-12-31 00:00:00	S	2026-10-05 11:09:01.177000000	I	IDIS3	Curiale	Lynn										False	Collected from Monthly Meeting at Large, Meeting Collection -  changed from IND category to LMP category at the direction of the State Board of Elections.  Thank you.	False
-1022536	38564	  	Quarterly	False		1	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-05 11:10:56.027000000	I	IDIS3	Jenny	Zachary										False		False
+1022536	38564	  	Quarterly	False		1	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-05 11:10:56	I	IDIS3	Jenny	Zachary										False		False
 1022537	4432	  	Quarterly	True		8	  	    	2024-01-01 00:00:00	2024-03-31 00:00:00	S	2026-10-05 11:12:04.827000000	I	IDIS3	Curiale	Lynn										False	Collected from Monthly Meeting at Large, Meeting Collection -  changed from IND category to LMP category at the direction of the State Board of Elections.  Thank you.	False
 1022538	36037	  	Quarterly	True		5	  	    	2026-04-01 00:00:00	2026-06-30 00:00:00	S	2026-10-05 11:13:20.730000000	I	IDIS3	Monteleone	Jake	Monteleone	Kate	4N385 Samuel L Clemens Crse		Illinois	IL	60175			False	Corrected date of receipt for transfer in to 7/6/26	False
 1022539	40619	  	Statement of Organization	True		2	  	    			S	2026-10-05 11:15:25	D													False		False
 1022540	4432	  	Quarterly	True		4	  	    	2024-07-01 00:00:00	2024-09-30 00:00:00	S	2026-10-05 11:16:40.527000000	I	IDIS3	Curiale	Lynn										False	Collected from Monthly Meeting at Large, Meeting Collection -  changed from IND category to LMP category at the direction of the State Board of Elections.  Thank you.	False
 1022541	36855	  	Quarterly	False		1	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-05 11:17:24.240000000	I	IDIS3	Perry	Chakena	Perry	Chakena	15748 Lamon Ave.		Oak Forest	IL	60452			False		False
-1022542	41020	  	Quarterly	False		2	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-05 11:17:48	I	IDIS3	Hemphill	Darcy	Nelson	Eric	4350 N. Broadway		Chicago	IL	60613			False		False
+1022542	41020	  	Quarterly	False		2	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-05 11:17:48	I	IDIS3	Hemphill	Darcy	Nelson	Eric	4350 N. Broadway		Chicago	IL	60613			True		False
 1022543	40754	  	A-1	False		1	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-05 11:17:52	I	IDIS3	Perez	Eddie										True		False
 1022544	25996	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-10-05 11:18:44.250000000	I	IDIS3	Bruner	James										False		False
 1022545	4432	  	Quarterly	True		5	  	    	2024-10-01 00:00:00	2024-12-31 00:00:00	S	2026-10-05 11:19:16.390000000	I	IDIS3	Curiale	Lynn										False	Collected from Monthly Meeting at Large, Meeting Collection -  changed from IND category to LMP category at the direction of the State Board of Elections.  Thank you.	False
@@ -226331,7 +226331,7 @@ rk	Shaw	Mark	1155 Highland Avenue		Lake Forest	IL	60045			False		False
 1022933	35364	  	Quarterly	False		1	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-06 10:47:23	I	IDIS3	Fox	Rick										False		False
 1022934	37161	  	Final	False		2	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-06 10:51:03	I	Soft_Name,"ELECT Inc"	Stricker	Roger										False		False
 1022935	39786	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-10-06 10:53:18.490000000	I	IDIS3	Arroyo	Patricia										False		False
-1022936	38633	  	Quarterly	False		1	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-06 10:53:24.057000000	I	IDIS3	Johnson	Patricia										False		False
+1022936	38633	  	Quarterly	False		1	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-06 10:53:24	I	IDIS3	Johnson	Patricia										False		False
 1022937	22331	  	A-1	False		5	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-10-06 10:53:36.727000000	I	IDIS3	Robinson	James	Mahoney	Grainne	1520 S. Lowell		Springfield	IL	62704			False		False
 1022938	15622	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-10-06 10:54:09.060000000	I	IDIS3	Davenport	Cassandra	Taetle	Shirley	7800 W Foresthill Ln #207B		Palos Heights	IL	60463			False		False
 1022939	18118	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-10-06 10:55:24.020000000	I	IDIS3	Davenport	Casandra	Taetle	Shirley	7800 W Foresthill Ln #207B		Palos Heights	IL	60463			False		False
@@ -226678,7 +226678,7 @@ rk	Shaw	Mark	1155 Highland Avenue		Lake Forest	IL	60045			False		False
 1023280	41202	  	A-1	False		1	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-07 11:26:03.950000000	I	IDIS3	Hickey	Daniel										True		False
 1023281	15478	  	Quarterly	False		2	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-07 11:26:27	I	IDIS3	Titus	Thomas	Drew	Jim	120 S McLean		Lincoln	IL	62656			False		False
 1023282	36718	  	Quarterly	False		1	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-07 11:28:47.407000000	I	IDIS3	Hill	Bob										False		False
-1023283	38578	  	Quarterly	False		1	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-07 11:28:57.200000000	I	IDIS3	De La Trinidad	Freddy	De La Trinidad	Freddy	1536 15th Street		Rockford	IL	61104			False		False
+1023283	38578	  	Quarterly	False		1	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-07 11:28:57	I	IDIS3	De La Trinidad	Freddy	De La Trinidad	Freddy	1536 15th Street		Rockford	IL	61104			False		False
 1023284	18261	  	A-1	False		2	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-10-07 11:29:49.007000000	I	NGP VAN	James	Oreal	Taetle	Shirley	7800 W Foresthill Ln #207		Palos Heights	IL	60463			False		False
 1023285	32072	  	Quarterly	False		1	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-07 11:31:47	I	IDIS3	Hill	Bob										False		False
 1023286	41202	  	Quarterly	False		4	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-07 11:32:33	I	IDIS3	Hickey	Daniel										False		False
@@ -226715,7 +226715,7 @@ rk	Shaw	Mark	1155 Highland Avenue		Lake Forest	IL	60045			False		False
 1023317	25556	  	Quarterly	False		6	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-07 12:55:07	I	IDIS3	Fleischer	Laurie										False		False
 1023318	39722	  	Quarterly	False		3	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-07 12:55:16	I	IDIS3	Luers	Jon										False		False
 1023319	36882	  	A-1	False		2	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-10-07 12:55:51	I	Soft_Name,"ELECT Inc"	Owens	Roxanne	Owens	Roxanne	PO Box 3422		Springfield	IL	62708			False		False
-1023320	38755	  	Quarterly	False		1	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-07 12:57:35.583000000	I	IDIS3	Hasty	Rocky										False		False
+1023320	38755	  	Quarterly	False		1	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-07 12:57:35	I	IDIS3	Hasty	Rocky										False		False
 1023321	13999	  	Quarterly	False		2	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-07 13:01:08	I	IDIS3	Patlak	Dan										False		False
 1023322	39005	  	Quarterly	False		1	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-07 13:01:31.640000000	I	IDIS3	Kane	Karen										False		False
 1023323	37038	  	Quarterly	False		2	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-07 13:03:20	I	IDIS3	Luczkiw	Anthony										False		False
@@ -226980,7 +226980,7 @@ rk	Shaw	Mark	1155 Highland Avenue		Lake Forest	IL	60045			False		False
 1023582	16564	  	Quarterly	False		1	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-08 08:32:53	I	IDIS3	Krutz	David	Teelin	Kelly	1 S. Pinckney St., Ste. 700		Madison	WI	53703			False		False
 1023583	23649	  	Raffle Report	False		1	  	    			S	2026-10-08 00:00:00	D													False		False
 1023584	40819	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-10-08 08:39:44	I	IDIS3	Penman	Danielle	Cunningham	Jim	1245 Executive Place, STE A		Geneva	IL	60134			False		False
-1023585	39144	  	Quarterly	False		1	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-08 08:41:20.093000000	I	IDIS3	NELSON	KAREN	NELSON	KAREN	235 LE GRANDE BLVD		AURORA	IL	60506			False		False
+1023585	39144	  	Quarterly	False		1	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-08 08:41:20	I	IDIS3	NELSON	KAREN	NELSON	KAREN	235 LE GRANDE BLVD		AURORA	IL	60506			False		False
 1023586	40889	  	Quarterly	False		1	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-08 08:47:30	I	IDIS3	O'Shaughnessy	Ryan										False		False
 1023587	41288	  	Quarterly	False		3	  	    	2026-07-17 00:00:00	2026-09-30 00:00:00	S	2026-10-08 08:53:43.917000000	I	IDIS3	Goldschmidt	Chad	Mason	Barbara	43 Trailridge Lane		Springfield	IL	62704	Goldschmidt	Chad	False		False
 1023588	37482	  	Quarterly	False		3	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-08 08:57:08	I	IDIS3	Caulkins	Dan										False		False
@@ -227204,7 +227204,7 @@ rk	Shaw	Mark	1155 Highland Avenue		Lake Forest	IL	60045			False		False
 1023806	25064	  	Quarterly	False		3	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-08 16:06:10	I	IDIS3	Madaus	Cathy	Madaus	Cathy	522 South 5th Street		Springfield	IL	62701			False		False
 1023807	39825	  	Quarterly	False		2	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-08 16:06:36	I	IDIS3	Wang	Jeremy										False		False
 1023808	36467	  	Quarterly	False		2	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-08 16:08:21.723000000	I	IDIS3	Madaus	Cathy	Madaus	Cathy	522 South 5th Street		Springfield	IL	62701			False		False
-1023809	39116	  	Quarterly	False		2	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-08 16:10:05.557000000	I	IDIS3	Reynolds	Erika										False		False
+1023809	39116	  	Quarterly	False		2	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-08 16:10:05	I	IDIS3	Reynolds	Erika										False		False
 1023810	37084	  	Quarterly	False		1	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-08 16:12:53.460000000	I	IDIS3	Bohm	Sarah	Bohm	Sarah	26498 N 1200 East Rd		Cornell	IL	61319			False		False
 1023811	41127	  	Quarterly	False		2	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-08 16:13:40.883000000	I	IDIS3	Harnen	Jared										False		False
 1023812	468	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-10-08 16:15:13	I	IDIS3	Lawson	Bennett	Mitchell	Connor	2502 N. Kedzie Blvd		Chicago	IL	60647			False		False
@@ -227336,7 +227336,7 @@ rk	Shaw	Mark	1155 Highland Avenue		Lake Forest	IL	60045			False		False
 1023939	41495	  	Statement of Organization	False		2	  	    			S	2026-10-09 09:16:39	D													False		False
 1023940	35209	  	Quarterly	False		2	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-09 09:21:39	I	IDIS3	St Peters	Josh										False		False
 1023941	41188	  	A-1	False		1	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-09 09:21:42	I	IDIS3	Nichols	Rick	Nichols	Rick	6252 N Lakewood Ave	FL 1	Chicago	IL	60660			True		False
-1023942	37299	  	Quarterly	False		1	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-09 09:22:11.140000000	I	IDIS3	Brill	Samantha										False		False
+1023942	37299	  	Quarterly	False		1	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-09 09:22:11	I	IDIS3	Brill	Samantha										False		False
 1023943	35033	  	Quarterly	False		2	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-09 09:24:29	I	IDIS3	Campbell	Terrence	Campbell	Terrence	20730 Hunt Club		Frankfort	IL	60423			False		False
 1023944	36876	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-10-09 09:24:59.537000000	I	IDIS3	Thiel Jr.	Gerald W.										False		False
 1023945	191	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-10-09 09:25:03	I	IDIS3	Jacobsen	Karen	Brown	Thomas J	1737 Happ Rd		Northbrook	IL	60062			False		False
@@ -227658,7 +227658,7 @@ rk	Shaw	Mark	1155 Highland Avenue		Lake Forest	IL	60045			False		False
 1024263	39997	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-10-11 10:37:51.167000000	I	IDIS3	Barcellona	Dominick										False		False
 1024264	40846	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-10-11 10:40:48.020000000	I	IDIS3	Fioretti Moehl	Tracy	Tarrant	Kelly	1 E Erie	Suite 525-2526	Chicago	IL	60611			False		False
 1024265	9774	  	Quarterly	False		4	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-11 10:45:48	I	IDIS3	Iverson	Dan										False		False
-1024266	38660	  	Quarterly	False		2	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-11 10:52:40.977000000	I	IDIS3	Duerr	Joy										False		False
+1024266	38660	  	Quarterly	False		2	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-11 10:52:40	I	IDIS3	Duerr	Joy										False		False
 1024267	40893	  	Quarterly	False		3	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-11 11:03:05.470000000	I	IDIS3	Beggin	Lucas										False		False
 1024268	41221	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-10-11 11:04:14.740000000	I	IDIS3	Kim	Holly										False		False
 1024269	25906	  	Quarterly	False		4	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-11 11:11:08	I	IDIS3	Bailey	Alicia										False		False
@@ -227792,7 +227792,7 @@ rk	Shaw	Mark	1155 Highland Avenue		Lake Forest	IL	60045			False		False
 1024397	39482	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-10-11 22:22:10.043000000	I	IDIS3	Herrera	Heather										False		False
 1024398	35178	  	Quarterly	True		2	  	    	2026-04-01 00:00:00	2026-06-30 00:00:00	S	2026-10-11 22:23:53	I	IDIS3	Nelson	Michelle										True	Google Workspace overcharge $8.40	False
 1024399	35178	  	Quarterly	True		2	  	    	2026-04-01 00:00:00	2026-06-30 00:00:00	S	2026-10-11 22:26:38	I	IDIS3	Nelson	Michelle										True	Adjusted for $8.40 Google workspace charge.	False
-1024400	37173	  	Quarterly	False		1	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-11 22:28:56.220000000	I	IDIS3	Mason	Barbara	Mason	Barbara	43 Trailridge Lane		Springfield	IL	62704			False		False
+1024400	37173	  	Quarterly	False		1	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-11 22:28:56	I	IDIS3	Mason	Barbara	Mason	Barbara	43 Trailridge Lane		Springfield	IL	62704			False		False
 1024401	35178	  	Quarterly	True		2	  	    	2026-04-01 00:00:00	2026-06-30 00:00:00	S	2026-10-11 22:30:34	I	IDIS3	Nelson	Michelle										False	Google workspace overcharge	False
 1024402	35178	  	Quarterly	False		2	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-11 22:31:22	I	IDIS3	Nelson	Michelle										False		False
 1024403	36043	  	Quarterly	False		4	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-11 22:47:14	I	IDIS3	Chung	Susann	Lowry	Matthew	1670 Valencia Way		Mundelein	IL	60060			False		False
@@ -227961,7 +227961,7 @@ rk	Shaw	Mark	1155 Highland Avenue		Lake Forest	IL	60045			False		False
 1024566	31631	  	Quarterly	False		6	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-12 12:45:16	I	IDIS3	Pratt	Stacy										False		False
 1024567	39384	  	A-1	False		2	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-10-12 12:46:29.933000000	I	IDIS3	Ploger	Jared	Bartley	Sarah	6939 W North Ave		Oak Park	IL	60302			False		False
 1024568	21664	  	Quarterly	False		1	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-12 12:47:00	I	IDIS3	Crawford	Mark										False		False
-1024569	39015	  	Quarterly	False		1	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-12 12:48:27.233000000	I	IDIS3	Black	Daniel										False		False
+1024569	39015	  	Quarterly	False		1	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-12 12:48:27	I	IDIS3	Black	Daniel										False		False
 1024570	24770	  	Quarterly	False		2	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-12 12:50:32	I	IDIS3	Summers	Laurie	Summers	Laurie	561 West Arlington Lane		Crete	IL	60417			False		False
 1024571	41326	  	Quarterly	False		7	  	    	2026-07-31 00:00:00	2026-09-30 00:00:00	S	2026-10-12 12:53:26.557000000	I	IDIS3	Jenks	Daniel										False		False
 1024572	15354	  	Quarterly	False		4	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-12 12:53:55	I	IDIS3	Scherer, M. D.	Susan M.	Mason	Barbara	43 Trailridge Lane		Springfield	IL	62704			False		False
@@ -228232,7 +228232,7 @@ rk	Shaw	Mark	1155 Highland Avenue		Lake Forest	IL	60045			False		False
 1024837	41154	  	A-1	False		1	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-13 09:24:51	D													True		False
 1024838	23533	  	Quarterly	False		3	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-13 09:24:55	I	IDIS3	Airdo	Anthony	Airdo	Anthony	1611 N. 18th Ave		Melrose Park	IL	60160			False		False
 1024839	41046	  	Quarterly	False		2	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-13 09:25:22	I	IDIS3	Berger-Neel	Bonnie										False		False
-1024840	38988	  	Quarterly	False		2	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-13 09:25:31.767000000	I	IDIS3	Uddavolu	Anu										False		False
+1024840	38988	  	Quarterly	False		2	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-13 09:25:31	I	IDIS3	Uddavolu	Anu										False		False
 1024841	40689	  	Quarterly	False		1	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-13 09:25:52	D													False		False
 1024842	41417	  	Quarterly	False		1	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-13 09:26:39	D													False		False
 1024843	35693	  	Quarterly	False		3	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-13 09:26:29	I	IDIS3	Russell	Jane										False		False
@@ -228588,7 +228588,7 @@ rk	Shaw	Mark	1155 Highland Avenue		Lake Forest	IL	60045			False		False
 1025194	11575	  	Quarterly	False		1	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-13 18:45:26.593000000	I	IDIS3	Newquist	Sherry										False		False
 1025195	1195	  	Quarterly	False		1	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-13 18:46:25	I	IDIS3	Skeffington	John	Rothrock	Mirinda	100 South Water Street	Suite 103	Decatur	IL	62523			False		False
 1025196	37448	  	Quarterly	False		3	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-13 18:46:39	I	IDIS3	Howser	Benton	Howser	Benton	313 Linden Avenue		Wilmette	IL	60091			False		False
-1025197	41430	  	Quarterly	False		4	  	    	2026-08-28 00:00:00	2026-09-30 00:00:00	S	2026-10-13 18:47:34	I	IDIS3	Decker	Lori								Decker	Lori	False		False
+1025197	41430	  	Quarterly	False		4	  	    	2026-08-28 00:00:00	2026-09-30 00:00:00	S	2026-10-13 18:47:34	I	IDIS3	Decker	Lori								Decker	Lori	True		False
 1025198	25579	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-10-13 18:48:40.190000000	I	IDIS3	Tourville	John R Jr	Tourville	John R Jr	6 Westwood Lane		Murphysboro	IL	62966			False		False
 1025199	41043	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-10-13 18:55:42.680000000	I	IDIS3	Kozonis	Loukas	Patitucci	Rudi	3533 Walnut Ave		Wilmette	IL	60091			False		False
 1025200	40891	  	Quarterly	False		4	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-13 19:01:31.037000000	I	IDIS3	Javier	Mark Anthony	Javier	Mark Anthony	5219 N Virginia Ave		Chicago	IL	60625			False		False
@@ -228837,7 +228837,7 @@ rk	Shaw	Mark	1155 Highland Avenue		Lake Forest	IL	60045			False		False
 1025444	17634	  	Quarterly	False		4	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-14 11:07:29	I	IDIS3	El-Ali	Katie										False		False
 1025445	39347	  	Quarterly	False		1	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-14 11:09:44.723000000	I	IDIS3	Elking	Tiffany										False		False
 1025446	41233	  	Quarterly	False		7	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-14 11:10:00	I	IDIS3	Luczak	Margie										True		False
-1025447	37279	  	Quarterly	True		5	  	    	2026-04-01 00:00:00	2026-06-30 00:00:00	S	2026-10-14 11:10:13.180000000	I	IDIS3	Haffner	Steve	Haffner	Steve	658 W. Walnut St		Canton	IL	61520			False	Missed reporting of $550.95 for food service @ Drew for Comptroller event.	False
+1025447	37279	  	Quarterly	True		5	  	    	2026-04-01 00:00:00	2026-06-30 00:00:00	S	2026-10-14 11:10:13	I	IDIS3	Haffner	Steve	Haffner	Steve	658 W. Walnut St		Canton	IL	61520			False	Missed reporting of $550.95 for food service @ Drew for Comptroller event.	False
 1025448	23354	  	Quarterly	False		2	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-14 11:10:23	I	IDIS3	McBride	Elissa										False		False
 1025449	352	  	Quarterly	True		3	  	    	2026-04-01 00:00:00	2026-06-30 00:00:00	S	2026-10-14 11:11:49	I	IDIS3	Senffner	Jeff	Senffner	Jeff	2571 N State Route 49		Clifton	IL	60927	Senffner	Jeff	False	Part 8 Expenditures: There was a receipt we received in August 2026 for payment that was dated 6/14/2026 for GFS in the amount of $87.44.	False
 1025450	24296	  	Quarterly	False		3	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-14 11:14:00.533000000	I	IDIS3	Minturn	Lucy										False		False
@@ -229115,11 +229115,11 @@ rk	Shaw	Mark	1155 Highland Avenue		Lake Forest	IL	60045			False		False
 1025722	40948	  	Quarterly	False		2	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-14 15:56:28	I	IDIS3	Hale	Marc										False		False
 1025723	20202	  	Quarterly	False		4	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-14 15:56:57	I	IDIS3	Craig	Rodney	Craig	Rodney	6835 Hawthorne Lane		Hanover Park	IL	60133	Craig	Rodney	False		False
 1025724	32673	  	Quarterly	False		2	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-14 15:59:08	I	IDIS3	Rupprecht	Judy										False		False
-1025725	37419	  	Quarterly	False		6	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-14 15:59:09.380000000	I	IDIS3	ARNOLD	WILLIE D.	ARNOLD	WILLIE D.	1816 WILFORD AVENUE		EAST SAINT LOUIS	IL	62207			True		False
+1025725	37419	  	Quarterly	False		6	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-14 15:59:09	I	IDIS3	ARNOLD	WILLIE D.	ARNOLD	WILLIE D.	1816 WILFORD AVENUE		EAST SAINT LOUIS	IL	62207			True		False
 1025726	40079	  	Quarterly	False		1	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-14 15:59:32	D													False		False
 1025727	40962	  	Quarterly	False		3	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-14 16:01:00.520000000	I	IDIS3	Wilson	Rich	Wilson	Rich	21223 US Highway 150		Paris	IL	61944			False		False
 1025728	34956	  	Quarterly	False		3	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-14 16:01:33	I	IDIS3	Brown	Thomas										False		False
-1025729	38955	  	Quarterly	False		1	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-14 16:01:52.853000000	I	IDIS3	McGill	Benjamin	Haaker	Alyssa	2236 S Pasfield		Springfield	IL	62704			False		False
+1025729	38955	  	Quarterly	False		1	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-14 16:01:52	I	IDIS3	McGill	Benjamin	Haaker	Alyssa	2236 S Pasfield		Springfield	IL	62704			False		False
 1025730	41082	  	Letter/Correspondence	False		1	  	    			S	2026-10-14 16:02:17	D													False		False
 1025731	25660	  	Quarterly	False		1	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-14 16:03:19	I	IDIS3	Werden	Lori										False		False
 1025732	36003	  	Quarterly	False		3	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-14 16:04:55	I	IDIS3	OKeefe	Maggie										False		False
@@ -229250,7 +229250,7 @@ rk	Shaw	Mark	1155 Highland Avenue		Lake Forest	IL	60045			False		False
 1025857	41182	  	A-1	False		1	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-14 19:29:54.740000000	I	IDIS3	Teague	Tricia	Teague	Tricia	1102 Giddings St		Danville	IL	61832			True		False
 1025858	41182	  	Quarterly	False		5	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-14 19:31:56	I	IDIS3	Teague	Tricia	Teague	Tricia	1102 Giddings St		Danville	IL	61832			False		False
 1025859	41129	  	Quarterly	False		5	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-14 19:32:52	I	IDIS3	Erlinger	Linda	Wurth	Emily	133 S Humphrey Ave		Oak Park	IL	60302			False		False
-1025860	37279	  	Quarterly	False		4	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-14 19:33:17.517000000	I	IDIS3	Haffner	Steve	Haffner	Steve	658 W. Walnut St		Canton	IL	61520			False		False
+1025860	37279	  	Quarterly	False		4	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-14 19:33:17	I	IDIS3	Haffner	Steve	Haffner	Steve	658 W. Walnut St		Canton	IL	61520			False		False
 1025861	8980	  	Quarterly	True		4	  	    	2026-01-01 00:00:00	2026-03-31 00:00:00	S	2026-10-14 19:33:25	I	IDIS3	Meyer	Kourtnee										False	Correct transfer-outs categorized as expenses	False
 1025862	34894	  	Quarterly	False		8	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-14 19:35:53	I	IDIS3	Gardiner	James	Gardiner	James	5941 N Mobile		Chicago	IL	60646			False		False
 1025863	24416	  	Quarterly	False		1	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-14 19:37:17.603000000	I	IDIS3	NEFF	ROBERT										False		False
@@ -230168,7 +230168,7 @@ rk	Shaw	Mark	1155 Highland Avenue		Lake Forest	IL	60045			False		False
 1026775	40156	  	Quarterly	False		3	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-15 15:54:57.203000000	I	IDIS3	Holmes	Troy	Holmes	Troy	3639 Antholl St		Flossmoor	IL	60422	Holmes	Troy	False		False
 1026776	31972	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-10-15 15:55:17.853000000	I	IDIS3	Wilcox	Craig	Wilcox	Craig	PO Box 543		Ringwood	IL	60072			False		False
 1026777	40452	  	Quarterly	False		2	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-15 15:55:39	I	IDIS3	Weber	Steve										False		False
-1026778	37419	  	Quarterly	True		7	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-15 15:56:42.463000000	I	IDIS3	ARNOLD	WILLIE D.	ARNOLD	WILLIE D.	1816 WILFORD AVENUE		EAST SAINT LOUIS	IL	62207			False	Schedule A – Receipts: Corrected August 10, 2026 ATM deposit receipt details based on bank check images, including contributor attribution for Belinda N. Hamilton, contribution amount for Irma G. Golliday, Larry McCaleb cash amount, and check numbers. Corrected September 2, 2026 temporary $200 receipt classification. Schedule B – Expenditures: Added/corrected September 4, 2026 return of $200 temporary receipt and related $47 bank transaction fee.	False
+1026778	37419	  	Quarterly	True		7	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-15 15:56:42	I	IDIS3	ARNOLD	WILLIE D.	ARNOLD	WILLIE D.	1816 WILFORD AVENUE		EAST SAINT LOUIS	IL	62207			False	Schedule A – Receipts: Corrected August 10, 2026 ATM deposit receipt details based on bank check images, including contributor attribution for Belinda N. Hamilton, contribution amount for Irma G. Golliday, Larry McCaleb cash amount, and check numbers. Corrected September 2, 2026 temporary $200 receipt classification. Schedule B – Expenditures: Added/corrected September 4, 2026 return of $200 temporary receipt and related $47 bank transaction fee.	False
 1026779	34315	  	Quarterly	True		10	  	    	2025-07-01 00:00:00	2025-09-30 00:00:00	S	2026-10-15 15:57:46	I	IDIS3	Holt	Cynthia										False	Re-classify transactions per audit	False
 1026780	34129	  	Quarterly	False		4	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-15 15:58:55	I	IDIS3	Goff	Justin										False		False
 1026781	41442	  	Quarterly	False		16	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-15 15:59:13	I	NGP VAN	Burden	Kevin										False		False
@@ -230698,7 +230698,7 @@ rk	Shaw	Mark	1155 Highland Avenue		Lake Forest	IL	60045			False		False
 1027305	37243	  	Quarterly	True		6	  	    	2026-04-01 00:00:00	2026-06-30 00:00:00	S	2026-10-15 22:30:45	I	IDIS3	Sheahan	Mark										False	Non-itemized expenditures were not entered.  Did not notice until I saw the beginning bank balance was incorrect.	False
 1027306	4415	  	Quarterly	False		11	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-15 22:30:45	I	IDIS3	Flynn	Michael										False		False
 1027307	37069	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-10-15 22:30:54.203000000	I	IDIS3	Bachmann	Zach	Brottman	Eli	3950 N Lake Shore Dr Unit 308		Chicago	IL	60613			False		False
-1027308	39026	  	Quarterly	False		2	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-15 22:33:04.887000000	I	IDIS3	Bell	Tamir	Bell	Tamir	2419 W Jefferson St		Rockford	IL	61101			False		False
+1027308	39026	  	Quarterly	False		2	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-15 22:33:04	I	IDIS3	Bell	Tamir	Bell	Tamir	2419 W Jefferson St		Rockford	IL	61101			False		False
 1027309	35290	  	Quarterly	False		10	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-15 22:33:51.687000000	I	IDIS3	Stiff	Michelle										False		False
 1027310	40827	  	Quarterly	False		1	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-15 22:34:11	I	IDIS3	Rodriguez	Jaclyn	Rodriguez	Jaclyn	1300 New Castle Drive		Libertyville	IL	60048			False		False
 1027311	36278	  	Quarterly	False		22	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-15 22:34:28	I	IDIS3	Johnson	Adriane	McClain	Jillian	6939 w North Ave		Oak Park	IL	60303			False		False
@@ -230716,14 +230716,14 @@ rk	Shaw	Mark	1155 Highland Avenue		Lake Forest	IL	60045			False		False
 1027323	22767	  	Quarterly	False		6	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-15 22:46:47.853000000	I	IDIS3	Lilly	Camille Y.	Mason	Barbara S.	43 Trailridge Lane		Springfield	IL	62704			False		False
 1027324	32197	  	Quarterly	False		1	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-15 22:47:08	I	IDIS3	Abbasi	Pericles										False		False
 1027325	37243	  	A-1	False		1	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-15 22:48:18	I	IDIS3	Sheahan	Mark										True		False
-1027326	37245	  	Quarterly	False		13	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-15 22:48:37.490000000	I	IDIS3	Herbert	Marcus	Herbert	Marcus	918 22nd ave		East Moline	IL	61244			False		False
+1027326	37245	  	Quarterly	False		13	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-15 22:48:37	I	IDIS3	Herbert	Marcus	Herbert	Marcus	918 22nd ave		East Moline	IL	61244			False		False
 1027327	20715	  	Quarterly	False		12	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-15 22:50:29	I	IDIS3	Abbasi	Pericles										False		False
 1027328	40975	  	Quarterly	True		7	  	    	2026-01-01 00:00:00	2026-03-31 00:00:00	S	2026-10-15 22:50:40.720000000	I	IDIS3	Traverso	Abraham	Mason	Barbara	43 Trailridge Lane		Springfield	IL	62704			False	receipts and expenses	False
 1027329	40975	  	Quarterly	True		3	  	    	2026-04-01 00:00:00	2026-06-30 00:00:00	S	2026-10-15 22:51:53.963000000	I	IDIS3	Traverso	Abraham	Mason	Barbara	43 Trailridge Lane		Springfield	IL	62704			False	receipts and expenses	False
 1027330	41280	  	Quarterly	True		4	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-15 22:52:20	I	IDIS3	Phillips	Cher										False		False
 1027331	40975	  	Quarterly	False		2	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-15 22:53:30.373000000	I	IDIS3	Traverso	Abraham	Mason	Barbara	43 Trailridge Lane		Springfield	IL	62704			False		False
 1027332	39894	  	A-1	False		1	  	    	2026-08-07 00:00:00	2026-09-30 00:00:00	S	2026-10-15 22:54:05	I	IDIS3	Bailey Preston	Brittany										True		False
-1027333	38902	  	Quarterly	False		5	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-15 22:54:26.203000000	I	IDIS3	Leu	Marylee										False		False
+1027333	38902	  	Quarterly	False		5	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-15 22:54:26	I	IDIS3	Leu	Marylee										False		False
 1027334	39894	  	Quarterly	False		5	  	    	2026-08-07 00:00:00	2026-09-30 00:00:00	S	2026-10-15 22:55:03	I	IDIS3	Bailey Preston	Brittany										False		False
 1027335	34289	  	Quarterly	False		6	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-15 22:55:51	I	IDIS3	Anaya	Alma E.										False		False
 1027336	39894	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-10-15 22:56:09	I	IDIS3	Bailey Preston	Brittany										False		False
@@ -230793,7 +230793,7 @@ rk	Shaw	Mark	1155 Highland Avenue		Lake Forest	IL	60045			False		False
 1027400	35669	  	Quarterly	False		9	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-15 23:37:12.463000000	I	IDIS3	Born	Brendan										False		False
 1027401	41338	  	Quarterly	False		6	  	    	2026-08-03 00:00:00	2026-09-30 00:00:00	S	2026-10-15 23:37:24	I	IDIS3	Moore	Ruthie										False		False
 1027402	32732	  	Quarterly	False		3	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-15 23:37:33	I	IDIS3	Joyce	Kimberly	Joyce	Kimberly	3201 Hopkins St		Steger	IL	60475	Joyce	Kimberly	False		False
-1027403	38625	  	Quarterly	False		4	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-15 23:37:35.733000000	I	IDIS3	Van Hof	Gloria										False		False
+1027403	38625	  	Quarterly	False		4	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-15 23:37:35	I	IDIS3	Van Hof	Gloria										False		False
 1027404	25933	  	Quarterly	False		1	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-15 23:37:40	I	IDIS3	Patitucci	Rudi										False		False
 1027405	37028	  	Quarterly	False		4	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-15 23:37:41	I	IDIS3	Scifo	Ruth										False		False
 1027406	31659	  	A-1	False		1	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-15 23:38:25	I	IDIS3	Costa	Elnalyn										True		False
@@ -230835,7 +230835,7 @@ rk	Shaw	Mark	1155 Highland Avenue		Lake Forest	IL	60045			False		False
 1027442	35013	  	Quarterly	False		8	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-15 23:59:37	I	IDIS3	Hanson	Matt										False		False
 1027443	40814	  	Quarterly	False		1	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-15 23:59:55	I	IDIS3	Lakhani	Henna	Lakhani	Karim	110 W Superior St, Unit 701		Chicago	IL	60654			False		False
 1027444	40995	  	Quarterly	False		5	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-16 00:10:41	I	IDIS3	Davis	Terrell	Davis	Terrell	210 Stolze Drive		East Alton	IL	62024	Davis	Terrell	True		False
-1027445	38732	  	Quarterly	False		5	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-16 00:19:33.220000000	I	IDIS3	Gumz	Michelle	Gumz	Michelle	788 Morningside Ave		Aurora	IL	60505	Gumz	Michelle	False		False
+1027445	38732	  	Quarterly	False		5	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-16 00:19:33	I	IDIS3	Gumz	Michelle	Gumz	Michelle	788 Morningside Ave		Aurora	IL	60505	Gumz	Michelle	False		False
 1027446	34954	  	Quarterly	False		2	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-16 01:44:58	I	IDIS3	Burse	Alfred										False		False
 1027447	39033	  	Quarterly	False		4	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-16 03:34:40	I	IDIS3	Felix	Victor	Felix	Victor	41 S Butrick St.	Apt 2	Waukegan	IL	60085	Felix	Victor	False		False
 1027448	34738	  	Quarterly	False		2	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-16 03:49:52	I	IDIS3	Animasaun	Olajide John										False		False
@@ -231105,7 +231105,7 @@ rk	Shaw	Mark	1155 Highland Avenue		Lake Forest	IL	60045			False		False
 1027712	572	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-10-17 13:49:46	I	IDIS3	O'Donnell	Brian										False		False
 1027713	9211	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-10-17 14:28:56.463000000	I	IDIS3	Johnson	Lorrie										False		False
 1027714	36454	  	A-1	False		3	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-10-17 15:19:12.203000000	I	IDIS3	Hernandez	Norma										False		False
-1027715	38974	  	Quarterly	False		2	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-17 15:43:19.257000000	I	IDIS3	Houlihan	John										False		False
+1027715	38974	  	Quarterly	False		2	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-17 15:43:19	I	IDIS3	Houlihan	John										False		False
 1027716	34348	  	Quarterly	False		1	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-17 15:47:31	I	IDIS3	Fellars	Angela										False		False
 1027717	25061	  	Quarterly	False		2	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-17 16:04:43.357000000	I	IDIS3	Preston	Scott										False		False
 1027718	41082	  	A-1	False		2	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-10-17 16:58:22.923000000	I	IDIS3	Brice	Coleman	Brice	Coleman	2517 N Avers Ave		Chicago	IL	60647			False		False
@@ -231370,7 +231370,7 @@ rk	Shaw	Mark	1155 Highland Avenue		Lake Forest	IL	60045			False		False
 1027978	40070	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-10-20 09:40:29.813000000	I	IDIS3	Ricordati	Dave	Grisanzio	Elizabeth	1340 N. Astor Street	Unit 604	Chicago	IL	60610			False		False
 1027979	18001	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-10-20 09:43:38.097000000	I	NGP VAN	Rogers, Jr.	Larry										False		False
 1027980	159	  	A-1	False		2	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-10-20 10:05:23.307000000	I	IDIS3	Barnett	Josh										False		False
-1027981	37314	  	Quarterly	False		1	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-20 10:11:40.193000000	I	IDIS3	Gooding	Andrea	Gooding	Andrea	3030 East County Road 1000		Plymouth	IL	62367			False		False
+1027981	37314	  	Quarterly	False		1	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-20 10:11:40	I	IDIS3	Gooding	Andrea	Gooding	Andrea	3030 East County Road 1000		Plymouth	IL	62367			False		False
 1027982	18937	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-10-20 10:13:00.773000000	I	IDIS3	McCue	Carol										False		False
 1027983	25018	  	Letter/Correspondence	False		1	  	    			S	2026-10-20 10:13:19	D													False		False
 1027984	365	  	Letter/Correspondence	False		1	  	    			S	2026-10-20 10:19:37	D													False		False
@@ -231543,7 +231543,7 @@ rk	Shaw	Mark	1155 Highland Avenue		Lake Forest	IL	60045			False		False
 1028151	41469	  	Quarterly	True		3	  	    	2026-09-23 00:00:00	2026-09-30 00:00:00	S	2026-10-21 08:56:30.290000000	I	IDIS3	Weiner	Mark										False	employer/occupation added	False
 1028152	41521	  	Statement of Organization	False		2	  	    			S	2026-10-21 08:58:00	D													False		False
 1028153	12800	  	A-1	False		2	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-10-21 09:00:40.547000000	I	IDIS3	Zay	James										False		False
-1028154	38795	  	Quarterly	False		2	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-21 09:07:21.327000000	I	IDIS3	Williams	Richard										False		False
+1028154	38795	  	Quarterly	False		2	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-21 09:07:21	I	IDIS3	Williams	Richard										False		False
 1028155	40768	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-10-21 09:07:26.143000000	I	IDIS3	Ivec	JohnPaul	Ivec	JohnPaul	24523 W. Emyvale Ct.		Plainfield	IL	60586			False		False
 1028156	32880	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-10-21 09:07:51	I	IDIS3	Swartzman	Simon										False		False
 1028157	39493	  	Quarterly	False		3	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-10-21 09:12:46	I	IDIS3	Poss	John	Poss	John	508 S Delphia		Park Ridge	IL	60068	Poss	John	False		False
@@ -233479,7 +233479,7 @@ rk	Shaw	Mark	1155 Highland Avenue		Lake Forest	IL	60045			False		False
 1030099	40813	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-16 12:00:32.610000000	I	IDIS3	Karen	Battaglia	Rotman	Caleb	2312 W Walton St	Apt 2f	Chicago	IL	60622			False		False
 1030100	40848	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-16 12:01:23	I	IDIS3	Clark	Michele	Rotman	Caleb	6939 W. North Ave.		Oak Park	IL	60302			False		False
 1030101	40848	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-16 12:04:15	I	IDIS3	Clark	Michele	Rotman	Caleb	6939 W. North Ave.		Oak Park	IL	60302			False		False
-1030102	38655	  	Quarterly	True		2	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-11-16 12:11:43.893000000	I	IDIS3	Wellman	Christine										False	Notice received of In Kind contribution from One People's Campaign in the 3rd quarter. Invoice submitted to us Nov 10 2026	False
+1030102	38655	  	Quarterly	True		2	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-11-16 12:11:43	I	IDIS3	Wellman	Christine										False	Notice received of In Kind contribution from One People's Campaign in the 3rd quarter. Invoice submitted to us Nov 10 2026	False
 1030103	41429	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-16 12:30:50.593000000	I	IDIS3	Heidemann	Bryan										False		False
 1030104	39384	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-16 12:36:35.857000000	I	IDIS3	Ploger	Jared	Bartley	Sarah	6939 W North Ave		Oak Park	IL	60302			False		False
 1030105	37009	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-16 12:39:22.447000000	I	IDIS3	Syed	Nabeela	Bartley	Sarah	6939 W North Ave		Oak Park	IL	60302			False		False
@@ -233551,7 +233551,7 @@ rk	Shaw	Mark	1155 Highland Avenue		Lake Forest	IL	60045			False		False
 1030171	29490	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-17 09:57:43	I	IDIS3	Anderson	Ryan										False		False
 1030172	22331	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-17 10:21:18.393000000	I	IDIS3	Robinson	James	Mahoney	Grainne	1520 S. Lowell		Springfield	IL	62704			False		False
 1030173	39938	  	A-1	False		2	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-17 10:29:23.187000000	I	IDIS3	Bruckmann	Sara	Bruckmann	Sara	1628 Wisconsin Ave		Berwyn	IL	60402			False		False
-1030174	41411	  	Quarterly	True		5	  	    	2026-08-28 00:00:00	2026-09-30 00:00:00	S	2026-11-17 10:37:30.363000000	I	IDIS3	Carr Jr.	Josef Michael										False	D1 form was amended to reflect the beginning Bank balance of $100.	False
+1030174	41411	  	Quarterly	True		5	  	    	2026-08-28 00:00:00	2026-09-30 00:00:00	S	2026-11-17 10:37:30	I	IDIS3	Carr Jr.	Josef Michael										False	D1 form was amended to reflect the beginning Bank balance of $100.	False
 1030175	376	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-17 10:52:41	I	IDIS3	Joyce	Martin	Murphy	James	10529 S. Claremont		Chicago	IL	60643			False		False
 1030176	23955	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-17 10:57:18.533000000	I	IDIS3	Hughes	Norine	Murphy	James	10529 S. Claremont Ave		Chicago	IL	60643			False		False
 1030177	39411	  	A-1	False		2	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-17 11:02:14.507000000	I	IDIS3	Gill	Dan	Murphy	James	10529 S. Claremont		Chicago	IL	60643			False		False
@@ -233660,38 +233660,99 @@ rk	Shaw	Mark	1155 Highland Avenue		Lake Forest	IL	60045			False		False
 1030280	507	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-19 11:43:42.273000000	I	vocus	Horne	Jeffrey										False		False
 1030281	40637	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-19 11:43:53.490000000	I	IDIS3	Tobon	Daniel	Tobon	Daniel	3524 W Belden Ave		CHICAGO	IL	60647			False		False
 1030282	17057	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-19 12:08:32.263000000	I	IDIS3	McDonnell	Mark	Williams	Jill	c/o ARCH Venture Partners	8755 W. Higgins Road, Suite 1025	Chicago	IL	60631			False		False
-1030283	580	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-19 12:50:03.303000000	I	IDIS3	Anderson	Kristopher	Barnett	Sara	410 N. Michigan Avenue, Suite 900		Chicago	IL	60611			False		False
-1030284	1085	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-19 12:58:54.760000000	I	IDIS3	Karr	Rob	Scott	Brynne	216 Broadway		Springfield	IL	62701			False		False
+1030283	580	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-19 12:50:03.303000000	I	IDIS3	Anderson	Kristopher	Barnett	Sara	410 N. Michigan Avenue, Suite 900		Chicago	IL	60611			False		False
+1030284	1085	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-19 12:58:54.760000000	I	IDIS3	Karr	Rob	Scott	Brynne	216 Broadway		Springfield	IL	62701			False		False
 1030285	292	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-19 14:05:32	I	IDIS3	Lamar	Cynthia	Lamar	Cynthia	PO BOX 78		SPRINGFIELD	IL	62705			False		False
-1030286	38699	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-19 14:26:57.943000000	I	IDIS3	Lawson	Bennett	Mitchell	Connor	3132 W North Ave	Apt 2	Chicago	IL	60647			False		False
-1030287	39938	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-19 14:31:36.157000000	I	IDIS3	Bruckmann	Sara	Bruckmann	Scott	1628 Wisconsin Ave		Berwyn	IL	60402			False		False
-1030288	20955	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-19 14:33:35.863000000	I	IDIS3	Folisi	Joseph										False		False
-1030289	295	  	Quarterly	True		0	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-11-19 14:36:26	I	IDIS3	Decatoire	Sara	Decatoire	Sara	PO BOX 588		Rochester	IL	62563	Decatoire	Sara	False	Addresses have been added for: Matthew Bielewa, Pat Briody, Dan Glod, Russell Head, Joshua Horeni, Nick James, Steve Jeffers, Lionel Martinez, Chad Mease, and Jennifer Stefani. Employer and occupation have been added for Pete Stefani.	False
+1030286	38699	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-19 14:26:57.943000000	I	IDIS3	Lawson	Bennett	Mitchell	Connor	3132 W North Ave	Apt 2	Chicago	IL	60647			False		False
+1030287	39938	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-19 14:31:36.157000000	I	IDIS3	Bruckmann	Sara	Bruckmann	Scott	1628 Wisconsin Ave		Berwyn	IL	60402			False		False
+1030288	20955	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-19 14:33:35.863000000	I	IDIS3	Folisi	Joseph										False		False
+1030289	295	  	Quarterly	True		9	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-11-19 14:36:26	I	IDIS3	Decatoire	Sara	Decatoire	Sara	PO BOX 588		Rochester	IL	62563	Decatoire	Sara	False	Addresses have been added for: Matthew Bielewa, Pat Briody, Dan Glod, Russell Head, Joshua Horeni, Nick James, Steve Jeffers, Lionel Martinez, Chad Mease, and Jennifer Stefani. Employer and occupation have been added for Pete Stefani.	False
 1030290	31771	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-19 14:42:48	I	IDIS3	Noble	Paul	Noble	Paul	900 7th Street NW		Washington	DC	20001			False		False
 1030291	31771	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-19 14:47:39	I	IDIS3	Noble	Paul	Noble	Paul	900 7th Street NW		Washington	DC	20001			False		False
-1030292	27256	  	Quarterly	False		0	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-11-19 14:50:53.007000000	I	IDIS3	McClellan	Steven	McClellan	Steven	1710 N. Sedgwick		Chicago	IL	60614			False		False
+1030292	27256	  	Quarterly	False		2	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-11-19 14:50:53	I	IDIS3	McClellan	Steven	McClellan	Steven	1710 N. Sedgwick		Chicago	IL	60614			False		False
 1030293	1043	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-19 14:58:11	I	IDIS3	Barnfield	Terry	Bergschneider	Betty	3100 Montvale Dr		Springfield	IL	62704			False		False
 1030294	40940	  	Statement of Organization	True		2	  	    			S	2026-11-19 15:08:15	D													False		False
 1030295	41416	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-19 15:23:22	I	IDIS3	ONeil	Cheryl	ONeil	Cheryl	208 W. Thomas St		Wyoming	IL	61491			False		False
-1030296	41276	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-19 15:35:54.790000000	I	IDIS3	Dixon Heitman	Jessica	Mahoney	Grainne	1520 S Lowell		Springfield	IL	62704			False		False
+1030296	41276	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-19 15:35:54.790000000	I	IDIS3	Dixon Heitman	Jessica	Mahoney	Grainne	1520 S Lowell		Springfield	IL	62704			False		False
 1030297	41565	  	Statement of Organization	False		2	  	    			S	2026-11-19 15:38:46	D													False		False
 1030299	41566	  	Statement of Organization	False		2	  	    			S	2026-11-19 16:09:18	D													False		False
-1030300	39618	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-19 16:13:44.847000000	I	IDIS3	Crawford	Michael	Mahoney	Grainne	1520 S Lowell		Springfield	IL	62704			False		False
-1030301	39469	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-19 16:25:20.373000000	I	IDIS3	O'Neill Burke	Eileen	Wurth	Emily	133 S Humphrey		Oak Park	IL	60302			False		False
-1030302	40729	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-19 16:28:19.953000000	I	IDIS3	Parker	Jeremy	Mahoney	Grainne	1520 S Lowell		Springfield	IL	62704			False		False
-1030303	34975	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-19 17:01:08.533000000	I	IDIS3	Conyears-Ervin	Melissa										False		False
-1030304	31665	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-19 17:01:43.510000000	I	IDIS3	Aldridge	Barry										False		False
-1030305	17217	  	Final	False		0	  	    	2026-10-01 00:00:00	2026-11-19 00:00:00	S	2026-11-19 17:09:01.143000000	I	IDIS3	Goes	Art										False		False
-1030306	35786	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-19 17:40:09.987000000	I	NGP VAN	Dimakos	Laurie										False		False
-1030307	22816	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-19 19:38:07.967000000	I	IDIS3	Robinson	Gwendolyn										False		False
-1030308	41429	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-19 20:07:57.097000000	I	IDIS3	Heidemann	Bryan										False		False
+1030300	39618	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-19 16:13:44.847000000	I	IDIS3	Crawford	Michael	Mahoney	Grainne	1520 S Lowell		Springfield	IL	62704			False		False
+1030301	39469	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-19 16:25:20.373000000	I	IDIS3	O'Neill Burke	Eileen	Wurth	Emily	133 S Humphrey		Oak Park	IL	60302			False		False
+1030302	40729	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-19 16:28:19.953000000	I	IDIS3	Parker	Jeremy	Mahoney	Grainne	1520 S Lowell		Springfield	IL	62704			False		False
+1030303	34975	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-19 17:01:08.533000000	I	IDIS3	Conyears-Ervin	Melissa										False		False
+1030304	31665	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-19 17:01:43.510000000	I	IDIS3	Aldridge	Barry										False		False
+1030305	17217	  	Final	False		2	  	    	2026-10-01 00:00:00	2026-11-19 00:00:00	S	2026-11-19 17:09:01.143000000	I	IDIS3	Goes	Art										False		False
+1030306	35786	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-19 17:40:09.987000000	I	NGP VAN	Dimakos	Laurie										False		False
+1030307	22816	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-19 19:38:07.967000000	I	IDIS3	Robinson	Gwendolyn										False		False
+1030308	41429	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-19 20:07:57.097000000	I	IDIS3	Heidemann	Bryan										False		False
 1030309	41010	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-19 20:26:14	I	IDIS3	Barber	Benjamin	Barber	Benjamin	204 Anges Street		Port	IL	61275			False		False
-1030310	21125	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-19 20:43:16.023000000	I	IDIS3	Loskove	Eva	Shapiro	Yisrael	2937 W Lunt Ave		Chicago	IL	60645			False		False
+1030310	21125	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-19 20:43:16.023000000	I	IDIS3	Loskove	Eva	Shapiro	Yisrael	2937 W Lunt Ave		Chicago	IL	60645			False		False
 1030311	28444	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-19 20:51:44	I	IDIS3	Ennis	Jeremy										False		False
-1030312	41210	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-19 21:32:08.617000000	I	IDIS3	Zamarron	Kathryn										False		False
-1030313	20255	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-19 22:00:22.377000000	I	IDIS3	Theilen	Kris										False		False
-1030314	31665	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-19 23:57:20.767000000	I	IDIS3	Aldridge	Barry										False		False
-1030315	40924	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-20 01:10:03.857000000	I	IDIS3	McGuire	Joseph										False		False
-1030316	35685	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-20 07:58:19.777000000	I	IDIS3	Krahn	David										False		False
-1030317	41366	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-20 08:04:50.127000000	I	IDIS3	Merriman	Theresa	Merriman	Theresa	4214 Baxter Road		Rockford	IL	61109			False		False
+1030312	41210	  	A-1	False		3	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-19 21:32:08.617000000	I	IDIS3	Zamarron	Kathryn										False		False
+1030313	20255	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-19 22:00:22.377000000	I	IDIS3	Theilen	Kris										False		False
+1030314	31665	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-19 23:57:20.767000000	I	IDIS3	Aldridge	Barry										False		False
+1030315	40924	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-20 01:10:03.857000000	I	IDIS3	McGuire	Joseph										False		False
+1030316	35685	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-20 07:58:19.777000000	I	IDIS3	Krahn	David										False		False
+1030317	41366	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-20 08:04:50.127000000	I	IDIS3	Merriman	Theresa	Merriman	Theresa	4214 Baxter Road		Rockford	IL	61109			False		False
 1030318	41154	  	Quarterly	True	via email - change of committee add	3	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-11-20 07:22:00	D													False		False
+1030319	41424	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-19 02:46:28	D													False		False
+1030320	41567	  	Statement of Organization	False	via email	2	  	    			S	2026-11-19 20:33:00	D													False		False
+1030321	105	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-20 08:43:42.717000000	I	IDIS3	Horn	Denise										False		False
+1030322	41430	  	Quarterly	True		5	  	    	2026-08-28 00:00:00	2026-09-30 00:00:00	S	2026-11-20 08:45:06	I	IDIS3	Decker	Lori	Decker	Lori	3269 Metcalf Rd.		IUKA	IL	62849-1915	Decker	Lori	True	addresses added	False
+1030323	41430	  	Quarterly	True		5	  	    	2026-08-28 00:00:00	2026-09-30 00:00:00	S	2026-11-20 08:47:57	I	IDIS3	Decker	Lori	Decker	Lori	3269 Metcalf Rd.		IUKA	IL	62849-1915			False	adding occupation	False
+1030324	41568	  	Statement of Organization	False	via email	2	  	    			S	2026-11-20 07:52:26	D													False		False
+1030325	615	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-20 09:05:43.503000000	I	IDIS3	Cunningham	James										False		False
+1030326	41396	  	Letter/Correspondence	False	via email	2	  	    			S	2026-11-20 09:15:20	D													False		False
+1030327	37399	  	A-1	False		2	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-20 09:16:44.277000000	I	IDIS3	Lee	Nicole T.	Kerouac	Julie	2659 E 74th St		Chicago	IL	60649			False		False
+1030328	538	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-20 09:43:59	I	IDIS3	Kozol	Antonio - Kozol	Cashen	Dakota- ABDI	905 4th Street		Pawnee	IL	62558			False		False
+1030329	601	  	Statement of Organization	True	via email; new treasurer	2	  	    			S	2026-11-20 09:45:06	D													False		False
+1030330	41290	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-20 10:11:50.590000000	I	IDIS3	Lane	Cynthia	Lane	Cynthia	7015 S. King Drive	Basement	Chicago	IL	60637			False		False
+1030331	36882	  	A-1	False		2	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-20 10:23:55	I	Soft_Name,"ELECT Inc"	Owens	Roxanne	Owens	Roxanne	PO Box 3422		Springfield	IL	62708			False		False
+1030332	39446	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-20 10:25:35.060000000	I	IDIS3	Kreloff	Michael	Nelson	Eric	4350 N. Broadway		Chicago	IL	60613			False		False
+1030333	18949	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-20 10:34:30.070000000	I	IDIS3	Curran	John	Owens	Roxanne	PO Box 3422		Springfield	IL	62708			False		False
+1030334	40800	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-20 10:45:00.830000000	I	IDIS3	Geraghty	Bridget	Wurth	Emily	133 S Humphrey Ave		Oak Park	IL	60302			False		False
+1030335	19328	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-20 10:55:27.930000000	I	NGP VAN	McConnico	TaQuoya	Wurth	Emily	133 S Humphrey		Oak Park	IL	60302			False		False
+1030336	675	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-20 11:00:36.630000000	I	vocus	Magalis	Nichole										False		False
+1030337	22432	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-20 11:00:52.073000000	I	IDIS3	Conroy	Deborah	Mahoney	Grainne	1520 S. Lowell		Springfield	IL	62704			False		False
+1030338	40813	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-20 11:10:20.697000000	I	IDIS3	Karen	Battaglia	Rotman	Caleb	2312 W Walton St	Apt 2f	Chicago	IL	60622			False		False
+1030339	41130	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-20 11:12:59.987000000	I	IDIS3	Gallagly	Jayden	Gallagly	Jayden	3116 Whip Poor Will Ln		Belvidere	IL	61008			False		False
+1030340	41176	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-20 11:31:27.397000000	I	IDIS3	Day	Richard										False		False
+1030341	580	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-20 11:58:41.350000000	I	IDIS3	Anderson	Kristopher	Barnett	Sara	410 N. Michigan Avenue, Suite 900		Chicago	IL	60611			False		False
+1030342	1126	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-20 11:59:49.583000000	I	IDIS3	Madaus	Cathy	Madaus	Cathy	522 South 5th		Springfield	IL	62701			False		False
+1030343	25445	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-20 12:06:03.933000000	I	IDIS3	Wood	James										False		False
+1030344	15730	  	Statement of Organization	True	Reactivation; via email	3	  	    			S	2026-11-20 12:30:34	D													False		False
+1030345	13309	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-20 13:20:41.880000000	I	IDIS3	Stott	Sean T.										False		False
+1030346	41020	  	Quarterly	True		0	  	    	2026-01-01 00:00:00	2026-03-31 00:00:00	S	2026-11-20 13:41:36.277000000	I	IDIS3	Hemphill	Darcy	Nelson	Eric	4350 N. Broadway		Chicago	IL	60613			False	Updated in-kind contributions	False
+1030347	41020	  	Quarterly	True		0	  	    	2026-04-01 00:00:00	2026-06-30 00:00:00	S	2026-11-20 13:42:16.357000000	I	IDIS3	Hemphill	Darcy	Nelson	Eric	4350 N. Broadway		Chicago	IL	60613			False	Updated in-kind contributions	False
+1030348	41020	  	Quarterly	True		0	  	    	2026-07-01 00:00:00	2026-09-30 00:00:00	S	2026-11-20 13:42:53.237000000	I	IDIS3	Hemphill	Darcy	Nelson	Eric	4350 N. Broadway		Chicago	IL	60613			False	Updated in-kind contributions	False
+1030349	21644	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-20 13:59:03.173000000	I	NGP VAN	Thompson	Diane	Kastrup	Scott	2424 Payne		Evanston	IL	60201			False		False
+1030350	16892	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-20 14:05:59.867000000	I	IDIS3	Dowell	Patricia	Grant	DeAnna	2008 S. Wabash	Ste Tax Office	Chicago	IL	60616			False		False
+1030351	37509	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-20 14:09:17.990000000	I	IDIS3	Willis	Hollee	Charles	Robert	5044 S state		chicago	IL	60619			False		False
+1030352	37283	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-20 14:33:08.813000000	I	IDIS3	Zapala	John	Bartley	Sarah	6939 W North Ave		Oak Park	IL	60302			False		False
+1030353	25909	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-20 14:38:33.513000000	I	NGP VAN	Aquino	Omar										False		False
+1030354	38788	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-20 15:02:19.443000000	I	NGP VAN	Valencia	Anna	Murphy	Kelly	1951 W Foster Ave	#1	Chicago	IL	60640			False		False
+1030357	41569	  	Statement of Organization	False	via email	2	  	    			S	2026-11-20 15:14:16	D													False		False
+1030358	343	  	Statement of Organization	True	email address change for treasurer	2	  	    			S	2026-11-20 15:24:16	D													False		False
+1030359	298	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-20 16:04:06	I	IDIS3	Schreiner	James										False		False
+1030360	393	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-20 16:11:23	I	IDIS3	Daniels	Katherine	Mason	Barbara S.	43 Trailridge Lane		Springfield	IL	62704			False		False
+1030361	17218	  	A-1	False		1	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-20 16:23:25	I	IDIS3	Krahn	David	Brown	Suzy	954 W US RT 6		Morris	IL	60450			False		False
+1030362	39044	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-20 16:29:49.933000000	I	IDIS3	Coffey Jr.	Mike	Brown	Suzy	954 W US RT 6		Morris	IL	60450			False		False
+1030363	39529	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-20 16:45:13.327000000	I	IDIS3	La Ha	Nicole	Brown	Suzy	954 W. Route 6		Morris	IL	60450			False		False
+1030364	38623	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-20 16:50:05.637000000	I	IDIS3	Conway	Bill	Wurth	Emily	133 S Humphrey Ave		Oak Park	IL	60302			False		False
+1030365	40895	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-20 16:50:25.227000000	I	IDIS3	Vrankovich	Robert	Brown	Suzy	954 W US RT 6		Morris	IL	60450			False		False
+1030366	35843	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-20 16:54:29.713000000	I	IDIS3	Haas	Jackie	Brown	Suzy	954 W. Route 6		Morris	IL	60450			False		False
+1030367	40747	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-20 16:58:12.647000000	I	IDIS3	Gianni	Pasquale	Carr Jr.	Josef Michael	2226 E. 70th Place	Unit 2	Chicago	IL	60649			False		False
+1030368	31997	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-20 17:05:56.193000000	I	IDIS3	McCombie	Tony	Brown	Suzy	2537 Creekside Lane		Morris	IL	60450			False		False
+1030369	34216	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-20 17:16:53.870000000	I	IDIS3	Torscher	Helen										False		False
+1030370	24013	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-20 17:22:01.123000000	I	IDIS3	Kreloff	Michael										False		False
+1030371	31869	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-20 17:45:03.800000000	I	IDIS3	Walden	Ashley A.										False		False
+1030372	25956	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-20 17:49:32.027000000	I	IDIS3	Sigcho Lopez	Byron										False		False
+1030373	34110	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-20 18:31:42.407000000	I	IDIS3	White	Dave										False		False
+1030374	19263	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-20 19:13:46.243000000	I	NGP VAN	Storino	Donnie	Kearney	Robert	PO Box 10939		Chicago	IL	60610			False		False
+1030375	41238	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-20 19:59:51.367000000	I	NGP VAN	Brewer	Matt	Coronado	Alexander	3257 W Palmer St	Apt 3	Chicago	IL	60647			False		False
+1030376	41080	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-20 20:32:56.750000000	I	IDIS3	Johnson	Darren										False		False
+1030377	40933	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-20 22:31:17.820000000	I	NGP VAN	Omoniyi-Shoyoola	Richard	Murphy	Kelly	1951 W Foster Ave	#1	Chicago	IL	60640			False		False
+1030378	37289	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-20 22:40:20.730000000	I	NGP VAN	Rashid	Abdelnasser										False		False
+1030379	1029	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-20 23:01:43.127000000	I	IDIS3	Messner	Ilse	Messner	Ilse	1229 S School St		Lombard	IL	60148			False		False
+1030380	749	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-21 05:00:31.567000000	I	IDIS3	Newport	Curtis										False		False
+1030381	41411	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-21 07:18:49.717000000	I	IDIS3	Carr Jr.	Josef Michael										False		False

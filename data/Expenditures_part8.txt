@@ -351728,7 +351728,7 @@ tates of America	False
 4946758	4432	1022540	0	Advance Offset Press		2024-09-22 00:00:00	6351	8523	710 E. Ogden Ave	Suite 340	Naperville	IL	60563     	8B	Voters guide & PC letters			False	False	False		False
 4946759	4432	1022540	0	Puchalski	Mandy	2024-09-30 00:00:00	284.38	331.09	182 E. Columbia Ave		Elmhurst	IL	60126     	8B	Door hanger supplies			False	False	False		False
 4946760	4432	1022540	0	Puchalski	Mandy	2024-08-26 00:00:00	46.71	331.09	182 E. Columbia Ave		Elmhurst	IL	60126     	8B	Supplies for doorhangers from Amazon			False	False	False		False
-4946761	41020	1022542	0	Yummy's		2026-09-24 00:00:00	254.5	254.5	210 E. Union Street		Marion	IL	62959     	8B	Event expense			False	False	False		False
+4946761	41020	1022542	0	Yummy's		2026-09-24 00:00:00	254.5	254.5	210 E. Union Street		Marion	IL	62959     	8B	Event expense			False	False	True		False
 4946762	4432	1022545	0	Advance Offset Press		2024-10-09 00:00:00	2200	2543	710 E. Ogden Ave	Suite 340	Naperville	IL	60563     	8B	Mailing - envelopes w/return, stuff & seal, address & postage			False	False	False		False
 4946763	4432	1022545	0	Advance Offset Press		2024-11-25 00:00:00	343	2543	710 E. Ogden Ave	Suite 340	Naperville	IL	60563     	8B	Mailing - envelopes w/return, stuff & seal, address & postage. payment 2 of 2			False	False	False		False
 4946764	4432	1022548	0	US Post Office-Addison		2025-07-16 00:00:00	188	188	175 S Lincoln Ave		Addison	IL	60101-5816	8B	Post office box			False	False	False		False
@@ -362208,9 +362208,9 @@ tates of America	False
 4957238	4290	1025189	0	Village of Rosemont		2026-07-10 00:00:00	1000	1000	9501 Technology Blvd		Rosemont	IL	60018     	8B	Meeting room rental Jan-May			False	False	False		False
 4957239	4290	1025189	0	U S Postal Service		2026-07-10 00:00:00	188	188	P O Box 0566		Carol Stream	IL	60132     	8B	Po Box rental			False	False	False		False
 4957240	4290	1025189	0	Quastoff's Florist		2026-09-28 00:00:00	154.06	154.06	8125 W Grand Ave		River Grove	IL	60171     	8B	Flowers			False	False	False		False
-4957241	41430	1025197	0	Victory Stores		2026-09-17 00:00:00	496.51	888.14				IL	          	8B	Yard signs			False	False	False		False
-4957242	41430	1025197	0	Victory Stores		2026-09-25 00:00:00	391.63	888.14				IL	          	8B	Yard signs			False	False	False		False
-4957243	41430	1025197	0	Gossett Printing		2026-09-23 00:00:00	356.5	356.5				IL	          	8B	Palm cards			False	False	False		False
+4957241	41430	1025197	0	Victory Stores		2026-09-17 00:00:00	496.51	888.14				IL	          	8B	Yard signs			False	False	True		False
+4957242	41430	1025197	0	Victory Stores		2026-09-25 00:00:00	391.63	888.14				IL	          	8B	Yard signs			False	False	True		False
+4957243	41430	1025197	0	Gossett Printing		2026-09-23 00:00:00	356.5	356.5				IL	          	8B	Palm cards			False	False	True		False
 4957244	40891	1025200	0	Kingdom Branding		2026-07-02 00:00:00	149	447	4809 N Ravenswood Ave	Unit 112	Chicago	IL	60640     	8B	Website			False	False	False		False
 4957245	40891	1025200	0	Kingdom Branding		2026-08-03 00:00:00	149	447	4809 N Ravenswood Ave	Unit 112	Chicago	IL	60640     	8B	Website			False	False	False		False
 4957246	40891	1025200	0	Kingdom Branding		2026-09-02 00:00:00	149	447	4809 N Ravenswood Ave	Unit 112	Chicago	IL	60640     	8B	Website			False	False	False		False
@@ -399792,3 +399792,10 @@ tates of America	False
 4994831	17217	1030305	0	People for Emanuel Chris Welch		2026-10-12 00:00:00	3000	3000	1055 W Roosevelt Rd Suite D		Westchester	IL	60154     	6B	Contribution			False	False	False		False
 4994832	17217	1030305	0	Committee to Elect Jennifer Bertino Tarrant		2026-10-12 00:00:00	500	500	903 Valencia Dr		Shorewood	IL	60404     	6B	Contribution			False	False	False		False
 4994833	17217	1030305	0	Friends of Don Harmon for State Senate		2026-10-12 00:00:00	449.35	449.35	6939 W. North Avenue		Oak Park	IL	60302     	6B	Contribution			False	False	False		False
+4994834	41430	1030322	0	Gossett Printing		2026-09-23 00:00:00	356.5	356.5	2100 Old Texas Ln		Salem	IL	62881     	8B	Palm cards			False	False	True		False
+4994835	41430	1030322	0	Victory Stores		2026-09-17 00:00:00	496.51	888.14	5200 30th St. SW		Davenport	IA	52802     	8B	Yard signs			False	False	True		False
+4994836	41430	1030322	0	Victory Stores		2026-09-25 00:00:00	391.63	888.14	5200 30th St. SW		Davenport	IA	52802     	8B	Yard signs			False	False	True		False
+4994837	41430	1030323	0	Gossett Printing		2026-09-23 00:00:00	356.5	356.5	2100 Old Texas Ln		Salem	IL	62881     	8B	Palm cards			False	False	False		False
+4994838	41430	1030323	0	Victory Stores		2026-09-17 00:00:00	496.51	888.14	5200 30th St. SW		Davenport	IA	52802     	8B	Yard signs			False	False	False		False
+4994839	41430	1030323	0	Victory Stores		2026-09-25 00:00:00	391.63	888.14	5200 30th St. SW		Davenport	IA	52802     	8B	Yard signs			False	False	False		False
+4994840	41020	1030348	0	Yummy's		2026-09-24 00:00:00	254.5	254.5	210 E. Union Street		Marion	IL	62959     	8B	Event expense			False	False	False		False

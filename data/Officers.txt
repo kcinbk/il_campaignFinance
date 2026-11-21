@@ -16975,6 +16975,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 78619	Duff	Steven	541 Cunningham Drive		Swansea	IL	62226     	Treasurer	618.406.4789        	False
 60323	Duff Jr	Patrrick G	1640 W Van Buren		Chicago	IL	60612     	Treasurer	                    	False
 39972	Duffin	Earl	12329 S Loomis		Calumet Park	IL	60643     	Chair	708-925-0306        	False
+100711	Duffy	Alex	913 S Linden St (Unit South)		Normal	IL	61761     	Chair	815-514-0456        	False
+100712	Duffy	Alex	913 S Linden St (Unit South)		Normal	IL	61761     	Treasurer	815-514-0456        	False
 99558	Duffy	Alexander	711 S. Towanda Ave. Apt. 4		Normal	IL	61761     	Treasurer	815.514.0456        	False
 2882	Duffy	Barbara	401 Walden Lane		Prospect Hts	IL	60070     	Chair	(708)670-8003       	False
 34721	Duffy	Barry	17831 S Westbridge Road		Tinley Park	Il	60477     	Chair	(708)429-0076       	False
@@ -24027,6 +24029,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 23106	Gray	Debby	2148 Edison		Granite City	IL	62040     	Treasurer	                    	False
 45889	Gray	Delia J	Citizens to Elect Marvin W Gray	405 E Oakwood Blvd., Suite 2L	Chicago	IL	60653     	Treasurer	773-268-0900        	False
 648	Gray	Deloris	32 W. Randolph	10th Floor	Chicago	IL	60602     	Treasurer	                    	False
+100708	Gray	Devin	443 S Banbury Rd		Arlington Heights	IL	60005     	Chair	847-322-5804        	False
+100709	Gray	Devin	443 S Banbury Rd		Arlington Heights	IL	60005     	Treasurer	847-322-5804        	False
 47108	Gray	Don	321 W Highland Ave		Springfield	IL	62704     	Treasurer	217-306-6424        	False
 42586	Gray	Don	321 W Highland Ave		Springfield	IL	62704     	Chair	217-306-6424        	False
 86707	Gray	Donna	1117 Ferdinard		Forest Park	IL	60130     	Treasurer	708.692.0344        	False
@@ -25615,8 +25619,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 85781	Ham	Kyle.	13536 Buck Rd		Bloomington	IL	61705     	Chair	309.696.1630        	False
 85782	Ham	Kyle.	13536 Buck Rd		Bloomington	IL	61705     	Treasurer	309.696.1630        	False
 10082	Hamann	Harold	1001 Sherman Street		Belleville	IL	62221     	Treasurer	618/235-7951        	False
-89346	Hamann	Paul	511 Beverly		Lake Forest	IL	60045     	Chair	                    	False
-89347	Hamann	Paul	511 Beverly		Lake Forest	IL	60045     	Treasurer	                    	False
+89346	Hamann	Paul	511 Beverly		Lake Forest	IL	60045     	Chair	847-234-0940        	False
+89347	Hamann	Paul	511 Beverly		Lake Forest	IL	60045     	Treasurer	847-234-0940        	False
 69578	Hamann	Rosemary	518 N 6th St.		Belleville	IL	62220     	Treasurer	618.234.8204        	False
 25002	Hamann	Sheryl	1456 W 190th St		Homewood	IL	60430     	Treasurer	(708)798-6016       	False
 18389	Hamb	Phillip	5050 S Lake Shore Dr, Apt 511		Chicago	IL	60615     	Chair	(312) 288-4613      	False
@@ -47856,8 +47860,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 87247	Normand	Peter J	2017 W Jarvis Ave, #3		Chicago	IL	60645     	Chair	                    	False
 87248	Normand	Peter J	2017 W Jarvis Ave, #3		Chicago	IL	60645     	Treasurer	                    	False
 5742	Normile	Michael T	1 Mercantile Center	PO Box 524	St Louis	MO	63166     	Treasurer		False
-79470	Normoyle	Angie	778 25th Ave Ct		Moline	IL	61265     	Treasurer	309.737.9675        	False
 79469	Normoyle	Angie	778 25th Ave Ct		Moline	IL	61265     	Chair	                    	False
+79470	Normoyle	Angie	778 25th Ave Ct		Moline	IL	61265     	Treasurer	309.737.9675        	False
 98880	Noronha	AJ	25 E. Delaware PL, Unit 307		Chicago	IL	60611     	Chair	304.444.9538        	False
 33984	Norrby	Eric	1311 L St NW #300		Washington	DC	20005     	Compliance Dir	202/626-5620        	False
 34161	Norrenberns	Pat	610 Wayne St		Carlyle	IL	62231     	Treasurer	594-2469            	False
@@ -55739,6 +55743,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 86100	Rodriguez Maffei	Arielle	1635 W Belmont Ave, Apt. 321		Chicago	IL	60657     	Treasurer	                    	False
 76668	Rodriguez-Ayala	Emma	73 W. Monroe St.	Suite 505	Chicago	IL	60603     	Chair	773.717.6882        	False
 564	Rodriguez-balanoff	Virginia	Redaction Requested					Chair		True
+100710	Rodriguez-Garcia	F Crystal	2446 S Kedzie		Chicago	IL	60623     	Treasurer	                    	False
 90024	Rodriguez-Kunkle	Sherry	10158 Haegers Bend Rd.		Algonquin	IL	60102     	Treasurer	847.815.5535        	False
 84581	Rodriquez	Adair	206 Railroad St.		Forest City	IL	61532     	Chair	309.339.6699        	False
 84582	Rodriquez	Adair	206 Railroad St.		Forest City	IL	61532     	Treasurer	309.339.6699        	False

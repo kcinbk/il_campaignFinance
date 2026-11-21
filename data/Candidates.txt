@@ -7649,6 +7649,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 14337	Duffels	Marty	407 Woodlawn		Romeoville	IL	60446	Trustee	Village	Romeoville	Will		False
 8205	Duffin	Marion M "Rocky	219 Schramm Dr		Pekin	IL	61554	State Representative	Representative	91 	Tazewell	Democratic	False
 11760	Duffin	Sandra	17461 E Gate Dr		Country Club Hills	IL	60478	Commissioner	Park		Cook	Independent	False
+54456	Duffy	Alex	913 S Linden St (Unit South)		Normal	IL	61761     	Councilperson	Town	Normal	McLean	Non Partisan	False
 46049	Duffy	B Travis	820 NCR 1550		Basco	IL	62313	Sheriff	County	Hancock	Hancock	Republican	False
 4429	Duffy	Brian P	12111 1/2 S Maple		Blue Island	IL	60406	Trustee	Comm College	524	Cook	Non Partisan	False
 21926	Duffy	Dan	PO Box 272		Barrington	IL	60011	State Senator	Senate	26 	Lake	Republican	False
@@ -10745,6 +10746,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 20452	Gray	Bill	12378 E Illinois Hwy 148		Mt Vernon	IL	62864	Sheriff	County	Jefferson 	Jefferson	Democratic	False
 26699	Gray	Bob	9 Ridgeview Dr		Springfield	IL	62711	State Senator	Senate	50 	Sangamon	Independent	False
 42243	Gray	Dalton	408 Troy Ave		Troy	IL	62294	Member	County Board	Madison	Madison	Republican	False
+54453	Gray	Devin	443 S Banbury Rd		Arlington Heights	IL	60005     	Trustee	Village	Arlington Heights	Cook		False
 22302	Gray	Don	321 W Highland Ave		Springfield	IL	62704	Recorder	County	Sangamon 	Sangamon	Republican	False
 33065	Gray	Don	321 W Highland Ave		Springfield	IL	62704	Clerk	County	Sangamon 	Sangamon	Republican	False
 13792	Gray	Duane A	2103 Alhambra Ct		Tazewell	IL	61554-6347	Treasurer	County	Tazewell 	Tazewell	Republican	False
@@ -14223,6 +14225,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 42374	Jones	Joshua M	3822 Harrison Avenue		Brookfield	IL	60513	Trustee	Village	Brookfield	Cook		False
 13337	Jones	Judith A "Judie	4341 S Emerald Ave		Chicago	IL	60609	Clerk	County	Cook 	Cook	Republican	False
 47056	Jones	Karin	695 Bennett Dr		Elgin	IL	60120	Councilman	City	Elgin		Non Partisan	False
+54454	Jones	Katie	1413 Elizabeth Lane		Glenview	IL	60025     	Trustee	Village	Glenview	Cook		False
 42031	Jones	Keith	1072 Crystal Rd		West Frankfort	IL	62896	Treasurer	County	Franklin 	Franklin	Democratic	False
 49885	Jones	Kenneth	399 Campbell		Calumet City	IL	60409	Member	Park	Calumet City	Cook		False
 37677	Jones	Kimberly	642 Forestview		Park Ridge	IL	60068	Trustee	Township	Maine	Cook	Democratic	False
@@ -29467,6 +29470,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 12849	Tonniges	Tom	6 Gregory Lane		South Barrington	IL	60010	Member	School	220	Cook	Non Partisan	False
 13523	Toole	Cornelius E	1451 East 55th Street	#517n	Chicago	IL	60615	Judge	Circuit Court	Cook	Cook	Democratic	False
 40579	Toolis	Tom	10075 W Lincoln Hwy		Frankfort	IL	60423	State Representative	Representative	80 	Will	Republican	False
+54455	Toomey	Steven	715 Wagner Rd		Glenview	IL	60025     	Trustee	Village	Glenview	Cook		False
 4128	Toomey	Timothy C	6254 N Kilpatrick		Chicago	IL	60646	Judge	Circuit Court	Cook	Cook	Democratic	False
 43526	Toomin	Michael P	Redaction Requested					Circuit Judge	Circuit Court	Cook	Cook		True
 1610	Toomin	Michael P	1918 North Larrabee		Chicago	IL	60614	Judge	Appellate Court	1	Cook	Republican	False
