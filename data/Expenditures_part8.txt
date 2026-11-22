@@ -399799,3 +399799,4 @@ tates of America	False
 4994838	41430	1030323	0	Victory Stores		2026-09-17 00:00:00	496.51	888.14	5200 30th St. SW		Davenport	IA	52802     	8B	Yard signs			False	False	False		False
 4994839	41430	1030323	0	Victory Stores		2026-09-25 00:00:00	391.63	888.14	5200 30th St. SW		Davenport	IA	52802     	8B	Yard signs			False	False	False		False
 4994840	41020	1030348	0	Yummy's		2026-09-24 00:00:00	254.5	254.5	210 E. Union Street		Marion	IL	62959     	8B	Event expense			False	False	False		False
+4994841	40586	1030386	0	Naranjo	Dan	2026-11-19 00:00:00	41213.47	41213.47	319 S Glendale Ave	Unit 305	Barrington	IL	60010     	8B	Principal payment, Naranjo			False	False	False		False

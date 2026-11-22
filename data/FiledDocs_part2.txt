@@ -233756,3 +233756,22 @@ rk	Shaw	Mark	1155 Highland Avenue		Lake Forest	IL	60045			False		False
 1030379	1029	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-20 23:01:43.127000000	I	IDIS3	Messner	Ilse	Messner	Ilse	1229 S School St		Lombard	IL	60148			False		False
 1030380	749	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-21 05:00:31.567000000	I	IDIS3	Newport	Curtis										False		False
 1030381	41411	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-21 07:18:49.717000000	I	IDIS3	Carr Jr.	Josef Michael										False		False
+1030382	36915	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-21 09:04:31.023000000	I	IDIS3	Kreloff	Michael										False		False
+1030383	37202	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-21 09:13:45.303000000	I	IDIS3	Krahn	David										False		False
+1030384	25755	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-21 09:29:53.433000000	I	IDIS3	Gleffe	James										False		False
+1030385	39465	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-21 09:34:47.213000000	I	IDIS3	Krahn	David										False		False
+1030386	40586	  	Final	False		0	  	    	2026-10-01 00:00:00	2026-11-21 00:00:00	S	2026-11-21 10:06:23.090000000	I	IDIS3	Desmond	Courtney										False		False
+1030387	41351	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-21 10:35:38.903000000	I	IDIS3	Grover	Jane	Taetle	Shirley	7800 W Foresthill Ln #207		Palos Heights	IL	60463			False		False
+1030388	41414	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-21 11:12:15.837000000	I	IDIS3	Walton	Althea										False		False
+1030389	41351	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-21 11:25:49.283000000	I	IDIS3	Grover	Jane	Taetle	Shirley	7800 W Foresthill Ln #207		Palos Heights	IL	60463			False		False
+1030390	40597	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-21 11:39:48.090000000	I	IDIS3	Cox	Jeff										False		False
+1030391	1420	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-21 11:59:19.303000000	I	IDIS3	Kuriakose	Shajan	Olickal	Kevin	7511 Kenton		Skokie	IL	60076			False		False
+1030392	39482	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-21 12:43:00.207000000	I	IDIS3	Herrera	Heather										False		False
+1030393	41210	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-21 12:56:48.603000000	I	IDIS3	Zamarron	Kathryn										False		False
+1030394	41429	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-21 13:06:40.980000000	I	IDIS3	Heidemann	Bryan										False		False
+1030395	20977	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-21 16:31:42.403000000	I	IDIS3	Walker	Mark L.										False		False
+1030396	41462	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-21 16:50:22.273000000	I	IDIS3	Rose	Terrie										False		False
+1030397	16502	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-21 19:45:46.840000000	I	IDIS3	Rita, Jr.	John										False		False
+1030398	35877	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-21 22:32:02.150000000	I	IDIS3	Garcia	Lawrence A										False		False
+1030399	38563	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-21 22:39:16.767000000	I	IDIS3	Royko	Sam	Royko	Sam	1605 W Ohio St	Unit 1	Chicago	IL	60622			False		False
+1030400	41414	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-21 23:39:25.530000000	I	IDIS3	Walton	Althea										False		False
