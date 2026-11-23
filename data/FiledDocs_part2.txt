@@ -233775,3 +233775,17 @@ rk	Shaw	Mark	1155 Highland Avenue		Lake Forest	IL	60045			False		False
 1030398	35877	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-21 22:32:02.150000000	I	IDIS3	Garcia	Lawrence A										False		False
 1030399	38563	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-21 22:39:16.767000000	I	IDIS3	Royko	Sam	Royko	Sam	1605 W Ohio St	Unit 1	Chicago	IL	60622			False		False
 1030400	41414	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-21 23:39:25.530000000	I	IDIS3	Walton	Althea										False		False
+1030401	35707	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-22 08:23:47.317000000	I	IDIS3	McLaughlin	Martin J										False		False
+1030402	34033	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-22 08:43:55.143000000	I	IDIS3	Krahn	Dave										False		False
+1030403	34229	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-22 12:00:25.310000000	I	IDIS3	Dailly	Tom										False		False
+1030404	23079	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-22 13:03:16.733000000	I	IDIS3	Lopez	Hugo										False		False
+1030405	186	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-22 14:22:23.287000000	I	Soft_Name,"ELECT Inc"	Stephens	Daniel										False		False
+1030406	35553	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-22 14:27:21.333000000	I	IDIS3	Weigand	Richard										False		False
+1030407	41345	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-22 16:29:39.640000000	I	IDIS3	Dailey	Dana										False		False
+1030408	1334	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-22 17:10:28.800000000	I	IDIS3	Gain Meyer	Jennifer	Mason	Barbara	43 Trailridge Lane		Springfield	IL	62704			False		False
+1030409	37177	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-22 17:19:42.850000000	I	IDIS3	Gruberman	Sue	Mason	Barbara	43 Trailridge Lane		Springfield	IL	62704			False		False
+1030410	40929	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-22 19:01:48.943000000	I	IDIS3	Smith	Harry	Atkinson	Kory	249 Hillandale Drive		Bloomingdale	IL	60108			False		False
+1030411	39343	  	Final	False		0	  	    	2026-10-01 00:00:00	2026-11-22 00:00:00	S	2026-11-22 19:07:15.003000000	I	IDIS3	Przybyl	Jeff	Przybyl	Jeff	15553 Hawkhaven Rd		Homer Glen	IL	60491	Przybyl	Jeff	False		False
+1030412	31984	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-23 07:10:12.573000000	I	IDIS3	Ervin	Melissa										False		False
+1030413	31983	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-23 07:18:03.230000000	I	IDIS3	Ervin	Jason										False		False
+1030414	32872	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-23 07:57:53.170000000	I	NGP VAN	Fine	Steve	Taetle	Shirley	7800 W Foresthill Ln #207		Palos Heights	IL	60463			False		False
