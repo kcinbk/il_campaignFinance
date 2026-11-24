@@ -24264,6 +24264,7 @@ ID	CommitteeID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	ResignD
 42454	39823	Clemen	Michele Hilger	1537 Wedgefield Cir.		Naperville	IL	60563     	Treasurer	2025-07-16 10:36:40.077000000	False
 42763	39831	Lyons	Rashaad	3209 W Douglas		Chicago	IL	60623     	Chair	2026-02-24 11:30:16.450000000	False
 42764	39831	LoSurdo	Ashley	2665 W Warren		Chicago	IL	60612     	Treasurer	2026-02-24 11:30:21.457000000	False
+43329	39859	McManamon	Martin	1192 Independence Drive		Bartlett	IL	60103     	Chair	2026-11-23 14:43:25.333000000	False
 43293	39860	Marcinkowski	Ken	110 N. Carpenter St.		Chicago	IL	60607     	Treasurer	2026-10-15 16:34:49.140000000	False
 43174	39866	Odell	Laurie	4443 N. Malden St.		Chicago	IL	60640     	Treasurer	2026-08-10 08:20:11.107000000	False
 38915	39872	Hylton	Antonio	2691 Showplace Drive	Apt 204	Naperville	IL	60506     	Treasurer	2024-08-05 13:07:01.397000000	False
@@ -24297,6 +24298,7 @@ ID	CommitteeID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	ResignD
 39999	40054	Carter	Carolyn	17100 Magnolia Dr		Hazel Crest	IL	60429     	Treasurer	2024-09-30 15:11:00.270000000	False
 43194	40103	Studenmund	Dave	1022 Maple Ave		Evanston	IL	60202     	Treasurer	2026-08-27 12:13:56.360000000	False
 43240	40107	Scholten	Diane	805 S Cook St		Balllington	IL	60010     	Chair	2026-09-16 08:36:57.950000000	False
+43327	40125	Pike	Matthew	533 S Fairfield Ave		Lombard	IL	60148     	Treasurer	2026-11-23 08:36:42.593000000	False
 42479	40126	Cutlip	Erika	737 Walnut		Arlington Heights	IL	60005     	Chair	2025-07-31 14:28:11.023000000	False
 42138	40128	Coladipietro	Lynn	1935 Cara Drive		Crest Hill	IL	60403-0817	Treasurer	2025-01-09 15:40:20.627000000	False
 40029	40131	Catalano Jr	Anthony	11307 Turtle Run		Orland Park	IL	60467     	Treasurer	2024-10-17 13:52:56.663000000	False
@@ -24438,3 +24440,4 @@ ID	CommitteeID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	ResignD
 43322	41418	Froemling	Alice	693 Kateland Way		South Elgin	IL	60177     	Chair	2026-11-18 13:50:29.830000000	False
 43323	41418	Donaldson	Joseph	40w246 Ralph Waldo Emerson Lane		St. Charles	IL	60175     	Treasurer	2026-11-18 13:50:32.257000000	False
 43302	41465	Demarcko	Darlen	4247 W. Division		Chicago	IL	60651     	Chair	2026-10-23 15:43:50.277000000	False
+43328	41534	Zeigler	Mark	4504 Turtle Bay		Springfield	IL	62711     	Treasurer	2026-11-23 14:25:39.263000000	False

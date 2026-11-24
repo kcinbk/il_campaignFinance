@@ -22839,6 +22839,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 10221	Philipps	Phil	1650 N Main St		Canton	IL	61520	State Representative	Representative	91 	Fulton	Republican	False
 9537	Phillip	Barbara			Lake Villa	IL	60046	Member	School	41	Lake	Non Partisan	False
 47084	Phillips	Alexandra	PO Box 366		Oak Lawn	IL	60454	Member	School	229	Cook		False
+54460	Phillips	Amy	418 W. Franklin Ave.		Naperville	IL	60540     	Commissioner	Park	Naperville			False
 6683	Phillips	Arthur R			Palos Heights	IL	60463	Alderperson	Ward	Palos Heights 4  	Cook	Independent	False
 54187	Phillips	Cher	7635 S. Oglesby Ave.		Chicago	IL	60649	Alderperson	City	Chicago	Cook	Non Partisan	False
 20299	Phillips	Chuck	541 East 9th St		Alton	IL	62002	Mayor	City	Alton	Madison	Non Partisan	False
@@ -24467,6 +24468,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 4914	Riley	Susan	2622 Modaff Road		Naperville	IL	60565	Member	County Board	Will 3  	Will	Republican	False
 6610	Riley	William						Trustee	Township		Madison		False
 29709	Riley-Pinkney	Cassandra	13918 S Atlantic		Riverdale	IL	60827	Trustee	Village	Riverdale	Cook	Democratic	False
+54459	Riley-Pinkney	Cassandra	13918 S. Atlantic Ave.		Riverdale	IL	60827     	Mayor	Village	Riverdale	Coles	Democratic	False
 5564	Rimbo	Richard "Rick"	741 Mccarthy Street		Lemont	IL	60439	Trustee	Fire Protection	Lemont	Cook		False
 43718	Rinaldi	Derek	14941 Dogwood Dr.		Orland Park	IL	60462	Trustee	Village	Orland Park			False
 42903	Rinehart	Eric	PO Box 686		Highwood	IL	60040	State's Attorney	County	Lake	Lake	Democratic	False
@@ -24483,6 +24485,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 10198	Ringhausen	Richard J	Box 488		Hardin	IL	62047	Judge	Circuit Court	8	Calhoun	Democratic	False
 2224	Ringhofer	Margaret Rita	618 W Potter Dr		Wood Dale	IL	60191	Member	County Board	DuPage 1  	DuPage	Democratic	False
 39410	Rinkenbarger	Bart	437 S Ohio Ave		Morton	IL	61550	Member	School	709	Tazewell		False
+54457	Rinker	W. Brandon	214 E. Haven Ave.		New Lenox	IL	60451     	Trustee	Fire Protection	New Lenox	Will	Non Partisan	False
 23560	Rinkuns	Char	6830 Carpenters St		Downers Grove	IL	60516	Clerk	Township	Downers Grove	DuPage	Democratic	False
 53161	Rinn-Alcock	Debbie			Crystal Lake	IL	          	Trustee	Township	Algonquin	McHenry	Republican	False
 42416	Riojas	Joel	1902 W 48th Street		Chicago	IL	60609	Alderperson	Ward	Chicago 15	Cook		False
@@ -29260,6 +29263,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 26137	Thomson	Roger B	312 S Plum	PO Box 135	Havana	IL	62644	State's Attorney	County	Mason	Mason	Democratic	False
 27093	Thomson	Tommy	2944 Lincoln St		Franklin Park	IL	60131	Clerk	Village	Franklin Park	Cook		False
 21682	Thomson	Tommy	2944 Lincoln St		Franklin Park	IL	60131	Trustee	Village	Franklin Park	Cook	Independent	False
+54458	Thomson	Whitney	1830 Harrison St.		Quincy	IL	62301     	Alderperson	Ward	6	Adams	Independent	False
 53304	Thongphadith	Tamara	24145 Simo Dr.		Plainfield	IL	60586     	Trustee	Township	Plainfield	Will	Democratic	False
 21397	Thor	Jerry K	8443 W 79th St		Justice	IL	60458	Trustee	Village	Justice	Cook		False
 17409	Thorbjornsen	Charles J	6001 N Sherwood Dr		Peoria	IL	61614	Judge	Circuit Court	10	Peoria	Republican	False

@@ -155086,40 +155086,40 @@
 6717029	17290	1027429		Engel	Terry	2026-09-30 00:00:00	5000	5000	0	Attorney	Terry L Engel, LLC	300 S Wacker Dr		Chicago	IL	60606     	1A							  	          	False		False
 6717030	17290	1027429		Fournier	Harry	2026-09-30 00:00:00	1000	1000	0	Attorney	Fournier Law Firm, Ltd	2001 Midwest Road	suite 206	Oak Brook	IL	60523     	1A							  	          	False		False
 6717031	17290	1027429		CPHY Holding IN WY, LLC		2026-09-30 00:00:00	5000	5000	0			1716 Capitol Ave		Cheyenne	WY	62001     	1A							  	          	False		False
-6717032	41082	1027430		Ray	Ellen	2026-08-05 00:00:00	200	200	0			4111 W Eddy		Chicago	IL	60641     	1A							  	          	False		False
-6717033	41082	1027430		Cruz	David	2026-08-12 00:00:00	250	250	0			2711 N. Mozart		Chicago	IL	60647     	1A							  	          	False		False
-6717034	41082	1027430		All In With Lilian		2026-08-12 00:00:00	1000	5000	0			PO Box 47687		Chicago	IL	60647     	2A							  	          	False		False
-6717035	41082	1027430		Osborne	Lillian	2026-08-24 00:00:00	25	225	0			3752 W Diversey Ave		Chicago	IL	60647     	1A							  	          	False		False
-6717036	41082	1027430		McDermott	John	2026-08-24 00:00:00	100	200	0			4526 N. Wolcott Ave., Apt. 3B		Chicago	IL	60640     	1A							  	          	False		False
-6717037	41082	1027430		Potter	Jackson	2026-08-24 00:00:00	250	250	0			2522 W. 40th Street		Chicago	IL	60632     	1A							  	          	False		False
-6717038	41082	1027430		Quezada	Anthony	2026-08-24 00:00:00	250	250	0			2858 N Central Park Floor 2		Chicago	IL	60618     	1A							  	          	False		False
-6717039	41082	1027430		dworkin-cantor	Phillip	2026-08-24 00:00:00	200	200	0			2521 n. bernard st		Chicago	IL	60647     	1A							  	          	False		False
-6717040	41082	1027430		McDermott	John	2026-08-24 00:00:00	100	200	0			4526 N. Wolcott Ave., Apt. 3B		Chicago	IL	60640     	1A							  	          	False		False
-6717041	41082	1027430		McCoy	Deborah	2026-08-24 00:00:00	250	300	0			2425 N Albany Ave Floor 1		Chicago	IL	60647     	1A							  	          	False		False
-6717042	41082	1027430		Dimas	Flor	2026-08-24 00:00:00	100	250	0			1918 N Harding Ave		Chicago	IL	60647     	1A							  	          	False		False
-6717043	41082	1027430		Brooker	Madalyn	2026-08-24 00:00:00	25	275	0			2834 W Palmer, Apt. 310		Chicago	IL	60647     	1A							  	          	False		False
-6717044	41082	1027430		Tholin	Kathy	2026-08-24 00:00:00	250	250	0			2423 N ALBANY AVE		Chicago	IL	60647     	1A							  	          	False		False
-6717045	41082	1027430		Dworkin	Julie	2026-08-24 00:00:00	500	850	0	Co Executive Director	Institute for the Public Good	2445 North Albany Avenue		Chicago	IL	60647     	1A							  	          	False		False
-6717046	41082	1027430		Seibert	Margaret	2026-08-25 00:00:00	250	250	0			2513 N Central Park Ave		Chicago	IL	60647     	1A							  	          	False		False
-6717047	41082	1027430		Committee to Elect Will Guzzardi		2026-09-08 00:00:00	2500	2500	0			2934 N Milwaukee Ave, Unit D.		Chicago	IL	60618     	2A							  	          	False		False
-6717048	41082	1027430		All In With Lilian		2026-09-23 00:00:00	4000	5000	0			PO Box 47687		Chicago	IL	60647     	2A							  	          	False		False
-6717049	41082	1027430		Potter	Robin	2026-09-24 00:00:00	300	800	0	lawyer	Self Employed	2745 West Logan Blvd. #2		Chicago	IL	60647     	1A							  	          	False		False
-6717050	41082	1027430		Osborne	Lillian	2026-09-24 00:00:00	50	225	0			3752 W Diversey Ave		Chicago	IL	60647     	1A							  	          	False		False
-6717051	41082	1027430		Potter	Robin	2026-09-24 00:00:00	500	800	0	lawyer	Self Employed	2745 West Logan Blvd. #2		Chicago	IL	60647     	1A							  	          	False		False
-6717052	41082	1027430		UNITED WITH DELIA FOR CONGRESS		2026-09-25 00:00:00	5000	5000	0			2339 N CALIFORNIA AVE	#47927	Chicago	IL	60647     	2A							  	          	False		False
-6717053	41082	1027430		Gente For Graciela Guzman		2026-09-28 00:00:00	6000	6000	0			2637 N. Kimball Ave #2		Chicago	IL	60647     	2A							  	          	False		False
-6717054	41082	1027430		Friends of Omar Aquino		2026-09-28 00:00:00	2500	2500	0			1000 N Rockwell St.		Chicago	IL	60622     	2A							  	          	False		False
-6717055	41082	1027430		Puskar	Tricia	2026-09-30 00:00:00	200	200	0			1237 N. Maplewood Ave. #1		Chicago	IL	60622     	1A							  	          	False		False
-6717056	41082	1027430		Dworkin	Julie	2026-09-30 00:00:00	350	850	0	Co Executive Director	Institute for the Public Good	2445 North Albany Avenue		Chicago	IL	60647     	1A							  	          	False		False
-6717057	41082	1027430		Osborne	Lillian	2026-09-30 00:00:00	150	225	0			3752 W Diversey Ave		Chicago	IL	60647     	1A							  	          	False		False
-6717058	41082	1027430		Dimas	Flor	2026-09-30 00:00:00	150	250	0			1918 N Harding Ave		Chicago	IL	60647     	1A							  	          	False		False
-6717059	41082	1027430		Brooker	Madalyn	2026-09-30 00:00:00	250	275	0			2834 W Palmer, Apt. 310		Chicago	IL	60647     	1A							  	          	False		False
-6717060	41082	1027430		Des Jardines	Julie	2026-09-30 00:00:00	200	200	0			2624 N. Monticello		Chicago	IL	60647     	1A							  	          	False		False
-6717061	41082	1027430		Dowell	Kory	2026-09-30 00:00:00	500	500	0			2735 W Armitage Ave Unit 105		Chicago	IL	60647     	1A							  	          	False		False
-6717062	41082	1027430		McCoy	Deborah	2026-09-30 00:00:00	50	300	0			2425 N Albany Ave Floor 1		Chicago	IL	60647     	1A							  	          	False		False
-6717063	41082	1027430		Cockrell	Theodoric	2026-09-30 00:00:00	250	250	0			3535 Arcadia		Evanston	IL	60203     	1A							  	          	False		False
-6717064	41082	1027430		CTU PAC		2026-07-18 00:00:00	1327.5	1327.5	0			1901 W Carroll Ace		Chicago	IL	60612     	5A	Consulting	R2 Message & Media, Inc.		111 W. Jackson Blvd	Ste. 1700	Chicago	IL	60604     	False		False
-6717065	41082	1027430		Brice	Coleman	2026-08-23 00:00:00	250	250	0			2517 N Avers Ave		Chicago	IL	60647     	5A	In kind donation of alcohol for fundraiser	Brice	Coleman	2517 N Avers Ave		Chicago	IL	60647     	False		False
+6717032	41082	1027430		Ray	Ellen	2026-08-05 00:00:00	200	200	0			4111 W Eddy		Chicago	IL	60641     	1A							  	          	True		False
+6717033	41082	1027430		Cruz	David	2026-08-12 00:00:00	250	250	0			2711 N. Mozart		Chicago	IL	60647     	1A							  	          	True		False
+6717034	41082	1027430		All In With Lilian		2026-08-12 00:00:00	1000	5000	0			PO Box 47687		Chicago	IL	60647     	2A							  	          	True		False
+6717035	41082	1027430		Osborne	Lillian	2026-08-24 00:00:00	25	225	0			3752 W Diversey Ave		Chicago	IL	60647     	1A							  	          	True		False
+6717036	41082	1027430		McDermott	John	2026-08-24 00:00:00	100	200	0			4526 N. Wolcott Ave., Apt. 3B		Chicago	IL	60640     	1A							  	          	True		False
+6717037	41082	1027430		Potter	Jackson	2026-08-24 00:00:00	250	250	0			2522 W. 40th Street		Chicago	IL	60632     	1A							  	          	True		False
+6717038	41082	1027430		Quezada	Anthony	2026-08-24 00:00:00	250	250	0			2858 N Central Park Floor 2		Chicago	IL	60618     	1A							  	          	True		False
+6717039	41082	1027430		dworkin-cantor	Phillip	2026-08-24 00:00:00	200	200	0			2521 n. bernard st		Chicago	IL	60647     	1A							  	          	True		False
+6717040	41082	1027430		McDermott	John	2026-08-24 00:00:00	100	200	0			4526 N. Wolcott Ave., Apt. 3B		Chicago	IL	60640     	1A							  	          	True		False
+6717041	41082	1027430		McCoy	Deborah	2026-08-24 00:00:00	250	300	0			2425 N Albany Ave Floor 1		Chicago	IL	60647     	1A							  	          	True		False
+6717042	41082	1027430		Dimas	Flor	2026-08-24 00:00:00	100	250	0			1918 N Harding Ave		Chicago	IL	60647     	1A							  	          	True		False
+6717043	41082	1027430		Brooker	Madalyn	2026-08-24 00:00:00	25	275	0			2834 W Palmer, Apt. 310		Chicago	IL	60647     	1A							  	          	True		False
+6717044	41082	1027430		Tholin	Kathy	2026-08-24 00:00:00	250	250	0			2423 N ALBANY AVE		Chicago	IL	60647     	1A							  	          	True		False
+6717045	41082	1027430		Dworkin	Julie	2026-08-24 00:00:00	500	850	0	Co Executive Director	Institute for the Public Good	2445 North Albany Avenue		Chicago	IL	60647     	1A							  	          	True		False
+6717046	41082	1027430		Seibert	Margaret	2026-08-25 00:00:00	250	250	0			2513 N Central Park Ave		Chicago	IL	60647     	1A							  	          	True		False
+6717047	41082	1027430		Committee to Elect Will Guzzardi		2026-09-08 00:00:00	2500	2500	0			2934 N Milwaukee Ave, Unit D.		Chicago	IL	60618     	2A							  	          	True		False
+6717048	41082	1027430		All In With Lilian		2026-09-23 00:00:00	4000	5000	0			PO Box 47687		Chicago	IL	60647     	2A							  	          	True		False
+6717049	41082	1027430		Potter	Robin	2026-09-24 00:00:00	300	800	0	lawyer	Self Employed	2745 West Logan Blvd. #2		Chicago	IL	60647     	1A							  	          	True		False
+6717050	41082	1027430		Osborne	Lillian	2026-09-24 00:00:00	50	225	0			3752 W Diversey Ave		Chicago	IL	60647     	1A							  	          	True		False
+6717051	41082	1027430		Potter	Robin	2026-09-24 00:00:00	500	800	0	lawyer	Self Employed	2745 West Logan Blvd. #2		Chicago	IL	60647     	1A							  	          	True		False
+6717052	41082	1027430		UNITED WITH DELIA FOR CONGRESS		2026-09-25 00:00:00	5000	5000	0			2339 N CALIFORNIA AVE	#47927	Chicago	IL	60647     	2A							  	          	True		False
+6717053	41082	1027430		Gente For Graciela Guzman		2026-09-28 00:00:00	6000	6000	0			2637 N. Kimball Ave #2		Chicago	IL	60647     	2A							  	          	True		False
+6717054	41082	1027430		Friends of Omar Aquino		2026-09-28 00:00:00	2500	2500	0			1000 N Rockwell St.		Chicago	IL	60622     	2A							  	          	True		False
+6717055	41082	1027430		Puskar	Tricia	2026-09-30 00:00:00	200	200	0			1237 N. Maplewood Ave. #1		Chicago	IL	60622     	1A							  	          	True		False
+6717056	41082	1027430		Dworkin	Julie	2026-09-30 00:00:00	350	850	0	Co Executive Director	Institute for the Public Good	2445 North Albany Avenue		Chicago	IL	60647     	1A							  	          	True		False
+6717057	41082	1027430		Osborne	Lillian	2026-09-30 00:00:00	150	225	0			3752 W Diversey Ave		Chicago	IL	60647     	1A							  	          	True		False
+6717058	41082	1027430		Dimas	Flor	2026-09-30 00:00:00	150	250	0			1918 N Harding Ave		Chicago	IL	60647     	1A							  	          	True		False
+6717059	41082	1027430		Brooker	Madalyn	2026-09-30 00:00:00	250	275	0			2834 W Palmer, Apt. 310		Chicago	IL	60647     	1A							  	          	True		False
+6717060	41082	1027430		Des Jardines	Julie	2026-09-30 00:00:00	200	200	0			2624 N. Monticello		Chicago	IL	60647     	1A							  	          	True		False
+6717061	41082	1027430		Dowell	Kory	2026-09-30 00:00:00	500	500	0			2735 W Armitage Ave Unit 105		Chicago	IL	60647     	1A							  	          	True		False
+6717062	41082	1027430		McCoy	Deborah	2026-09-30 00:00:00	50	300	0			2425 N Albany Ave Floor 1		Chicago	IL	60647     	1A							  	          	True		False
+6717063	41082	1027430		Cockrell	Theodoric	2026-09-30 00:00:00	250	250	0			3535 Arcadia		Evanston	IL	60203     	1A							  	          	True		False
+6717064	41082	1027430		CTU PAC		2026-07-18 00:00:00	1327.5	1327.5	0			1901 W Carroll Ace		Chicago	IL	60612     	5A	Consulting	R2 Message & Media, Inc.		111 W. Jackson Blvd	Ste. 1700	Chicago	IL	60604     	True		False
+6717065	41082	1027430		Brice	Coleman	2026-08-23 00:00:00	250	250	0			2517 N Avers Ave		Chicago	IL	60647     	5A	In kind donation of alcohol for fundraiser	Brice	Coleman	2517 N Avers Ave		Chicago	IL	60647     	True		False
 6717066	24663	1027431		Kuzas	Robert	2026-09-21 00:00:00	250	250	0			1229 W Madison, Unit F		Chicago	IL	60607-1934	1A							  	          	False		False
 6717067	24663	1027431		Smith	Leo	2026-09-30 00:00:00	1500	1500	0	None	None	5348 N Lakewood		Chicago	IL	60640     	1A							  	          	False		False
 6717068	24663	1027431	1027431-1	Citizens for Ervin		2026-08-01 00:00:00	25000	118500	25000			3323 W Jackson Blvd		Chicago	IL	60624     	3A		Citizens for Ervin		3323 W Jackson Blvd		Chicago	IL	60624     	False		False
@@ -163942,7 +163942,7 @@
 6725885	39473	1030275		Citizens for Karina Villa		2026-11-16 00:00:00	1000	0	0			PO Box 457		West Chicago	IL	60186     	2A							  	          	False		False
 6725886	39473	1030275		Affordable Assisted Living Coalition		2026-11-16 00:00:00	5000	0	0			PO Box 1245		Springfield	IL	62705     	2A							  	          	False		False
 6725887	39473	1030275		Illinois Beef Association		2026-11-16 00:00:00	1000	0	0			2060 W. Iles Ste. B		Springfield	IL	62704     	2A							  	          	False		False
-6725888	39473	1030275		Elect Rachel Ventura		2026-11-16 00:00:00	1000	0	0			617 N Raynor Ave		Joliet	IL	60435     	2A							  	          	False		False
+6725888	39473	1030275		Elect Rachel Ventura		2026-11-16 00:00:00	1000	0	0			Redaction Requested					2A							  	          	False		True
 6725889	39473	1030275		Illinois Soybean Association		2026-11-16 00:00:00	1000	0	0			1108 Trinity Ln		Bloomington	IL	61704     	2A							  	          	False		False
 6725890	38605	1030276		DORF	MICHAEL	2026-11-18 00:00:00	1000	0	0	Lawyer	Law Offices of Michael C Dorf LLC	7535 N Washtenaw		Chicago	IL	60645     	1A							  	          	False		False
 6725891	4466	1030277		MR Springbrook, LLC		2026-11-15 00:00:00	1500	0	0			55 E. Jackson Blvd	Ste. 500	Chicago	IL	60604     	5A	Headquarters rent	MR Springbrook, LLC		55 E. Jackson Blvd	Ste. 500	Chicago	IL	60604     	False		False
@@ -164257,3 +164257,181 @@
 6726200	32872	1030414		Illinois Society of Anesthesiologists PAC		2026-11-16 00:00:00	4000	4000	0			6737 W Washington St	Ste 4210	Milwaukee	WI	53214-5636	2A							  	          	False		False
 6726201	32872	1030414		Liberty Mutual Insurance PAC		2026-11-16 00:00:00	1000	1000	0			175 Berkeley St		Boston	MA	02116-5066	2A							  	          	False		False
 6726202	32872	1030414		Romanucci	Antonio	2026-11-18 00:00:00	2300	7300	0	Attorney	Romanucci & Blandin	1224 N Astor St		Chicago	IL	60610-2315	5A	Catering for fundraiser: Pizzeria Portofino 317 N Clark St Chicago, IL 60654						  	          	False		False
+6726203	23112	1030415		Peoples Energy		2026-11-19 00:00:00	1500	0	0			130 E Randolph		Chicago	IL	60601     	1A							  	          	False		False
+6726204	23112	1030415		Kates Detective & Security, Inc		2026-11-19 00:00:00	1500	0	0			7810 S. Claremont		Chicago	IL	60620     	1A							  	          	False		False
+6726205	23112	1030415		DLA Piper LLP		2026-11-19 00:00:00	1000	0	0			6225 Smith Ave		Baltimore	MD	21209-3600	1A							  	          	False		False
+6726206	23112	1030415		Montgomery	Fred	2026-11-19 00:00:00	1000	0	0	Retired	None	870 Gage Lane		Lake Forest	IL	60045     	1A							  	          	False		False
+6726207	23112	1030415		Premier Hospitality LLC		2026-11-19 00:00:00	1500	0	0			Best Effort		Chicago	IL	60600     	1A							  	          	False		False
+6726208	23112	1030415		Teamsters Local Union 700 PAC		2026-11-19 00:00:00	1000	0	0			1300 W. Higgins Road	Suite 301	Park Ridge	IL	60048     	2A							  	          	False	USA	False
+6726209	23112	1030415		The Habitat Company LLC		2026-11-19 00:00:00	1500	0	0			350 W Hubbard, Suite 500		Chicago	IL	60654     	1A							  	          	False		False
+6726210	23112	1030415		Illinois Hospital Association PAC		2026-11-19 00:00:00	1500	0	0			700 S 2nd St		Springfield	IL	62704     	2A							  	          	False		False
+6726211	23112	1030415		La Cuidad De Los Vienyos PAC		2026-11-19 00:00:00	1500	0	0			216 S Jefferson, Suite 602		Chicago	IL	60661     	2A							  	          	False		False
+6726212	23112	1030415		Riteway-Huggins Construction Co		2026-11-19 00:00:00	1500	0	0			1030 E 87th St		Chicago	IL	60619     	1A							  	          	False		False
+6726213	23112	1030415		Tops & Bottom		2026-11-19 00:00:00	1000	0	0			3960 W. Madison		Chicago	IL	60624     	1A							  	          	False		False
+6726214	23112	1030415		Winward Management Co LTD		2026-11-19 00:00:00	1500	0	0			919 S Sacramento		Chicago	IL	60612     	1A							  	          	False		False
+6726215	23112	1030415		Lyft, Inc.		2026-11-19 00:00:00	1500	0	0			185 Berry St, Suite 5000		San Francisco	CA	94107     	1A							  	          	False		False
+6726216	23112	1030415		Vested Gold Management		2026-11-19 00:00:00	1500	0	0			21474 English Circle		Frankfort	IL	60423     	1A							  	          	False		False
+6726217	23112	1030415		George Liakopoulos 2006 Trust		2026-11-19 00:00:00	1500	0	0			1544 N Ashland		Chicago	IL	60622     	1A							  	          	False		False
+6726218	35620	1030417		Laborers' INTL Union of NA Local 32 PAC Account		2026-11-23 00:00:00	1000	0	0			7404 Cherryvale North BLVD		Cherry Valley, IL 61	IL	61016     	2A							  	          	False		False
+6726219	1126	1030422		HomeTown Association of REALTORS		2026-11-20 00:00:00	1000	0	0			1958 Aberdeen Ct		Sycamore	IL	60178     	1A							  	          	False		False
+6726220	35658	1030423		Chicago Land Operators Joint Labor -Management		2026-11-20 00:00:00	1360	0	0			6200 Joliet Road		Countryside	IL	60525     	2A							  	          	False		False
+6726221	34168	1030424		Democrats for the Illinois House		2026-11-20 00:00:00	2356.27	0	0			10055 Roosevelt Rd.		Westchester	IL	60154     	5A	Wages	Allen	Lance	4107 N Rochelle LN		Peoria	IL	61615     	False		False
+6726222	34168	1030424		Democrats for the Illinois House		2026-11-20 00:00:00	1546.45	0	0			10055 Roosevelt Rd.		Westchester	IL	60154     	5A	Wages	Bhattacharj	Namrata	924 Spindletree Avenue		Naperville	IL	60565     	False		False
+6726223	34168	1030424		Democrats for the Illinois House		2026-11-20 00:00:00	3824.37	0	0			10055 Roosevelt Rd.		Westchester	IL	60154     	5A	Texting	Prompt.IO		14419 Greenwood Ave Ste A-373		Seattle	WA	98133     	False		False
+6726224	39613	1030425		Committee to Elect Robert J. Lovero		2026-11-23 00:00:00	1000	0	0			6724 W Cermak Rd		Berwyn	IL	60402     	2A							  	          	False		False
+6726225	39613	1030425		Frank Novotony & Associates, INC.		2026-11-23 00:00:00	1000	0	0			545 Plainfield Rd.	Suite A	Willowbrook	IL	60527     	1A							  	          	False		False
+6726226	39613	1030425		Cicero Firefighters Local 717		2026-11-23 00:00:00	2500	0	0			PO Box 50886		Cicero	IL	60804     	1A							  	          	False		False
+6726227	39613	1030425		Illinois Municipal Police Association		2026-11-23 00:00:00	4500	0	0			6401 W. 31st ST.		Berwyn	IL	60402     	1A							  	          	False		False
+6726228	39613	1030425		Clearview Plumbing & Sewer		2026-11-23 00:00:00	1000	0	0			P.O. Box 4287		Oak Park	IL	60304     	1A							  	          	False		False
+6726229	34777	1030426		CSI 3000		2026-11-19 00:00:00	3000	0	0			1532 S. 50th CT.		Cicero	IL	60804     	1A							  	          	False		False
+6726230	34777	1030426		Ibarra	Robert	2026-11-18 00:00:00	2500	0	0	Self Employed	Ibarra Group LLC	3232 W Cermak		Chicago	IL	60630     	1A							  	          	False		False
+6726231	40729	1030427		Democrats for the Illinois House		2026-11-20 00:00:00	1557.49	0	0			10055 W Roosevelt	Ste D	Westchester	IL	60154     	5A	Wages	Flanagan	Lucas	1429 Walnut St		Western Springs	IL	60558     	False		False
+6726232	40729	1030427		Democrats for the Illinois House		2026-11-20 00:00:00	3023.47	0	0			10055 W Roosevelt	Ste D	Westchester	IL	60154     	5A	Wages	Layden	Tommy	515 E Vine St		Springfield	IL	62703     	False		False
+6726233	40729	1030427		Democrats for the Illinois House		2026-11-20 00:00:00	2275	0	0			10055 W Roosevelt	Ste D	Westchester	IL	60154     	5A	Campaign work	Corbett	Nathan	PO Box 3090		Lisle	IL	60532     	False		False
+6726234	40729	1030427		Democrats for the Illinois House		2026-11-20 00:00:00	1438.21	0	0			10055 W Roosevelt	Ste D	Westchester	IL	60154     	5A	Texting Platform	Prompt.Io		14419 Greenwood Ave N Ste A-373		Seattle	WA	98133     	False		False
+6726235	6239	1030428		FedEx Corporation		2026-11-18 00:00:00	5000	5000	0			942 Shady Grove Rd S		Memphis	TN	38120-4117	1A							  	          	False		False
+6726236	6239	1030428		Google		2026-11-18 00:00:00	29100	29100	0			1600 Amphitheatre Pkwy		Mountain View	CA	94043-1351	1A							  	          	False		False
+6726237	6239	1030428		Tropical Optical		2026-11-16 00:00:00	1500	6500	0			3624 W 26th St		Chicago	IL	60623-3936	1A							  	          	False		False
+6726238	6239	1030428		Don Harmon for State Central Committeeman		2026-11-18 00:00:00	10000	10000	0			6941 A North Ave		Oak Park	IL	60302-1024	2A							  	          	False		False
+6726239	6239	1030428		Don Harmon for Township Committeeman		2026-11-18 00:00:00	10000	10000	0			6939 North Ave		Oak Park	IL	60302-1071	2A							  	          	False		False
+6726240	34074	1030429		Chicago Land Operators Joint Labor Management PAC		2026-11-20 00:00:00	6000	0	0			6200 Joliet Rd		Countryside	IL	60525     	2A							  	          	False		False
+6726241	34074	1030429		Community Currency Ex Assn of IL PAC		2026-11-20 00:00:00	2000	0	0			5215 Old Orchard Rd., Ste. 900		Skokie	IL	60077     	2A							  	          	False		False
+6726242	40923	1030430		Citizens for Elizabeth Hernandez		2026-11-18 00:00:00	20000	0	0			PO 50777		Cicero	IL	60804     	2A							  	          	False		False
+6726243	40923	1030430		Citizens to Elect Ronald M Serpico Sr. Inc		2026-11-18 00:00:00	1000	0	0			1807 Broadway		Melrose Park	IL	60160     	2A							  	          	False		False
+6726244	25653	1030431		Kalshi		2026-11-19 00:00:00	1500	0	0			594 Broadway		New York	NY	10012     	1A							  	          	False		False
+6726245	25496	1030432		Amazon.com Services LLC		2026-11-23 00:00:00	1000	0	0			205 Pennsylvania Av SE		Washington	DC	20003     	1A							  	          	False		False
+6726246	41429	1030433		Tewani	Sumeet	2026-11-23 00:00:00	1000	0	0	Physician	Rockford Gastroenterology Associates	5326 Parliament Place		Rockford	IL	61107     	1A							  	          	False		False
+6726247	41429	1030433		Manaster	Sylvie	2026-11-23 00:00:00	1000	0	0	Assistant State's Attorney	Cook County State's Attorney	105 West Delaware		Chicago	IL	60610     	1A							  	          	False		False
+6726248	23344	1030434		Murray Legal, PLLC.		2026-11-23 00:00:00	1250	0	0			353 N. Clark St., Ste. 20250		Chicago	IL	60654     	1A							  	          	False		False
+6726249	34241	1030435		Storino, Ramello & Durkin		2026-11-23 00:00:00	1000	0	0			9501 W. Devon Avenue		Rosemont	IL	60018     	1A							  	          	False		False
+6726250	34241	1030435		Comcast Financial Agency Corp		2026-11-23 00:00:00	2000	0	0			1701 JFK Blvd		Philadelphia	PA	19103     	1A							  	          	False		False
+6726251	39601	1030436		Democrats for the Illinois House		2026-11-20 00:00:00	1699.73	0	0			10055 W Roosevelt Rd, Suite A		Westchester	IL	60154     	5A	Wages	Amin	Anna	520 S 2nd St, Apt 1508		Springfield	IL	62701     	False		False
+6726252	39601	1030436		Democrats for the Illinois House		2026-11-20 00:00:00	1557.49	0	0			10055 W Roosevelt Rd, Suite A		Westchester	IL	60154     	5A	Wages	Gustafson	Griffin	1468 W Belle Plaine Ave		Chicago	IL	60613     	False		False
+6726253	41276	1030437		Democrats for the Illinois House		2026-11-20 00:00:00	2717.13	0	0			10055 W Roosevelt Rd	Suite D	Westchester	IL	60154     	5A	Texting Platform	Prompt, Io		4419 Greenwood Ave N Ste A-373		Seattle	WA	98133     	False		False
+6726254	41276	1030437		Democrats for the Illinois House		2026-11-20 00:00:00	1850.83	0	0			10055 W Roosevelt Rd	Suite D	Westchester	IL	60154     	5A	Wages	Scanlon	Tadhg	9227 S Saint Louis Ave		Evergreen Park	IL	60805     	False		False
+6726255	41276	1030437		Democrats for the Illinois House		2026-11-20 00:00:00	1975.83	0	0			10055 W Roosevelt Rd	Suite D	Westchester	IL	60154     	5A	Wages	Syrett	Margaret	182 W Lake St	Apt 2002	Chicago	IL	60601     	False		False
+6726256	40937	1030438		Citizens for Laura M. Murphy		2026-11-20 00:00:00	3000	0	0			P.O. Box 13		Des Plaines	IL	60016     	2A							  	          	False		False
+6726257	40937	1030438		Keeley	Eugene	2026-11-20 00:00:00	1000	0	0	Heavy/Highway Contractor	Keeley & Sons Inc	5350 Wild Oak Ln		Smithton	IL	62285     	1A							  	          	False		False
+6726258	40937	1030438		Friends of Omar Aquino		2026-11-20 00:00:00	1500	0	0			1000 N. Rockwell		Chicago	IL	60622     	2A							  	          	False		False
+6726259	40937	1030438		Friends for Celina Villanueva		2026-11-20 00:00:00	1000	0	0			4140 S. Archer Ave Suite N		Chicago	IL	60632     	2A							  	          	False		False
+6726260	35759	1030439		Amazon		2026-11-23 00:00:00	1000	0	0			PO Box 81226		Seattle	WA	98108     	1A							  	          	False		False
+6726261	35759	1030439		Churchill Downs		2026-11-23 00:00:00	1500	0	0			600 N. Hurstbourne Parkway Suite 40		Louisville	KY	40222     	1A							  	          	False		False
+6726262	35759	1030439		Merck Sharp & Dohme Corp.		2026-11-23 00:00:00	1000	0	0			2000 Galbping Hill Road		Kenilworth	NJ	07033     	1A							  	          	False		False
+6726263	35759	1030439		AirBNB		2026-11-23 00:00:00	1000	0	0			888 Brannan Street		San Francisco	CA	94103     	1A							  	          	False		False
+6726264	35759	1030439		Save Our Local Businesses Illinois PAC		2026-11-23 00:00:00	3000	0	0			110 N. Carpenter St		Chicago	IL	60637     	2A							  	          	False		False
+6726265	35683	1030440		Democrats for the Illinois House		2026-11-20 00:00:00	1066.53	0	0			10055 W Roosevelt Road, Ste A		Westchester	IL	60154     	5A	Texting Platform	Prompt.Io		4419 Greenwood Ave N Ste A-373		Seattle	IL	98133     	False		False
+6726266	35683	1030440		Democrats for the Illinois House		2026-11-20 00:00:00	1850.83	0	0			10055 W Roosevelt Road, Ste A		Westchester	IL	60154     	5A	Wages	Alberto	Kenia Murrieta	1336 Brookdale DR		Carpentersville	IL	60110     	False		False
+6726267	35683	1030440		Democrats for the Illinois House		2026-11-20 00:00:00	2991.4	0	0			10055 W Roosevelt Road, Ste A		Westchester	IL	60154     	5A	Wages	Mendonca	Jason	520 S 2nd St, Apt 1702		Springfield	IL	62701     	False		False
+6726268	40747	1030441		Cardenas Marketing Network, LLC		2026-11-23 00:00:00	2500	0	0			1459 W. Hubbard St.		Chicago	IL	60642     	1A							  	          	False		False
+6726269	34082	1030442		Democrats for the Illinois House		2026-11-20 00:00:00	1850.83	0	0			10055 W Roosevelt Road, Ste D		Westchester	IL	60154     	5A	Wages	Mahoney	Niamh	2179 N California Ave		Chicago	IL	60647     	False		False
+6726270	34082	1030442		Democrats for the Illinois House		2026-11-20 00:00:00	2175.54	0	0			10055 W Roosevelt Road, Ste D		Westchester	IL	60154     	5A	Texting Platform	Prompt.Io		14419 Greenwood Ave N Ste A-373		Seattle	WA	98133     	False		False
+6726271	39613	1030443		Forefront Dermatology		2026-11-23 00:00:00	1000	0	0			3253 S. Harlem Ave.		Berwyn	IL	60402     	1A							  	          	False		False
+6726272	38809	1030444		Chico	Craig	2026-11-19 00:00:00	1000	0	0			24 N Ada		Chicago	IL	60607     	1A							  	          	False		False
+6726273	38809	1030444		Tropical Optical Corp		2026-11-19 00:00:00	1000	0	0			3624 W. 26th St		Chicago	IL	60623     	1A							  	          	False		False
+6726274	38809	1030444		Citizens for Antonio Munoz		2026-11-19 00:00:00	1000	0	0			P.O Box 09112		Chicago	IL	60609     	1A							  	          	False		False
+6726275	24392	1030445		Charter Communications		2026-11-23 00:00:00	1000	0	0			12405 Powerscourt Dr.		St. Louis	MO	63131     	1A							  	          	False		False
+6726276	24392	1030445		Amazon.com Services LLC		2026-11-23 00:00:00	2000	0	0			PO Box 80683		Seattke	WA	98108     	1A							  	          	False		False
+6726277	35818	1030446		Democrats for the Illinois House		2026-11-20 00:00:00	1975.83	0	0			10055 W Roosevelt Road, Ste D		Westchester	IL	60154     	5A	Wages	Tiwari	Sindhu	3303 Tall Grass Rd		Naperville	IL	60564     	False		False
+6726278	17298	1030447		Roofers & Waterproofers Local 11		2026-11-23 00:00:00	1000	0	0			2021 Swift Drive		Oak Brook	IL	60523-1503	2A							  	          	False		False
+6726279	17298	1030448		Chicago Land Operators		2026-11-23 00:00:00	2500	0	0			6200 Joliet Road		Countryside	IL	60525     	2A							  	          	False		False
+6726280	41419	1030449		Craigmile	David	2026-11-21 00:00:00	4000	0	0	Consultant	Self Employed	545 Circle Lane		Lake Forest	IL	60045     	1A							  	          	False		False
+6726281	34545	1030450		Friends of Susan Smentek		2026-11-23 00:00:00	3020	0	0			196 N Larch Ave		Elmhurst	IL	60126     	4A	Reimbursement for share of mailing cost						  	          	False		False
+6726282	41414	1030451		Rogers	Steven	2026-11-22 00:00:00	1000	0	0	not employed	not employed	1211 S Prairie, #1801		Chicago	IL	60605     	1A							  	          	False		False
+6726283	185	1030454		AFT Solidarity Fund, dues		2026-11-17 00:00:00	139612.29	0	0			555 New Jersey Avenue, NW		Washington	DC	20001     	1A							  	          	False		False
+6726284	1026	1030456		Friends of Larry Walsh Jr.		2026-11-23 00:00:00	12000	0	0			P.O.Box 69		Elwood	IL	60421     	2A							  	          	False		False
+6726285	175	1030457		Belmont Bank & Trust Company		2026-11-23 00:00:00	6000	0	0			8250 W Belmont Ave		Chicago	IL	60634     	1A							  	          	False		False
+6726286	39886	1030458		Cerniglia Co.		2026-11-23 00:00:00	1000	0	0			3421 W. Lake Street		Melrose Park	IL	60160     	1A							  	          	False		False
+6726287	39886	1030458		SBC Waste Solutions Inc.		2026-11-23 00:00:00	1000	0	0			2401 Gardner Road		Broadview	IL	60155     	1A							  	          	False		False
+6726288	39886	1030458		Round Ground Metals, Inc.		2026-11-23 00:00:00	1000	0	0			4825 Turnberry Drive		Hanover Park	IL	60133-5493	1A							  	          	False		False
+6726289	39886	1030458		Friends of Sam Tornatore		2026-11-23 00:00:00	1000	0	0			236 W. Lake Street	Suite 100	Bloomingdale	IL	60108     	2A							  	          	False		False
+6726290	39886	1030458		Rosemont Masonry Corp.		2026-11-23 00:00:00	1200	0	0			9575 W. Higgins Road	#902	Rosemont	IL	60018     	1A							  	          	False		False
+6726291	39886	1030458		D-R Rosemont, LLC		2026-11-23 00:00:00	1000	0	0			9575 W. Higgins Road	#902	Rosemont	IL	60018     	1A							  	          	False		False
+6726292	39886	1030458		GMX Real Estate Group LLC		2026-11-23 00:00:00	1000	0	0			3000 Dundee Road	STE 408	Northbrook	IL	60062     	1A							  	          	False		False
+6726293	39886	1030458		ottosen DiNolfo Hasenbalg & Castaldo, Ltd.		2026-11-23 00:00:00	2500	0	0			1804 N. Naper Blvd.	Suite 350	Naperville	IL	60563     	1A							  	          	False		False
+6726294	39886	1030458		Perlow	Mitchell	2026-11-20 00:00:00	1000	0	0	Appraiser	Property Valuation Services	7101 N. Cicero Avenue	Suite 110	Lincolnwood	IL	60712     	1A							  	          	False		False
+6726295	39886	1030458		Segovia Partners Illinois LLC		2026-11-23 00:00:00	1000	0	0			9501 Technology Blvd STE 4104		Rosemont	IL	60018     	1A							  	          	False		False
+6726296	39307	1030461		Fox	Peter	2026-11-23 00:00:00	1000	0	0			1909 Fox Dr		Champaign	IL	61820     	1A							  	          	False		False
+6726297	34198	1030462		Colbert-Jones	Lynn	2026-11-16 00:00:00	1000	1000	0	Founder	CENIC Global	130 Surrey Ln		Burr Ridge	IL	60527-5717	1A							  	          	False		False
+6726298	34198	1030462		Coney	Les	2026-11-16 00:00:00	1000	4500	0	Partnerships	Fanduel	1000 W Washington Blvd		Chicago	IL	60607-2137	1A							  	          	False		False
+6726299	34198	1030462		Harvey-Carr	Bonita	2026-11-16 00:00:00	1000	1550	0	Chief Executive Officer	Court Appointed Special Advocates of Cook County	6464 S Dorchester Ave		Chicago	IL	60637-3812	1A							  	          	False		False
+6726300	34198	1030462		Pezzuto	Dani	2026-11-16 00:00:00	1000	1000	0	Dietitian	University of Chicago Medicine	2558 W Superior St	Unit 1F	Chicago	IL	60612-1109	1A							  	          	False		False
+6726301	34198	1030462		Potter	Robin	2026-11-16 00:00:00	1000	4100	0	Attorney	Self Employed	2745 W Logan Blvd	Apt 2	Chicago	IL	60647-5927	1A							  	          	False		False
+6726302	34198	1030462		Rakestraw	Pamela M.	2026-11-16 00:00:00	2500	3250	0	Not Employed	Not Employed	340 E Randolph St	Unit 3001	Chicago	IL	60601-7916	1A							  	          	False		False
+6726303	38605	1030463		Hoff	Katherine	2026-11-20 00:00:00	2500	0	0	Mother	Self Employed	1414 W Balmoral Ave		Chicago	IL	60640     	1A							  	          	False		False
+6726304	37263	1030464		Democrats for the Illinois House		2026-11-20 00:00:00	1850.83	0	0			10055 Roosevelt		Westchester	IL	60154     	5A	Campaign staff	Lowe	Bennett	2208 w Iowa apt. G		Chicago	IL	60622     	False		False
+6726305	41290	1030465		Cotton	Darrin	2026-11-19 00:00:00	1000	0	0	General Manager	White Castle	20313 Providence Ln		Lynwood	IL	60411     	1A							  	          	False		False
+6726306	41082	1030466		Ray	Ellen	2026-08-05 00:00:00	200	200	0			4111 W Eddy		Chicago	IL	60641     	1A							  	          	False		False
+6726307	41082	1030466		Cruz	David	2026-08-12 00:00:00	250	250	0			2711 N. Mozart		Chicago	IL	60647     	1A							  	          	False		False
+6726308	41082	1030466		All In With Lilian		2026-08-12 00:00:00	1000	5000	0			PO Box 47687		Chicago	IL	60647     	2A							  	          	False		False
+6726309	41082	1030466		Tholin	Kathy	2026-08-24 00:00:00	250	250	0			2423 N ALBANY AVE		Chicago	IL	60647     	1A							  	          	False		False
+6726310	41082	1030466		Dworkin	Julie	2026-08-24 00:00:00	500	850	0	Co Executive Director	Institute for the Public Good	2445 North Albany Avenue		Chicago	IL	60647     	1A							  	          	False		False
+6726311	41082	1030466		Osborne	Lillian	2026-08-24 00:00:00	25	225	0			3752 W Diversey Ave		Chicago	IL	60647     	1A							  	          	False		False
+6726312	41082	1030466		McDermott	John	2026-08-24 00:00:00	100	200	0			4526 N. Wolcott Ave., Apt. 3B		Chicago	IL	60640     	1A							  	          	False		False
+6726313	41082	1030466		Potter	Jackson	2026-08-24 00:00:00	250	250	0			2522 W. 40th Street		Chicago	IL	60632     	1A							  	          	False		False
+6726314	41082	1030466		Quezada	Anthony	2026-08-24 00:00:00	250	250	0			2858 N Central Park Floor 2		Chicago	IL	60618     	1A							  	          	False		False
+6726315	41082	1030466		dworkin-cantor	Phillip	2026-08-24 00:00:00	200	200	0			2521 n. bernard st		Chicago	IL	60647     	1A							  	          	False		False
+6726316	41082	1030466		McDermott	John	2026-08-24 00:00:00	100	200	0			4526 N. Wolcott Ave., Apt. 3B		Chicago	IL	60640     	1A							  	          	False		False
+6726317	41082	1030466		McCoy	Deborah	2026-08-24 00:00:00	250	300	0			2425 N Albany Ave Floor 1		Chicago	IL	60647     	1A							  	          	False		False
+6726318	41082	1030466		Dimas	Flor	2026-08-24 00:00:00	100	250	0			1918 N Harding Ave		Chicago	IL	60647     	1A							  	          	False		False
+6726319	41082	1030466		Brooker	Madalyn	2026-08-24 00:00:00	25	275	0			2834 W Palmer, Apt. 310		Chicago	IL	60647     	1A							  	          	False		False
+6726320	41082	1030466		Seibert	Margaret	2026-08-25 00:00:00	250	250	0			2513 N Central Park Ave		Chicago	IL	60647     	1A							  	          	False		False
+6726321	41082	1030466		Committee to Elect Will Guzzardi		2026-09-08 00:00:00	2500	2500	0			2934 N Milwaukee Ave, Unit D.		Chicago	IL	60618     	2A							  	          	False		False
+6726322	41082	1030466		All In With Lilian		2026-09-23 00:00:00	4000	5000	0			PO Box 47687		Chicago	IL	60647     	2A							  	          	False		False
+6726323	41082	1030466		Potter	Robin	2026-09-24 00:00:00	300	800	0	lawyer	Self Employed	2745 West Logan Blvd. #2		Chicago	IL	60647     	1A							  	          	False		False
+6726324	41082	1030466		Osborne	Lillian	2026-09-24 00:00:00	50	225	0			3752 W Diversey Ave		Chicago	IL	60647     	1A							  	          	False		False
+6726325	41082	1030466		Potter	Robin	2026-09-24 00:00:00	500	800	0	lawyer	Self Employed	2745 West Logan Blvd. #2		Chicago	IL	60647     	1A							  	          	False		False
+6726326	41082	1030466		UNITED WITH DELIA FOR CONGRESS		2026-09-25 00:00:00	5000	5000	0			2339 N CALIFORNIA AVE	#47927	Chicago	IL	60647     	2A							  	          	False		False
+6726327	41082	1030466		Gente For Graciela Guzman		2026-09-28 00:00:00	6000	6000	0			2637 N. Kimball Ave #2		Chicago	IL	60647     	2A							  	          	False		False
+6726328	41082	1030466		Friends of Omar Aquino		2026-09-28 00:00:00	2500	2500	0			1000 N Rockwell St.		Chicago	IL	60622     	2A							  	          	False		False
+6726329	41082	1030466		Puskar	Tricia	2026-09-30 00:00:00	200	200	0			1237 N. Maplewood Ave. #1		Chicago	IL	60622     	1A							  	          	False		False
+6726330	41082	1030466		Dworkin	Julie	2026-09-30 00:00:00	350	850	0	Co Executive Director	Institute for the Public Good	2445 North Albany Avenue		Chicago	IL	60647     	1A							  	          	False		False
+6726331	41082	1030466		Osborne	Lillian	2026-09-30 00:00:00	150	225	0			3752 W Diversey Ave		Chicago	IL	60647     	1A							  	          	False		False
+6726332	41082	1030466		Dimas	Flor	2026-09-30 00:00:00	150	250	0			1918 N Harding Ave		Chicago	IL	60647     	1A							  	          	False		False
+6726333	41082	1030466		Brooker	Madalyn	2026-09-30 00:00:00	250	275	0			2834 W Palmer, Apt. 310		Chicago	IL	60647     	1A							  	          	False		False
+6726334	41082	1030466		Des Jardines	Julie	2026-09-30 00:00:00	200	200	0			2624 N. Monticello		Chicago	IL	60647     	1A							  	          	False		False
+6726335	41082	1030466		Dowell	Kory	2026-09-30 00:00:00	500	500	0			2735 W Armitage Ave Unit 105		Chicago	IL	60647     	1A							  	          	False		False
+6726336	41082	1030466		McCoy	Deborah	2026-09-30 00:00:00	50	300	0			2425 N Albany Ave Floor 1		Chicago	IL	60647     	1A							  	          	False		False
+6726337	41082	1030466		Cockrell	Theodoric	2026-09-30 00:00:00	250	250	0			3535 Arcadia		Evanston	IL	60203     	1A							  	          	False		False
+6726338	41082	1030466		CTU PAC		2026-07-18 00:00:00	1327.5	1327.5	0			1901 W Carroll Ace		Chicago	IL	60612     	5A	Consulting	R2 Message & Media, Inc.		111 W. Jackson Blvd	Ste. 1700	Chicago	IL	60604     	False		False
+6726339	41082	1030466		CTU PAC (Illinois Federation of Teachers)		2026-08-13 00:00:00	3180	4080	0			1901 W. Carroll		Chicago	IL	60607     	5A	Legal fees	Law Office of Ed Mullen		1505 W. Morse Ave		Chicago	IL	60626     	False		False
+6726340	41082	1030466		CTU PAC (Illinois Federation of Teachers)		2026-08-13 00:00:00	900	4080	0			1901 W. Carroll		Chicago	IL	60607     	5A	Legal fees	Law Office of Steve Fine		55 W. Jackson	#1550	Chicago	IL	60604     	False		False
+6726341	41082	1030466		Brice	Coleman	2026-08-23 00:00:00	250	250	0			2517 N Avers Ave		Chicago	IL	60647     	5A	In kind donation of alcohol for fundraiser	Brice	Coleman	2517 N Avers Ave		Chicago	IL	60647     	False		False
+6726342	41082	1030467		Our Schools PAC		2026-11-13 00:00:00	42578.6	0	0			53 W. Jackson BLVD		Chicago	IL	60604     	5A	Mailing	Four Lions Media		601 13th St. NW	Fl 2	Washington	DC	20005-3819	False		False
+6726343	41082	1030468		Our Schools PAC		2026-11-16 00:00:00	1125	0	0			53 W. Jackson BLVD		Chicago	IL	60604     	5A	Contractual	Escobedo	Sophia	2720 N Campbell Ave Unit 1		Chicago	IL	60647     	False		False
+6726344	41082	1030468		Our Schools PAC		2026-11-16 00:00:00	5500	0	0			53 W. Jackson BLVD		Chicago	IL	60604     	5A	Contractual	Acevedo	Cecilia	2528 n Washtenaw ave		Chicago	IL	60647     	False		False
+6726345	22260	1030469		Amazon.com Services LLC		2026-11-23 00:00:00	2000	0	0			PO Box 80683		Seatle	WA	98108     	1A							  	          	False		False
+6726346	22260	1030469		Genentech		2026-11-23 00:00:00	3000	0	0			PO Box 9030		South San Francisco	CA	94083     	1A							  	          	False		False
+6726347	22260	1030469		Sacks	Michael J.	2026-11-23 00:00:00	7300	0	0	CEO	Grosvenor Capital Management	833 Central Avenue #1155		Highland Park	IL	60035     	1A							  	          	False		False
+6726348	22260	1030469		Barnes & Thronburg LLP (Attorney Operating Account)		2026-11-23 00:00:00	1000	0	0			11 South Meridian Street		Indianapolis	IN	46204     	1A							  	          	False		False
+6726349	22260	1030469		Emergency Medicine PAC of Illinois		2026-11-23 00:00:00	1000	0	0			2001 Butterfield Rd, Esplanade I, S		Downers Grove	IL	60515     	2A							  	          	False		False
+6726350	22260	1030469		Council of State Governments, Ltd.		2026-11-23 00:00:00	1233.3	0	0			1776 Avenue of the States		Lexington	KY	40511     	4A	Reimbursement						  	          	False		False
+6726351	41437	1030470		Illinois Federation of Teachers Quincy		2026-11-19 00:00:00	3700	0	0			255 South 36th Street	#200B	Quincy	IL	62301     	1A							  	          	False		False
+6726352	37001	1030471		United Working Families PAC		2026-11-16 00:00:00	2000	0	0			2229 S Halsted		Chicago	IL	60608     	5A	Phone bank and texting program	Scale to Win		13742 Harper Street		Santa Ana	CA	92703     	False		False
+6726353	37001	1030471		Our Schools PAC		2026-11-16 00:00:00	45089.5	0	0			53 W Jackson Blvd	Suite 1550	Chicago	IL	60604     	5A	Mailing	Four Lions Media		601 13th St NW Fl12		Washington	DC	20005     	False		False
+6726354	37001	1030471		Our Schools PAC		2026-11-16 00:00:00	2750	0	0			53 W Jackson Blvd	Suite 1550	Chicago	IL	60604     	5A	Contractual - campaign staffing	Bernadel	Paule	3427 West Adams Street		Chicago	IL	60624     	False		False
+6726355	37001	1030471		CTU PAC (Illinois Federation of Teachers		2026-11-16 00:00:00	1225	0	0			1901 W Carroll		Chicago	IL	60607     	5A	Campaign consulting	Senior Wizdom Consulting		5833 W Race Avenue		Chicago	IL	60644     	False		False
+6726356	37001	1030471		Our Schools PAC		2026-11-16 00:00:00	4088.75	0	0			53 W Jackson Blvd	Suite 1550	Chicago	IL	60604     	5A	Communications	Midway Broadcasting Corporation		800 South Wells Street, Ste. 170		Chicago	IL	60607     	False		False
+6726357	37001	1030471		Our Schools PAC		2026-11-16 00:00:00	2750	0	0			53 W Jackson Blvd	Suite 1550	Chicago	IL	60604     	5A	Contractual - campaign staffing	Bernadel	Paule	3427 West Adams Street		Chicago	IL	60624     	False		False
+6726358	37001	1030471		CTU PAC (Illinois Federation of Teachers		2026-11-16 00:00:00	5312.5	0	0			1901 W Carroll		Chicago	IL	60607     	5A	Campaign consulting	Senior Wizdom Consulting		5833 W Race Avenue		Chicago	IL	60644     	False		False
+6726359	37001	1030471		Our Schools PAC		2026-11-16 00:00:00	22544.75	0	0			53 W Jackson Blvd	Suite 1550	Chicago	IL	60604     	5A	Mailing	Four Lions Media		601 13th St NW Fl12		Washington	DC	20005     	False		False
+6726360	41068	1030472		Democrats for the Illinois House		2026-11-20 00:00:00	8000	0	0			10055 W. Roosevelt Road	Suite D	Westchester	IL	60154     	5A	Phone calls	Winning Connections		317 Pennsylvania Ave SE	Second Floor	Washington, D.C.	DC	20003     	False		False
+6726361	41068	1030472		Democrats for the Illinois House		2026-11-20 00:00:00	7500	0	0			10055 W. Roosevelt Road	Suite D	Westchester	IL	60154     	5A	Phone calls	Winning Connections		317 Pennsylvania Ave SE	Second Floor	Washington, D.C.	DC	20003     	False		False
+6726362	41068	1030472		Democrats for the Illinois House		2026-11-20 00:00:00	1273.11	0	0			10055 W. Roosevelt Road	Suite D	Westchester	IL	60154     	5A	Texting platform	Prompt.Io		14419 Greenwood Ave N	Ste A-373	Seattle	WA	98133     	False		False
+6726363	34202	1030473		Lucky Lincoln Gaming, LLC		2026-11-23 00:00:00	1500	0	0			3945 N Neenah Ave		Chicago	IL	60634     	1A							  	          	False		False
+6726364	31972	1030474		CHEMPAC		2026-11-23 00:00:00	1000	0	0			1400 E Touhy Ave	Ste 110	Des Plaines	IL	60018     	2A							  	          	False		False
+6726365	17385	1030475		CVSHealth Pharmacy, INC		2026-11-23 00:00:00	2000	0	0			1 CVS Drive		Woonsocket	RI	02895     	1A							  	          	False		False
+6726366	17385	1030475		Kates	William	2026-11-23 00:00:00	3000	0	0	CEO	Kates Detective and Security	7810 South Claremont Avenue		Chicago	IL	60620     	1A							  	          	False		False
+6726367	17385	1030475		Kelly	Melinda	2026-11-23 00:00:00	3000	0	0	President	Chatham Business Association	4021 West 97th Street		Oak Lawn	IL	60453     	1A							  	          	False		False
+6726368	17385	1030475		IL Roofing Contractors PAC		2026-11-23 00:00:00	1500	0	0			1 Mid America Plaza	3rd Floor STE 3014	Oakbrook Terrance	IL	60181     	2A							  	          	False		False
+6726369	16776	1030476		Aqua Illinois INC		2026-11-17 00:00:00	1000	1000	0			1000 S Schuyler Ave		Kankakee	IL	60901-5026	1A							  	          	False		False
+6726370	16776	1030476		Davita		2026-11-17 00:00:00	5000	5000	0			PO Box 4328		Federal Way	WA	98063-4328	1A							  	          	False		False
+6726371	16776	1030476		Illinois Thoroughbred Horsemen's Association		2026-11-17 00:00:00	2500	2500	0			7301 W 25th St	Ste 321	North Riverside	IL	60546-1409	1A							  	          	False		False
+6726372	16776	1030476		Lyft Inc		2026-11-17 00:00:00	1000	1000	0			185 Berry St	Ste 5000	San Francisco	CA	94107-2503	1A							  	          	False		False
+6726373	16776	1030476		Midwest Gaming & Entertainment LLC		2026-11-17 00:00:00	1000	1000	0			3000 S River Rd		Des Plaines	IL	60018-4201	1A							  	          	False		False
+6726374	16776	1030476		Vision Management Services		2026-11-17 00:00:00	5000	5000	0			325 W Huron St	Ste 700	Chicago	IL	60654-3638	1A							  	          	False		False
+6726375	16776	1030476		Vistra Corp		2026-11-17 00:00:00	1000	1000	0			6555 Sierra Dr		Irving	TX	75039-2479	1A							  	          	False		False
+6726376	16776	1030476		Chicago Land Operators Joint Labor-Management PAC		2026-11-17 00:00:00	1000	7000	0			6200 Joliet Rd		Countryside	IL	60525-3957	2A							  	          	False		False
+6726377	16776	1030476		Community Currency Ex Association of IL Inc PAC		2026-11-17 00:00:00	1000	1000	0			5215 Old Orchard Rd	Ste 900	Skokie	IL	60077-1047	2A							  	          	False		False
+6726378	16776	1030476		Manufacturers PAC		2026-11-17 00:00:00	2000	2500	0			220 E Adams St		Springfield	IL	62701-1123	2A							  	          	False		False
+6726379	39821	1030477		Our Schools PAC		2026-11-24 00:00:00	2132.59	0	0			53 W Jackson, Suite 1550		Chicago	IL	60604     	5A	Phone bank	Nepantla Strategies		344 4th St SW		Albuquerque	NM	87102     	False		False
+6726380	41119	1030478		Our Schools PAC		2026-11-24 00:00:00	2132.59	0	0			53 W. Jackson Blvd.	Suite 1550	Chicago	IL	60604     	5A	Phone bank	Nepantla Strategies		344 4th St SW		Albuquerque	NM	87102-3206	False		False

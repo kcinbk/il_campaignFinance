@@ -396285,33 +396285,33 @@ tates of America	False
 4991314	17290	1027429	0	ActBlue Technical Services		2026-09-16 00:00:00	59.25	1038.85	14 Arrow St.		Cambridge	MA	02138     	8B	Merchant processing & reporting			False	False	False		False
 4991315	17290	1027429	0	ActBlue Technical Services		2026-09-23 00:00:00	355.5	1038.85	14 Arrow St.		Cambridge	MA	02138     	8B	Merchant processing & reporting			False	False	False		False
 4991316	17290	1027429	0	ActBlue Technical Services		2026-09-30 00:00:00	624.1	1038.85	14 Arrow St.		Cambridge	MA	02138     	8B	Merchant processing & reporting			False	False	False		False
-4991317	41082	1027430	0	Google LLC		2026-07-02 00:00:00	19.32	154.12	1600 Amphitheatre Pkwy		Mountain View	CA	94043     	8B	Website			False	False	False		False
-4991318	41082	1027430	0	Google LLC		2026-07-31 00:00:00	41.4	154.12	1600 Amphitheatre Pkwy		Mountain View	CA	94043     	8B	Website			False	False	False		False
-4991319	41082	1027430	0	Google LLC		2026-08-03 00:00:00	41.82	154.12	1600 Amphitheatre Pkwy		Mountain View	CA	94043     	8B	Website			False	False	False		False
-4991320	41082	1027430	0	Google LLC		2026-09-01 00:00:00	51.58	154.12	1600 Amphitheatre Pkwy		Mountain View	CA	94043     	8B	Website			False	False	False		False
-4991321	41082	1027430	0	Act Blue Technical Services		2026-09-08 00:00:00	87.5	361.91	366 Summer Street		Somerville	MA	02144     	8B	Processing Fees			False	False	False		False
-4991322	41082	1027430	0	Act Blue Technical Services		2026-07-01 00:00:00	0.7	361.91	366 Summer Street		Somerville	MA	02144     	8B	Processing Fee			False	False	False		False
-4991323	41082	1027430	0	Act Blue Technical Services		2026-07-08 00:00:00	1.75	361.91	366 Summer Street		Somerville	MA	02144     	8B	Processing Fees			False	False	False		False
-4991324	41082	1027430	0	Act Blue Technical Services		2026-07-15 00:00:00	0.04	361.91	366 Summer Street		Somerville	MA	02144     	8B	Processing Fees			False	False	False		False
-4991325	41082	1027430	0	Act Blue Technical Services		2026-08-05 00:00:00	9.63	361.91	366 Summer Street		Somerville	MA	02144     	8B	Processing Fees			False	False	False		False
-4991326	41082	1027430	0	Act Blue Technical Services		2026-08-15 00:00:00	10.5	361.91	366 Summer Street		Somerville	MA	02144     	8B				False	False	False		False
-4991327	41082	1027430	0	Act Blue Technical Services		2026-08-19 00:00:00	7.02	361.91	366 Summer Street		Somerville	MA	02144     	8B	Processing Fees			False	False	False		False
-4991328	41082	1027430	0	Act Blue Technical Services		2026-08-24 00:00:00	102.64	361.91	366 Summer Street		Somerville	MA	02144     	8B	Processing Fees			False	False	False		False
-4991329	41082	1027430	0	Act Blue Technical Services		2026-09-01 00:00:00	10.68	361.91	366 Summer Street		Somerville	MA	02144     	8B	Processing Fees			False	False	False		False
-4991330	41082	1027430	0	Act Blue Technical Services		2026-09-15 00:00:00	3.5	361.91	366 Summer Street		Somerville	MA	02144     	8B	Processing Fees			False	False	False		False
-4991331	41082	1027430	0	Act Blue Technical Services		2026-09-24 00:00:00	33.43	361.91	366 Summer Street		Somerville	MA	02144     	8B	Processing Fees			False	False	False		False
-4991332	41082	1027430	0	Act Blue Technical Services		2026-09-30 00:00:00	94.52	361.91	366 Summer Street		Somerville	MA	02144     	8B	Processing Fee			False	False	False		False
-4991333	41082	1027430	0	Minuteman Press		2026-07-02 00:00:00	88	3310.87	1249 N Clybourn Ave		Chicago	IL	60610     	8B	Printing			False	False	False		False
-4991334	41082	1027430	0	Minuteman Press		2026-07-08 00:00:00	1421.4	3310.87	1249 N Clybourn Ave		Chicago	IL	60610     	8B	Printing			False	False	False		False
-4991335	41082	1027430	0	Minuteman Press		2026-08-28 00:00:00	231.75	3310.87	1249 N Clybourn Ave		Chicago	IL	60610     	8B	Printing			False	False	False		False
-4991336	41082	1027430	0	Minuteman Press		2026-09-24 00:00:00	1569.72	3310.87	1249 N Clybourn Ave		Chicago	IL	60610     	8B	Printing			False	False	False		False
-4991337	41082	1027430	0	Acevedo	Cecilia	2026-07-01 00:00:00	840	6115.53	2528 n Washtenaw ave		Chicago	IL	60647     	8B	Campaign Work			False	False	False		False
-4991338	41082	1027430	0	Acevedo	Cecilia	2026-07-20 00:00:00	2795.53	6115.53	2528 n Washtenaw ave		Chicago	IL	60647     	8B	Campaign Work			False	False	False		False
-4991339	41082	1027430	0	Acevedo	Cecilia	2026-08-15 00:00:00	500	6115.53	2528 n Washtenaw ave		Chicago	IL	60647     	8B	Campaign Work			False	False	False		False
-4991340	41082	1027430	0	Acevedo	Cecilia	2026-09-21 00:00:00	1980	6115.53	2528 n Washtenaw ave		Chicago	IL	60647     	8B	Campaign Work			False	False	False		False
-4991341	41082	1027430	0	Canva		2026-08-18 00:00:00	86.26	172.51	3212 E. Cesar Chavez Street,	Building 1, Suite 1300,	Austin	TX	78702     	8B	Graphic design			False	False	False		False
-4991342	41082	1027430	0	Canva		2026-09-18 00:00:00	86.25	172.51	3212 E. Cesar Chavez Street,	Building 1, Suite 1300,	Austin	TX	78702     	8B	Graphic design			False	False	False		False
-4991343	41082	1027430	0	STACKADAPT INC		2026-09-30 00:00:00	5500	5500	200 Bay Street	South Tower Unit 2103	Toronto	ZZ	M5j2j1    	8B	Digital Advertising			False	False	False	Canada	False
+4991317	41082	1027430	0	Google LLC		2026-07-02 00:00:00	19.32	154.12	1600 Amphitheatre Pkwy		Mountain View	CA	94043     	8B	Website			False	False	True		False
+4991318	41082	1027430	0	Google LLC		2026-07-31 00:00:00	41.4	154.12	1600 Amphitheatre Pkwy		Mountain View	CA	94043     	8B	Website			False	False	True		False
+4991319	41082	1027430	0	Google LLC		2026-08-03 00:00:00	41.82	154.12	1600 Amphitheatre Pkwy		Mountain View	CA	94043     	8B	Website			False	False	True		False
+4991320	41082	1027430	0	Google LLC		2026-09-01 00:00:00	51.58	154.12	1600 Amphitheatre Pkwy		Mountain View	CA	94043     	8B	Website			False	False	True		False
+4991321	41082	1027430	0	Act Blue Technical Services		2026-09-08 00:00:00	87.5	361.91	366 Summer Street		Somerville	MA	02144     	8B	Processing Fees			False	False	True		False
+4991322	41082	1027430	0	Act Blue Technical Services		2026-07-01 00:00:00	0.7	361.91	366 Summer Street		Somerville	MA	02144     	8B	Processing Fee			False	False	True		False
+4991323	41082	1027430	0	Act Blue Technical Services		2026-07-08 00:00:00	1.75	361.91	366 Summer Street		Somerville	MA	02144     	8B	Processing Fees			False	False	True		False
+4991324	41082	1027430	0	Act Blue Technical Services		2026-07-15 00:00:00	0.04	361.91	366 Summer Street		Somerville	MA	02144     	8B	Processing Fees			False	False	True		False
+4991325	41082	1027430	0	Act Blue Technical Services		2026-08-05 00:00:00	9.63	361.91	366 Summer Street		Somerville	MA	02144     	8B	Processing Fees			False	False	True		False
+4991326	41082	1027430	0	Act Blue Technical Services		2026-08-15 00:00:00	10.5	361.91	366 Summer Street		Somerville	MA	02144     	8B				False	False	True		False
+4991327	41082	1027430	0	Act Blue Technical Services		2026-08-19 00:00:00	7.02	361.91	366 Summer Street		Somerville	MA	02144     	8B	Processing Fees			False	False	True		False
+4991328	41082	1027430	0	Act Blue Technical Services		2026-08-24 00:00:00	102.64	361.91	366 Summer Street		Somerville	MA	02144     	8B	Processing Fees			False	False	True		False
+4991329	41082	1027430	0	Act Blue Technical Services		2026-09-01 00:00:00	10.68	361.91	366 Summer Street		Somerville	MA	02144     	8B	Processing Fees			False	False	True		False
+4991330	41082	1027430	0	Act Blue Technical Services		2026-09-15 00:00:00	3.5	361.91	366 Summer Street		Somerville	MA	02144     	8B	Processing Fees			False	False	True		False
+4991331	41082	1027430	0	Act Blue Technical Services		2026-09-24 00:00:00	33.43	361.91	366 Summer Street		Somerville	MA	02144     	8B	Processing Fees			False	False	True		False
+4991332	41082	1027430	0	Act Blue Technical Services		2026-09-30 00:00:00	94.52	361.91	366 Summer Street		Somerville	MA	02144     	8B	Processing Fee			False	False	True		False
+4991333	41082	1027430	0	Minuteman Press		2026-07-02 00:00:00	88	3310.87	1249 N Clybourn Ave		Chicago	IL	60610     	8B	Printing			False	False	True		False
+4991334	41082	1027430	0	Minuteman Press		2026-07-08 00:00:00	1421.4	3310.87	1249 N Clybourn Ave		Chicago	IL	60610     	8B	Printing			False	False	True		False
+4991335	41082	1027430	0	Minuteman Press		2026-08-28 00:00:00	231.75	3310.87	1249 N Clybourn Ave		Chicago	IL	60610     	8B	Printing			False	False	True		False
+4991336	41082	1027430	0	Minuteman Press		2026-09-24 00:00:00	1569.72	3310.87	1249 N Clybourn Ave		Chicago	IL	60610     	8B	Printing			False	False	True		False
+4991337	41082	1027430	0	Acevedo	Cecilia	2026-07-01 00:00:00	840	6115.53	2528 n Washtenaw ave		Chicago	IL	60647     	8B	Campaign Work			False	False	True		False
+4991338	41082	1027430	0	Acevedo	Cecilia	2026-07-20 00:00:00	2795.53	6115.53	2528 n Washtenaw ave		Chicago	IL	60647     	8B	Campaign Work			False	False	True		False
+4991339	41082	1027430	0	Acevedo	Cecilia	2026-08-15 00:00:00	500	6115.53	2528 n Washtenaw ave		Chicago	IL	60647     	8B	Campaign Work			False	False	True		False
+4991340	41082	1027430	0	Acevedo	Cecilia	2026-09-21 00:00:00	1980	6115.53	2528 n Washtenaw ave		Chicago	IL	60647     	8B	Campaign Work			False	False	True		False
+4991341	41082	1027430	0	Canva		2026-08-18 00:00:00	86.26	172.51	3212 E. Cesar Chavez Street,	Building 1, Suite 1300,	Austin	TX	78702     	8B	Graphic design			False	False	True		False
+4991342	41082	1027430	0	Canva		2026-09-18 00:00:00	86.25	172.51	3212 E. Cesar Chavez Street,	Building 1, Suite 1300,	Austin	TX	78702     	8B	Graphic design			False	False	True		False
+4991343	41082	1027430	0	STACKADAPT INC		2026-09-30 00:00:00	5500	5500	200 Bay Street	South Tower Unit 2103	Toronto	ZZ	M5j2j1    	8B	Digital Advertising			False	False	True	Canada	False
 4991344	24663	1027431	0	Garfield Park Community Council		2026-07-21 00:00:00	500	500	4215 W Washington		Chicago	IL	60624     	8B	Donation			False	False	False		False
 4991345	24663	1027431	0	Chicago Cut Steakhouse		2026-08-19 00:00:00	210	210	300 N LaSalle		Chicago	IL	60654     	8B	Meals			False	False	False		False
 4991346	24663	1027431	0	State Farm Insurance		2026-08-19 00:00:00	196.15	384.78	6538 S. Archer		Chicago	IL	60638     	8B	Insurance			False	False	False		False
@@ -399800,3 +399800,30 @@ tates of America	False
 4994839	41430	1030323	0	Victory Stores		2026-09-25 00:00:00	391.63	888.14	5200 30th St. SW		Davenport	IA	52802     	8B	Yard signs			False	False	False		False
 4994840	41020	1030348	0	Yummy's		2026-09-24 00:00:00	254.5	254.5	210 E. Union Street		Marion	IL	62959     	8B	Event expense			False	False	False		False
 4994841	40586	1030386	0	Naranjo	Dan	2026-11-19 00:00:00	41213.47	41213.47	319 S Glendale Ave	Unit 305	Barrington	IL	60010     	8B	Principal payment, Naranjo			False	False	False		False
+4994842	41082	1030466	0	Google LLC		2026-07-02 00:00:00	19.32	154.12	1600 Amphitheatre Pkwy		Mountain View	CA	94043     	8B	Website			False	False	False		False
+4994843	41082	1030466	0	Google LLC		2026-07-31 00:00:00	41.4	154.12	1600 Amphitheatre Pkwy		Mountain View	CA	94043     	8B	Website			False	False	False		False
+4994844	41082	1030466	0	Google LLC		2026-08-03 00:00:00	41.82	154.12	1600 Amphitheatre Pkwy		Mountain View	CA	94043     	8B	Website			False	False	False		False
+4994845	41082	1030466	0	Google LLC		2026-09-01 00:00:00	51.58	154.12	1600 Amphitheatre Pkwy		Mountain View	CA	94043     	8B	Website			False	False	False		False
+4994846	41082	1030466	0	Act Blue Technical Services		2026-07-08 00:00:00	1.75	361.91	366 Summer Street		Somerville	MA	02144     	8B	Processing Fees			False	False	False		False
+4994847	41082	1030466	0	Act Blue Technical Services		2026-07-15 00:00:00	0.04	361.91	366 Summer Street		Somerville	MA	02144     	8B	Processing Fees			False	False	False		False
+4994848	41082	1030466	0	Act Blue Technical Services		2026-08-05 00:00:00	9.63	361.91	366 Summer Street		Somerville	MA	02144     	8B	Processing Fees			False	False	False		False
+4994849	41082	1030466	0	Act Blue Technical Services		2026-08-19 00:00:00	7.02	361.91	366 Summer Street		Somerville	MA	02144     	8B	Processing Fees			False	False	False		False
+4994850	41082	1030466	0	Act Blue Technical Services		2026-08-24 00:00:00	102.64	361.91	366 Summer Street		Somerville	MA	02144     	8B	Processing Fees			False	False	False		False
+4994851	41082	1030466	0	Act Blue Technical Services		2026-09-01 00:00:00	10.68	361.91	366 Summer Street		Somerville	MA	02144     	8B	Processing Fees			False	False	False		False
+4994852	41082	1030466	0	Act Blue Technical Services		2026-09-15 00:00:00	3.5	361.91	366 Summer Street		Somerville	MA	02144     	8B	Processing Fees			False	False	False		False
+4994853	41082	1030466	0	Act Blue Technical Services		2026-09-24 00:00:00	33.43	361.91	366 Summer Street		Somerville	MA	02144     	8B	Processing Fees			False	False	False		False
+4994854	41082	1030466	0	Act Blue Technical Services		2026-09-30 00:00:00	94.52	361.91	366 Summer Street		Somerville	MA	02144     	8B	Processing Fee			False	False	False		False
+4994855	41082	1030466	0	Act Blue Technical Services		2026-08-15 00:00:00	10.5	361.91	366 Summer Street		Somerville	MA	02144     	8B	Processing fee			False	False	False		False
+4994856	41082	1030466	0	Act Blue Technical Services		2026-09-08 00:00:00	87.5	361.91	366 Summer Street		Somerville	MA	02144     	8B	Processing Fees			False	False	False		False
+4994857	41082	1030466	0	Act Blue Technical Services		2026-07-01 00:00:00	0.7	361.91	366 Summer Street		Somerville	MA	02144     	8B	Processing Fee			False	False	False		False
+4994858	41082	1030466	0	Minuteman Press		2026-07-02 00:00:00	88	3310.87	1249 N Clybourn Ave		Chicago	IL	60610     	8B	Printing			False	False	False		False
+4994859	41082	1030466	0	Minuteman Press		2026-07-08 00:00:00	1421.4	3310.87	1249 N Clybourn Ave		Chicago	IL	60610     	8B	Printing			False	False	False		False
+4994860	41082	1030466	0	Minuteman Press		2026-08-28 00:00:00	231.75	3310.87	1249 N Clybourn Ave		Chicago	IL	60610     	8B	Printing			False	False	False		False
+4994861	41082	1030466	0	Minuteman Press		2026-09-24 00:00:00	1569.72	3310.87	1249 N Clybourn Ave		Chicago	IL	60610     	8B	Printing			False	False	False		False
+4994862	41082	1030466	0	Acevedo	Cecilia	2026-07-01 00:00:00	840	6115.53	2528 n Washtenaw ave		Chicago	IL	60647     	8B	Campaign Work			False	False	False		False
+4994863	41082	1030466	0	Acevedo	Cecilia	2026-07-20 00:00:00	2795.53	6115.53	2528 n Washtenaw ave		Chicago	IL	60647     	8B	Campaign Work			False	False	False		False
+4994864	41082	1030466	0	Acevedo	Cecilia	2026-08-15 00:00:00	500	6115.53	2528 n Washtenaw ave		Chicago	IL	60647     	8B	Campaign Work			False	False	False		False
+4994865	41082	1030466	0	Acevedo	Cecilia	2026-09-21 00:00:00	1980	6115.53	2528 n Washtenaw ave		Chicago	IL	60647     	8B	Campaign Work			False	False	False		False
+4994866	41082	1030466	0	Canva		2026-08-18 00:00:00	86.26	172.51	3212 E. Cesar Chavez Street,	Building 1, Suite 1300,	Austin	TX	78702     	8B	Graphic design			False	False	False		False
+4994867	41082	1030466	0	Canva		2026-09-18 00:00:00	86.25	172.51	3212 E. Cesar Chavez Street,	Building 1, Suite 1300,	Austin	TX	78702     	8B	Graphic design			False	False	False		False
+4994868	41082	1030466	0	STACKADAPT INC		2026-09-30 00:00:00	5500	5500	200 Bay Street	South Tower Unit 2103	Toronto	ZZ	M5j2j1    	8B	Digital Advertising			False	False	False	Canada	False

@@ -5973,8 +5973,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 44401	Borman	Eric	253 Arrowhead Ct		Bolingbrook	IL	60440     	Treasurer	630.310.8576        	False
 82778	Borms	Jeremy	27506 S. 104th Ave		Peotone	IL	60468     	Chair	                    	False
 82779	Borms	Jeremy	27506 S. 104th Ave		Peotone	IL	60468     	Treasurer	                    	False
-89867	Born	Brendan	Redaction Requested					Treasurer		True
 99595	Born	Brendan	Redaction Requested					Chair		True
+89867	Born	Brendan	Redaction Requested					Treasurer		True
 89581	Bornhoff	Jerry	147 S Cranberry St		Bolingbrook	IL	60490     	Treasurer	                    	False
 8794	Bornhorst	Richard R	7228 W Hood Avenue		Chicago	IL	60631     	Treasurer	(708)298-3277       	False
 85053	Bornstein	Aron	952 W Huron St.		Chicago	IL	60642     	Co-Chair	                    	False
@@ -29879,6 +29879,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 5686	Hughes	Ellen F.	526-22nd Ave		E Moline	IL	61244     	Chair	                    	False
 32202	Hughes	Everett G	509 S Eason Dr		Carbondale	IL	62901     	Chair	618/549-1409        	False
 29412	Hughes	Everett G	509 S Eason Dr		Carbondale	IL	62901     	Treasurer	618/549-1409        	False
+100717	Hughes	Gabby	3412 Elderberry		Springfield	IL	62704     	Treasurer	217.725.0158        	False
 40750	Hughes	Gail	1150 W Pershing Rd		Decatur	IL	62526     	Bookkeeper	217.877.2436        	False
 19105	Hughes	George	3325 Kenilworth Ave		Berwyn	IL	60402     	Chair	(708)795-7698       	False
 22802	Hughes	George	3325 Kenilworth Ave		Berwyn	IL	60402     	Treasurer	(708)795-7698       	False
@@ -49547,6 +49548,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 68519	Pacilli	Anthony J.	121 E Janata Blvd #3A		Lombard	IL	60148     	Chair	224.489.6811        	False
 79715	Pacilli	Anthony J.	121 E Janata Blvd #3A		Lombard	IL	60148     	Treasurer	224.489.6811        	False
 85623	Pacilli	Anthony.	447 S. York Street		Elmhurst	IL	60126     	Chair	224.489.6811        	False
+100713	Pacilli	Anthony.	447 S. York Street		Elmhurst	IL	60126     	Treasurer	224.489.6811        	False
 47100	Pacino	Evelyn R	211 N Williston St		Wheaton	IL	60187     	Chair	630.665.9560        	False
 77115	Pacione	Marc R.	2227 W Lawrence Ave		Chicago	IL	60625     	Chair	773.758.9113        	False
 20801	Pack	Gary W	3416 Cardington Way		McHenry	IL	60050     	Chair		False
@@ -51457,6 +51459,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 30571	Phillips	Alice	PO Box 5108		Springfield	IL	62705     	Treasurer		False
 9947	Phillips	Alice E	217 E Monroe St, ste 204		Springfield	IL	62701     	Custodian	630/561-9120        	False
 10864	Phillips	Alice E.	330 Naperville Road		Wheaton	IL	60187     	Chair	(708)668-6784       	False
+100721	Phillips	Amy	418 W. Franklin Ave		Naperville	IL	60540     	Chair	312.523.5955        	False
 31798	Phillips	Angie	20735 Galatia Post Rd		Pittsburg	IL	62974     	Chair	618/982-2049        	False
 36565	Phillips	Becky	RR 4		Robinson	IL	62454     	Vice-Chair	618/544-7450        	False
 46628	Phillips	Becky	7562 N 1015th St		Robinson	IL	62454     	Secretary	618/544-7450        	False
@@ -51475,6 +51478,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 37991	Phillips	Chuck.	541 East 9th St		Alton	IL	62002     	Treasurer	618.410.6471 (cell) 	False
 7239	Phillips	Daniel R.	780 Bunker Hill Drive		Bourbonnais	IL	60914     	Chair	                    	False
 76988	Phillips	Darrell	106 E. 32nd St.		Chicago	IL	60616     	Treasurer	312-502-1332        	False
+100722	Phillips	David	418 W. Franklin Ave.		Naperville	IL	60540     	Treasurer	312.320.9125        	False
 80254	Phillips	Dean	401 N. Michigan Aveneu	Suite 1200	Chicago	IL	60611     	Chair	                    	False
 80255	Phillips	Dean	401 N. Michigan Aveneu	Suite 1200	Chicago	IL	60611     	Treasurer	                    	False
 11324	Phillips	Donald E.	185 Arapahoe Trail		Carol Stream	IL	60188     	Treasurer	(708)665-1545       	False
@@ -55011,6 +55015,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 19898	Riley	John J.	12943 Cedar Lane		Palos Heights	IL	60463     	Chair	708-361-3467        	False
 82133	Riley	Jon	646 Twp 1150 E		Stronghurst	IL	61480     	Chair	309-337-3269        	False
 86855	Riley	Joseph	28600 Bella Vista Parkway	Suite 1000	Warrenville	IL	60555     	Chair	630.393.1701        	False
+100720	Riley	Kaila	13918 S. Atlantic Ave.		Riverdale	IL	60827     	Treasurer	708.979.3476        	False
 80530	Riley	Kevin	3115 Wagner Court		Aurora	IL	60502     	Chair	                    	False
 45555	Riley	Leslie	PO Box 403		Cisne	IL	62823     	Chair	                    	False
 47344	Riley	Linda	6916 S Artesian		Chicago	IL	60629     	Treasurer	                    	False
@@ -55038,6 +55043,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 11620	Riley	Thomas J.	2503 Melrose Drive		Champaign	IL	61820     	Chair	217/352-2237        	False
 46586	Riley	Tom	1168 S Plymouth Ct		Chicago	IL	60605     	Chair	312.263.3853        	False
 41889	Riley, Jr	Patrick V	128 Caryville Ln		Schaumburg	IL	60193     	Chair	847.524.1815        	False
+100719	Riley-Pinkney	Cassandra	13918 S. Atlantic Ave.		Riverdale	IL	60827     	Chair	708.879.3762        	False
 78979	Rim	Edward	28287 Gray Barn LN		LK Barrington	IL	60010     	Chair	847.721.9930        	False
 2161	Rimbey	Harry D	P O Box 1585		Springfield	IL	62705     	Chair	                    	False
 10015	Rimington	Robert	1324 Elizabeth Circle		Freeport	IL	61032     	Chair	815/232-5945        	False
@@ -55080,6 +55086,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 73159	Rinkenberger	Bart	437 S Ohio Ave		Morton	IL	61550     	Chair	                    	False
 11893	Rinkenberger	Donna	801 Scovill		Urbana	IL	61801     	Treasurer	                    	False
 60685	Rinker	Joshua P	310 Basswood Ln		Normal	IL	61761     	Chair	309.820.9599        	False
+100714	Rinker	W. Brandon	214 E. Haven Ave.		New Lenox	IL	60451     	Chair	815.693.9948        	False
 32723	Rintoul	Ann	13904 Wendle Rd		Godfrey	IL	62035     	Chair		False
 79870	Riojas	Joel	1902 W. 48th Street		Chicago	IL	60609     	Chair	702-807-7332        	False
 40999	Rion	George	282 Thrasher St		Bloomingdale	IL	60108     	Treasurer	630.529.4612        	False
@@ -59044,6 +59051,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 4813	Schwarzbach	Susan	Rte 1	N Grove Rd	Sycamora	IL	60178     	Chair		False
 80888	Schwarze	Greg	1365 Rolling Oaks Dr.		Carol Stream	IL	60188     	Chair	630.546.5015        	False
 80889	Schwarze	Julia	1365 Rolling Oaks Dr.		Carol Stream	IL	60188     	Treasurer	630.536.4368        	False
+100718	Schwarze	Julia	1365 Rolling Oaks Dr.		Carol Stream	IL	60188     	Chair	630.536.4368        	False
 22259	Schweda	John	34 N Old Rand Rd		Lake Zurich	IL	60047     	Treasurer	                    	False
 22258	Schweda	John	34 N Old Rand Rd		Lake Zurich	IL	60047     	Chair	                    	False
 14861	Schwefel	Carol	210 N Tremont St		Kewanee	IL	61443     	Chair	309/852-2186        	False
@@ -65912,6 +65920,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 41304	Thomson	Tommy	2944 Lincoln St		Franklin Park	IL	60131     	Treasurer	847.455.6258        	False
 41303	Thomson	Tommy	2944 Lincoln St		Franklin Park	IL	60131     	Chair	847.455.6258        	False
 31366	Thomson	W Loren	105 N Center St		Bloomington	IL	61701     	Chair		False
+100715	Thomson	Whitney	1830 Harrison St.		Quincy	IL	62301     	Chair	660.216.4096        	False
+100716	Thomson	Whitney	1830 Harrison St.		Quincy	IL	62301     	Treasurer	660.216.4096        	False
 45594	Thonn	Judy	1515 32nd St		Moline	IL	61265     	Treasurer	309.762.9061        	False
 79993	Thoren	Steve	972 W Highland Ave		Elgin	IL	60123     	Chair	847.840.7379        	False
 79994	Thoren	Steve	972 W Highland Ave		Elgin	IL	60123     	Treasurer	847.840.7379        	False
