@@ -16211,6 +16211,7 @@ ID	CommitteeID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	ResignD
 33555	14420	McFadden	Kevin J	601 W Monroe St		Springfield	IL	62704     	Chair	2021-01-11 11:25:26.047000000	False
 38463	14420	Ashton	Brett J	33 N Dearborn #1140		Chicago	IL	60602     	Chair	2023-12-15 15:36:15.590000000	False
 38464	14420	Ashton	Brett J	33 N Dearborn #1140		Chicago	IL	60602     	Treasurer	2023-12-15 15:36:20.503000000	False
+43332	14420	Smith	Hannah	433 W Edwards St		Springfield	IL	62704     	Chair	2026-11-24 14:48:01.420000000	False
 9416	14424	Phelan	Michael E	1513 E Moneta		Peoria Heights	IL	61614     	Treasurer	2002-10-22 12:58:18	False
 8992	14425	Elston	Mary E	604 Evergreen Ln		Bradley	IL	60915     	Chair	2002-04-08 10:04:50	False
 8993	14425	Elston	Mary E	604 Evergreen Ln		Bradley	IL	60915     	Treasurer	2002-04-08 10:04:53	False
@@ -23841,6 +23842,7 @@ ID	CommitteeID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	ResignD
 40014	36744	Turn	Jennifer	5233 131st Street		Crestwood	IL	60418     	Chair	2024-10-09 15:23:14.437000000	False
 40015	36744	Turn	Jennifer	5233 131st Street		Crestwood	IL	60418     	Treasurer	2024-10-09 15:23:17.037000000	False
 35324	36745	Pedersen	Brittnay	PO Box 575		Aurora	IL	60507     	Treasurer	2022-03-31 09:05:38.387000000	False
+43331	36745	Rodgers	Brenda	1016 Hill Ave		Elgin	IL	60120     	Treasurer	2026-11-24 10:21:45.213000000	False
 34700	36756	Tomei Jr.	Robert J.	223 N IL Rt. 21	Ste. 14	Gurnee	IL	60031     	Chair	2021-03-22 08:14:19.773000000	False
 34701	36756	Tomei Jr.	Robert J.	223 N IL Rt. 21	Ste. 14	Gurnee	IL	60031     	Treasurer	2021-03-22 08:14:21.600000000	False
 34744	36758	Mathias	Megan	3821 N. Milwaukee Ave		Chicago	IL	60641     	Treasurer	2021-04-20 10:25:46.047000000	False
