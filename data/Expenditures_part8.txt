@@ -228607,7 +228607,7 @@ tates of America	False
 4823567	39446	994946	0	Tracy Katz Muhl for State Central Committeeperson		2025-12-09 00:00:00	72800	72800	3710 Commercial, Ste. 5		Northbrook	IL	60062     	6B	Transfer out			False	False	False		False
 4823568	39446	994946	0	Gladiator Consulting LLC		2025-12-05 00:00:00	1000	5500	1225 W 18th St.		Chicago	IL	60608     	8B	Consulting			False	False	False		False
 4823569	39446	994946	0	Katz	Susan	2025-12-29 00:00:00	13800	13800	7880 Laquila Way		Delray Beach	FL	33446     	8B	Refund			False	False	False		False
-4823570	39446	994946	0	Supporters of Jenny Levin		2025-12-09 00:00:00	500	500	560 N. Geri Ct		Palatine	IL	60067     	6B	Transfer out			False	False	False		False
+4823570	39446	994946	0	Supporters of Jenny Levin		2025-12-09 00:00:00	500	500	Redaction Requested					6B	Transfer out			False	False	False		True
 4823571	39446	994946	0	Nelson	Luke	2025-12-23 00:00:00	500	500	2501 Peachtree Ln		Northbrook	IL	60062     	8B	Campaign staff			False	False	False		False
 4823572	39446	994946	0	Democrats of Northfield Township		2025-10-23 00:00:00	1500	1500	3710 Commercial Ave.	Ste. 5	Northbrook	IL	60062     	6B	Transfer out			False	False	False		False
 4823573	39446	994946	0	Libra Labs		2025-12-02 00:00:00	150	450	6800 Montour Dr		Falls Church	VA	22043     	8B	Software			False	False	False		False
@@ -232861,7 +232861,7 @@ tates of America	False
 4827821	18574	996144	0	People for Emanuel Chris Welch		2025-12-18 00:00:00	72800	72800	10055 W Roosevelt Rd		Westchester	IL	60154     	6B	Contribution			False	False	False		False
 4827822	18574	996144	0	People for Yolonda Morris		2025-12-18 00:00:00	10000	10000	PO BOX 23096		Chicago	IL	60623     	6B	Contribution			False	False	False		False
 4827823	18574	996144	0	Preckwinkle for President		2025-12-18 00:00:00	72800	72800	140 S. Dearborn #600	c/o Kari Lyn Karfthefer	Chicago	IL	60603     	6B	Contribution			False	False	False		False
-4827824	18574	996144	0	Supporters of Jenny Levin		2025-12-18 00:00:00	10000	10000	560 N. Geri Ct		Palatine	IL	60067     	6B	Contribution			False	False	False		False
+4827824	18574	996144	0	Supporters of Jenny Levin		2025-12-18 00:00:00	10000	10000	Redaction Requested					6B	Contribution			False	False	False		True
 4827825	18574	996144	0	Therese Boyle for District 9 CPS BOE		2025-12-18 00:00:00	10000	10000	10356 S. Sawyer Avenue		Chicago	IL	60655     	6B	Contribution			False	False	False		False
 4827826	18574	996144	0	Friends of Carol Ammons		2025-12-19 00:00:00	5000	5000	PO Box 53		Urbana	IL	61803-0053	6B	Contribution			False	False	False		False
 4827827	18574	996144	0	Friends of Christopher Belt		2025-12-18 00:00:00	20000	20000	5111 W Main St		Belleville	IL	62226     	6B	Contribution			False	False	False		False
@@ -239294,7 +239294,7 @@ tates of America	False
 4834254	39096	997147	0	act blue technical services	chris	2025-12-09 00:00:00	8.75	382.51	P.O. Box 441446		sommerville	MA	02144     	8B	Computer - services			False	False	False		False
 4834255	39868	997148	0	Greater Palatine Area Democrats		2025-10-03 00:00:00	1000	1000	1310 W. Northwest Highway		Arlington Heights	IL	60004     	6B	Contribution			False	False	False		False
 4834256	39868	997148	0	Friends of Eira		2025-11-14 00:00:00	250	250	7080 Edgebrook Ln		Hanover Park	IL	60133-3747	6B	Contribution			False	False	False		False
-4834257	39868	997148	0	Supporters of Jenny Levin		2025-11-19 00:00:00	500	500	560 N. Geri Ct		Palatine	IL	60067     	6B	Contribution			False	False	False		False
+4834257	39868	997148	0	Supporters of Jenny Levin		2025-11-19 00:00:00	500	500	Redaction Requested					6B	Contribution			False	False	False		True
 4834258	39868	997148	0	Salsa Street		2025-11-19 00:00:00	1182.88	1182.88	1540 N Rand Rd		Palatine	IL	60074     	8B	Fund raising - food			False	False	False		False
 4834259	39868	997148	0	Cook County Democratic Party		2025-10-14 00:00:00	250	250	111 W Washington	Suite 1360	Chicago	IL	60602     	6B	Contribution			False	False	False		False
 4834260	40678	997149	0	Lamb	Terri	2025-12-18 00:00:00	500	500	1528 S Park		Springfield	IL	62704     	8B	Fund raising - hall rental			False	False	False		False
@@ -240384,7 +240384,7 @@ tates of America	False
 4835344	32872	997235	0	Spothero Inc.		2025-12-11 00:00:00	23.27	376.89	325 W Huron St	Ste 806	Chicago	IL	60654-3638	8B	Parking			False	False	False		False
 4835345	32872	997235	0	Spothero Inc.		2025-12-16 00:00:00	23.27	376.89	325 W Huron St	Ste 806	Chicago	IL	60654-3638	8B	Parking			False	False	False		False
 4835346	32872	997235	0	Spothero Inc.		2025-12-18 00:00:00	20.38	376.89	325 W Huron St	Ste 806	Chicago	IL	60654-3638	8B	Parking			False	False	False		False
-4835347	32872	997235	0	Supporters of Jenny Levin		2025-12-16 00:00:00	1000	1000	560 N Geri Ct		Palatine	IL	60067-2342	6B	Contribution			False	False	False		False
+4835347	32872	997235	0	Supporters of Jenny Levin		2025-12-16 00:00:00	1000	1000	Redaction Requested					6B	Contribution			False	False	False		True
 4835348	32872	997235	0	Tactical Security		2025-10-24 00:00:00	1020	1020	1712 W 47th St		Chicago	IL	60609-3822	8B	Security			False	False	False		False
 4835349	32872	997235	0	Taetle	Shirley	2025-10-14 00:00:00	2820	2820	7800 W Foresthill Ln	Apt 207B	Palos Heights	IL	60463-2704	8B	Accounting			False	False	False		False
 4835350	32872	997235	0	Tribe of Nova Foundation		2025-11-17 00:00:00	159.38	159.38	PO Box 24134		New York	NY	10087-4134	8B	Donation			False	False	False		False
@@ -256319,7 +256319,7 @@ tates of America	False
 4851279	36278	998297	0	Costco		2025-11-25 00:00:00	29.83	2029.79	25901 Riverwoods Rd		Mettawa	IL	60045     	8B	Turkey drive			False	False	False		False
 4851280	36278	998297	0	Warren Township Democrats		2025-11-29 00:00:00	250	250	PO Box 8061		Gurnee	IL	60031     	8B	Event sponsor			False	False	False		False
 4851281	36278	998297	0	Chi-Town Printing, Inc.		2025-12-01 00:00:00	450	450	6025 N. Cicero Ave.		Chicago	IL	60646     	8B	Printing			False	False	False		False
-4851282	36278	998297	0	Supporters Jenny Levin		2025-12-02 00:00:00	500	500	560 N Geri Ct		Palatine	IL	60067     	6B	event sponsor			False	False	False		False
+4851282	36278	998297	0	Supporters Jenny Levin		2025-12-02 00:00:00	500	500	Redaction Requested					6B	event sponsor			False	False	False		True
 4851283	36278	998297	0	Waukegan Township		2025-12-03 00:00:00	500	4000	149 S Genesee Street		Waukegan	IL	60085     	8B	Food drive sponsor			False	False	False		False
 4851284	36278	998297	0	Waukegan Chamber of Commerce		2025-12-04 00:00:00	2000	2000	100 N Martin Luther King Ave		Waukegan	IL	60085     	8B	Event sponsor			False	False	False		False
 4851285	36278	998297	0	Libertyville Township Democratic Organization		2025-12-04 00:00:00	250	250	P.O. Box 234		Libertyville	IL	60048     	6B	Event sponsor			False	False	False		False
@@ -258573,7 +258573,7 @@ tates of America	False
 4853533	34241	998398	0	Mehta	Isha	2025-12-01 00:00:00	500	500	31 S Wright St		Naperville	IL	60540     	8B	Staff holiday bonus			False	False	False		False
 4853534	34241	998398	0	Vasquez	Fabiola	2025-12-08 00:00:00	500	500	460 Checker Dr.		Buffalo Grove	IL	          	8B	Staff holiday bonus			False	False	False		False
 4853535	34241	998398	0	Jewish Caucus PAC		2025-12-15 00:00:00	20000	20000	PO Box 1074		Deerfield	IL	60015     	6B	Contribution			False	False	False		False
-4853536	34241	998398	0	Supporters of Jenny Levin		2025-12-17 00:00:00	1000	1000	560 N. Geri Ct		Palatine	IL	60067     	6B	Contribution			False	False	False		False
+4853536	34241	998398	0	Supporters of Jenny Levin		2025-12-17 00:00:00	1000	1000	Redaction Requested					6B	Contribution			False	False	False		True
 4853538	34241	998398	0	Friends of Jose S. Martinez		2025-12-29 00:00:00	500	500	616 Plum Tree Lane		Antioch	IL	60002     	6B	Contribution			False	False	False		False
 4853539	34241	998398	0	Lake County Democratic Central Comm		2025-12-30 00:00:00	500	500	PO Box 671		Lake Zurich	IL	60047     	6B	Contribution			False	False	False		False
 4853540	34241	998398	0	Friends of Jaime M. Andrade, Jr.		2025-12-31 00:00:00	1500	1500	P.O. Box 18380		Chicago	IL	60618     	6B				False	False	False		False
@@ -277365,7 +277365,7 @@ tates of America	False
 4872325	36876	1005799	0	Friends of Fran Hurley		2026-01-21 00:00:00	1000	1000	3207 W 111th St		Chicago	IL	60655     	6B	Contribution			False	False	False		False
 4872326	36876	1005799	0	Friends of Natalie Manley		2026-01-21 00:00:00	1000	1000	1927 Timbers Edge Circle		Joliet	IL	60431     	6B	Contribution			False	False	False		False
 4872327	36876	1005799	0	Mary Beth Canty for Illinois		2026-01-21 00:00:00	1000	20800	14 East Northwest Highway		Arlington Heights	IL	60004     	6B	Contribution			False	False	False		False
-4872329	36876	1005799	0	Supporters of Jenny Levin		2026-01-21 00:00:00	1000	1000	560 N. Geri Ct.		Palatine	IL	60067     	6B	Contribution			False	False	False		False
+4872329	36876	1005799	0	Supporters of Jenny Levin		2026-01-21 00:00:00	1000	1000	Redaction Requested					6B	Contribution			False	False	False		True
 4872330	36876	1005799	0	Daniel Didech Campaign		2026-01-21 00:00:00	1000	1000	P.O. Box 4959		Buffalo Grove	IL	60089-4959	6B	Contribution			False	False	False		False
 4872331	36876	1005799	0	Latonya Mitts for State Representative		2026-01-28 00:00:00	1000	1000	4926 W. Chicago Ave.		Chicago	IL	60651-3142	6B	Contribution			False	False	False		False
 4872332	36876	1005799	0	Friends for Jon Stromsta		2026-01-28 00:00:00	500	500	4346 N. Honore Street	Apt 308	Chicago	IL	60613     	6B	Contribution			False	False	False		False
@@ -281726,7 +281726,7 @@ tates of America	False
 4876686	1157	1006562	0	Friends 4 George McClellan		2026-01-27 00:00:00	500	500	820 Alexander Drive		O'Fallon	IL	62269     	6B	Contribution			False	False	False		False
 4876687	1157	1006562	0	Daniel Didech Campaign Committee		2026-01-27 00:00:00	1000	1000	PO BOX 4959		Buffalo Grove	IL	60089     	6B	Contribution			False	False	False		False
 4876688	1157	1006562	0	Mary Beth Canty for Illinois		2026-01-27 00:00:00	1000	1000	14 East Northwest Highway		Arlington Heights	IL	60004     	6B	Contribution			False	False	False		False
-4876690	1157	1006562	0	Supporters of Jenny Levin 500		2026-01-27 00:00:00	1000	1000	560 North Geri Court		Palatine	IL	60067     	6B	Contribution			False	False	False		False
+4876690	1157	1006562	0	Supporters of Jenny Levin 500		2026-01-27 00:00:00	1000	1000	Redaction Requested					6B	Contribution			False	False	False		True
 4876691	1157	1006562	0	Hynes for Assessor		2026-01-27 00:00:00	1000	16000	3940 Forest Avenue		Western Springs	IL	60558     	6B	Contribution			False	False	False		False
 4876692	1157	1006562	0	IAM Local 126 PAC Fund		2026-01-27 00:00:00	500	500	15 Spinning Wheel Road, Ste 424		Hinsdale	IL	60521     	6B	Contribution			False	False	False		False
 4876693	1157	1006562	0	Friends of Beth McElroy Kirkwood		2026-01-27 00:00:00	2500	2500	PO BOX 834		Orland Park	IL	60462     	6B	Contribution			False	False	False		False
@@ -312891,9 +312891,9 @@ tates of America	False
 4907921	596	1012248	0	Vasquez, Neighbors for Andre		2026-06-29 00:00:00	250	250	6115 N. Ravenswood Ave.		Chicago	IL	60660     	6B				False	False	False		False
 4907922	596	1012248	0	Rodriguez, Friends of Michael		2026-06-15 00:00:00	250	250	4035 W. 26th St.	2nd Floor	Chicago	IL	60623     	6B				False	False	False		False
 4907923	596	1012248	0	Palecek, Demi for Illinois		2026-04-29 00:00:00	1000	1000	Redaction Requested					6B				False	False	False		True
-4907924	596	1012248	0	Levin, Supporters of Jenny		2026-04-08 00:00:00	1000	1000	560 N. Geri Ct		Palatine	IL	60067     	6B				False	False	False		False
 4907925	596	1012248	0	Illinois Senate Democratic Caucus		2026-06-03 00:00:00	500	500	6939 W. North Ave.		Oak Park	IL	60302     	6B				False	False	False		False
 4907926	596	1012248	0	Fuentes, Friends of Jessie		2026-06-11 00:00:00	250	250	1746 N Kimball Ave		Chicago	IL	60647     	6B				False	False	False		False
+4907924	596	1012248	0	Levin, Supporters of Jenny		2026-04-08 00:00:00	1000	1000	Redaction Requested					6B				False	False	False		True
 4907927	909	1012252	0	ISDF		2026-06-16 00:00:00	10000	10000	6939 W North Ave		Oak Park	IL	60302-1024	6B	Contribution			False	False	False		False
 4907928	909	1012252	0	Citizens for Bradley J Fritts		2026-06-30 00:00:00	500	500	PO Box 1014		Dixon	IL	61021     	6B	Contribution			False	False	False		False
 4907929	909	1012252	0	Committee to Elect Dr Paul Jacobs		2026-05-27 00:00:00	1500	1500	10274 Highway 149		Murphysboro	IL	62966-6125	6B	Contribution			False	False	False		False
@@ -319238,7 +319238,7 @@ tates of America	False
 4914268	36876	1013722	0	Illinois AFL-CIO R&E Fund		2026-04-08 00:00:00	3000	3000	534 S. Second St.		Springfield	IL	62701     	6B	Contribution			False	False	False		False
 4914269	36876	1013722	0	Friends of Ram		2026-05-12 00:00:00	2500	2500	P.O. Box 598085		Chicago	IL	60659     	6B	Contribution			False	False	False		False
 4914270	36876	1013722	0	Joyce for Senate		2026-05-12 00:00:00	2500	2500	P.O. Box 131		Essex	IL	60935     	6B	Contribution			False	False	False		False
-4914272	36876	1013722	0	Supporters of Jenny Levin		2026-06-15 00:00:00	1000	1000	560 N. Geri Ct.		Palatine	IL	60067     	6B	Contribution			False	False	False		False
+4914272	36876	1013722	0	Supporters of Jenny Levin		2026-06-15 00:00:00	1000	1000	Redaction Requested					6B	Contribution			False	False	False		True
 4914273	36876	1013722	0	Paul for Illinois		2026-06-10 00:00:00	2500	2500	2506 N. Clark	Ste 406	Chicago	IL	60614     	6B	Contribution			False	False	False		False
 4914274	36876	1013722	0	Committee to Elect Margaret DeLaRosa		2026-06-10 00:00:00	1000	1000	612 Newton Avenue		Glen Ellyn	IL	60137     	6B	Contribution			False	False	False		False
 4914275	36876	1013722	0	Citizens for Carina		2026-04-08 00:00:00	15000	16000	9 S. Elmhurst Rd	Box #84	Prospect Heights	IL	60070     	6B	Contribution			False	False	False		False
@@ -328234,7 +328234,7 @@ tates of America	False
 4923264	34241	1015115	0	Google		2026-06-01 00:00:00	151.2	453.6	1600 Amphitheatre Parkway		Mountain View	CA	94043     	8B	Website			False	False	False		False
 4923265	34241	1015115	0	Maria for 52		2026-06-30 00:00:00	1000	1000	125 Carriage Rd		North Barrington	IL	60010     	6B	Contribution			False	False	False		False
 4923266	34241	1015115	0	Esiah Campos for Lake County		2026-05-14 00:00:00	5000	5000	2280 N Tedy Lane		Round Lake Beach	IL	60073     	6B	Contribution			False	False	False		False
-4923267	34241	1015115	0	Supporters of Jenny Levin		2026-06-26 00:00:00	1000	1000	560 N. Geri Ct		Palatine	IL	60067     	6B	Contribution			False	False	False		False
+4923267	34241	1015115	0	Supporters of Jenny Levin		2026-06-26 00:00:00	1000	1000	Redaction Requested					6B	Contribution			False	False	False		True
 4923268	34241	1015115	0	Maggiano's Little Italy		2026-04-12 00:00:00	177.08	270.96	307 Hawthorn Ctr		Vernon Hills	IL	60061     	8B	Meals			False	False	False		False
 4923269	34241	1015115	0	Maggiano's Little Italy		2026-04-28 00:00:00	93.88	270.96	307 Hawthorn Ctr		Vernon Hills	IL	60061     	8B	Meals			False	False	False		False
 4923270	34241	1015115	0	Waukegan Township Democratic Party		2026-04-29 00:00:00	250	250	PO Box 714	326 N Genesee St	Waukegan	IL	60085     	6B	Contribution			False	False	False		False
@@ -329670,7 +329670,7 @@ tates of America	False
 4924700	23199	1015274	0	Committee to Elect Mica Freeman		2026-05-05 00:00:00	500	500	16134 S. George Ct.		Plainfield	IL	60586     	6B	Contribution			False	False	False		False
 4924701	23199	1015274	0	Friends of Sherry Newquist		2026-06-01 00:00:00	1000	1000	3511 Union Ave		Steger	IL	60475     	6B	Contribution			False	False	False		False
 4924702	23199	1015274	0	Friends of Mary Rada Walters		2026-06-01 00:00:00	5000	5000	1016 S. Grace Street		Lombard	IL	60148     	6B	Contribution			False	False	False		False
-4924703	23199	1015274	0	Supporters of Jenny Levin		2026-06-15 00:00:00	72800	72800	560 N. Geri Ct		Palatine	IL	60067     	6B	Contribution			False	False	False		False
+4924703	23199	1015274	0	Supporters of Jenny Levin		2026-06-15 00:00:00	72800	72800	Redaction Requested					6B	Contribution			False	False	False		True
 4924704	23199	1015274	0	Friends of Michele Clark		2026-06-15 00:00:00	50000	50000	PO Box 7203		Algonquin	IL	60102     	6B	Contribution			False	False	False		False
 4924705	23199	1015274	0	Friends for Karen Battaglia		2026-06-15 00:00:00	15000	15000	PO Box 308		Antioch	IL	60002     	6B	Contribution			False	False	False		False
 4924706	23199	1015274	0	Citizens for Carina		2026-06-15 00:00:00	15000	15000	9 S. Elmhurst Road, Box #84		Prospect Heights	IL	60070     	6B	Contribution			False	False	False		False
@@ -351611,49 +351611,49 @@ tates of America	False
 4946641	36358	1022513	0	Paluch	Diana	2024-10-16 00:00:00	1600	1600	1832 N 72nd CT		Elmwood Park	IL	60707     	8B	Campaign Work			False	False	False		False
 4946642	36358	1022513	0	Shahi Banquent		2024-11-20 00:00:00	3000	3000	415 W North Ave		Lombard	IL	60148     	8B	Fund raising - entertainment			False	False	False		False
 4946643	36358	1022513	0	Schain / Banks		2024-12-12 00:00:00	3000	3000	70 W. Madison St #5400		Chicago	IL	60602     	8B	Legal fees			False	False	False		False
-4946644	36358	1022514	0	Ki's Steak and Seafood		2025-03-21 00:00:00	26.9	185.31	705 North Ave		Glendale Heights	IL	60139     	8B	Food			False	False	False		False
-4946645	36358	1022514	0	Ki's Steak and Seafood		2025-03-17 00:00:00	75.2	185.31	705 North Ave		Glendale Heights	IL	60139     	8B	Food			False	False	False		False
-4946646	36358	1022514	0	Ki's Steak and Seafood		2025-03-25 00:00:00	83.21	185.31	705 North Ave		Glendale Heights	IL	60139     	8B	Food			False	False	False		False
-4946647	36358	1022514	0	Signarama		2025-03-05 00:00:00	811	4458.79	946 N. Neltnor Blvd	#114	West Chicago	IL	60185     	8B	Campaign Work			False	False	False		False
-4946648	36358	1022514	0	Signarama		2025-03-17 00:00:00	596.76	4458.79	946 N. Neltnor Blvd	#114	West Chicago	IL	60185     	8B	Lawn signs			False	False	False		False
-4946649	36358	1022514	0	Signarama		2025-02-21 00:00:00	2289.01	4458.79	946 N. Neltnor Blvd	#114	West Chicago	IL	60185     	8B	Campaign Work			False	False	False		False
-4946650	36358	1022514	0	Signarama		2025-02-13 00:00:00	762.02	4458.79	946 N. Neltnor Blvd	#114	West Chicago	IL	60185     	8B	Campaign Work			False	False	False		False
-4946651	36358	1022514	0	Aurelio's		2025-03-22 00:00:00	323.04	953.08	27W101 Geneva Rd		Winfield	IL	60190     	8B	Food			False	False	False		False
-4946652	36358	1022514	0	Aurelio's		2025-03-27 00:00:00	326.55	953.08	27W101 Geneva Rd		Winfield	IL	60190     	8B	Food			False	False	False		False
-4946653	36358	1022514	0	Aurelio's		2025-02-18 00:00:00	246	953.08	27W101 Geneva Rd		Winfield	IL	60190     	8B	Food			False	False	False		False
-4946654	36358	1022514	0	Aurelio's		2025-02-12 00:00:00	57.49	953.08	27W101 Geneva Rd		Winfield	IL	60190     	8B	Campaign staff			False	False	False		False
-4946655	36358	1022514	0	Panzeca Investment Group LLC		2025-02-16 00:00:00	1000	1000	120 Bridge St		Wheaton	IL	60187     	8B	Headquarters rent			False	False	False		False
-4946656	36358	1022514	0	ADJ Contractors INC		2025-02-16 00:00:00	1050	1050	0N635 Courtney Ln		Winfield	IL	60190     	8B	Campaign Work			False	False	False		False
-4946657	36358	1022514	0	alphagraphics wheaton		2025-03-12 00:00:00	65.41	500.36	128 N Main St		Wheaton	IL	60187     	8B	Campaign Work			False	False	False		False
-4946658	36358	1022514	0	alphagraphics wheaton		2025-02-20 00:00:00	434.95	500.36	128 N Main St		Wheaton	IL	60187     	8B	Campaign Work			False	False	False		False
-4946659	36358	1022514	0	Cervantes Design		2025-02-20 00:00:00	1500	1500	8009 Wildwood Ln		Darien	IL	60561     	8B	Campaign Work			False	False	False		False
-4946660	36358	1022514	0	Egglectic Cafe		2025-03-04 00:00:00	77.95	544.68	145 N Hale St		Wheaton	IL	60187     	8B	Food			False	False	False		False
-4946661	36358	1022514	0	Egglectic Cafe		2025-03-11 00:00:00	54.52	544.68	145 N Hale St		Wheaton	IL	60187     	8B	Food			False	False	False		False
-4946662	36358	1022514	0	Egglectic Cafe		2025-03-29 00:00:00	170	544.68	145 N Hale St		Wheaton	IL	60187     	8B	Food			False	False	False		False
-4946663	36358	1022514	0	Egglectic Cafe		2025-03-26 00:00:00	185.44	544.68	145 N Hale St		Wheaton	IL	60187     	8B	Food			False	False	False		False
-4946664	36358	1022514	0	Egglectic Cafe		2025-02-26 00:00:00	56.77	544.68	145 N Hale St		Wheaton	IL	60187     	8B	Campaign staff			False	False	False		False
-4946665	36358	1022514	0	Rosatis		2025-03-31 00:00:00	130.09	168.33	877 E Geneva Rd		Carol Stream	IL	60188     	8B	Food			False	False	False		False
-4946666	36358	1022514	0	Rosatis		2025-02-24 00:00:00	38.24	168.33	877 E Geneva Rd		Carol Stream	IL	60188     	8B	Campaign staff			False	False	False		False
-4946667	36358	1022514	0	Ditkas Grill		2025-03-07 00:00:00	226.9	226.9	225 W Front St		Wheaton	IL	60187     	8B	Food			False	False	False		False
-4946668	36358	1022514	0	Danada Deli		2025-03-15 00:00:00	214.08	258.93	1801 E Roosevelt Rd		Wheaton	IL	60187     	8B	Food			False	False	False		False
-4946669	36358	1022514	0	Danada Deli		2025-03-14 00:00:00	44.85	258.93	1801 E Roosevelt Rd		Wheaton	IL	60187     	8B	Food			False	False	False		False
-4946670	36358	1022514	0	Walmart		2025-03-11 00:00:00	154.74	154.74	3S100 Rt 53		Glen Ellyn	IL	60137     	8B	Graphic design			False	False	False		False
-4946671	36358	1022514	0	El Famous Burrito		2025-03-25 00:00:00	424.97	424.97	1165 Bloomingdale Rd		Glendale Hts	IL	60139     	8B	Food			False	False	False		False
-4946672	36358	1022514	0	VFW Post 2164		2025-03-13 00:00:00	900	900	0N731 Papworth St		Wheaton	IL	60187     	8B	Fund raising - food			False	False	False		False
-4946673	36358	1022514	0	Melnikov	David	2025-03-08 00:00:00	240	2500	7 Oak Creek Dr		Buffalo Grove	IL	60089     	8B	Campaign staff			False	False	False		False
-4946674	36358	1022514	0	Melnikov	David	2025-03-20 00:00:00	720	2500	7 Oak Creek Dr		Buffalo Grove	IL	60089     	8B	Campaign Work			False	False	False		False
-4946675	36358	1022514	0	Melnikov	David	2025-03-26 00:00:00	660	2500	7 Oak Creek Dr		Buffalo Grove	IL	60089     	8B	Campaign Work			False	False	False		False
-4946676	36358	1022514	0	Melnikov	David	2025-03-29 00:00:00	880	2500	7 Oak Creek Dr		Buffalo Grove	IL	60089     	8B	Campaign staff			False	False	False		False
-4946677	36358	1022514	0	SCHEELS		2025-03-19 00:00:00	265.47	294.27	3801 S MACARTHUR BLVD		SPRINGFIELD	IL	62711     	8B	Raffle prizes			False	False	False		False
-4946678	36358	1022514	0	SCHEELS		2025-03-20 00:00:00	28.8	294.27	3801 S MACARTHUR BLVD		SPRINGFIELD	IL	62711     	8B	Campaign staff			False	False	False		False
-4946679	36358	1022514	0	Grimaldi's		2025-03-23 00:00:00	242.53	242.53	20119 N Lord St		Brookfield	WI	53045     	8B	Food			False	False	False		False
-4946680	36358	1022514	0	Kay	Dwight	2025-03-18 00:00:00	5000	5000	5 Timber Bluff Ct		Glen Carbon	IL	62034     	8B	Advertising - television			False	False	False		False
-4946681	36358	1022515	0	Ki's Steak and Seafood		2025-05-10 00:00:00	395.48	395.48	705 North Ave		Glendale Heights	IL	60139     	8B	Food			False	False	False		False
-4946682	36358	1022515	0	Survail llc		2025-04-07 00:00:00	950	950	228 W Stone Road		Villa Park	IL	60181     	8B	Media - production			False	False	False		False
-4946683	36358	1022515	0	citygate grille		2025-05-12 00:00:00	515	515	2020 Calamos Court		Naperville	IL	60540     	8B	Food			False	False	False		False
-4946684	36358	1022515	0	jin28		2025-05-17 00:00:00	169.48	398.36	604 E North Ave		Carol Stream	IL	60188     	8B	Food			False	False	False		False
-4946685	36358	1022515	0	jin28		2025-06-21 00:00:00	228.88	398.36	604 E North Ave		Carol Stream	IL	60188     	8B	Food			False	False	False		False
-4946686	36358	1022515	0	Kay	Dwight	2025-05-12 00:00:00	491	491	5 Timber Bluff Ct		Glen Carbon	IL	62034     	8B	Advertising - television			False	False	False		False
+4946644	36358	1022514	0	Ki's Steak and Seafood		2025-03-21 00:00:00	26.9	185.31	705 North Ave		Glendale Heights	IL	60139     	8B	Food			False	False	True		False
+4946645	36358	1022514	0	Ki's Steak and Seafood		2025-03-17 00:00:00	75.2	185.31	705 North Ave		Glendale Heights	IL	60139     	8B	Food			False	False	True		False
+4946646	36358	1022514	0	Ki's Steak and Seafood		2025-03-25 00:00:00	83.21	185.31	705 North Ave		Glendale Heights	IL	60139     	8B	Food			False	False	True		False
+4946647	36358	1022514	0	Signarama		2025-03-05 00:00:00	811	4458.79	946 N. Neltnor Blvd	#114	West Chicago	IL	60185     	8B	Campaign Work			False	False	True		False
+4946648	36358	1022514	0	Signarama		2025-03-17 00:00:00	596.76	4458.79	946 N. Neltnor Blvd	#114	West Chicago	IL	60185     	8B	Lawn signs			False	False	True		False
+4946649	36358	1022514	0	Signarama		2025-02-21 00:00:00	2289.01	4458.79	946 N. Neltnor Blvd	#114	West Chicago	IL	60185     	8B	Campaign Work			False	False	True		False
+4946650	36358	1022514	0	Signarama		2025-02-13 00:00:00	762.02	4458.79	946 N. Neltnor Blvd	#114	West Chicago	IL	60185     	8B	Campaign Work			False	False	True		False
+4946651	36358	1022514	0	Aurelio's		2025-03-22 00:00:00	323.04	953.08	27W101 Geneva Rd		Winfield	IL	60190     	8B	Food			False	False	True		False
+4946652	36358	1022514	0	Aurelio's		2025-03-27 00:00:00	326.55	953.08	27W101 Geneva Rd		Winfield	IL	60190     	8B	Food			False	False	True		False
+4946653	36358	1022514	0	Aurelio's		2025-02-18 00:00:00	246	953.08	27W101 Geneva Rd		Winfield	IL	60190     	8B	Food			False	False	True		False
+4946654	36358	1022514	0	Aurelio's		2025-02-12 00:00:00	57.49	953.08	27W101 Geneva Rd		Winfield	IL	60190     	8B	Campaign staff			False	False	True		False
+4946655	36358	1022514	0	Panzeca Investment Group LLC		2025-02-16 00:00:00	1000	1000	120 Bridge St		Wheaton	IL	60187     	8B	Headquarters rent			False	False	True		False
+4946656	36358	1022514	0	ADJ Contractors INC		2025-02-16 00:00:00	1050	1050	0N635 Courtney Ln		Winfield	IL	60190     	8B	Campaign Work			False	False	True		False
+4946657	36358	1022514	0	alphagraphics wheaton		2025-03-12 00:00:00	65.41	500.36	128 N Main St		Wheaton	IL	60187     	8B	Campaign Work			False	False	True		False
+4946658	36358	1022514	0	alphagraphics wheaton		2025-02-20 00:00:00	434.95	500.36	128 N Main St		Wheaton	IL	60187     	8B	Campaign Work			False	False	True		False
+4946659	36358	1022514	0	Cervantes Design		2025-02-20 00:00:00	1500	1500	8009 Wildwood Ln		Darien	IL	60561     	8B	Campaign Work			False	False	True		False
+4946660	36358	1022514	0	Egglectic Cafe		2025-03-04 00:00:00	77.95	544.68	145 N Hale St		Wheaton	IL	60187     	8B	Food			False	False	True		False
+4946661	36358	1022514	0	Egglectic Cafe		2025-03-11 00:00:00	54.52	544.68	145 N Hale St		Wheaton	IL	60187     	8B	Food			False	False	True		False
+4946662	36358	1022514	0	Egglectic Cafe		2025-03-29 00:00:00	170	544.68	145 N Hale St		Wheaton	IL	60187     	8B	Food			False	False	True		False
+4946663	36358	1022514	0	Egglectic Cafe		2025-03-26 00:00:00	185.44	544.68	145 N Hale St		Wheaton	IL	60187     	8B	Food			False	False	True		False
+4946664	36358	1022514	0	Egglectic Cafe		2025-02-26 00:00:00	56.77	544.68	145 N Hale St		Wheaton	IL	60187     	8B	Campaign staff			False	False	True		False
+4946665	36358	1022514	0	Rosatis		2025-03-31 00:00:00	130.09	168.33	877 E Geneva Rd		Carol Stream	IL	60188     	8B	Food			False	False	True		False
+4946666	36358	1022514	0	Rosatis		2025-02-24 00:00:00	38.24	168.33	877 E Geneva Rd		Carol Stream	IL	60188     	8B	Campaign staff			False	False	True		False
+4946667	36358	1022514	0	Ditkas Grill		2025-03-07 00:00:00	226.9	226.9	225 W Front St		Wheaton	IL	60187     	8B	Food			False	False	True		False
+4946668	36358	1022514	0	Danada Deli		2025-03-15 00:00:00	214.08	258.93	1801 E Roosevelt Rd		Wheaton	IL	60187     	8B	Food			False	False	True		False
+4946669	36358	1022514	0	Danada Deli		2025-03-14 00:00:00	44.85	258.93	1801 E Roosevelt Rd		Wheaton	IL	60187     	8B	Food			False	False	True		False
+4946670	36358	1022514	0	Walmart		2025-03-11 00:00:00	154.74	154.74	3S100 Rt 53		Glen Ellyn	IL	60137     	8B	Graphic design			False	False	True		False
+4946671	36358	1022514	0	El Famous Burrito		2025-03-25 00:00:00	424.97	424.97	1165 Bloomingdale Rd		Glendale Hts	IL	60139     	8B	Food			False	False	True		False
+4946672	36358	1022514	0	VFW Post 2164		2025-03-13 00:00:00	900	900	0N731 Papworth St		Wheaton	IL	60187     	8B	Fund raising - food			False	False	True		False
+4946673	36358	1022514	0	Melnikov	David	2025-03-08 00:00:00	240	2500	7 Oak Creek Dr		Buffalo Grove	IL	60089     	8B	Campaign staff			False	False	True		False
+4946674	36358	1022514	0	Melnikov	David	2025-03-20 00:00:00	720	2500	7 Oak Creek Dr		Buffalo Grove	IL	60089     	8B	Campaign Work			False	False	True		False
+4946675	36358	1022514	0	Melnikov	David	2025-03-26 00:00:00	660	2500	7 Oak Creek Dr		Buffalo Grove	IL	60089     	8B	Campaign Work			False	False	True		False
+4946676	36358	1022514	0	Melnikov	David	2025-03-29 00:00:00	880	2500	7 Oak Creek Dr		Buffalo Grove	IL	60089     	8B	Campaign staff			False	False	True		False
+4946677	36358	1022514	0	SCHEELS		2025-03-19 00:00:00	265.47	294.27	3801 S MACARTHUR BLVD		SPRINGFIELD	IL	62711     	8B	Raffle prizes			False	False	True		False
+4946678	36358	1022514	0	SCHEELS		2025-03-20 00:00:00	28.8	294.27	3801 S MACARTHUR BLVD		SPRINGFIELD	IL	62711     	8B	Campaign staff			False	False	True		False
+4946679	36358	1022514	0	Grimaldi's		2025-03-23 00:00:00	242.53	242.53	20119 N Lord St		Brookfield	WI	53045     	8B	Food			False	False	True		False
+4946680	36358	1022514	0	Kay	Dwight	2025-03-18 00:00:00	5000	5000	5 Timber Bluff Ct		Glen Carbon	IL	62034     	8B	Advertising - television			False	False	True		False
+4946681	36358	1022515	0	Ki's Steak and Seafood		2025-05-10 00:00:00	395.48	395.48	705 North Ave		Glendale Heights	IL	60139     	8B	Food			False	False	True		False
+4946682	36358	1022515	0	Survail llc		2025-04-07 00:00:00	950	950	228 W Stone Road		Villa Park	IL	60181     	8B	Media - production			False	False	True		False
+4946683	36358	1022515	0	citygate grille		2025-05-12 00:00:00	515	515	2020 Calamos Court		Naperville	IL	60540     	8B	Food			False	False	True		False
+4946684	36358	1022515	0	jin28		2025-05-17 00:00:00	169.48	398.36	604 E North Ave		Carol Stream	IL	60188     	8B	Food			False	False	True		False
+4946685	36358	1022515	0	jin28		2025-06-21 00:00:00	228.88	398.36	604 E North Ave		Carol Stream	IL	60188     	8B	Food			False	False	True		False
+4946686	36358	1022515	0	Kay	Dwight	2025-05-12 00:00:00	491	491	5 Timber Bluff Ct		Glen Carbon	IL	62034     	8B	Advertising - television			False	False	True		False
 4946687	1189	1022527	0	Wilhite	Jeff	2026-07-14 00:00:00	217.76	0	1112 Bugle Court		Springfield	IL	62712     	8B	phones			False	False	False		False
 4946688	1189	1022527	0	Wilhite	Jeff	2026-07-14 00:00:00	5005.9	0	1112 Bugle Court		Springfield	IL	62712     	8B	software			False	False	False		False
 4946689	1189	1022527	0	AT & T Mobility		2026-07-28 00:00:00	148.69	0	P.O. Box 6416		Carol Stream	IL	60197     	8B	phones			False	False	False		False
@@ -362711,7 +362711,7 @@ tates of America	False
 4957741	34241	1025269	0	Uber		2026-08-07 00:00:00	439.14	644.35	1725 3rd Street		San Francisco	CA	94158     	8B	Transportation 7/27-8/7			False	False	False		False
 4957742	34241	1025269	0	Fremont Township Democrats		2026-07-30 00:00:00	200	200	1670 Valencia Way		Mundelein	IL	60060     	6B	Contribution			False	False	False		False
 4957743	34241	1025269	0	Indivisible Western Lake County		2026-07-20 00:00:00	250	250				IL	          	6B	Contribution			False	False	False		False
-4957744	34241	1025269	0	Supporters of Jenny Levin		2026-09-10 00:00:00	2500	2500	560 N. Geri Ct		Palatine	IL	60067     	6B	Contribution			False	False	False		False
+4957744	34241	1025269	0	Supporters of Jenny Levin		2026-09-10 00:00:00	2500	2500	Redaction Requested					6B	Contribution			False	False	False		True
 4957745	34241	1025269	0	Friends of Jose S. Martinez		2026-09-14 00:00:00	5000	6000	616 Plum Tree Lane		Antioch	IL	60002     	6B	Contribution			False	False	False		False
 4957746	34241	1025269	0	Friends of Jose S. Martinez		2026-08-11 00:00:00	1000	6000	616 Plum Tree Lane		Antioch	IL	60002     	6B	Contribution			False	False	False		False
 4957747	34241	1025269	0	Cochran for Illinois		2026-08-31 00:00:00	250	250	933 Graceland Ave, Apt 101		Des Plaines	IL	60016     	6B	Contribution			False	False	False		False
@@ -364976,7 +364976,7 @@ tates of America	False
 4960006	32872	1025475	0	Writers Theatre		2026-07-31 00:00:00	500	500	376 Park Ave		Glencoe	IL	60022-1553	8B	Event			False	False	False		False
 4960007	32872	1025475	0	Spothero Inc.		2026-09-15 00:00:00	19.08	362.8	325 W Huron St	Ste 806	Chicago	IL	60654-3638	8B	Parking			False	False	False		False
 4960008	32872	1025475	0	Spothero Inc.		2026-09-23 00:00:00	19.08	362.8	325 W Huron St	Ste 806	Chicago	IL	60654-3638	8B	Parking			False	False	False		False
-4960009	32872	1025475	0	Supporters of Jenny Levin		2026-08-04 00:00:00	1000	1000	560 N Geri Ct		Palatine	IL	60067-2342	6B	Contribution			False	False	False		False
+4960009	32872	1025475	0	Supporters of Jenny Levin		2026-08-04 00:00:00	1000	1000	Redaction Requested					6B	Contribution			False	False	False		True
 4960010	32872	1025475	0	Taetle	Shirley	2026-07-16 00:00:00	1880	1880	7800 W Foresthill Ln	Apt 207B	Palos Heights	IL	60463-2704	8B	Accounting			False	False	False		False
 4960011	32872	1025475	0	The Hotline.org		2026-08-25 00:00:00	1000	1000	PO Box 90249		Austin	TX	78709-0249	8B	Donation			False	False	False		False
 4960012	32872	1025475	0	Uber		2026-07-01 00:00:00	23.99	309.72	1455 Market St #400		San Francisco	CA	94103-1355	8B	Transportation			False	False	False		False
@@ -365652,7 +365652,7 @@ tates of America	False
 4960682	1157	1025531	0	Sheehan for Illinois		2026-08-26 00:00:00	1500	1500	18859 S Vanderbilt Dr		Mokena	IL	60448     	6B	Contribution			False	False	False		False
 4960683	1157	1025531	0	Friends of Dave Vella		2026-08-27 00:00:00	1000	1000	6260 East Riverside Blvd Suite 335		Loves Park	IL	61111     	6B	Contribution			False	False	False		False
 4960684	1157	1025531	0	Friends for Eva Dina Delgado		2026-08-27 00:00:00	1000	1000	3023 N Clark Street	PMB 855	Chicago	IL	60657     	6B	Contribution			False	False	False		False
-4960685	1157	1025531	0	Supporters of Jenny Levin 500		2026-07-15 00:00:00	500	500	560 North Geri Court		Palatine	IL	60067     	6B	Contribution			False	False	False		False
+4960685	1157	1025531	0	Supporters of Jenny Levin 500		2026-07-15 00:00:00	500	500	Redaction Requested					6B	Contribution			False	False	False		True
 4960686	1157	1025531	0	Friends of Edgar Gonzalez, Jr		2026-08-26 00:00:00	2500	2500	4035 W 26th Street, 2nd Floor		Chicago	IL	60623     	6B	Contribution			False	False	False		False
 4960687	1157	1025531	0	Friends of Dave Koehler		2026-08-26 00:00:00	2500	2500	1020 NE Glen Oaks		Peoria	IL	61603     	6B	Contribution			False	False	False		False
 4960688	1157	1025531	0	Friends for Jennifer		2026-08-27 00:00:00	1000	1000	PO BOX 3042		Glenview	IL	60025     	6B	Contribution			False	False	False		False
@@ -381764,11 +381764,11 @@ tates of America	False
 4976793	185	1026764	0	Villa, Citizens for Karina		2026-09-17 00:00:00	1000	1000	PO Box 457		West Chicago	IL	60186     	6B	Fundraiser			False	False	False		False
 4976794	185	1026764	0	Battaglia, Friends for Karen		2026-09-22 00:00:00	20000	20000	PO Box 308		Antioch	IL	60002     	6B	Contribution			False	False	False		False
 4976795	185	1026764	0	Santa Maria, Citizens for Carina		2026-09-22 00:00:00	20000	20000	2362 E Bradshire Ct		Arlington Heights	IL	60004     	6B	Contribution			False	False	False		False
-4976796	185	1026764	0	Levin, Supporters of Jenny		2026-09-22 00:00:00	25000	25000	560 N Geri Ct		Palatine	IL	60067     	6B	Contribution			False	False	False		False
 4976797	185	1026764	0	Bray-Parker, People for Erica		2026-09-24 00:00:00	20000	20000	617 N Scott St		Wheaton	IL	60187     	6B	Contribution			False	False	False		False
 4976798	185	1026764	0	Haider, Citizens for Saba		2026-09-24 00:00:00	25000	25000	893 Meadowridge Dr		Aurora	IL	60504     	6B	Contribution			False	False	False		False
 4976799	185	1026764	0	McAdams, Citizens for Ben		2026-09-24 00:00:00	30000	30000	1 Bloomingdale Pl		Bloomingdale	IL	60108     	6B	Contribution			False	False	False		False
 4976800	185	1026764	0	NOBEL Women Midwest		2026-09-24 00:00:00	2500	2500	PO Box 23096		Chicago	IL	60623     	6B	Contribution			False	False	False		False
+4976796	185	1026764	0	Levin, Supporters of Jenny		2026-09-22 00:00:00	25000	25000	Redaction Requested					6B	Contribution			False	False	False		True
 4976801	41011	1026767	0	LaPamela for Our Schools		2026-08-25 00:00:00	1500	1500	5343 W. Galewood Ave. Unit B		Chicago	IL	60639     	6B	Contribution			False	False	False		False
 4976802	41011	1026767	0	Amalgamated Bank		2026-07-28 00:00:00	78.8	252.07	275 Seventh Ave		New York	NY	10001     	8B	Bank Fee			False	False	False		False
 4976803	41011	1026767	0	Amalgamated Bank		2026-08-31 00:00:00	142.5	252.07	275 Seventh Ave		New York	NY	10001     	8B	Bank Fee			False	False	False		False
@@ -385879,8 +385879,8 @@ tates of America	False
 4980908	39868	1026937	0	Greater Palatine Area Democrats		2026-09-16 00:00:00	1000	1130	1310 W. Northwest Highway		Arlington Heights	IL	60004     	6B	Contribution			False	False	False		False
 4980909	39868	1026937	0	Greater Palatine Area Democrats		2026-09-21 00:00:00	130	1130	1310 W. Northwest Highway		Arlington Heights	IL	60004     	6B	Contribution			False	False	False		False
 4980910	39868	1026937	0	Northwest Suburban Women Democrats		2026-08-31 00:00:00	250	250	370 Crestwood Drove		Roselle	IL	60172     	6B	Contribution			False	False	False		False
-4980911	39868	1026937	0	Supporters of Jenny Levin		2026-07-06 00:00:00	250	400	560 N. Geri Ct		Palatine	IL	60067     	6B	Contribution			False	False	False		False
-4980912	39868	1026937	0	Supporters of Jenny Levin		2026-08-25 00:00:00	150	400	560 N. Geri Ct		Palatine	IL	60067     	6B	Contribution			False	False	False		False
+4980911	39868	1026937	0	Supporters of Jenny Levin		2026-07-06 00:00:00	250	400	Redaction Requested					6B	Contribution			False	False	False		True
+4980912	39868	1026937	0	Supporters of Jenny Levin		2026-08-25 00:00:00	150	400	Redaction Requested					6B	Contribution			False	False	False		True
 4980913	39868	1026937	0	Cook County Democratic Party		2026-09-21 00:00:00	250	250	111 W Washington	Suite 1360	Chicago	IL	60602     	6B	Contribution			False	False	False		False
 4980914	39868	1026937	0	Citizens for Mariyana Spyropoulos		2026-09-22 00:00:00	200	200	33 N. Dearborn	Suite 1000	Chicago	IL	60602     	6B	Contribution			False	False	False		False
 4980915	39868	1026937	0	Schaumburg Area Democrats		2026-09-24 00:00:00	300	300	PO Box 957752		Hoffman Estates	IL	60195-775 	6B	Contribution			False	False	False		False
@@ -399827,3 +399827,139 @@ tates of America	False
 4994866	41082	1030466	0	Canva		2026-08-18 00:00:00	86.26	172.51	3212 E. Cesar Chavez Street,	Building 1, Suite 1300,	Austin	TX	78702     	8B	Graphic design			False	False	False		False
 4994867	41082	1030466	0	Canva		2026-09-18 00:00:00	86.25	172.51	3212 E. Cesar Chavez Street,	Building 1, Suite 1300,	Austin	TX	78702     	8B	Graphic design			False	False	False		False
 4994868	41082	1030466	0	STACKADAPT INC		2026-09-30 00:00:00	5500	5500	200 Bay Street	South Tower Unit 2103	Toronto	ZZ	M5j2j1    	8B	Digital Advertising			False	False	False	Canada	False
+4994869	41132	1030481	0	Office Depot		2026-10-08 00:00:00	499.95	499.95	1721 W Fullerton Ave		Chicago	IL	60615     	8B	Brochures			False	False	False		False
+4994870	41132	1030481	0	Costco		2026-10-14 00:00:00	88	3165.76	2746 N Clybourn		Chicago	IL	60614     	8B	Postage			False	False	False		False
+4994871	41132	1030481	0	Costco		2026-11-02 00:00:00	125	3165.76	2746 N Clybourn		Chicago	IL	60614     	8B	Fund raising - food			False	False	False		False
+4994872	41132	1030481	0	Costco		2026-10-21 00:00:00	357.98	3165.76	2746 N Clybourn		Chicago	IL	60614     	8B	Gasoline			False	False	False		False
+4994873	41132	1030481	0	Costco		2026-10-31 00:00:00	395.78	3165.76	2746 N Clybourn		Chicago	IL	60614     	8B	Fund raising - food			False	False	False		False
+4994874	41132	1030481	0	Costco		2026-11-06 00:00:00	2199	3165.76	2746 N Clybourn		Chicago	IL	60614     	8B	Computer - purchase			False	False	False		False
+4994875	41132	1030481	0	Numinar		2026-10-31 00:00:00	3075	4973.4	1201 Wilson blvd		Arlington	VA	22209     	8B	Phone			False	False	False		False
+4994876	41132	1030481	0	Numinar		2026-11-01 00:00:00	75	4973.4	1201 Wilson blvd		Arlington	VA	22209     	8B	Ad book			False	False	False		False
+4994877	41132	1030481	0	Numinar		2026-11-04 00:00:00	1823.4	4973.4	1201 Wilson blvd		Arlington	VA	22209     	8B	Ad book			False	False	False		False
+4994878	41132	1030481	0	Voter Ping		2026-11-01 00:00:00	10663.03	10663.03				IL	          	8B	Media - production			False	False	False		False
+4994879	41132	1030481	0	Meta		2026-10-31 00:00:00	651.96	651.96				IL	          	8B	Advertising - magazine			False	False	False		False
+4994880	41132	1030481	0	Whole Foods		2026-11-01 00:00:00	202.43	442.22				IL	          	8B	Food			False	False	False		False
+4994881	41132	1030481	0	Whole Foods		2026-11-15 00:00:00	239.79	442.22				IL	          	8B	Food			False	False	False		False
+4994882	41132	1030481	0	Siena		2026-11-08 00:00:00	307.56	307.56	4999 Old orchard Rd	ste A2	Skokie	IL	60077     	8B	Food			False	False	False		False
+4994883	41520	1030509	0	Henrikson	Johan	2026-11-24 00:00:00	848.64	848.64	33 Allens Ave		Galesburg	IL	61401     	8B	Seed Money Repayment			False	False	False		False
+4994884	41520	1030509	0	Meta Platforms, Inc.		2026-11-23 00:00:00	27	519.16	1 Meta Way		Menlo Park	CA	94025     	8B	Facebook advertisement			False	False	False		False
+4994885	41520	1030509	0	Meta Platforms, Inc.		2026-10-26 00:00:00	54	519.16	1 Meta Way		Menlo Park	CA	94025     	8B	Facebook ad			False	False	False		False
+4994886	41520	1030509	0	Meta Platforms, Inc.		2026-10-27 00:00:00	47	519.16	1 Meta Way		Menlo Park	CA	94025     	8B	Facebook ad			False	False	False		False
+4994887	41520	1030509	0	Meta Platforms, Inc.		2026-10-28 00:00:00	47	519.16	1 Meta Way		Menlo Park	CA	94025     	8B	Facebook ad			False	False	False		False
+4994888	41520	1030509	0	Meta Platforms, Inc.		2026-10-29 00:00:00	47	519.16	1 Meta Way		Menlo Park	CA	94025     	8B	Facebook ad			False	False	False		False
+4994889	41520	1030509	0	Meta Platforms, Inc.		2026-10-30 00:00:00	47	519.16	1 Meta Way		Menlo Park	CA	94025     	8B	Facebook ad			False	False	False		False
+4994890	41520	1030509	0	Meta Platforms, Inc.		2026-11-02 00:00:00	76	519.16	1 Meta Way		Menlo Park	CA	94025     	8B	Facebook ad			False	False	False		False
+4994891	41520	1030509	0	Meta Platforms, Inc.		2026-11-03 00:00:00	76	519.16	1 Meta Way		Menlo Park	CA	94025     	8B	Facebbok ad			False	False	False		False
+4994892	41520	1030509	0	Meta Platforms, Inc.		2026-11-04 00:00:00	76	519.16	1 Meta Way		Menlo Park	CA	94025     	8B	Facebook ad			False	False	False		False
+4994893	41520	1030509	0	Meta Platforms, Inc.		2026-11-09 00:00:00	22.16	519.16	1 Meta Way		Menlo Park	CA	94025     	8B	Facebook ad			False	False	False		False
+4994894	41520	1030509	0	Clear Profits		2026-10-20 00:00:00	750	750	227 S Main St		Monmouth	IL	61462     	8B	Graphic design			False	False	False		False
+4994895	36358	1030530	0	Ki's Steak and Seafood		2025-03-17 00:00:00	75.2	158.41	705 North Ave		Glendale Heights	IL	60139     	8B	Food			False	False	True		False
+4994896	36358	1030530	0	Ki's Steak and Seafood		2025-03-25 00:00:00	83.21	158.41	705 North Ave		Glendale Heights	IL	60139     	8B	Food			False	False	True		False
+4994897	36358	1030530	0	Signarama		2025-03-05 00:00:00	811	5148.91	946 N. Neltnor Blvd	#114	West Chicago	IL	60185     	8B	Campaign Work			False	False	True		False
+4994898	36358	1030530	0	Signarama		2025-02-21 00:00:00	2289.01	5148.91	946 N. Neltnor Blvd	#114	West Chicago	IL	60185     	8B	Campaign Work			False	False	True		False
+4994899	36358	1030530	0	Signarama		2025-02-13 00:00:00	762.02	5148.91	946 N. Neltnor Blvd	#114	West Chicago	IL	60185     	8B	Campaign Work			False	False	True		False
+4994900	36358	1030530	0	Signarama		2025-03-17 00:00:00	596.76	5148.91	946 N. Neltnor Blvd	#114	West Chicago	IL	60185     	8B	Lawn signs			False	False	True		False
+4994901	36358	1030530	0	Signarama		2025-02-06 00:00:00	690.12	5148.91	946 N. Neltnor Blvd	#114	West Chicago	IL	60185     	8B	Signs			False	False	True		False
+4994902	36358	1030530	0	Aurelio's		2025-02-18 00:00:00	246	1295.59	27W101 Geneva Rd		Winfield	IL	60190     	8B	Food			False	False	True		False
+4994903	36358	1030530	0	Aurelio's		2025-03-22 00:00:00	323.04	1295.59	27W101 Geneva Rd		Winfield	IL	60190     	8B	Food			False	False	True		False
+4994904	36358	1030530	0	Aurelio's		2025-03-27 00:00:00	326.55	1295.59	27W101 Geneva Rd		Winfield	IL	60190     	8B	Food			False	False	True		False
+4994905	36358	1030530	0	Aurelio's		2025-02-12 00:00:00	400	1295.59	27W101 Geneva Rd		Winfield	IL	60190     	8B	Fund raising - advertisement			False	False	True		False
+4994906	36358	1030530	0	Panzeca Investment Group LLC		2025-02-16 00:00:00	1000	1000	120 Bridge St		Wheaton	IL	60187     	8B	Headquarters rent			False	False	True		False
+4994907	36358	1030530	0	ADJ Contractors INC		2025-02-16 00:00:00	1050	1050	0N635 Courtney Ln		Winfield	IL	60190     	8B	Campaign Work			False	False	True		False
+4994908	36358	1030530	0	alphagraphics wheaton		2025-02-20 00:00:00	434.95	500.36	128 N Main St		Wheaton	IL	60187     	8B	Campaign Work			False	False	True		False
+4994909	36358	1030530	0	alphagraphics wheaton		2025-03-12 00:00:00	65.41	500.36	128 N Main St		Wheaton	IL	60187     	8B	Campaign Work			False	False	True		False
+4994910	36358	1030530	0	Cervantes Design		2025-02-20 00:00:00	1500	1500	8009 Wildwood Ln		Darien	IL	60561     	8B	Campaign Work			False	False	True		False
+4994911	36358	1030530	0	Costco		2025-02-26 00:00:00	86.11	172.22	1255 E Ogden Ave		Naperville	IL	60563     	8B	Food			False	False	True		False
+4994912	36358	1030530	0	Costco		2025-02-26 00:00:00	86.11	172.22	1255 E Ogden Ave		Naperville	IL	60563     	8B	Food			False	False	True		False
+4994913	36358	1030530	0	Egglectic Cafe		2025-03-04 00:00:00	77.95	490.16	145 N Hale St		Wheaton	IL	60187     	8B	Food			False	False	True		False
+4994914	36358	1030530	0	Egglectic Cafe		2025-03-29 00:00:00	170	490.16	145 N Hale St		Wheaton	IL	60187     	8B	Food			False	False	True		False
+4994915	36358	1030530	0	Egglectic Cafe		2025-02-26 00:00:00	56.77	490.16	145 N Hale St		Wheaton	IL	60187     	8B	Campaign staff			False	False	True		False
+4994916	36358	1030530	0	Egglectic Cafe		2025-03-26 00:00:00	185.44	490.16	145 N Hale St		Wheaton	IL	60187     	8B	Food			False	False	True		False
+4994917	36358	1030530	0	Hen House		2025-03-10 00:00:00	85.64	171.28	1060 College Ave		Wheaton	IL	60187     	8B	Food			False	False	True		False
+4994918	36358	1030530	0	Hen House		2025-03-11 00:00:00	85.64	171.28	1060 College Ave		Wheaton	IL	60187     	8B	Food			False	False	True		False
+4994919	36358	1030530	0	Danada Deli		2025-03-15 00:00:00	214.08	214.08	1801 E Roosevelt Rd		Wheaton	IL	60187     	8B	Food			False	False	True		False
+4994920	36358	1030530	0	Staples		2025-03-07 00:00:00	88.21	176.42	539 W Roosevelt Rd		Glen Ellyn	IL	60137     	8B	Graphic design			False	False	True		False
+4994921	36358	1030530	0	Staples		2025-03-10 00:00:00	88.21	176.42	539 W Roosevelt Rd		Glen Ellyn	IL	60137     	8B	Office supplies			False	False	True		False
+4994922	36358	1030530	0	Walmart		2025-03-11 00:00:00	154.74	154.74	3S100 Rt 53		Glen Ellyn	IL	60137     	8B	Graphic design			False	False	True		False
+4994923	36358	1030530	0	El Famous Burrito		2025-03-25 00:00:00	424.97	424.97	1165 Bloomingdale Rd		Glendale Hts	IL	60139     	8B	Food			False	False	True		False
+4994924	36358	1030530	0	VFW Post 2164		2025-03-13 00:00:00	900	900	0N731 Papworth St		Wheaton	IL	60187     	8B	Fund raising - food			False	False	True		False
+4994925	36358	1030530	0	Melnikov	David	2025-03-08 00:00:00	240	2500	7 Oak Creek Dr		Buffalo Grove	IL	60089     	8B	Campaign staff			False	False	True		False
+4994926	36358	1030530	0	Melnikov	David	2025-03-20 00:00:00	720	2500	7 Oak Creek Dr		Buffalo Grove	IL	60089     	8B	Campaign Work			False	False	True		False
+4994927	36358	1030530	0	Melnikov	David	2025-03-26 00:00:00	660	2500	7 Oak Creek Dr		Buffalo Grove	IL	60089     	8B	Campaign Work			False	False	True		False
+4994928	36358	1030530	0	Melnikov	David	2025-03-29 00:00:00	880	2500	7 Oak Creek Dr		Buffalo Grove	IL	60089     	8B	Campaign staff			False	False	True		False
+4994929	36358	1030530	0	Carol's Garden		2025-03-30 00:00:00	98.47	196.94	515 S. Schmale Rd		Carol Stream	IL	60188     	8B	Food			False	False	True		False
+4994930	36358	1030530	0	Carol's Garden		2025-03-31 00:00:00	98.47	196.94	515 S. Schmale Rd		Carol Stream	IL	60188     	8B	Food			False	False	True		False
+4994931	36358	1030530	0	Kay	Dwight	2025-03-18 00:00:00	5000	5000	5 Timber Bluff Ct		Glen Carbon	IL	62034     	8B	Advertising - television			False	False	True		False
+4994932	36358	1030531	0	Ki's Steak and Seafood		2025-05-12 00:00:00	475.48	475.48	705 North Ave		Glendale Heights	IL	60139     	8B	Food			False	False	True		False
+4994933	36358	1030531	0	Aurelio's		2025-04-17 00:00:00	103.67	217.34	27W101 Geneva Rd		Winfield	IL	60190     	8B	Food			False	False	True		False
+4994934	36358	1030531	0	Aurelio's		2025-04-18 00:00:00	113.67	217.34	27W101 Geneva Rd		Winfield	IL	60190     	8B	Food			False	False	True		False
+4994935	36358	1030531	0	Survail llc		2025-04-07 00:00:00	950	950	228 W Stone Road		Villa Park	IL	60181     	8B	Media - production			False	False	True		False
+4994936	36358	1030531	0	citygate grille		2025-05-12 00:00:00	515	515	2020 Calamos Court		Naperville	IL	60540     	8B	Food			False	False	True		False
+4994937	36358	1030531	0	jin28		2025-06-21 00:00:00	228.88	228.88	604 E North Ave		Carol Stream	IL	60188     	8B	Food			False	False	True		False
+4994938	36358	1030531	0	Kay	Dwight	2025-05-12 00:00:00	491	491	5 Timber Bluff Ct		Glen Carbon	IL	62034     	8B	Advertising - television			False	False	True		False
+4994939	36358	1030533	0	Ki's Steak and Seafood		2025-10-10 00:00:00	67.91	289.78	705 North Ave		Glendale Heights	IL	60139     	8B	Food			False	False	True		False
+4994940	36358	1030533	0	Ki's Steak and Seafood		2025-10-14 00:00:00	221.87	289.78	705 North Ave		Glendale Heights	IL	60139     	8B	Food			False	False	True		False
+4994941	36358	1030533	0	Aurelio's		2025-10-10 00:00:00	217.03	217.03	27W101 Geneva Rd		Winfield	IL	60190     	8B	Food			False	False	True		False
+4994942	36358	1030533	0	mailchimp		2025-10-24 00:00:00	340	340	405 n angier ave		ne atlanta	GA	30308     	8B	Mailing			False	False	True		False
+4994943	26066	1030537	0	Impact Research, Inc.		2026-11-24 00:00:00	8000	0	260 Commerce Street, 4th Floor		Montgomery	AL	36104     	9B	Polling	Michelle Pierre	School Board, District 1B	True	False	False		False
+4994944	26066	1030537	0	Impact Research, Inc.		2026-11-24 00:00:00	8000	0	260 Commerce Street, 4th Floor		Montgomery	AL	36104     	9B	Polling	Kyna Lenhof	School Board, District 2B	True	False	False		False
+4994945	26066	1030537	0	Impact Research, Inc.		2026-11-24 00:00:00	8000	0	260 Commerce Street, 4th Floor		Montgomery	AL	36104     	9B	Polling	Pete Gonzales	School Board, District 3A	True	False	False		False
+4994946	26066	1030537	0	Impact Research, Inc.		2026-11-24 00:00:00	8000	0	260 Commerce Street, 4th Floor		Montgomery	AL	36104     	9B	Polling	Carlos Rivas	School Board, District 3B	True	False	False		False
+4994947	26066	1030537	0	Impact Research, Inc.		2026-11-24 00:00:00	8000	0	260 Commerce Street, 4th Floor		Montgomery	AL	36104     	9B	Polling	Karen Zaccor	School Board, District 4A	False	True	False		False
+4994948	26066	1030537	0	Impact Research, Inc.		2026-11-24 00:00:00	8000	0	260 Commerce Street, 4th Floor		Montgomery	AL	36104     	9B	Polling	LaPamela Williams	School Board, District 5A	True	False	False		False
+4994949	26066	1030537	0	Impact Research, Inc.		2026-11-24 00:00:00	8000	0	260 Commerce Street, 4th Floor		Montgomery	AL	36104     	9B	Polling	Anthony Hargrove	School Board, District 5B	True	False	False		False
+4994950	26066	1030537	0	Impact Research, Inc.		2026-11-24 00:00:00	8000	0	260 Commerce Street, 4th Floor		Montgomery	AL	36104     	9B	Polling	Isaiah White	School Board, District 6A	True	False	False		False
+4994951	26066	1030537	0	Impact Research, Inc.		2026-11-24 00:00:00	8000	0	260 Commerce Street, 4th Floor		Montgomery	AL	36104     	9B	Polling	Jesus Ayala	School Board, District 7A	True	False	False		False
+4994952	26066	1030537	0	Impact Research, Inc.		2026-11-24 00:00:00	8000	0	260 Commerce Street, 4th Floor		Montgomery	AL	36104     	9B	Polling	Theresa Boyle	School Board, District 9B	True	False	False		False
+4994953	26066	1030537	0	Impact Research, Inc.		2026-11-24 00:00:00	8000	0	260 Commerce Street, 4th Floor		Montgomery	AL	36104     	9B	Polling	Patrick Watson	School Board, District 10B	True	False	False		False
+4994954	36358	1030539	0	Ki's Steak and Seafood		2025-03-17 00:00:00	75.2	158.41	705 North Ave		Glendale Heights	IL	60139     	8B	Food			False	False	False		False
+4994955	36358	1030539	0	Ki's Steak and Seafood		2025-03-25 00:00:00	83.21	158.41	705 North Ave		Glendale Heights	IL	60139     	8B	Food			False	False	False		False
+4994956	36358	1030539	0	Signarama		2025-03-05 00:00:00	811	5148.91	946 N. Neltnor Blvd	#114	West Chicago	IL	60185     	8B	Campaign Work			False	False	False		False
+4994957	36358	1030539	0	Signarama		2025-02-21 00:00:00	2289.01	5148.91	946 N. Neltnor Blvd	#114	West Chicago	IL	60185     	8B	Campaign Work			False	False	False		False
+4994958	36358	1030539	0	Signarama		2025-02-13 00:00:00	762.02	5148.91	946 N. Neltnor Blvd	#114	West Chicago	IL	60185     	8B	Campaign Work			False	False	False		False
+4994959	36358	1030539	0	Signarama		2025-03-17 00:00:00	596.76	5148.91	946 N. Neltnor Blvd	#114	West Chicago	IL	60185     	8B	Lawn signs			False	False	False		False
+4994960	36358	1030539	0	Signarama		2025-02-06 00:00:00	690.12	5148.91	946 N. Neltnor Blvd	#114	West Chicago	IL	60185     	8B	Signs			False	False	False		False
+4994961	36358	1030539	0	Aurelio's		2025-02-18 00:00:00	246	1295.59	27W101 Geneva Rd		Winfield	IL	60190     	8B	Food			False	False	False		False
+4994962	36358	1030539	0	Aurelio's		2025-03-22 00:00:00	323.04	1295.59	27W101 Geneva Rd		Winfield	IL	60190     	8B	Food			False	False	False		False
+4994963	36358	1030539	0	Aurelio's		2025-03-27 00:00:00	326.55	1295.59	27W101 Geneva Rd		Winfield	IL	60190     	8B	Food			False	False	False		False
+4994964	36358	1030539	0	Aurelio's		2025-02-12 00:00:00	400	1295.59	27W101 Geneva Rd		Winfield	IL	60190     	8B	Fund raising - advertisement			False	False	False		False
+4994965	36358	1030539	0	Panzeca Investment Group LLC		2025-02-16 00:00:00	1000	1000	120 Bridge St		Wheaton	IL	60187     	8B	Headquarters rent			False	False	False		False
+4994966	36358	1030539	0	ADJ Contractors INC		2025-02-16 00:00:00	1050	1050	0N635 Courtney Ln		Winfield	IL	60190     	8B	Campaign Work			False	False	False		False
+4994967	36358	1030539	0	alphagraphics wheaton		2025-02-20 00:00:00	434.95	500.36	128 N Main St		Wheaton	IL	60187     	8B	Campaign Work			False	False	False		False
+4994968	36358	1030539	0	alphagraphics wheaton		2025-03-12 00:00:00	65.41	500.36	128 N Main St		Wheaton	IL	60187     	8B	Campaign Work			False	False	False		False
+4994969	36358	1030539	0	Cervantes Design		2025-02-20 00:00:00	1500	1500	8009 Wildwood Ln		Darien	IL	60561     	8B	Campaign Work			False	False	False		False
+4994970	36358	1030539	0	Egglectic Cafe		2025-03-04 00:00:00	77.95	490.16	145 N Hale St		Wheaton	IL	60187     	8B	Food			False	False	False		False
+4994971	36358	1030539	0	Egglectic Cafe		2025-03-29 00:00:00	170	490.16	145 N Hale St		Wheaton	IL	60187     	8B	Food			False	False	False		False
+4994972	36358	1030539	0	Egglectic Cafe		2025-02-26 00:00:00	56.77	490.16	145 N Hale St		Wheaton	IL	60187     	8B	Campaign staff			False	False	False		False
+4994973	36358	1030539	0	Egglectic Cafe		2025-03-26 00:00:00	185.44	490.16	145 N Hale St		Wheaton	IL	60187     	8B	Food			False	False	False		False
+4994974	36358	1030539	0	Danada Deli		2025-03-15 00:00:00	214.08	214.08	1801 E Roosevelt Rd		Wheaton	IL	60187     	8B	Food			False	False	False		False
+4994975	36358	1030539	0	Walmart		2025-03-11 00:00:00	154.74	154.74	3S100 Rt 53		Glen Ellyn	IL	60137     	8B	Graphic design			False	False	False		False
+4994976	36358	1030539	0	El Famous Burrito		2025-03-25 00:00:00	424.97	424.97	1165 Bloomingdale Rd		Glendale Hts	IL	60139     	8B	Food			False	False	False		False
+4994977	36358	1030539	0	VFW Post 2164		2025-03-13 00:00:00	900	900	0N731 Papworth St		Wheaton	IL	60187     	8B	Fund raising - food			False	False	False		False
+4994978	36358	1030539	0	Melnikov	David	2025-03-08 00:00:00	240	2500	7 Oak Creek Dr		Buffalo Grove	IL	60089     	8B	Campaign staff			False	False	False		False
+4994979	36358	1030539	0	Melnikov	David	2025-03-20 00:00:00	720	2500	7 Oak Creek Dr		Buffalo Grove	IL	60089     	8B	Campaign Work			False	False	False		False
+4994980	36358	1030539	0	Melnikov	David	2025-03-26 00:00:00	660	2500	7 Oak Creek Dr		Buffalo Grove	IL	60089     	8B	Campaign Work			False	False	False		False
+4994981	36358	1030539	0	Melnikov	David	2025-03-29 00:00:00	880	2500	7 Oak Creek Dr		Buffalo Grove	IL	60089     	8B	Campaign staff			False	False	False		False
+4994982	36358	1030539	0	Kay	Dwight	2025-03-18 00:00:00	5000	5000	5 Timber Bluff Ct		Glen Carbon	IL	62034     	8B	Advertising - television			False	False	False		False
+4994983	36358	1030540	0	Ki's Steak and Seafood		2025-05-12 00:00:00	475.48	475.48	705 North Ave		Glendale Heights	IL	60139     	8B	Food			False	False	False		False
+4994984	36358	1030540	0	Aurelio's		2025-04-17 00:00:00	103.67	217.34	27W101 Geneva Rd		Winfield	IL	60190     	8B	Food			False	False	False		False
+4994985	36358	1030540	0	Aurelio's		2025-04-18 00:00:00	113.67	217.34	27W101 Geneva Rd		Winfield	IL	60190     	8B	Food			False	False	False		False
+4994986	36358	1030540	0	Survail llc		2025-04-07 00:00:00	950	950	228 W Stone Road		Villa Park	IL	60181     	8B	Media - production			False	False	False		False
+4994987	36358	1030540	0	citygate grille		2025-05-12 00:00:00	515	515	2020 Calamos Court		Naperville	IL	60540     	8B	Food			False	False	False		False
+4994988	36358	1030540	0	jin28		2025-06-21 00:00:00	228.88	228.88	604 E North Ave		Carol Stream	IL	60188     	8B	Food			False	False	False		False
+4994989	36358	1030540	0	Kay	Dwight	2025-05-12 00:00:00	491	491	5 Timber Bluff Ct		Glen Carbon	IL	62034     	8B	Advertising - television			False	False	False		False
+4994990	36358	1030543	0	Ki's Steak and Seafood		2025-10-10 00:00:00	67.91	289.78	705 North Ave		Glendale Heights	IL	60139     	8B	Food			False	False	True		False
+4994991	36358	1030543	0	Ki's Steak and Seafood		2025-10-14 00:00:00	221.87	289.78	705 North Ave		Glendale Heights	IL	60139     	8B	Food			False	False	True		False
+4994992	36358	1030543	0	Aurelio's		2025-10-10 00:00:00	217.03	217.03	27W101 Geneva Rd		Winfield	IL	60190     	8B	Food			False	False	True		False
+4994993	36358	1030543	0	mailchimp		2025-10-24 00:00:00	340	340	405 n angier ave		ne atlanta	GA	30308     	8B	Mailing			False	False	True		False
+4994994	36358	1030547	0	Ki's Steak and Seafood		2025-10-10 00:00:00	67.91	289.78	705 North Ave		Glendale Heights	IL	60139     	8B	Food			False	False	True		False
+4994995	36358	1030547	0	Ki's Steak and Seafood		2025-10-14 00:00:00	221.87	289.78	705 North Ave		Glendale Heights	IL	60139     	8B	Food			False	False	True		False
+4994996	36358	1030547	0	Aurelio's		2025-10-10 00:00:00	217.03	217.03	27W101 Geneva Rd		Winfield	IL	60190     	8B	Food			False	False	True		False
+4994997	36358	1030547	0	mailchimp		2025-10-24 00:00:00	340	340	405 n angier ave		ne atlanta	GA	30308     	8B	Mailing			False	False	True		False
+4994998	41529	1030549	0	Turnroth Signs Co		2026-11-20 00:00:00	1000	0	1207 e Rock Falls Rd		Rock Falls	IL	61071     	9B	Billboard	Morgan, Tim	Mayor of Sterling	True	False	False		False
+4994999	36358	1030555	0	Monino	John	2025-09-29 00:00:00	384.41	384.41	26 W. 121 Jerome Aver.		Wheaton	IL	60187     	8B	Supplies			False	False	False		False
+4995000	36358	1030556	0	Ki's Steak and Seafood		2025-10-10 00:00:00	67.91	289.78	705 North Ave		Glendale Heights	IL	60139     	8B	Food			False	False	False		False
+4995001	36358	1030556	0	Ki's Steak and Seafood		2025-10-14 00:00:00	221.87	289.78	705 North Ave		Glendale Heights	IL	60139     	8B	Food			False	False	False		False
+4995002	36358	1030556	0	Aurelio's		2025-10-10 00:00:00	217.03	217.03	27W101 Geneva Rd		Winfield	IL	60190     	8B	Food			False	False	False		False
+4995003	36358	1030556	0	Monino	John	2025-11-02 00:00:00	384.41	384.41	26w121 Jerome Ave		Wheaton	IL	60187     	8B	Supplies			False	False	False		False
+4995004	36358	1030556	0	mailchimp		2025-10-24 00:00:00	340	340	405 n angier ave		ne atlanta	GA	30308     	8B	Mailing			False	False	False		False

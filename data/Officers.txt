@@ -135,7 +135,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 53593	Acciari	Jerry J	8455 Ozark Ave		Niles	IL	60714     	Chair	847-967-8248        	False
 89476	Acerra	Heather	325 N. Prairie Street		Galesburg	IL	61401-3716	Chair	                    	False
 89477	Acerra	Heather	325 N. Prairie Street		Galesburg	IL	61401-3716	Treasurer	                    	False
-99522	Acevedo	Cecilia	PO Box 47334		Chicago	IL	60647     	Chair	760-981-2484        	False
+99522	Acevedo	Cecilia	2650 N Lawndale Ave		Chicago	IL	60647     	Chair	760-981-2484        	False
 40873	Acevedo	Joe	2147 W 19th St		Chicago	IL	60608     	Chair	773.818.5348        	False
 40874	Acevedo	Joe	2147 W 19th St		Chicago	IL	60608     	Treasurer	773.818.5348        	False
 51313	Acevedo	Juan	3534 Britta Ave		Franklin Park	IL	60131     	Chair	                    	False
@@ -431,6 +431,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 45527	Aguilar	Theodore TEDDY	4318 W 141 St		Crestwood	IL	60445     	Chair	708-935-4902        	False
 81649	Aguilara	Paul	4949 N. Hoyne Ave.	Apt 1	Chicago	IL	60625     	Steward	312.662.0569        	False
 80074	Aguilera	Marina	1060 N Farnsworth Unit 1105		Aurora	IL	60505     	Treasurer	                    	False
+100735	Aguilera	Pedro	1315 Cora St.		Joliet	IL	60435     	Treasurer	815.272.0354        	False
 80073	Aguilera	Peter	1060 N Farnsworth Unit 1105		Aurora	IL	60505     	Chair	                    	False
 87555	Aguirre	Juan Enrique	1019 N Milwaukee Ave	Unit A	Chicago	IL	60642     	Chair	312-720-1396        	False
 87556	Aguirre	Juan Enrique	1019 N Milwaukee Ave	Unit A	Chicago	IL	60642     	Treasurer	312-720-1396        	False
@@ -2550,6 +2551,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 44306	Baker, Ph D CPA	Richard E	1623 Kaylee Ct		Sycamore	IL	60178     	Treasurer	815.895.3129        	False
 91912	Baker-Seal	Denise	525 W. Main St.	Ste 200	Belleville	IL	62220     	Chair	618.235.5590        	False
 89802	Baker.	Russ	PO Box 272		Morris	IL	60450     	Chair	630-878-1399        	False
+100737	Bakker	Katrina-Kimberl	1412 Bluestem Ln		Minooka	IL	60447     	Treasurer	630.947.6879        	False
 34138	Bakula	James	965 Hidden Creek Dr		Antioch	IL	60002     	Treasurer	(847) 838-5845      	False
 54017	Balagtas	Christine	1530 Almond Ct		Downers Grove	IL	60515     	Chair	630.719.5860        	False
 72100	Balanoff	Clem	PO Box 408781		Chicago	IL	60640     	Chair	773-609-4607        	False
@@ -6887,7 +6889,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 47246	Brezina	Missi	845 Crabtree Ln		Cary	IL	60013     	Co-Chair	847.516.4650        	False
 30815	Brian	Edward	RR # 1	Box 186A	Lawrenceville	IL	62439     	Chair		False
 10762	Brian	William	200 W. North		Sumner	IL	62466     	Chair	936-2829            	False
-99523	Brice	Coleman	PO Box 47334		Chicago	IL	60647     	Treasurer	773-870-2754        	False
+99523	Brice	Coleman	2650 N Lawndale Ave		Chicago	IL	60647     	Treasurer	773-870-2754        	False
 15211	Brice	Harry			Chicago	IL	60602     	Chair		False
 43831	Brice	Joe L	2445 N Henry St		Alton	IL	62002     	Chair	                    	False
 50538	Brice	Robert	1442 Woodland Dr		Mt Zion	IL	62549     	Chair	217.201.2542        	False
@@ -7992,6 +7994,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 91471	Buiter	James	395 Wingate Dr		Crete	IL	60417     	Treasurer	708.259.4367        	False
 91586	Buiter, CPA MBA	James	395 Wingate Drive		Crete	IL	60417     	Chair	                    	False
 73208	Buitron	Melanny	4620 W. Warwick Ave		Chicago	IL	60641     	Treasurer	773.979.4964        	False
+100729	Bujdoso	Allyssa	3147 N. Ridgeway Avenue #G		Chicago	IL	60618     	Chair	859.468.9378        	False
+100730	Bujdoso	Allyssa	3147 N. Ridgeway Avenue #G		Chicago	IL	60618     	Treasurer	859.468.9378        	False
 98199	Bukhari	Altaf T	9063 Terrace Place		Des Plaines	IL	60016     	Chair	                    	False
 98200	Bukhari	Farhana A.	9063 Terrace Place		Des Plaines	IL	60016     	Treasurer	                    	False
 14916	Bukovac	Steven M	7720 Industrial Dr		Forest Park	IL	60130     	Treasurer	708/366-6695        	False
@@ -9852,8 +9856,10 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 45921	Cartwright	Erin	421 W Fielding		Round Lake	IL	60073     	Treasurer	                    	False
 35812	Cartwright	Janet	1630 5th Ave	Ste 200B	Moline	IL	61265     	Chair	309/797-2300        	False
 79424	Caruana	Maria	6361 Portofino Ct		Rockford	IL	61107     	Chair	815.397.5765        	False
+100739	Caruso	Anthony	511 West Maple Ave. North		Springfield	IL	62702     	Treasurer	                    	False
 62320	Caruso	Frank	1140 Lake St. Suite 410		Oak Park	IL	60301     	Chair	                    	False
 26965	Caruso	Matthew T	826 S Madison St		Hinsdale	IL	60521     	Chair	(630)789-6103       	False
+100738	Caruso	Nathan	2313 Eastview Drive		Springfield	IL	62702     	Chair	                    	False
 27425	Caruso	Patrick J	120 S LaSalle St	Ste 1400	Chicago	IL	60603     	Chair	(312) 236-5237      	False
 35462	Caruth	Linda	1868 Bennett Place		Des Plaines	IL	60018     	Chair	847/635-7292        	False
 2054	Carver	Margaret Murry	1702 Guion St.		Ottawa	IL	61350     	Treasurer	                    	False
@@ -17449,6 +17455,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 41683	Eagle	Ross M	PO Box A-3947		Chicago	IL	60690-3947	Treasurer	312.305.9901        	False
 14853	Eagle	Timothy	4015 - 44th St		Rock Island	IL	          	Chair	                    	False
 3176	Eagleson	Delores	R. R. #2		Pekin	IL	61554     	Treasurer	                    	False
+100736	Eaker	Paul	657 Chestnut Ridge		Minooka	IL	60447     	Chair	630.770.8065        	False
 21445	Eaker	Sharon	416 Clinton Avenue		Paris	IL	61944     	Treasurer	217/466-5160        	False
 28414	Eakins	Connie	998 Ascot Drive		Elgin	Il	60123     	Treasurer		False
 16368	Ealey	Charles	160 Forrest #32		Springfield	IL	62702     	Chair	                    	False
@@ -25071,7 +25078,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 29690	Guzdziol	Edward	7419 W 109th Place		Worth	IL	60482     	Chair	(708) 361-4673      	False
 21678	Guzik	Daneen	240 Center Rd		Frankfort	IL	60423     	Treasurer	815/469-7104        	False
 21677	Guzik	Rudolph P	240 Center Rd		Frankfort	IL	60423     	Chair	815/469-7104        	False
-99610	Guzman	Andres	1527 W 18th St	Unit 2F	Chicago	IL	60608     	Chair	                    	False
+99610	Guzman	Andres	1527 W 18th St	Unit 2F	Chicago	IL	60608     	Chair	201.903.5334        	False
+100734	Guzman	Andres	1527 W 18th St	Unit 2F	Chicago	IL	60608     	Treasurer	201.903.5334        	False
 98464	Guzman	Armando	736 N Western Ave #236		Lake Forest	IL	60045     	Treasurer	                    	False
 46462	Guzman	Claudia	1718 W 44th St		Chicago	IL	60609     	Treasurer	773-934-0080        	False
 51737	Guzman	Gilbert (Gil)	1142 Nichols Ln		Maywood	IL	60153     	Chair	                    	False
@@ -27179,6 +27187,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 32491	Hazenfield	Phillip	933 Marlin Ct		Decatur	IL	62521     	Treasurer	217/422-0708        	False
 18355	Hazenfield	Phillip A	933 Marlin Ct		Decatur	IL	62521     	Treasurer	217/422-0708        	False
 49369	Hazzard	John J.	517 Roscoe		Chicago	IL	60657     	Treasurer	773-573-0488        	False
+100733	He	Elizabeth	2338 Pepper Tree Ct.		Lisle	IL	60532     	Treasurer	731.577.1442        	False
 50818	Heabel	Raymond	8951 W 84th St		Justice	IL	60458     	Chair	708-839-5240        	False
 8406	Heaberlin	Jack E.	99 Windsor		Springfield	IL	62702     	Chair	217/546-6702        	False
 8407	Heaberlin	Jack E.	99 Windsor		Springfield	IL	62702     	Treasurer	217/546-6702        	False
@@ -31515,6 +31524,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 25107	Joens	David A	2145 Fairway Dr		Springfield	IL	62704     	Chair	217/546-5017        	False
 25108	Joens	David A	2145 Fairway Dr		Springfield	IL	62704     	Treasurer	217/546-5017        	False
 24122	Joens	David A	2145 Fairway Dr		Springfield	IL	62704     	Chair	                    	False
+100725	Jogee	Anisha	508 E Lincoln St		Arlington Heights	IL	60005     	Chair	                    	False
+100726	Jogee	Anisha	508 E Lincoln St		Arlington Heights	IL	60005     	Treasurer	                    	False
 86792	Jogerst	Larry	508 S Washington St		Lena	IL	61048     	Treasurer	818.990.2385        	False
 99693	Jogerst	Larry	508 S Washington St		Lena	IL	61048     	Chair	818.990.2385        	False
 2164	Johannes	Erwin	Box 128		Danville	IL	61832     	Treasurer	                    	False
@@ -41794,6 +41805,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 30903	McClain	MaryLou	499 Signal Ln		Grayslake	IL	60030     	Secretary		False
 81212	McClain	Michele	18439 Homewood Ave		Homewood	IL	60430     	Treasurer	847-644-3341        	False
 70049	McClain Sr.	Brian	3014 Sunset Ave.		Waukegan	IL	60087     	Treasurer	                    	False
+100731	McClanahan	Rochelle	1020 NE Interstate 410 Loop	Ste380	San Antonio	TX	78209     	Chair	210.355.3953        	False
 68346	McClanathan	Peter	1908 W Laurel St		Freeport	IL	61032     	Chair	815.238.7284        	False
 94460	MccLaney	Darnell	2259 Ashbury Ct.		Arlington Heights	IL	60004     	Treasurer	773.412.9925        	False
 37710	McClannahan	John	1609 Spruce St.		Spring Grove	IL	60081     	Treasurer	815-675-6376        	False
@@ -53548,6 +53560,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 8525	Ramos	Daniel	2608 West North Avenue		Chicago	IL	60647     	Chair	(312)327-3326       	False
 50201	Ramos	Ed	9246 Normandy		Morton Grove	IL	60053     	Treasurer	                    	False
 67929	Ramos	Edilberto	9246 Normandy		Morton Grove	IL	60053-1449	Treasurer	224-875-8359        	False
+100727	Ramos	Karen	212 SW Broadway	Suite 130	Portland	OR	97201     	Treasurer	                    	False
 18581	Ramos	Martha	920 W Lakeside	#2101	Chicago	IL	60622     	Chair	(312)486-0342       	False
 18393	Ramos	Martha	2132 N Hoyne		Chicago	IL	60622     	Treasurer	(312)486-0342       	False
 27506	Ramos	Martha	2932 N Rockwell		Chicago	Il	60618     	Treasure		False
@@ -55691,6 +55704,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 30246	Rodriguez	Gabriel M	1745 Hinman Ave		Evanston	IL	60201     	Treasurer	(847) 475-4735      	False
 79368	Rodriguez	Gerardo	1806 W. 21st Street		Chicago	IL	60608     	Treasurer	773.415.1557        	False
 98177	Rodriguez	Guillermo	18553 Carpenter St.		Homewood	IL	60430     	Treasurer	                    	False
+100732	Rodriguez	Guillermo	356 Plum St.		Aurora	IL	60506     	Chair	630.853.6312        	False
 24984	Rodriguez	Humberto (Bert)	562 Eastern Ave		Joliet	IL	60432     	Treasurer	                    	False
 16252	Rodriguez	Ismael	2630 S Trumbull Ave		Chicago	IL	60623     	Chair	312/277-0820        	False
 98933	Rodriguez	Jaclyn	1300 New Castle Drive		Libertyville	IL	60048     	Chair	                    	False
@@ -65592,6 +65606,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 98280	Thomas	Alisha	PO Box 843		Decatur	IL	62523     	Chair	                    	False
 44017	Thomas	Andrew D	1353 E Mound Rd		Decatur	IL	62526     	Treasurer	217/875-2655        	False
 62150	Thomas	Angela Clay	961 Wellington Cir		Aurora	IL	60506     	Chair	                    	False
+100728	Thomas	Angela Clay	961 Wellington Cir		Aurora	IL	60506     	Treasurer	                    	False
 100256	Thomas	Antonio	203 W 110th Pl		Chicago	IL	60628     	Chair	312-794-1878        	False
 78401	Thomas	Ashley	4068 S. Lake Park Ave.		Chicago	IL	60653     	Treasurer	                    	False
 50787	Thomas	Barry	225 Fencl Ln		Hillside	IL	60162     	Chair	708-449-8080        	False
@@ -67683,6 +67698,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Title	Phone	RedactionRequ
 86742	Vance	Erma	14516 Old U.S. Highway 50		Lawrenceville	IL	62439     	Secretary	                    	False
 27255	Vance	Patricia A	250 Ridge		Evanston	IL	60202     	Chair	(847) 866-6040      	False
 5454	Vancil	Carolyn	821 Oxford Dr		Chatham	IL	62629     	Treasurer	                    	False
+100723	Vancil	Dillan	1296 US Route34		Gladstone	IL	61437     	Chair	                    	False
+100724	Vancil	Dillan	1296 US Route 34		Gladstone	IL	61437     	Treasurer	                    	False
 21642	Vancil	Kelli	Rr 1 Box 77		Little York	IL	61543     	Treasurer	309/627-2523        	False
 90169	Vancil	Whalen	50 South Shores Drive		Decatur	IL	62521     	Chair	                    	False
 90170	Vancil	Whalen	50 South Shores Drive		Decatur	IL	62521     	Treasurer	                    	False

@@ -3617,6 +3617,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 9017	Builta	Darwin	RR 1 Box 46		Bellflower	IL	61724	Member	County Board	McLean 2  	McLean	Democratic	False
 45244	Buis	Johann	8141 Lake Street		River Forest	IL	60305	Trustee	Village	River Forest	Cook	Independent	False
 47485	Buiter	James R	395 Wingate Drive		Crete	IL	60417	Auditor	County	Will	Will	Republican	False
+54465	Bujdoso	Allyssa	3147 N. Ridgeway Ave. #G		Chicago	IL	60618     	Police District Council	City	Chicago-25	Cook	Democratic	False
 53370	Bukhari	Altaf	9063 Terrace Place		Des Plaines	IL	60016     	Trustee	Township	Maine		Republican	False
 9822	Bukowshi	Timothy	166 W 6th St		Manteno	IL	60950	Trustee	Village	Kankakee	Kankakee		False
 46697	Bukowski	Nolan	953 South Myrtle Ave		Kankakee	IL	60901	Alderperson	Ward	Kankakee 6	Kankakee	Republican	False
@@ -4431,6 +4432,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 22780	Carus	Bryce	34751 N Linden Ave		Grayslake	IL	60030	Assessor	Township	Avon	Lake		False
 19978	Caruso	Lori	10672 Wakefield		Westchester	IL	60154	Clerk	Village	Westchester	Cook	Non Partisan	False
 6882	Caruso	Nancy	17 W 125 Elder Ln		Oakbrook Terrace	IL	60181	Clerk	City	Oakbrook Terrace	DuPage	Independent	False
+54469	Caruso	Nathan	2312 Eastview Drive		Springfield	IL	62702     	Member	County Board	Sangamon	Sangamon	Republican	False
 14599	Carvalho	David	1227 Brassie Ave		Flossmoor	IL	60422	Member	School	161	Cook	Independent	False
 13153	Carvey	Paul	11942 South 74th Ave		Palos Heights	IL	60463	Member	School	118	Cook	Non Partisan	False
 39264	Carvlin	Mary	2103 W 119th Pl		Blue Island	IL	60406	Clerk	City	Blue Island	Cook		False
@@ -10794,6 +10796,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 307	Green	Albert	6161 N Moody Ave		Chicago	IL	60646	Judge	Circuit Court	Cook	Cook		False
 9073	Green	Alfreda	4432 S Prairie		Chicago	IL	60653	Alderperson	Ward	Chicago 3  	Cook	Non Partisan	False
 46757	Green	Angelica	1228 N. Menard		Chicago	IL	60651	Police District Council	City	Chicago-25	Cook	Democratic	False
+54463	Green	Angelica.	3147 N. Ridgeway Ave. #G		Chicago	IL	60618     	Police District Council	City	Chicago-25	Cook	Democratic	False
 39185	Green	Bianca	1007 Barclay Ct		Champaign	IL	61821	Trustee	Comm College	505	Champaign	Non Partisan	False
 25757	Green	Bruce C	2727 N Vista Rd		Arlington Heights	IL	60004	Trustee	Village	Arlington Heights	Cook		False
 27824	Green	Deborah	14414 Blackstone		Dolton	IL	60419	Trustee	Village	Dolton	Cook	Democratic	False
@@ -13166,7 +13169,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 54399	Huerta	Juan	3024 Summerwood Dr.		Springfield	IL	62712     	Alderperson	Ward	1	Sangamon	Non Partisan	False
 19826	Huette	Kevin	2511 Garlington Ln		Bloomington	IL	61704	Councilman	City	Bloomington	McLean		False
 46566	Huff	Jason	7864 S. Kedvale Ave		Chicago	Il	60652	Police District Council	City	8	Cook	Democratic	False
-54222	Huff	Jason	6107 W. 64th Place		Chicago	IL	60638     	Councilman	City	Chicago	Cook	Non Partisan	False
+54222	Huff	Jason	6107 W. 64th Place		Chicago	IL	60638	Alderman	City	Chicago	Cook	Non Partisan	False
 54223	Huff	Jason.	6107 W. 64th Place		Chicago	IL	60638     	Councilman	City	Chicago	Cook	Non Partisan	False
 5788	Huff	Judith E	8 Devon Rd		Bloomington	IL	61704	Alderperson	Ward	Bloomington 8  	McLean		False
 16053	Huff	Matthew T	593 Nantucket Way		Island Lake	IL	60042	Trustee	Village	Island Lake	Lake		False
@@ -13927,6 +13930,8 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 12507	Jobst	Mary K						Trustee	Township	Palatine	Cook	Republican	False
 13596	Joens	David A	2145 Fairway Dr		Springfield	IL	62704	Member	County Board	Sangamon 27 	Sangamon	Democratic	False
 19349	Joern JR	Charles	550 N Edgewood		LaGrange Park	IL	60526	Trustee	Village	LaGrange Park	Cook		False
+54461	Jogee	Anisha	508 E Lincoln St		Arlington Heights	IL	60005     	Member	School	25	Cook		False
+54462	Jogee	Anisha	508 E Lincoln St		Arlington Heights	IL	60005     	Trustee	Village	Arlington Heights	Cook		False
 16707	Johanik-Guzzo	Marie	15 Hidden View		Westmont	IL	60559	Trustee	Village	Westmont	Cook		False
 3099	Johannessen	Staale			Arlington Heights	IL	60005	Trustee	Village	Arlington Heights	Cook	Independent	False
 27650	Johansen	James D	2231 W 123rd St		Blue Island	IL	60406	Alderperson	Ward	Blue Island 7  	Cook		False
@@ -13964,6 +13969,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 53337	Johnson	Bonnie	5265 10 Ave		Moline	IL	61265	Supervisor	Township	Moline	Rock Island	Democratic	False
 46454	Johnson	Brandon	5715 W. Superior		Chicago	IL	60644	Mayor	City	Chicago		Non Partisan	False
 40671	Johnson	Brandon	5715 W Superior		Chicago	IL	60644	Commissioner	County Board	Cook	Cook	Democratic	False
+54468	Johnson	Brandon J.	1448 Bluestem Ln		Minooka	IL	60447     	Coroner	County	Grundy	Grundy	Republican	False
 53383	Johnson	Brian	736 Mineral Creek Dr.		Colona	IL	61241     	Mayor	City	Colona		Independent	False
 54442	Johnson	Brian	716 Ingleside Place		Evanston	IL	60201     	Member	School	65	Cook	Non Partisan	False
 46719	Johnson	C B	5248 W Gladys Ave		Chicago	IL	60644	Alderperson	Ward	Chicago 29	Cook	Democratic	False
@@ -16633,7 +16639,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 4667	Levin	Ellis B	5307 North Magnolia Avenue		Chicago	IL	60640	State Representative	Representative	12 	Cook	Democratic	False
 68	Levin	Ellis B	5307 North Magnolia Avenue		Chicago	IL	60640	State Representative	Representative	5  	Cook	Democratic	False
 1101	Levin	Ian H						Judge	Circuit Court	Cook	Cook	Democratic	False
-53690	Levin	Jenny	560 N Geri Ct		Palatine	IL	60067     	State Representative	Representative	51		Democratic	False
+53690	Levin	Jenny	Redaction Requested					State Representative	Representative	51		Democratic	True
 25594	Levin	Lawrence	8400 Callie Ave	Unit 215	Morton Grove	IL	60053	Trustee	Library	Morton Grove	Cook		False
 445	Levin	Leonard L						Judge	Circuit Court	Cook	Cook	Democratic	False
 10108	Levin	Lori Gail	PO Box 577008		Chicago	IL	60657-7008	Judge	Circuit Court	Cook	Cook	Democratic	False
@@ -20003,6 +20009,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 25314	Morabito	Sheryl	5246 W Cullom		Chicago	IL	60641	Alderperson	Ward	Chicago 38 	Cook	Non Partisan	False
 6600	Moraira	Rick J			Thornton	IL		Trustee	Village	Thornton	Cook		False
 27745	Morales	Alicia	645 Francis St		Joliet	IL	60410	Member	School	86	Will	Non Partisan	False
+54467	Morales	Alicia	1315 Cora St.		Joliet	IL	60435     	Mayor	City	Joliet		Democratic	False
 50897	Morales	Bill	382 Quaker Hollow Ln		Round Lake Beach	IL	60073     	Clerk	Village	Round Lake Beach	Lake		False
 23152	Morales	Emi	920 Davis Rd	# 305	Elgin	IL	60123	Councilman	City	Elgin	Kane	Non Partisan	False
 54234	Morales	Hector	1135 West Lunt Avenue, #204		Chicago	IL	60624     	Board of Education	City	Chicago	Cook	Non Partisan	False
@@ -24749,6 +24756,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 20485	Rodriguez	Francisco	2842 S Quinn St		Chicago	IL	60608	State Representative	Representative	2	Cook	Democratic	False
 43604	Rodriguez	Gloria	9 N County St		Waukegan	IL	60085	Judge	Circuit Court	Lake	Lake	Republican	False
 34447	Rodriguez	Grasiela	3823 W 65th Pl		Chicago	IL	60629	State Representative	Representative	22 	Cook	Democratic	False
+54466	Rodriguez	Guillermo	256 Plum St.		Aurora	IL	60506     	Alderperson	City	Aurora	DuPage	Non Partisan	False
 47350	Rodriguez	Hector J	4031 S Rockwell Street		Chicago	IL	60632	Judge	Circuit Court	16th Judicial Subcircuit	Cook	Democratic	False
 8101	Rodriguez	Ismael	2630 S Trumbull Ave.		Chicago	IL	60623	State Representative	Representative	1  	Cook	Democratic	False
 53741	Rodriguez	Jaclyn	1300 New Castle Drive		Libertyville	IL	60048     	Member	County Board	Lake	Lake	Democratic	False
@@ -32368,6 +32376,7 @@ ID	LastName	FirstName	Address1	Address2	City	State	Zip	Office	DistrictType	Distr
 46263	Yokoyama	Lori	4800 S Greenwood		Chicago	IL	60615	State Representative	Representative	25	Cook	Republican	False
 37992	Yomtoob	Ben	19815 Teluride Ln		Tinley Park	IL	60487	Member	School	210	Will		False
 47271	Yonker	Geary	3916 W Wrightwood		Chicago	IL	60647	State Senator	Senate	20	Cook	Democratic	False
+54464	Yonker	Geary	3147 N. Ridgeway Ave. #G		Chicago	IL	60618     	Police District Council	City	Chicago-25	Cook	Democratic	False
 20151	Yoo	Sam	729 Mawman		Lake Bluff	IL	60044	Commissioner	Park	Lake Bluff	Lake	Non Partisan	False
 45720	Yoo	Yeena	386 E. Harrison Ct.		Elmhurst	IL	60126	Member	County Board	Dupage	DuPage	Democratic	False
 43628	Yoo	Yeena	386 E. Harrison Ct.		Elmhurst	IL	60126	Alderperson	Ward	Elmhurst 6	DuPage	Non Partisan	False
