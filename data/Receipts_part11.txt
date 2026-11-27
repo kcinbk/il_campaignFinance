@@ -164703,3 +164703,12 @@
 6726646	39499	1030595		Democrats for the Illinois House		2026-11-20 00:00:00	15738.57	0	0			10055 W Roosevelt Rd	Suite A	Westchester	IL	60154     	5A	Mailing	Red Horse Strategies		55 Washington St	Suite 702	Brooklyn	NY	11201     	False		False
 6726647	39499	1030595		Democrats for the Illinois House		2026-11-20 00:00:00	15738.57	0	0			10055 W Roosevelt Rd	Suite A	Westchester	IL	60154     	5A	Mailing	Red Horse Strategies		55 Washington St	Suite 702	Brooklyn	NY	11201     	False		False
 6726648	39499	1030595		Democrats for the Illinois House		2026-11-20 00:00:00	2161.16	0	0			10055 W Roosevelt Rd	Suite A	Westchester	IL	60154     	5A	Telephone polling	Prompt.Io		14419 Greenwood Ave N	Ste A-373	Seattle	WA	98133     	False		False
+6726649	34229	1030596		Systems Research Inc		2026-11-26 00:00:00	5000	0	0			220 Knoxboro Lane		Barrington	IL	60010     	1A							  	          	False		False
+6726650	34229	1030596		Rely Services		2026-11-24 00:00:00	1000	0	0			5260 Shotkoski Court		Schaumburg	IL	60173     	1A							  	          	False		False
+6726651	32738	1030597		Planera Architects		2026-11-26 00:00:00	5000	0	0			18225 Morris Avenue		Homewood,	IL	60431     	1A							  	          	False		False
+6726652	162	1030598		LaHood for Congress		2026-11-25 00:00:00	1000	0	0			PO Box 10735		Peoria	IL	61612     	1A							  	          	False		False
+6726653	20016	1030599		8th Ward Regular Democratic Org.		2026-11-19 00:00:00	9300	0	0			8539 S. Cottage Grove Ave.		Chicago	IL	60619     	2A							  	          	False		False
+6726654	20016	1030599		Enterprise Construction GR		2026-11-19 00:00:00	1000	0	0			10630 S 81st Ave		Palos Hills	IL	60465     	1A							  	          	False		False
+6726655	20016	1030599		Gas Plus Corporation		2026-11-19 00:00:00	1000	0	0			3309 S Harvey		Berwyn	IL	60402     	1A							  	          	False		False
+6726656	20016	1030599		United Airlines, INC PAC		2026-11-19 00:00:00	1500	0	0			233 S Wacker		Chicago	IL	60606     	2A							  	          	False		False
+6726657	39820	1030600		Our Schools PAC		2026-11-24 00:00:00	1191.67	0	0			53 W. Jackson Blvd.	Suite 1550	Chicago	IL	60604     	5A	Contractual Staffing	Sekendur	Audrey	908 N. Mozart Street	#2	Chicago	IL	60622     	False		False

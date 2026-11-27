@@ -233967,6 +233967,11 @@ rk	Shaw	Mark	1155 Highland Avenue		Lake Forest	IL	60045			False		False
 1030590	41119	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-25 17:14:00.163000000	I	IDIS3	Lopez	Robert	Lopez	Robert	3561 S Archer #1035		Chicago	IL	60609			False		False
 1030591	41130	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-25 17:23:19.137000000	I	IDIS3	Gallagly	Jayden	Gallagly	Jayden	3116 Whip Poor Will Ln		Belvidere	IL	61008			False		False
 1030592	16892	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-25 19:19:19.817000000	I	IDIS3	Dowell	Patricia	Grant	DeAnna	2008 S. Wabash	Ste Tax Office	Chicago	IL	60616			False		False
-1030593	34092	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-25 19:46:11.507000000	I	CompleteCampaigns.com	Durbin	Jose										False		False
+1030593	34092	  	A-1	False		2	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-25 19:46:11	I	CompleteCampaigns.com	Durbin	Jose										False		False
 1030594	26076	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-25 21:10:26.963000000	I	IDIS3	Parker	Brian										False		False
 1030595	39499	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-26 07:52:06.177000000	I	IDIS3	Slothower	Steve										False		False
+1030596	34229	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-26 11:02:44.900000000	I	IDIS3	Dailly	Tom										False		False
+1030597	32738	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-26 12:17:44.243000000	I	IDIS3	Graham	Nina	Hunt	Robert	1031 151st Street		Dolton	IL	60419			False		False
+1030598	162	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-26 23:50:13.387000000	I	IDIS3	Cosenza	Matt										False		False
+1030599	20016	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-26 23:58:28.463000000	I	IDIS3	Godwin	Yolanda G.										False		False
+1030600	39820	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-27 07:19:09.877000000	I	IDIS3	Dones	Jason										False		False
