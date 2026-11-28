@@ -399963,3 +399963,4 @@ tates of America	False
 4995002	36358	1030556	0	Aurelio's		2025-10-10 00:00:00	217.03	217.03	27W101 Geneva Rd		Winfield	IL	60190     	8B	Food			False	False	False		False
 4995003	36358	1030556	0	Monino	John	2025-11-02 00:00:00	384.41	384.41	26w121 Jerome Ave		Wheaton	IL	60187     	8B	Supplies			False	False	False		False
 4995004	36358	1030556	0	mailchimp		2025-10-24 00:00:00	340	340	405 n angier ave		ne atlanta	GA	30308     	8B	Mailing			False	False	False		False
+4995005	40511	1030612	0	EveryChild		2026-10-03 00:00:00	1077.75	1077.75	420 23rd Street		Rock Island	IL	61201     	8B	Donation			False	False	False		False

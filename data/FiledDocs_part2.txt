@@ -233975,3 +233975,21 @@ rk	Shaw	Mark	1155 Highland Avenue		Lake Forest	IL	60045			False		False
 1030598	162	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-26 23:50:13.387000000	I	IDIS3	Cosenza	Matt										False		False
 1030599	20016	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-26 23:58:28.463000000	I	IDIS3	Godwin	Yolanda G.										False		False
 1030600	39820	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-27 07:19:09.877000000	I	IDIS3	Dones	Jason										False		False
+1030601	24535	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-27 08:42:17.007000000	I	IDIS3	Krahn	David										False		False
+1030602	18118	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-27 09:22:50.537000000	I	IDIS3	Davenport	Casandra	Taetle	Shirley	7800 W Foresthill Ln #207B		Palos Heights	IL	60463			False		False
+1030603	41482	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-27 09:28:43.400000000	I	IDIS3	Neri	Jorge	Taetle	Shirley	7800 W Foresthill Lb #207		Palos Heights	IL	60463			False		False
+1030604	19230	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-27 09:33:23.567000000	I	IDIS3	Mathews	Elma	Halstead	Carly	4313 W. Cedar Hills Drive		Dunlap	IL	61525			False		False
+1030605	25909	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-27 09:36:37.130000000	I	NGP VAN	Aquino	Omar										False		False
+1030606	25591	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-27 10:02:30.907000000	I	NGP VAN	McLenighan	MaryEllen	Halstead	Carly	6939 W North Ave		Oak Park	IL	60302			False		False
+1030607	41130	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-27 11:39:09.337000000	I	IDIS3	Gallagly	Jayden	Gallagly	Jayden	3116 Whip Poor Will Ln		Belvidere	IL	61008			False		False
+1030608	37069	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-27 11:43:42.763000000	I	IDIS3	Bachmann	Zach	Brottman	Eli	3950 N Lake Shore Dr Unit 308		Chicago	IL	60613			False		False
+1030609	37200	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-27 12:05:52.840000000	I	IDIS3	Scott	Monique	Lewis	Morgan	9601 S Normal		Chicago	IL	60628			False		False
+1030610	510	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-27 12:06:49.940000000	I	IDIS3	Garibay	Jose	Garibay	Jose	8505 S. 83rd Ave.		Hickory Hills	IL	60457			False		False
+1030611	62	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-27 12:13:18.257000000	I	IDIS3	Clark	Ken										False		False
+1030612	40511	  	Final	False		0	  	    	2026-10-01 00:00:00	2026-11-27 00:00:00	S	2026-11-27 12:24:19.017000000	I	IDIS3	Johnson	Brian	Johnson	Brian	736 Mineral Creek Dr		Colona	IL	61241	Johnson	Brian	False		False
+1030613	652	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-27 12:46:43.990000000	I	IDIS3	Flynn	Daniel M.	Mason	Barbara	43 Trailridge Lane		Springfield	IL	62704			False		False
+1030614	25649	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-27 12:54:01.867000000	I	IDIS3	Anderson	Neil	Brown	Suzy	954 W U.S. RT 6		Morris	IL	60450			False		False
+1030615	31997	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-27 13:03:42.770000000	I	IDIS3	McCombie	Tony	Brown	Suzy	2537 Creekside Lane		Morris	IL	60450			False		False
+1030616	34374	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-27 20:20:15.830000000	I	IDIS3	Mitchell	Veraleka										False		False
+1030617	34087	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-27 20:27:25.737000000	I	IDIS3	Bradford	Brandon										False		False
+1030618	40640	  	A-1	False		0	  	    	2026-10-01 00:00:00	2026-12-31 00:00:00	S	2026-11-28 06:50:51.200000000	I	IDIS3	Harris	Kenneth										False		False
